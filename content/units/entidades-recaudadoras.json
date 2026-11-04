@@ -1,0 +1,839 @@
+{
+  "id": "entidades-recaudadoras",
+  "title": "Régimen sancionatorio de las entidades autorizadas a recaudar",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Control de los bancos y entidades autorizados para recaudar: quién autoriza, controla y excluye; sanciones por errores de verificación, inconsistencias y extemporaneidad; graduación, mínimos y máximos, y el trámite con traslado de cargos y reposición.",
+  "sources": [
+    "ET arts. 634 par. 1, 674–678 y 801",
+    "Decreto 1742 de 2020 art. 15"
+  ],
+  "lessons": [
+    {
+      "id": "erec-01",
+      "title": "Autorización, control y exclusión",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "erec-c-001",
+          "type": "concept",
+          "source": "ET arts. 801 y 677; D1742/2020 art. 15",
+          "title": "Quién autoriza, quién controla y quién excluye",
+          "body": "- **Autoriza:** el **Ministerio de Hacienda** señala los bancos y entidades autorizados para recaudar y recibir declaraciones (ET art. 801), que asumen obligaciones como recibir, guardar con reserva, consignar, entregar, numerar y transcribir.\n- **Controla y sanciona:** la **Subdirección de Recaudo** de la DIAN controla y evalúa esas obligaciones, controla el recaudo y la consignación, e impone las sanciones (D1742 art. 15).\n- **Excluye:** el **Ministro de Hacienda** puede excluir a la entidad que incumpla, cuando haya **reincidencia** o la **gravedad** de la falta lo amerite (ET art. 677)."
+        },
+        {
+          "ref": "erec-q-001"
+        },
+        {
+          "ref": "erec-q-002"
+        },
+        {
+          "ref": "erec-q-003"
+        },
+        {
+          "ref": "erec-q-004"
+        },
+        {
+          "ref": "erec-q-024"
+        }
+      ]
+    },
+    {
+      "id": "erec-02",
+      "title": "Errores de verificación e inconsistencias",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "erec-c-002",
+          "type": "concept",
+          "source": "ET arts. 674 y 675",
+          "title": "Sanciones por documento",
+          "body": "**Errores de verificación (art. 674), por cada documento:**\n\n| Conducta | Sanción |\n|---|---|\n| NIT que no coincide con el RUT | 10 UVT |\n| Sin la casilla de firma diligenciada | 10 UVT |\n| Formulario que debía ser solo electrónico (salvo contingencia autorizada) | 10 UVT |\n| Número de registro anulado no informado | 5 UVT |\n\n**Inconsistencias en el medio magnético (art. 675):** si los documentos con error superan el **0,5 %** del total del **día**, por cada documento:\n\n| Porcentaje del día | Sanción |\n|---|---|\n| > 0,5 % y ≤ 2,5 % | 10 UVT |\n| > 2,5 % y ≤ 4 % | 20 UVT |\n| > 4 % | 30 UVT |\n\nDocumento físico no reportado o reportado dos veces: **5 UVT**."
+        },
+        {
+          "ref": "erec-q-005"
+        },
+        {
+          "ref": "erec-q-006"
+        },
+        {
+          "ref": "erec-q-007"
+        },
+        {
+          "ref": "erec-q-008"
+        },
+        {
+          "ref": "erec-q-009"
+        },
+        {
+          "ref": "erec-q-010"
+        }
+      ]
+    },
+    {
+      "id": "erec-03",
+      "title": "Extemporaneidad en documentos e informes",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "erec-c-003",
+          "type": "concept",
+          "source": "ET arts. 676 y 676-1",
+          "title": "Entregar tarde",
+          "body": "**Documentos recibidos y su información (art. 676), por documento, en días calendario desde el día siguiente al vencimiento:**\n\n| Retraso | Sanción |\n|---|---|\n| 1 a 5 días | 1 UVT |\n| 6 a 10 días | 2 UVT |\n| 11 a 15 días | 3 UVT |\n| hasta 20 días | 4 UVT |\n| hasta 25 días | 5 UVT |\n| más de 25 días | 8 UVT |\n\n**Informes de recaudo, formatos y declaraciones de consignaciones (art. 676-1):**\n\n- Errores en las cifras reportadas: **20 UVT**.\n- Entrega tardía: **5 UVT** (1–10 días), **10 UVT** (11–20 días), **20 UVT** (más de 20).\n- Corregir esos informes fuera del plazo concedido: la misma sanción."
+        },
+        {
+          "ref": "erec-q-011"
+        },
+        {
+          "ref": "erec-q-012"
+        },
+        {
+          "ref": "erec-q-013"
+        },
+        {
+          "ref": "erec-q-014"
+        },
+        {
+          "ref": "erec-q-015"
+        },
+        {
+          "ref": "erec-q-016"
+        }
+      ]
+    },
+    {
+      "id": "erec-04",
+      "title": "Graduación, límites y procedimiento",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "erec-c-004",
+          "type": "concept",
+          "source": "ET arts. 676-2, 676-3 y 678",
+          "title": "Cómo se gradúa e impone",
+          "body": "- **Graduación (art. 676-2),** según el porcentaje de documentos o informes con falta en el **año fiscal**: **≤ 1 %** → la sanción se reduce al **50 %**; **> 1 % y < 1,5 %** → al **75 %**.\n- **Límites (art. 676-3):** mínimo **20 UVT por conducta**; la suma en el año fiscal no puede superar **33.000 UVT**.\n- **Procedimiento (art. 678):** **traslado de cargos** por **15 días** para responder (ampliable en casos especiales); contra la resolución procede **solo reposición**, en **15 días**, ante el **mismo funcionario**.\n- **Intereses (art. 634, par. 1):** por no consignar a tiempo, aparte de las sanciones."
+        },
+        {
+          "ref": "erec-q-017"
+        },
+        {
+          "ref": "erec-q-018"
+        },
+        {
+          "ref": "erec-q-019"
+        },
+        {
+          "ref": "erec-q-020"
+        },
+        {
+          "ref": "erec-q-021"
+        },
+        {
+          "ref": "erec-q-022"
+        },
+        {
+          "ref": "erec-q-023"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "erec-fc-001",
+      "front": "¿Qué dependencia sanciona a las entidades recaudadoras?",
+      "back": "La Subdirección de Recaudo de la DIAN.",
+      "source": "D1742/2020 art. 15"
+    },
+    {
+      "id": "erec-fc-002",
+      "front": "¿Quién excluye a un banco de la autorización para recaudar?",
+      "back": "El Ministro de Hacienda, si hay reincidencia o falta grave.",
+      "source": "ET art. 677"
+    },
+    {
+      "id": "erec-fc-003",
+      "front": "Declaración recibida con NIT distinto al del RUT",
+      "back": "10 UVT por documento.",
+      "source": "ET art. 674, num. 1"
+    },
+    {
+      "id": "erec-fc-004",
+      "front": "Número de registro anulado no informado",
+      "back": "5 UVT por documento.",
+      "source": "ET art. 674, num. 4"
+    },
+    {
+      "id": "erec-fc-005",
+      "front": "Umbral para sancionar inconsistencias en el medio magnético",
+      "back": "Más del 0,5 % de los documentos del mismo día.",
+      "source": "ET art. 675"
+    },
+    {
+      "id": "erec-fc-006",
+      "front": "Tramos del art. 675",
+      "back": "10 UVT (≤ 2,5 %), 20 UVT (≤ 4 %), 30 UVT (> 4 %) por documento.",
+      "source": "ET art. 675"
+    },
+    {
+      "id": "erec-fc-007",
+      "front": "Entrega tardía de documentos: 1 a 5 días",
+      "back": "1 UVT por documento.",
+      "source": "ET art. 676"
+    },
+    {
+      "id": "erec-fc-008",
+      "front": "Entrega tardía de documentos: más de 25 días",
+      "back": "8 UVT por documento.",
+      "source": "ET art. 676"
+    },
+    {
+      "id": "erec-fc-009",
+      "front": "Errores en las cifras de los informes de recaudo",
+      "back": "20 UVT.",
+      "source": "ET art. 676-1, num. 1"
+    },
+    {
+      "id": "erec-fc-010",
+      "front": "Reducción si las faltas son ≤ 1 % del año fiscal",
+      "back": "La sanción se reduce al 50 %.",
+      "source": "ET art. 676-2"
+    },
+    {
+      "id": "erec-fc-011",
+      "front": "Mínimo y máximo de las sanciones a entidades recaudadoras",
+      "back": "Mínimo 20 UVT por conducta; máximo 33.000 UVT por año fiscal.",
+      "source": "ET art. 676-3"
+    },
+    {
+      "id": "erec-fc-012",
+      "front": "Trámite de la sanción a la entidad recaudadora",
+      "back": "Traslado de cargos (15 días) y reposición (15 días) ante el mismo funcionario.",
+      "source": "ET art. 678"
+    }
+  ],
+  "questions": [
+    {
+      "id": "erec-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "D1742/2020 art. 15",
+      "prompt": "¿Qué dependencia de la DIAN controla el cumplimiento de las obligaciones de las entidades recaudadoras e impone las sanciones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La Subdirección de Recaudo"
+        },
+        {
+          "id": "b",
+          "text": "La Subdirección de Cobranzas y Control Extensivo"
+        },
+        {
+          "id": "c",
+          "text": "La Dirección de Gestión de Fiscalización"
+        },
+        {
+          "id": "d",
+          "text": "La Oficina de Control Interno"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 15 del D1742/2020 asigna a la Subdirección de Recaudo controlar y evaluar las obligaciones de las entidades recaudadoras e imponer las sanciones cuando incumplan.",
+      "optionWhy": {
+        "b": "Cobranzas gestiona la cartera, no las sanciones a los bancos recaudadores.",
+        "c": "Fiscalización controla a los contribuyentes, no a las entidades recaudadoras.",
+        "d": "Control Interno evalúa la gestión de la DIAN, no sanciona a terceros."
+      }
+    },
+    {
+      "id": "erec-q-002",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 677",
+      "prompt": "¿Quién puede excluir a una entidad de la autorización para recaudar y recibir declaraciones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Superintendente Financiero de Colombia"
+        },
+        {
+          "id": "b",
+          "text": "El Ministro de Hacienda y Crédito Público"
+        },
+        {
+          "id": "c",
+          "text": "El Director Seccional donde opera el banco"
+        },
+        {
+          "id": "d",
+          "text": "El Subdirector de Recaudo de la DIAN"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 677 faculta al Ministro de Hacienda para excluir en cualquier momento a la entidad que incumpla, cuando haya reincidencia o la gravedad de la falta lo amerite.",
+      "optionWhy": {
+        "a": "La Superintendencia vigila a los bancos, pero no cancela esta autorización.",
+        "c": "El Director Seccional no tiene esta facultad.",
+        "d": "El Subdirector impone sanciones; la exclusión la decide el Ministro."
+      }
+    },
+    {
+      "id": "erec-q-003",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 677",
+      "statement": "Para excluir a un banco de la autorización para recaudar se exige que exista reincidencia o que la gravedad de la falta lo amerite.",
+      "answer": true,
+      "explain": "Verdadero. Son las dos causales del art. 677."
+    },
+    {
+      "id": "erec-q-004",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 15; ET art. 801",
+      "case": "En una auditoría a una entidad recaudadora, usted encuentra que una sucursal no diligencia la planilla de control de recepción y recaudo.",
+      "prompt": "¿Qué debe hacer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diligenciar la planilla en nombre de la entidad para no frenar el recaudo."
+        },
+        {
+          "id": "b",
+          "text": "Pedir al Ministro que excluya de inmediato al banco de la autorización."
+        },
+        {
+          "id": "c",
+          "text": "Documentar el incumplimiento para el control y la sanción a que haya lugar."
+        }
+      ],
+      "answer": "c",
+      "explain": "Diligenciar la planilla es obligación de la entidad (art. 801, lit. e). La Subdirección de Recaudo controla esas obligaciones e impone las sanciones (D1742 art. 15).",
+      "optionWhy": {
+        "a": "La obligación es de la entidad; la DIAN no la asume.",
+        "b": "La exclusión (art. 677) exige reincidencia o gravedad; primero se documenta y se aplica el control."
+      }
+    },
+    {
+      "id": "erec-q-005",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 674",
+      "prompt": "Relaciona cada error de verificación con su sanción por documento.",
+      "pairs": [
+        {
+          "left": "NIT distinto al del RUT",
+          "right": "10 UVT"
+        },
+        {
+          "left": "Sin la casilla de firma diligenciada",
+          "right": "10 UVT"
+        },
+        {
+          "left": "Formulario que debía ser solo electrónico",
+          "right": "10 UVT"
+        },
+        {
+          "left": "Número anulado no informado",
+          "right": "5 UVT"
+        }
+      ],
+      "explain": "Son los cuatro numerales del art. 674."
+    },
+    {
+      "id": "erec-q-006",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 674, num. 1",
+      "case": "Un banco recibió 6 declaraciones cuyo NIT no coincide con el del RUT de los declarantes.",
+      "prompt": "¿Cuál es la sanción según el art. 674 (antes de graduación y mínimos)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60 UVT, a razón de 10 UVT por declaración."
+        },
+        {
+          "id": "b",
+          "text": "30 UVT, a razón de 5 UVT por declaración."
+        },
+        {
+          "id": "c",
+          "text": "10 UVT en total, por ser una sola conducta."
+        }
+      ],
+      "answer": "a",
+      "explain": "El num. 1 del art. 674 fija 10 UVT por cada declaración recibida con un NIT que no coincide con el RUT: 6 × 10 = 60 UVT.",
+      "optionWhy": {
+        "b": "Los 5 UVT son para números anulados no informados (num. 4).",
+        "c": "La sanción es por cada declaración o documento."
+      }
+    },
+    {
+      "id": "erec-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 674, num. 3",
+      "prompt": "Un banco recibe en papel un formulario que debía presentarse solo por los servicios electrónicos. ¿Cuándo no se sanciona?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cuando el contribuyente insistió en presentarlo en papel"
+        },
+        {
+          "id": "b",
+          "text": "Cuando el formulario se recibió el último día del plazo"
+        },
+        {
+          "id": "c",
+          "text": "Cuando el banco lo digitalizó al día siguiente"
+        },
+        {
+          "id": "d",
+          "text": "En los eventos de contingencia autorizados antes por la DIAN"
+        }
+      ],
+      "answer": "d",
+      "explain": "El num. 3 del art. 674 sanciona con 10 UVT cada formulario así recibido, salvo en los eventos de contingencia autorizados previamente por la DIAN.",
+      "optionWhy": {
+        "a": "La insistencia del contribuyente no exime al banco.",
+        "b": "La fecha de recepción no es excepción.",
+        "c": "Digitalizar después no es la excepción legal."
+      }
+    },
+    {
+      "id": "erec-q-008",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 675",
+      "case": "Un día, un banco recibió 1.000 documentos. En el archivo magnético que envió a la DIAN, 30 documentos no coinciden con los formularios físicos.",
+      "prompt": "¿Qué tarifa del art. 675 corresponde por cada documento con error?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 UVT, porque los errores están entre 0,5 % y 2,5 %."
+        },
+        {
+          "id": "b",
+          "text": "30 UVT, porque los errores superan el 4 %."
+        },
+        {
+          "id": "c",
+          "text": "20 UVT, porque los errores están entre 2,5 % y 4 %."
+        }
+      ],
+      "answer": "c",
+      "explain": "30 de 1.000 es el 3 %: mayor que 2,5 % y no superior a 4 %, así que aplica la tarifa de 20 UVT por documento (art. 675, num. 2).",
+      "optionWhy": {
+        "a": "El 3 % supera el 2,5 %.",
+        "b": "El 3 % no supera el 4 %."
+      }
+    },
+    {
+      "id": "erec-q-009",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 675",
+      "statement": "La sanción por inconsistencias en el medio magnético se aplica aunque los documentos con error no superen el 0,5 % del total recibido en el día.",
+      "answer": false,
+      "explain": "Falso. El art. 675 aplica cuando los documentos con error superan el 0,5 % del total de documentos de la recepción o recaudo del mismo día."
+    },
+    {
+      "id": "erec-q-010",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 675, num. 4",
+      "prompt": "¿Qué sanción tiene un documento físico que el banco no reportó en el medio magnético, o que reportó dos veces?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 UVT por documento"
+        },
+        {
+          "id": "b",
+          "text": "20 UVT por documento"
+        },
+        {
+          "id": "c",
+          "text": "1 UVT por día de retraso"
+        },
+        {
+          "id": "d",
+          "text": "5 UVT por documento"
+        }
+      ],
+      "answer": "d",
+      "explain": "El num. 4 del art. 675 fija 5 UVT por cada documento físico no reportado o reportado más de una vez.",
+      "optionWhy": {
+        "a": "10 UVT es la tarifa del primer tramo de inconsistencias.",
+        "b": "20 UVT es la tarifa del segundo tramo.",
+        "c": "La tarifa por días es la de extemporaneidad (art. 676)."
+      }
+    },
+    {
+      "id": "erec-q-011",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 676",
+      "case": "Un banco entregó a la DIAN los documentos recibidos 8 días calendario después del plazo fijado por el Ministerio de Hacienda.",
+      "prompt": "¿Cuál es la sanción por cada documento?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 UVT"
+        },
+        {
+          "id": "b",
+          "text": "2 UVT"
+        },
+        {
+          "id": "c",
+          "text": "3 UVT"
+        }
+      ],
+      "answer": "b",
+      "explain": "De 6 a 10 días de retraso, la sanción es de 2 UVT por documento (art. 676, num. 2).",
+      "optionWhy": {
+        "a": "1 UVT es para 1 a 5 días.",
+        "c": "3 UVT es para 11 a 15 días."
+      }
+    },
+    {
+      "id": "erec-q-012",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 676",
+      "prompt": "¿Cómo se cuentan los días de retraso en la entrega de documentos de las entidades recaudadoras?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Días calendario, desde el día siguiente al vencimiento hasta la entrega efectiva"
+        },
+        {
+          "id": "b",
+          "text": "Días hábiles, desde el vencimiento hasta la notificación del pliego"
+        },
+        {
+          "id": "c",
+          "text": "Días hábiles, desde la fecha en que el contribuyente pagó"
+        },
+        {
+          "id": "d",
+          "text": "Meses completos de retraso, sin contar fracciones"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 676 cuenta días calendario a partir del día siguiente al vencimiento del plazo de entrega, hasta el día de la entrega efectiva.",
+      "optionWhy": {
+        "b": "No son días hábiles ni se cuentan hasta el pliego.",
+        "c": "La fecha del pago del contribuyente no es el punto de partida.",
+        "d": "El cálculo es por días, no por meses."
+      }
+    },
+    {
+      "id": "erec-q-013",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 676",
+      "prompt": "¿Cuál es la sanción por documento cuando la entrega se retrasa más de 25 días?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 UVT"
+        },
+        {
+          "id": "b",
+          "text": "8 UVT"
+        },
+        {
+          "id": "c",
+          "text": "10 UVT"
+        },
+        {
+          "id": "d",
+          "text": "20 UVT"
+        }
+      ],
+      "answer": "b",
+      "explain": "Más de 25 días de retraso: 8 UVT por documento (art. 676, num. 6).",
+      "optionWhy": {
+        "a": "5 UVT corresponde a 20–25 días.",
+        "c": "10 UVT no está en la tabla del art. 676.",
+        "d": "20 UVT no está en la tabla del art. 676."
+      }
+    },
+    {
+      "id": "erec-q-014",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 676-1",
+      "case": "Un banco presentó con 12 días de retraso el informe de recaudo diario que exige la DIAN para el control del recaudo.",
+      "prompt": "¿Qué sanción corresponde por ese informe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 UVT"
+        },
+        {
+          "id": "b",
+          "text": "20 UVT"
+        },
+        {
+          "id": "c",
+          "text": "10 UVT"
+        }
+      ],
+      "answer": "c",
+      "explain": "De 11 a 20 días de retraso en informes, formatos o declaraciones de consignaciones: 10 UVT (art. 676-1, num. 2, lit. b).",
+      "optionWhy": {
+        "a": "5 UVT es para 1 a 10 días.",
+        "b": "20 UVT es para más de 20 días o por errores en cifras."
+      }
+    },
+    {
+      "id": "erec-q-015",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 676-1",
+      "statement": "Corregir los informes de recaudo por fuera de los plazos concedidos por la DIAN genera la misma sanción que su presentación extemporánea.",
+      "answer": true,
+      "explain": "Verdadero. El último inciso del art. 676-1 lo dispone así."
+    },
+    {
+      "id": "erec-q-016",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 676-1, num. 1",
+      "prompt": "Un banco reporta mal el valor del recaudo diario en el informe de recaudo. ¿Qué sanción prevé el art. 676-1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 UVT por documento"
+        },
+        {
+          "id": "b",
+          "text": "5 UVT"
+        },
+        {
+          "id": "c",
+          "text": "Intereses al doble de la tasa"
+        },
+        {
+          "id": "d",
+          "text": "20 UVT"
+        }
+      ],
+      "answer": "d",
+      "explain": "El num. 1 del art. 676-1 fija 20 UVT por errores en las cifras reportadas (recaudo diario, recaudo total, operaciones, saldos, intereses, sanciones, consignaciones).",
+      "optionWhy": {
+        "a": "Esa es la tarifa por documentos del art. 674.",
+        "b": "5 UVT es la extemporaneidad de 1 a 10 días del mismo artículo.",
+        "c": "El doble de interés aplica al recaudo no consignado con «Pago total» errado (art. 634)."
+      }
+    },
+    {
+      "id": "erec-q-017",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 676-2",
+      "case": "Durante el año fiscal, un banco tuvo errores en el 0,8 % de los documentos que recibió.",
+      "prompt": "¿Cómo se gradúa la sanción?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Se reduce al 50 % del monto previsto en la ley."
+        },
+        {
+          "id": "b",
+          "text": "Se reduce al 75 % del monto previsto en la ley."
+        },
+        {
+          "id": "c",
+          "text": "Se aplica completa, sin ninguna reducción."
+        }
+      ],
+      "answer": "a",
+      "explain": "Si los errores son iguales o menores al 1 % del total del año fiscal, la sanción se reduce al 50 % (art. 676-2, num. 1).",
+      "optionWhy": {
+        "b": "El 75 % aplica cuando los errores son mayores al 1 % y menores al 1,5 %.",
+        "c": "Con 0,8 % sí procede la reducción."
+      }
+    },
+    {
+      "id": "erec-q-018",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 676-3",
+      "prompt": "¿Cuáles son los límites de las sanciones a las entidades recaudadoras?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mínimo 10 UVT por documento y sin máximo anual"
+        },
+        {
+          "id": "b",
+          "text": "Mínimo 20 UVT por conducta y máximo 33.000 UVT por año fiscal"
+        },
+        {
+          "id": "c",
+          "text": "Mínimo 1 UVT por día y máximo 20.000 UVT"
+        },
+        {
+          "id": "d",
+          "text": "Mínimo 5 UVT por conducta y máximo 10.000 UVT"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 676-3 fija un mínimo de 20 UVT por cada conducta sancionable y un máximo de 33.000 UVT de suma en el año fiscal.",
+      "optionWhy": {
+        "a": "Sí hay un máximo anual de 33.000 UVT y el mínimo es 20 UVT por conducta.",
+        "c": "No son los límites del art. 676-3.",
+        "d": "No son los límites del art. 676-3."
+      }
+    },
+    {
+      "id": "erec-q-019",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "ET art. 676-2",
+      "text": "La sanción a la entidad recaudadora se reduce al {{75}} % cuando los errores son mayores al 1 % y menores al {{1,5}} % del total del año fiscal.",
+      "alternatives": {
+        "75": [
+          "setenta y cinco"
+        ],
+        "1,5": [
+          "1.5",
+          "uno punto cinco"
+        ]
+      }
+    },
+    {
+      "id": "erec-q-020",
+      "type": "order",
+      "difficulty": 2,
+      "source": "ET art. 678",
+      "prompt": "Ordena el trámite para sancionar a una entidad recaudadora.",
+      "items": [
+        "Traslado de cargos a la entidad",
+        "Respuesta dentro de los 15 días",
+        "Resolución que impone la sanción",
+        "Recurso de reposición dentro de los 15 días siguientes"
+      ],
+      "explain": "El art. 678 exige traslado de cargos con 15 días para responder; contra la resolución procede solo reposición, en 15 días, ante el mismo funcionario."
+    },
+    {
+      "id": "erec-q-021",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 678",
+      "prompt": "¿Qué recurso procede contra la resolución que sanciona a una entidad recaudadora?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El de reconsideración ante el área jurídica"
+        },
+        {
+          "id": "b",
+          "text": "El de apelación ante el Director General"
+        },
+        {
+          "id": "c",
+          "text": "Solo el de reposición, ante el mismo funcionario"
+        },
+        {
+          "id": "d",
+          "text": "Ninguno, porque es una sanción de plano"
+        }
+      ],
+      "answer": "c",
+      "explain": "Según el art. 678, procede únicamente el recurso de reposición, dentro de los 15 días siguientes a la notificación, ante el mismo funcionario que la profirió.",
+      "optionWhy": {
+        "a": "La reconsideración es el recurso general del ET, pero aquí la norma especial prevé reposición.",
+        "b": "No procede apelación.",
+        "d": "Hay traslado de cargos y procede reposición."
+      }
+    },
+    {
+      "id": "erec-q-022",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET arts. 678 y 676-3",
+      "case": "Usted proyecta una sanción contra un banco por 3 documentos entregados con 4 días de retraso (3 UVT según el art. 676). El banco aún no ha sido notificado de nada.",
+      "prompt": "¿Qué es lo correcto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Correr traslado de cargos por 15 días y aplicar el mínimo de 20 UVT por conducta."
+        },
+        {
+          "id": "b",
+          "text": "Imponer de plano 3 UVT, porque la sanción es pequeña y no requiere trámite."
+        },
+        {
+          "id": "c",
+          "text": "Archivar, porque las sanciones de menos de 20 UVT no se imponen."
+        }
+      ],
+      "answer": "a",
+      "explain": "Las sanciones del art. 676 se imponen previo traslado de cargos por 15 días (art. 678) y en ningún caso son inferiores a 20 UVT por conducta (art. 676-3).",
+      "optionWhy": {
+        "b": "Se requiere traslado de cargos, y el valor no puede ser inferior al mínimo legal.",
+        "c": "El art. 676-3 no ordena archivar: eleva la sanción al mínimo."
+      }
+    },
+    {
+      "id": "erec-q-023",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET arts. 674–678",
+      "prompt": "Explica cómo sancionaría la DIAN a un banco que entrega tarde los documentos recibidos y además reporta inconsistencias en el medio magnético.",
+      "modelAnswer": "Por la entrega tardía aplica el art. 676 (de 1 a 8 UVT por documento según los días calendario de retraso). Por las inconsistencias, el art. 675 (10, 20 o 30 UVT por documento según el porcentaje del día, si supera el 0,5 %). La sanción se gradúa (art. 676-2: 50 % o 75 % según el porcentaje anual), no puede ser menor a 20 UVT por conducta ni sumar más de 33.000 UVT al año (art. 676-3). Se impone previo traslado de cargos por 15 días y procede reposición (art. 678).",
+      "keyPoints": [
+        "Art. 676 por extemporaneidad",
+        "Art. 675 por inconsistencias",
+        "Graduación y límites",
+        "Traslado de cargos y reposición"
+      ],
+      "keywords": [
+        "676",
+        "675",
+        "graduac",
+        "minimo",
+        "traslado",
+        "reposicion"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "erec-q-024",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "ET art. 634, par. 1; art. 676-1",
+      "prompt": "Un banco consignó tarde lo recaudado y además presentó tarde el formato de consignaciones. ¿Qué consecuencias tiene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo la sanción por el formato, porque los intereses son del contribuyente"
+        },
+        {
+          "id": "b",
+          "text": "Solo intereses, porque una conducta absorbe a la otra"
+        },
+        {
+          "id": "c",
+          "text": "La exclusión inmediata de la autorización para recaudar"
+        },
+        {
+          "id": "d",
+          "text": "Intereses de mora sobre lo no consignado y sanción por el formato tardío"
+        }
+      ],
+      "answer": "d",
+      "explain": "El retardo en consignar causa intereses a cargo de la entidad sin trámite previo (art. 634, par. 1) y la entrega tardía del formato tiene su propia sanción (art. 676-1).",
+      "optionWhy": {
+        "a": "Los intereses por no consignar son a cargo de la entidad.",
+        "b": "Son conductas distintas con consecuencias propias.",
+        "c": "La exclusión (art. 677) exige reincidencia o gravedad y la decide el Ministro."
+      }
+    }
+  ]
+}
