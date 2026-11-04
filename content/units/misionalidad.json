@@ -1,0 +1,550 @@
+{
+  "id": "misionalidad",
+  "title": "Misionalidad de la DIAN",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Filosofía institucional del Plan Estratégico 2024–2026: propósito central, misión, valores aspiracionales, objetivo retador, visión y descripción vívida; el Mapa de Alineación (lineamientos, elementos de visión) y la diferencia entre misión y misionalidad.",
+  "sources": ["Plan Estratégico Institucional DIAN 2024–2026 (cap. 4)", "Decreto 1742 de 2020, art. 1"],
+  "lessons": [
+    {
+      "id": "mis-01",
+      "title": "Propósito, misión y misionalidad",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "mis-c-001",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, 4.1.1 y 4.1.2",
+          "title": "Propósito central y misión",
+          "body": "**Propósito central** (la razón de ser, perdurable):\n\n«Hacemos posible que todos y todas aporten los recursos necesarios para el sostenimiento del Estado Social de Derecho».\n\n**Misión** (qué hace, para quién y cómo):\n\n«Trabajamos con empeño y dedicación para que toda la ciudadanía contribuya de manera justa y equitativa en el financiamiento del gasto público, garantizando la sostenibilidad fiscal del país y la consolidación del Estado social de derecho»."
+        },
+        {
+          "id": "mis-c-002",
+          "type": "concept",
+          "source": "D1742/2020 art. 1; PEI DIAN 2024–2026, cap. 3",
+          "title": "Misión ≠ misionalidad",
+          "body": "- La **misión** es una declaración del Plan Estratégico (una frase).\n- La **misionalidad** son las **funciones esenciales** que la ley asigna a la DIAN: administrar los **impuestos nacionales**, dirigir la **gestión aduanera** y **controlar el régimen cambiario** en las operaciones de su competencia (D1742 art. 1).\n\nEl PEI resume la operación en la **tríada misional: recaudo, servicio y control**, con la **gestión de riesgos de cumplimiento** como eje articulador."
+        },
+        { "ref": "mis-q-001" },
+        { "ref": "mis-q-029" },
+        { "ref": "mis-q-008" },
+        { "ref": "mis-q-017" },
+        { "ref": "mis-q-024" }
+      ]
+    },
+    {
+      "id": "mis-02",
+      "title": "Valores aspiracionales, objetivo retador y visión",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "mis-c-003",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, 4.1.3",
+          "title": "Cuatro valores aspiracionales",
+          "body": "| Valor | Qué significa en el PEI |\n|---|---|\n| **Valentía** | Luchar contra las **economías criminales** para garantizar el imperio de la ley en todo el país. |\n| **Objetividad** | Actuar con base en **evidencia rigurosa, sin sesgos**, para fortalecer la confianza ciudadana. |\n| **Templanza** | Ser **sobrios** y enfrentar con **determinación y buen juicio** la evasión y el contrabando. |\n| **Providencia** | **Anticiparse** a las eventualidades y, ante los reveses, seguir: cerrar la brecha tributaria y acabar con el contrabando. |\n\nNo confundirlos con los valores del **Código de Integridad** (honestidad, respeto, compromiso, diligencia, justicia)."
+        },
+        {
+          "id": "mis-c-004",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, 4.1.4–4.1.6",
+          "title": "Objetivo retador, visión y descripción vívida",
+          "body": "- **Objetivo retador:** «Reducir el costo fiscal de la **evasión y el contrabando** a **menos del 1 % del PIB**».\n- **Visión 2024–2026:** ser reconocida como una administración tributaria y aduanera **modelo**, por su modernización, innovación y excelencia, que genera confianza aplicando los principios de **honestidad, transparencia, legitimidad y eficiencia**.\n- **Descripción vívida:** narrativa inspiradora («Somos DIAN…») que fortalece el sentido de pertenencia.\n\nLa **filosofía institucional** reúne cuatro componentes: **propósito central, valores aspiracionales, objetivo retador y descripción vívida**."
+        },
+        { "ref": "mis-q-003" },
+        { "ref": "mis-q-016" },
+        { "ref": "mis-q-005" },
+        { "ref": "mis-q-007" },
+        { "ref": "mis-q-006" },
+        { "ref": "mis-q-002" },
+        { "ref": "mis-q-020" },
+        { "ref": "mis-q-028" }
+      ]
+    },
+    {
+      "id": "mis-03",
+      "title": "Mapa de Alineación: lineamientos y elementos de visión",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "mis-c-005",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, 4.2 y 4.2.1",
+          "title": "Seis lineamientos estratégicos",
+          "body": "El **Mapa de Alineación** tiene tres componentes: **lineamientos estratégicos**, **Árbol de Visión** y **Árbol de Estrategia**. Los lineamientos **no forman parte de los árboles**: los enmarcan.\n\nCon la **estrategia RE** (Re-Alinear, Re-Orientar, Re-Organizar) se pasó de **4 a 6** lineamientos:\n\n1. Cumplimiento de las **metas de recaudo**.\n2. Combatir efectivamente la **evasión y elusión** (Plan de Choque contra la Evasión).\n3. **Operación aduanera ágil, segura y transparente** (24×7, trazabilidad).\n4. Consolidar la **modernización** de la DIAN.\n5. **Priorizar los procesos misionales**.\n6. La DIAN, una entidad **reconocida por los grupos de valor e interés**."
+        },
+        {
+          "id": "mis-c-006",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, 4.2.2",
+          "title": "Seis elementos de visión (objetivos estratégicos)",
+          "body": "El **Árbol de Visión** tiene elementos de visión (en otras metodologías, *objetivos estratégicos*) e indicadores:\n\n- Reducir el **costo fiscal de la evasión y el contrabando**.\n- Promover el **cumplimiento voluntario** de obligaciones.\n- Impulsar la **facilitación del comercio exterior** (estándares OCDE).\n- Fortalecer la **confianza del ciudadano**.\n- Desarrollar un **talento humano** apto, resolutivo y comprometido.\n- Consolidar una entidad **moderna, cercana y humana**.\n\nEl **Árbol de Estrategia** reúne las **iniciativas** que ejecutan esos resultados."
+        },
+        { "ref": "mis-q-023" },
+        { "ref": "mis-q-018" },
+        { "ref": "mis-q-022" },
+        { "ref": "mis-q-012" },
+        { "ref": "mis-q-030" },
+        { "ref": "mis-q-010" },
+        { "ref": "mis-q-011" },
+        { "ref": "mis-q-013" }
+      ]
+    },
+    {
+      "id": "mis-04",
+      "title": "Contribución y tríada misional en la práctica",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "mis-c-007",
+          "type": "concept",
+          "source": "PEI DIAN 2024–2026, introducción, cap. 3 y 4.2.2",
+          "title": "Alineación Total y contribución",
+          "body": "- Desde 2022 la DIAN planea con la metodología de **Alineación Total**.\n- Su pilar es la **contribución**: cada área, equipo y servidor responde por **su aporte** a los resultados estratégicos, decide con **información concreta y oportuna** y busca la mejora continua.\n- Busca alineación **vertical** (de la visión a las acciones) y **horizontal** (entre áreas).\n- **Tríada misional:** recaudo, servicio y control; eje articulador: **gestión de riesgos de cumplimiento**.\n- Los indicadores estratégicos son **SMART** y se articulan con el **MIPG**."
+        },
+        { "ref": "mis-q-019" },
+        { "ref": "mis-q-009" },
+        { "ref": "mis-q-014" },
+        { "ref": "mis-q-015" },
+        { "ref": "mis-q-021" },
+        { "ref": "mis-q-027" },
+        { "ref": "mis-q-026" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "mis-fc-001", "front": "Propósito central de la DIAN", "back": "«Hacemos posible que todos y todas aporten los recursos necesarios para el sostenimiento del Estado Social de Derecho».", "source": "PEI DIAN 2024–2026, 4.1.1" },
+    { "id": "mis-fc-002", "front": "Misión de la DIAN (idea central)", "back": "Que toda la ciudadanía contribuya de manera justa y equitativa al financiamiento del gasto público, garantizando la sostenibilidad fiscal y el Estado social de derecho.", "source": "PEI DIAN 2024–2026, 4.1.2" },
+    { "id": "mis-fc-003", "front": "Objetivo retador", "back": "Reducir el costo fiscal de la evasión y el contrabando a menos del 1 % del PIB.", "source": "PEI DIAN 2024–2026, 4.1.4" },
+    { "id": "mis-fc-004", "front": "Los 4 valores aspiracionales", "back": "Valentía, Objetividad, Templanza y Providencia.", "source": "PEI DIAN 2024–2026, 4.1.3" },
+    { "id": "mis-fc-005", "front": "Valentía", "back": "Luchamos contra las economías criminales para garantizar el imperio de la ley en todos los rincones del país.", "source": "PEI DIAN 2024–2026, 4.1.3" },
+    { "id": "mis-fc-006", "front": "Objetividad", "back": "Cumplimos nuestras funciones con base en evidencia rigurosa, sin sesgos, para fortalecer la confianza ciudadana.", "source": "PEI DIAN 2024–2026, 4.1.3" },
+    { "id": "mis-fc-007", "front": "Templanza", "back": "Somos sobrios y enfrentamos con determinación y buen juicio la lucha contra la evasión y el contrabando.", "source": "PEI DIAN 2024–2026, 4.1.3" },
+    { "id": "mis-fc-008", "front": "Providencia", "back": "Nos anticipamos a las eventualidades y, ante los reveses, seguimos: cerrar la brecha tributaria y acabar con el contrabando.", "source": "PEI DIAN 2024–2026, 4.1.3" },
+    { "id": "mis-fc-009", "front": "Principios que menciona la visión 2024–2026", "back": "Honestidad, transparencia, legitimidad y eficiencia.", "source": "PEI DIAN 2024–2026, 4.1.5" },
+    { "id": "mis-fc-010", "front": "Componentes de la filosofía institucional", "back": "Propósito central, valores aspiracionales, objetivo retador y descripción vívida.", "source": "PEI DIAN 2024–2026, 4.1" },
+    { "id": "mis-fc-011", "front": "Componentes del Mapa de Alineación Estratégica", "back": "Lineamientos estratégicos, Árbol de Visión y Árbol de Estrategia.", "source": "PEI DIAN 2024–2026, 4.2" },
+    { "id": "mis-fc-012", "front": "¿Cuántos lineamientos estratégicos hay y por qué cambiaron?", "back": "Seis; pasaron de 4 a 6 con la estrategia RE (Re-Alinear, Re-Orientar, Re-Organizar) en 2024.", "source": "PEI DIAN 2024–2026, 4.2.1" },
+    { "id": "mis-fc-013", "front": "Los 6 lineamientos estratégicos", "back": "Metas de recaudo; combatir evasión y elusión; operación aduanera ágil, segura y transparente; modernización; priorizar procesos misionales; entidad reconocida por grupos de valor.", "source": "PEI DIAN 2024–2026, 4.2.1" },
+    { "id": "mis-fc-014", "front": "Los 6 elementos de visión", "back": "Reducir costo fiscal de evasión y contrabando; cumplimiento voluntario; facilitación del comercio exterior; confianza del ciudadano; talento humano; entidad moderna, cercana y humana.", "source": "PEI DIAN 2024–2026, 4.2.2" },
+    { "id": "mis-fc-015", "front": "¿Cómo se llaman los elementos de visión en otras metodologías?", "back": "Objetivos estratégicos.", "source": "PEI DIAN 2024–2026, 4.2.2" },
+    { "id": "mis-fc-016", "front": "Tríada misional de la DIAN", "back": "Recaudo, servicio y control, con la gestión de riesgos de cumplimiento como eje articulador.", "source": "PEI DIAN 2024–2026, cap. 3" },
+    { "id": "mis-fc-017", "front": "¿Qué es la misionalidad de la DIAN?", "back": "Sus funciones esenciales por ley: administración tributaria, gestión aduanera y control cambiario (D1742 art. 1).", "source": "D1742/2020 art. 1" },
+    { "id": "mis-fc-018", "front": "Pilar de la metodología de Alineación Total", "back": "La contribución: cada área y servidor responde por su aporte a los resultados estratégicos.", "source": "PEI DIAN 2024–2026, introducción" },
+    { "id": "mis-fc-019", "front": "¿Cómo deben ser los indicadores estratégicos?", "back": "SMART (específicos, medibles, alcanzables, relevantes y definidos en el tiempo) y articulados con el MIPG.", "source": "PEI DIAN 2024–2026, 4.2.2" },
+    { "id": "mis-fc-020", "front": "¿Qué reúne el Árbol de Estrategia?", "back": "Las iniciativas estratégicas con las que la DIAN ejecuta su estrategia y logra los resultados del Árbol de Visión.", "source": "PEI DIAN 2024–2026, 4.2.3" }
+  ],
+  "questions": [
+    {
+      "id": "mis-q-001", "type": "mcq", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.1",
+      "prompt": "¿Cuál es el propósito central de la DIAN según el PEI 2024–2026?",
+      "options": [
+        { "id": "a", "text": "Ser reconocida como una administración tributaria y aduanera modelo en la región" },
+        { "id": "b", "text": "Reducir la evasión y el contrabando a menos del 1 % del PIB" },
+        { "id": "c", "text": "Hacer posible que todos aporten los recursos para el Estado Social de Derecho" },
+        { "id": "d", "text": "Facilitar el comercio exterior con trámites ágiles y digitales" }
+      ],
+      "answer": "c",
+      "explain": "El propósito central es «Hacemos posible que todos y todas aporten los recursos necesarios para el sostenimiento del Estado Social de Derecho».",
+      "optionWhy": {
+        "a": "Es una idea de la visión, no el propósito central.",
+        "b": "Es el objetivo retador.",
+        "d": "Es un elemento de visión (facilitación del comercio exterior)."
+      }
+    },
+    {
+      "id": "mis-q-002", "type": "mcq", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.4",
+      "prompt": "El objetivo retador de la DIAN es reducir el costo fiscal de la evasión y el contrabando a:",
+      "options": [
+        { "id": "a", "text": "Menos del 1 % del PIB" },
+        { "id": "b", "text": "Menos del 3 % del PIB" },
+        { "id": "c", "text": "La mitad del nivel de 2022" },
+        { "id": "d", "text": "Menos del 10 % del recaudo" }
+      ],
+      "answer": "a",
+      "explain": "El PEI fija: «Reducir el costo fiscal de la evasión y el contrabando a menos del 1 % del PIB».",
+      "optionWhy": {
+        "b": "La cifra del objetivo retador es 1 %, no 3 %.",
+        "c": "El objetivo no se expresa frente a un año base.",
+        "d": "Se mide frente al PIB, no frente al recaudo."
+      }
+    },
+    {
+      "id": "mis-q-003", "type": "match", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.3",
+      "prompt": "Relaciona cada valor aspiracional con su descripción.",
+      "pairs": [
+        { "left": "Valentía", "right": "Luchar contra las economías criminales" },
+        { "left": "Objetividad", "right": "Actuar con evidencia rigurosa y sin sesgos" },
+        { "left": "Templanza", "right": "Sobriedad, determinación y buen juicio" },
+        { "left": "Providencia", "right": "Anticiparse a las eventualidades y no rendirse" }
+      ],
+      "explain": "Los cuatro valores aspiracionales del PEI 2024–2026."
+    },
+    {
+      "id": "mis-q-004", "type": "truefalse", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.3",
+      "statement": "Los valores aspiracionales del PEI de la DIAN son honestidad, respeto, compromiso, diligencia y justicia.",
+      "answer": false,
+      "explain": "Falso. Esos son los valores del Código de Integridad. Los valores aspiracionales del PEI son Valentía, Objetividad, Templanza y Providencia."
+    },
+    {
+      "id": "mis-q-005", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.3 (Objetividad)",
+      "case": "Un gestor revisa un caso de fiscalización contra una empresa muy conocida. Un compañero le sugiere archivarlo porque «esa empresa siempre cumple», aunque las pruebas muestran costos sin soporte.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        { "id": "a", "text": "Archivar el caso, pues el buen historial de la empresa reduce el riesgo." },
+        { "id": "b", "text": "Decidir con base en las pruebas del expediente y documentar su análisis." },
+        { "id": "c", "text": "Pedir al compañero que asuma el caso para evitar un posible conflicto." }
+      ],
+      "answer": "b",
+      "explain": "El valor **Objetividad** pide cumplir las funciones con base en evidencia rigurosa y sin sesgos.",
+      "optionWhy": {
+        "a": "Decidir por la reputación y no por la evidencia es un sesgo.",
+        "c": "No hay conflicto de interés; trasladar el caso evita la decisión sin razón."
+      }
+    },
+    {
+      "id": "mis-q-006", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.3 (Providencia)",
+      "case": "Un gestor nota que varios expedientes de su grupo pueden quedar en firme en dos meses y que la plataforma de notificaciones tendrá mantenimiento en ese periodo.",
+      "prompt": "La actuación que mejor refleja el valor Providencia es:",
+      "options": [
+        { "id": "a", "text": "Esperar a que termine el mantenimiento y luego priorizar los casos." },
+        { "id": "b", "text": "Informar del riesgo solo si algún expediente llega a vencerse." },
+        { "id": "c", "text": "Programar desde ya las notificaciones y prever un medio alterno." }
+      ],
+      "answer": "c",
+      "explain": "**Providencia**: anticiparse a las eventualidades que puedan sobrevenir y seguir adelante ante los reveses.",
+      "optionWhy": {
+        "a": "Esperar expone los términos; no se anticipa al riesgo conocido.",
+        "b": "Reaccionar tarde es lo contrario de anticiparse."
+      }
+    },
+    {
+      "id": "mis-q-007", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.3 (Templanza)",
+      "case": "Durante una diligencia de registro, el representante de la empresa insulta al equipo de la DIAN y amenaza con quejarse ante los medios.",
+      "prompt": "La actuación que refleja el valor Templanza es:",
+      "options": [
+        { "id": "a", "text": "Mantener la calma y continuar la diligencia con firmeza, dejando constancia." },
+        { "id": "b", "text": "Suspender la diligencia hasta que el representante ofrezca disculpas." },
+        { "id": "c", "text": "Responder con la misma firmeza verbal para que respete la autoridad." }
+      ],
+      "answer": "a",
+      "explain": "**Templanza**: ser sobrios y enfrentar con determinación y buen juicio la lucha contra la evasión y el contrabando.",
+      "optionWhy": {
+        "b": "Suspender sin necesidad sacrifica la determinación en el cumplimiento de la función.",
+        "c": "Responder al insulto rompe la sobriedad y el buen juicio."
+      }
+    },
+    {
+      "id": "mis-q-008", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 1; PEI DIAN 2024–2026, 4.1.2",
+      "case": "En una inducción, un compañero afirma que «la misionalidad de la DIAN es la frase de la misión del plan estratégico».",
+      "prompt": "La aclaración correcta es:",
+      "options": [
+        { "id": "a", "text": "Es correcto: misión y misionalidad son sinónimos en el PEI." },
+        { "id": "b", "text": "La misionalidad son los valores aspiracionales que guían la cultura de la entidad." },
+        { "id": "c", "text": "La misionalidad son las funciones esenciales: tributaria, aduanera y cambiaria." }
+      ],
+      "answer": "c",
+      "explain": "La misión es una declaración estratégica; la misionalidad son las funciones que la ley asigna a la DIAN (D1742 art. 1): impuestos, aduanas y control cambiario.",
+      "optionWhy": {
+        "a": "Son conceptos distintos: declaración vs funciones legales.",
+        "b": "Los valores aspiracionales describen la cultura deseada, no las funciones."
+      }
+    },
+    {
+      "id": "mis-q-009", "type": "pjs", "difficulty": 3, "source": "PEI DIAN 2024–2026, cap. 3",
+      "case": "Un grupo de una seccional debe planear su trabajo del semestre con recursos limitados. Hay contribuyentes que incumplen por desconocimiento y otros con señales de evasión deliberada.",
+      "prompt": "Según el modelo institucional del PEI, el gestor debe proponer:",
+      "options": [
+        { "id": "a", "text": "Fiscalizar a todos por igual, para tratar a los contribuyentes sin distinción." },
+        { "id": "b", "text": "Segmentar por riesgo: orientar a quienes desconocen y controlar a los evasores." },
+        { "id": "c", "text": "Centrarse solo en el servicio, porque el cumplimiento voluntario es la meta." }
+      ],
+      "answer": "b",
+      "explain": "La tríada misional (recaudo, servicio y control) se articula con la **gestión de riesgos de cumplimiento**: servicio para quien quiere cumplir y control para quien evade.",
+      "optionWhy": {
+        "a": "Ignora la gestión de riesgos, que es el eje articulador del modelo.",
+        "c": "Omite el control, que es parte de la tríada misional."
+      }
+    },
+    {
+      "id": "mis-q-010", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.2.2",
+      "case": "Una seccional quiere aportar al elemento de visión «Promover el cumplimiento voluntario de obligaciones».",
+      "prompt": "¿Qué iniciativa se alinea mejor con ese elemento?",
+      "options": [
+        { "id": "a", "text": "Talleres y guías para que nuevos emprendedores declaren a tiempo." },
+        { "id": "b", "text": "Más operativos de aprehensión de mercancía en las carreteras del país." },
+        { "id": "c", "text": "Un nuevo sistema interno de nómina y bienestar para los servidores." }
+      ],
+      "answer": "a",
+      "explain": "Ese elemento busca una cultura de responsabilidad tributaria en la que los ciudadanos contribuyan de forma voluntaria y consciente.",
+      "optionWhy": {
+        "b": "Los operativos apuntan a reducir el contrabando (control), no al cumplimiento voluntario.",
+        "c": "Es una mejora interna sin relación directa con el cumplimiento de los ciudadanos."
+      }
+    },
+    {
+      "id": "mis-q-011", "type": "pjs", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.2.2",
+      "case": "Un equipo propone automatizar la revisión documental de importaciones para reducir los tiempos de levante, siguiendo estándares de la OCDE.",
+      "prompt": "¿A qué elemento de visión contribuye principalmente?",
+      "options": [
+        { "id": "a", "text": "Fortalecer la confianza del ciudadano en la entidad." },
+        { "id": "b", "text": "Reducir el costo fiscal de la evasión y el contrabando." },
+        { "id": "c", "text": "Impulsar la facilitación del comercio exterior." }
+      ],
+      "answer": "c",
+      "explain": "La facilitación del comercio exterior busca agilizar y automatizar los trámites aduaneros, en línea con estándares internacionales como los de la OCDE.",
+      "optionWhy": {
+        "a": "La confianza puede mejorar, pero el foco del proyecto es agilizar el comercio exterior.",
+        "b": "El proyecto no apunta a detectar evasión o contrabando, sino a acelerar trámites."
+      }
+    },
+    {
+      "id": "mis-q-012", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.2.1",
+      "case": "Se diseña un tablero que permite seguir en tiempo real cada actuación de un trámite aduanero, disponible 24 horas, 7 días a la semana.",
+      "prompt": "¿Con qué lineamiento estratégico se alinea?",
+      "options": [
+        { "id": "a", "text": "Cumplimiento de las metas de recaudo bruto y neto." },
+        { "id": "b", "text": "Operación aduanera ágil, segura y transparente." },
+        { "id": "c", "text": "Priorizar los procesos misionales." }
+      ],
+      "answer": "b",
+      "explain": "Ese lineamiento pide trámites ágiles y digitales con transparencia, disponibilidad 24×7, trazabilidad y monitoreo en tiempo real.",
+      "optionWhy": {
+        "a": "Las metas de recaudo se refieren al monto bruto y neto según el Marco Fiscal.",
+        "c": "Ese lineamiento trata de reasignar recursos a procesos críticos."
+      }
+    },
+    {
+      "id": "mis-q-013", "type": "pjs", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.2 y 4.2.1",
+      "case": "Al preparar una presentación, un compañero ubica los lineamientos estratégicos como una rama más del Árbol de Visión.",
+      "prompt": "La corrección adecuada es:",
+      "options": [
+        { "id": "a", "text": "Los lineamientos están dentro del Árbol de Estrategia, junto a las iniciativas." },
+        { "id": "b", "text": "Los lineamientos son los mismos elementos de visión con otro nombre." },
+        { "id": "c", "text": "Los lineamientos no forman parte de los árboles: enmarcan y orientan ambos." }
+      ],
+      "answer": "c",
+      "explain": "En el Mapa de Alineación, los lineamientos no forman parte de los árboles; enmarcan los resultados estratégicos y las iniciativas.",
+      "optionWhy": {
+        "a": "El Árbol de Estrategia contiene las iniciativas, no los lineamientos.",
+        "b": "Los elementos de visión son los objetivos estratégicos del Árbol de Visión; son otra cosa."
+      }
+    },
+    {
+      "id": "mis-q-014", "type": "pjs", "difficulty": 3, "source": "PEI DIAN 2024–2026, introducción y cap. 3",
+      "case": "El indicador de gestión del grupo del gestor cae dos meses seguidos. El jefe pide una propuesta.",
+      "prompt": "Bajo el concepto de contribución de la Alineación Total, el gestor debe:",
+      "options": [
+        { "id": "a", "text": "Analizar los datos del indicador, identificar la causa y proponer mejoras del grupo." },
+        { "id": "b", "text": "Explicar que la caída depende de otras áreas y esperar a que ellas actúen." },
+        { "id": "c", "text": "Pedir que se ajuste la meta del indicador para que sea más alcanzable." }
+      ],
+      "answer": "a",
+      "explain": "La contribución implica que cada área asume la responsabilidad por su aporte, decide con información concreta y busca la mejora continua.",
+      "optionWhy": {
+        "b": "Trasladar la responsabilidad contradice la idea de contribución.",
+        "c": "Bajar la meta sin analizar la causa no mejora el resultado."
+      }
+    },
+    {
+      "id": "mis-q-015", "type": "pjs", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.1.5",
+      "case": "Un ciudadano pide conocer los criterios generales con que una seccional prioriza la atención de solicitudes. La información no tiene reserva.",
+      "prompt": "La actuación coherente con la visión institucional es:",
+      "options": [
+        { "id": "a", "text": "Negarla, porque podría generar reclamos de otros solicitantes." },
+        { "id": "b", "text": "Entregarla de forma clara, aplicando el principio de transparencia." },
+        { "id": "c", "text": "Entregarla solo si el ciudadano explica para qué la necesita." }
+      ],
+      "answer": "b",
+      "explain": "La visión pide generar confianza aplicando los principios de honestidad, **transparencia**, legitimidad y eficiencia.",
+      "optionWhy": {
+        "a": "Evitar reclamos no justifica negar información pública.",
+        "c": "Exigir motivos para información sin reserva es una barrera injustificada."
+      }
+    },
+    {
+      "id": "mis-q-016", "type": "pjs", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.3 (Valentía)",
+      "case": "Un gestor asignado a una zona de frontera recibe presiones de grupos ligados al contrabando para que no adelante controles.",
+      "prompt": "El valor aspiracional que orienta seguir con los controles, con las medidas de seguridad debidas, es:",
+      "options": [
+        { "id": "a", "text": "Templanza." },
+        { "id": "b", "text": "Providencia." },
+        { "id": "c", "text": "Valentía." }
+      ],
+      "answer": "c",
+      "explain": "**Valentía**: luchar contra las economías criminales para garantizar el imperio de la ley en todos los rincones del país.",
+      "optionWhy": {
+        "a": "Templanza alude a la sobriedad y el buen juicio, no a enfrentar economías criminales.",
+        "b": "Providencia alude a anticiparse a las eventualidades."
+      }
+    },
+    {
+      "id": "mis-q-017", "type": "pjs", "difficulty": 3, "source": "D1742/2020 art. 1",
+      "case": "Un importador financió sus compras con un crédito en moneda extranjera y no canalizó la operación como exige el régimen cambiario. Un compañero dice que «eso no es asunto de la DIAN, sino del Banco de la República».",
+      "prompt": "La respuesta correcta del gestor es:",
+      "options": [
+        { "id": "a", "text": "Que el control de la financiación de importaciones es parte de la misionalidad de la DIAN." },
+        { "id": "b", "text": "Que el compañero tiene razón y el caso debe remitirse al Banco de la República." },
+        { "id": "c", "text": "Que solo es asunto de la DIAN si hay además una deuda tributaria del importador." }
+      ],
+      "answer": "a",
+      "explain": "El art. 1 del D1742 asigna a la DIAN el control del régimen cambiario en importaciones y exportaciones, sus gastos asociados y su **financiación en moneda extranjera**.",
+      "optionWhy": {
+        "b": "El Banco de la República regula; el control de estas operaciones es de la DIAN.",
+        "c": "La competencia cambiaria no depende de que exista una deuda tributaria."
+      }
+    },
+    {
+      "id": "mis-q-018", "type": "mcq", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.2.1",
+      "prompt": "Sobre los lineamientos estratégicos del PEI, es correcto afirmar:",
+      "options": [
+        { "id": "a", "text": "Son cuatro y no han cambiado desde la formulación del plan" },
+        { "id": "b", "text": "Son seis y forman parte del Árbol de Estrategia" },
+        { "id": "c", "text": "Son los mismos seis elementos de visión del Árbol de Visión" },
+        { "id": "d", "text": "Pasaron de cuatro a seis con la estrategia RE en 2024" }
+      ],
+      "answer": "d",
+      "explain": "En 2024, con la estrategia RE (Re-Alinear, Re-Orientar, Re-Organizar), la alta dirección pasó de cuatro a seis lineamientos.",
+      "optionWhy": {
+        "a": "Eran cuatro al inicio, pero se ajustaron a seis.",
+        "b": "Son seis, pero no forman parte de ningún árbol.",
+        "c": "Los elementos de visión son otro componente del mapa."
+      }
+    },
+    {
+      "id": "mis-q-019", "type": "mcq", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1",
+      "prompt": "¿Qué componentes integran la filosofía institucional en el modelo de Alineación Total?",
+      "options": [
+        { "id": "a", "text": "Propósito central, valores aspiracionales, objetivo retador y descripción vívida" },
+        { "id": "b", "text": "Misión, visión, lineamientos estratégicos e indicadores SMART del plan" },
+        { "id": "c", "text": "Árbol de Visión, Árbol de Estrategia e iniciativas priorizadas del plan" },
+        { "id": "d", "text": "Recaudo, servicio y control, con la gestión de riesgos como eje articulador" }
+      ],
+      "answer": "a",
+      "explain": "El PEI dice que la filosofía institucional integra cuatro componentes: propósito central, valores aspiracionales, objetivo retador y descripción vívida.",
+      "optionWhy": {
+        "b": "Mezcla elementos de la filosofía con los del Mapa de Alineación.",
+        "c": "Esos son componentes del Mapa de Alineación.",
+        "d": "Es la tríada misional y su eje articulador."
+      }
+    },
+    {
+      "id": "mis-q-020", "type": "cloze", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.4",
+      "text": "Objetivo retador: reducir el costo fiscal de la evasión y el {{contrabando}} a menos del {{1}} % del PIB.",
+      "alternatives": { "1": ["uno"] }
+    },
+    {
+      "id": "mis-q-021", "type": "match", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.2.2",
+      "prompt": "Relaciona cada iniciativa con el elemento de visión al que aporta.",
+      "pairs": [
+        { "left": "Analítica para detectar facturas falsas", "right": "Reducir el costo fiscal de la evasión y el contrabando" },
+        { "left": "Plan de formación técnica para servidores", "right": "Desarrollar un talento humano apto y resolutivo" },
+        { "left": "Simplificar el lenguaje de los formularios en línea", "right": "Consolidar una entidad moderna, cercana y humana" },
+        { "left": "Respuestas oportunas y equitativas a las peticiones", "right": "Fortalecer la confianza del ciudadano" }
+      ],
+      "explain": "Los elementos de visión agrupan los resultados que la DIAN busca movilizar (PEI 4.2.2)."
+    },
+    {
+      "id": "mis-q-022", "type": "truefalse", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.2.1",
+      "statement": "Los lineamientos estratégicos forman parte del Árbol de Visión.",
+      "answer": false,
+      "explain": "Falso. Los lineamientos no forman parte de los árboles: enmarcan y orientan tanto los resultados estratégicos como las iniciativas."
+    },
+    {
+      "id": "mis-q-023", "type": "mcq", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.2",
+      "prompt": "El Mapa de Alineación Estratégica de la DIAN se estructura en:",
+      "options": [
+        { "id": "a", "text": "Misión, visión y valores" },
+        { "id": "b", "text": "Lineamientos estratégicos, Árbol de Visión y Árbol de Estrategia" },
+        { "id": "c", "text": "Diagnóstico, formulación y seguimiento" },
+        { "id": "d", "text": "Nivel central, nivel local y nivel delegado" }
+      ],
+      "answer": "b",
+      "explain": "El PEI define tres componentes: lineamientos estratégicos, Árbol de Visión y Árbol de Estrategia.",
+      "optionWhy": {
+        "a": "Son elementos de la filosofía institucional, no del mapa.",
+        "c": "Son etapas genéricas de planeación.",
+        "d": "Son los niveles de la estructura (D1742 art. 4)."
+      }
+    },
+    {
+      "id": "mis-q-024", "type": "open", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.2; D1742/2020 art. 1",
+      "prompt": "Explica en 2–3 líneas la diferencia entre la misión y la misionalidad de la DIAN.",
+      "modelAnswer": "La misión es la declaración del PEI: que toda la ciudadanía contribuya de manera justa y equitativa al gasto público. La misionalidad son las funciones esenciales asignadas por ley (D1742 art. 1): administrar los impuestos nacionales, dirigir la gestión aduanera y controlar el régimen cambiario.",
+      "keyPoints": ["Misión: declaración del Plan Estratégico", "Misionalidad: funciones legales esenciales", "Tributaria, aduanera y cambiaria (D1742 art. 1)"],
+      "keywords": ["mision", "declaracion", "funciones", "tributaria", "aduanera", "cambiaria", "plan estrategico"],
+      "minKeywords": 4
+    },
+    {
+      "id": "mis-q-025", "type": "open", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.3",
+      "prompt": "Enumera los cuatro valores aspiracionales de la DIAN y explica uno con un ejemplo de tu trabajo.",
+      "modelAnswer": "Valentía, Objetividad, Templanza y Providencia. Ejemplo de Objetividad: proponer una sanción solo con base en las pruebas del expediente, sin dejarme llevar por la reputación del contribuyente.",
+      "keyPoints": ["Valentía", "Objetividad", "Templanza", "Providencia", "Un ejemplo coherente con la definición"],
+      "keywords": ["valentia", "objetividad", "templanza", "providencia", "evidencia", "economias criminales"],
+      "minKeywords": 4
+    },
+    {
+      "id": "mis-q-026", "type": "open", "difficulty": 3, "source": "PEI DIAN 2024–2026, 4.1.4, 4.2.1 y 4.2.2",
+      "prompt": "Explica cómo se relacionan el objetivo retador, los lineamientos estratégicos y los elementos de visión.",
+      "modelAnswer": "El objetivo retador (evasión y contrabando bajo el 1 % del PIB) es la gran meta. Los elementos de visión, en el Árbol de Visión, son los resultados que se deben movilizar para lograrla, con indicadores. Los lineamientos estratégicos no son parte de los árboles: enmarcan y priorizan esos resultados y las iniciativas del Árbol de Estrategia.",
+      "keyPoints": ["Objetivo retador: menos del 1 % del PIB", "Elementos de visión: resultados del Árbol de Visión, con indicadores", "Lineamientos: marco que orienta ambos árboles", "Iniciativas: Árbol de Estrategia"],
+      "keywords": ["1 %", "pib", "arbol de vision", "lineamientos", "indicadores", "iniciativas", "arbol de estrategia"],
+      "minKeywords": 4
+    },
+    {
+      "id": "mis-q-027", "type": "truefalse", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.2.2",
+      "statement": "Los indicadores estratégicos del PEI se formulan bajo el enfoque SMART y se articulan con el MIPG.",
+      "answer": true,
+      "explain": "Verdadero. El PEI exige indicadores específicos, medibles, alcanzables, relevantes y definidos en el tiempo, articulados con el Modelo Integrado de Planeación y Gestión."
+    },
+    {
+      "id": "mis-q-028", "type": "mcq", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.1.5",
+      "prompt": "Según la visión 2024–2026, la DIAN genera confianza aplicando los principios de:",
+      "options": [
+        { "id": "a", "text": "Valentía, objetividad, templanza y providencia" },
+        { "id": "b", "text": "Economía, celeridad, eficacia y publicidad" },
+        { "id": "c", "text": "Honestidad, transparencia, legitimidad y eficiencia" },
+        { "id": "d", "text": "Equidad, eficiencia, progresividad e irretroactividad" }
+      ],
+      "answer": "c",
+      "explain": "La visión menciona la aplicación de los principios de honestidad, transparencia, legitimidad y eficiencia en todas las actuaciones.",
+      "optionWhy": {
+        "a": "Son los valores aspiracionales, no los principios de la visión.",
+        "b": "Son principios de la función administrativa en general.",
+        "d": "Son principios del sistema tributario, no de la visión de la DIAN."
+      }
+    },
+    {
+      "id": "mis-q-029", "type": "pjs", "difficulty": 1, "source": "PEI DIAN 2024–2026, 4.1.2",
+      "case": "En una jornada de atención, una ciudadana pregunta al gestor cuál es la misión de la DIAN.",
+      "prompt": "La respuesta que corresponde a la misión del PEI es:",
+      "options": [
+        { "id": "a", "text": "Lograr que toda la ciudadanía contribuya de forma justa y equitativa al gasto público." },
+        { "id": "b", "text": "Ser una administración tributaria y aduanera modelo por su innovación y excelencia." },
+        { "id": "c", "text": "Reducir el costo fiscal de la evasión y el contrabando a menos del 1 % del PIB." }
+      ],
+      "answer": "a",
+      "explain": "La misión: trabajar para que toda la ciudadanía contribuya de manera justa y equitativa en el financiamiento del gasto público.",
+      "optionWhy": {
+        "b": "Es la visión.",
+        "c": "Es el objetivo retador."
+      }
+    },
+    {
+      "id": "mis-q-030", "type": "pjs", "difficulty": 2, "source": "PEI DIAN 2024–2026, 4.2.1",
+      "case": "Ante la caída del recaudo, la dirección de una seccional decide trasladar personal y equipos de tareas de apoyo a los grupos de fiscalización y cobro.",
+      "prompt": "¿Qué lineamiento estratégico aplica esta decisión?",
+      "options": [
+        { "id": "a", "text": "Consolidar la modernización de la DIAN." },
+        { "id": "b", "text": "Priorizar los procesos misionales." },
+        { "id": "c", "text": "La DIAN, entidad reconocida por los grupos de valor." }
+      ],
+      "answer": "b",
+      "explain": "Este lineamiento pide reorientar talento humano y recursos hacia los procesos misionales críticos, por la disminución del recaudo.",
+      "optionWhy": {
+        "a": "La modernización se refiere al programa de transformación de la entidad.",
+        "c": "Ese lineamiento se centra en la relación con los ciudadanos."
+      }
+    }
+  ]
+}

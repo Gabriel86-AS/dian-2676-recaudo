@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es-CO">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pruebas de progreso</title>
+  <style>
+    body { font: 16px/1.5 system-ui, sans-serif; margin: 16px; background: #fff; color: #14202e; }
+    li.ok { color: #1f7a4d; } li.bad { color: #b3261e; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <h1>Pruebas: repaso espaciado y fusión</h1>
+  <p id="sum">Ejecutando…</p>
+  <ul id="list"></ul>
+  <script type="module">
+    import { results } from './progress.test.js';
+    const ok = results.filter((r) => r.ok).length;
+    document.getElementById('sum').textContent = `${ok}/${results.length} pruebas superadas`;
+    document.getElementById('list').innerHTML = results.map((r) =>
+      `<li class="${r.ok ? 'ok' : 'bad'}">${r.ok ? '✓' : '✗'} ${r.name}${r.ok ? '' : ` — ${r.err}`}</li>`).join('');
+    document.title = ok === results.length ? 'OK' : 'FALLAS';
+  </script>
+</body>
+</html>

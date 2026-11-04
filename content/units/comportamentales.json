@@ -1,0 +1,1515 @@
+{
+  "id": "comportamentales",
+  "title": "Competencias comportamentales",
+  "area": "comportamental",
+  "priority": 2,
+  "summary": "Diccionario de competencias de la DIAN (Res. 065/2024): las 6 competencias básicas (nivel 1) y los niveles específicos que evalúa la OPEC 236842 de Gestor III (Comportamiento ético 4, Adaptabilidad 3, Comunicación efectiva 3, Trabajo en equipo 3), con sus conductas observables, más afirmaciones de autoinforme para practicar el formato Likert (sin respuestas correctas).",
+  "sources": [
+    "Res. DIAN 065/2024 (diccionario de competencias), Caps. I, II y IV",
+    "Guía de Orientación al Aspirante DIAN 2676 (CNSC, 19-10-2026), págs. 18–19 y 25",
+    "Ficha CT-CR-3006 (Gestor III) e indicadores de la OPEC 236842"
+  ],
+  "lessons": [
+    {
+      "id": "comp-01",
+      "title": "Adaptabilidad (niveles 1 y 3)",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "comp-c-001",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Caps. I, II y IV; Ficha CT-CR-3006 (Gestor III) e indicadores de la OPEC 236842",
+          "title": "Cómo está organizado el diccionario de competencias",
+          "body": "La Res. DIAN 065/2024 describe las competencias como **conductas observables**: lo que una persona hace o dice.\n\n- **Tipos:** básicas, gerenciales, específicas y la de teletrabajo.\n- **Básicas (6):** Adaptabilidad, Comportamiento ético, Comunicación efectiva, Orientación al logro, Orientación al usuario y al ciudadano, y Trabajo en equipo. Están en **todas** las fichas de empleo y se asimilan al **nivel 1**.\n- **Específicas (10):** Adaptabilidad, Comportamiento ético, Compromiso con la organización, Comunicación efectiva, Iniciativa, Innovación, Orientación al logro, Orientación al usuario y al ciudadano, Solución de problemas y Trabajo en equipo. Cada ficha fija cuáles aplican y en qué nivel.\n- **Niveles 1 a 4:** cada nivel tiene una descripción y conductas observables. Cada nivel **suma** a los anteriores: el 1 es cumplir bien lo propio; el 4 es ser **referente** e impulsar a otros.\n- **Comportamiento ético** es básica (nivel 1), pero también específica y gerencial, con nivel **superior a 1**.\n\n**Niveles que evalúa la OPEC 236842 (Gestor III, ficha CT-CR-3006):** las 6 básicas en **nivel 1** y, como **específicas**: Comportamiento ético **4**, Adaptabilidad **3**, Comunicación efectiva **3** y Trabajo en equipo **3**.\n\n**En la prueba:** afirmaciones en primera persona con 4 opciones (Totalmente en desacuerdo → Totalmente de acuerdo). No hay respuestas correctas. Dos subescalas de control detectan las respuestas exageradamente favorables (GOA, pág. 25)."
+        },
+        {
+          "id": "comp-c-002",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, niveles 1 a 4",
+          "title": "Adaptabilidad: nivel 1 (básica) y nivel 3 (Gestor III)",
+          "body": "**Definición:** comprender diferentes perspectivas y responder a tiempo a diversas situaciones, contextos, medios y personas, modificando la conducta y las formas de trabajo.\n\n**Nivel 1 (básica):** comprende perspectivas diferentes y cambia sus conductas para ajustarse a los contextos.\n- Pone en marcha los cambios que le proponen en sus objetivos laborales.\n- Integra con facilidad nuevas perspectivas, aprendizajes y **tecnologías**.\n- Acepta con disposición situaciones y medios **nuevos e inesperados**.\n\n**Nivel 3 (específica de Gestor III):** **se anticipa** a los cambios en las situaciones, contextos y medios, a partir de la revisión de los objetivos a su cargo, y adecúa su propio accionar.\n- Asume una **actitud positiva y de autocontrol** frente a los cambios, apoyado en el Código de Integridad.\n- **Identifica las repercusiones** de los cambios externos e internos en su campo de acción y en el de la **dependencia**, y fomenta nuevas metodologías y herramientas que facilitan la adaptación.\n- Es **proactivo** en la identificación y adopción de los cambios.\n\n*Para comparar:* el nivel 2 **revalúa sus certezas** ante nuevos argumentos y apoya los cambios; el nivel 4 **diseña** herramientas, **estimula a los equipos** y es **agente de cambio**."
+        },
+        {
+          "ref": "comp-q-001"
+        },
+        {
+          "ref": "comp-q-002"
+        },
+        {
+          "ref": "comp-q-003"
+        },
+        {
+          "ref": "comp-q-004"
+        },
+        {
+          "ref": "comp-q-005"
+        },
+        {
+          "ref": "comp-q-079"
+        },
+        {
+          "ref": "comp-q-080"
+        }
+      ]
+    },
+    {
+      "id": "comp-02",
+      "title": "Comportamiento ético",
+      "minutes": 5,
+      "steps": [
+        {
+          "id": "comp-c-003",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, niveles 1 y 4",
+          "title": "Comportamiento ético: niveles 1 y 4",
+          "body": "**Definición:** actuar según prácticas laborales correctas, con **congruencia entre el discurso y la actuación**, en el marco del código de integridad de la DIAN.\n\n**Nivel 1:** trabaja a la luz del código de integridad, consciente del impacto de su actuación.\n- Demuestra **integridad** en sus tareas.\n- **Conoce y aplica** el código de integridad.\n- Asume el código **como propio**.\n\n**Nivel 4:** estructura, fomenta y aplica estrategias basadas en los valores institucionales, para sí y para la organización.\n- Es **consciente de las repercusiones** de su actuación en el servicio de la entidad.\n- **Promueve en los equipos** la práctica del código de integridad.\n- Es **referente** en la organización por su comportamiento ético.\n\n*Niveles intermedios:* el 2 respeta el código **aun sobre sus propios intereses** y maneja con imparcialidad los temas a su cargo; el 3 es **confiable con la información** a su cargo, coherente entre el decir y el hacer, y corrige sus errores."
+        },
+        {
+          "ref": "comp-q-006"
+        },
+        {
+          "ref": "comp-q-007"
+        },
+        {
+          "ref": "comp-q-008"
+        },
+        {
+          "ref": "comp-q-009"
+        },
+        {
+          "ref": "comp-q-010"
+        }
+      ]
+    },
+    {
+      "id": "comp-03",
+      "title": "Comunicación efectiva (niveles 1 y 3)",
+      "minutes": 5,
+      "steps": [
+        {
+          "id": "comp-c-004",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, niveles 1 a 4",
+          "title": "Comunicación efectiva: nivel 1 (básica) y nivel 3 (Gestor III)",
+          "body": "**Definición:** escuchar, entender a otros y transmitir información de forma clara y precisa (escrita, verbal y gestual) para construir redes de contacto efectivas.\n\n**Nivel 1 (básica):** escucha activamente, informa con claridad y **verifica la comprensión** del mensaje.\n- Diálogo **respetuoso** con superiores, colaboradores, pares y ciudadanos.\n- Hace las **preguntas adecuadas** para obtener la información que necesita.\n- **Se asegura de que su interlocutor comprenda** el mensaje.\n\n**Nivel 3 (específica de Gestor III):** **selecciona los métodos más adecuados** para comunicar, consolidando redes de contacto y considerando su impacto en los interlocutores.\n- **Consolida** las redes de contacto internas y externas, generando un **clima de colaboración**.\n- **Minimiza las barreras y distorsiones** que dificultan la circulación de la información; puede apoyarse en la tecnología.\n- Busca intercambios de información **veraz y efectiva** que faciliten los objetivos institucionales.\n\n*Para comparar:* el nivel 2 **adapta su discurso y canal** y comunica con asertividad los desacuerdos; el nivel 4 **estructura y mantiene abiertos los canales** de comunicación."
+        },
+        {
+          "ref": "comp-q-011"
+        },
+        {
+          "ref": "comp-q-012"
+        },
+        {
+          "ref": "comp-q-013"
+        },
+        {
+          "ref": "comp-q-014"
+        },
+        {
+          "ref": "comp-q-015"
+        }
+      ]
+    },
+    {
+      "id": "comp-04",
+      "title": "Orientación al logro",
+      "minutes": 5,
+      "steps": [
+        {
+          "id": "comp-c-005",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+          "title": "Orientación al logro: nivel 1",
+          "body": "**Definición:** orientar el trabajo propio al cumplimiento de los objetivos, en el marco de la estrategia y con estándares de calidad.\n\n**Nivel 1:** demuestra disposición y **cumple las acciones necesarias** para alcanzar los objetivos asignados.\n- Cumple lo solicitado **en los tiempos previstos y con los recursos asignados**.\n- **Organiza y controla su propio trabajo** para ser más productivo y usa bien la tecnología.\n- **Se responsabiliza** por el logro de sus objetivos y actividades.\n\n*Para comparar:* el nivel 2 **mide** sus resultados y aporta soluciones a problemas inesperados; el 3 enfoca sus aportes en los resultados **de la dependencia** y prevé planes de contingencia; el 4 **propone nuevos desafíos** y promueve un ambiente de logro."
+        },
+        {
+          "ref": "comp-q-016"
+        },
+        {
+          "ref": "comp-q-017"
+        },
+        {
+          "ref": "comp-q-018"
+        },
+        {
+          "ref": "comp-q-019"
+        },
+        {
+          "ref": "comp-q-020"
+        }
+      ]
+    },
+    {
+      "id": "comp-05",
+      "title": "Orientación al usuario y al ciudadano",
+      "minutes": 5,
+      "steps": [
+        {
+          "id": "comp-c-006",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+          "title": "Orientación al usuario y al ciudadano: nivel 1",
+          "body": "**Definición:** entender y satisfacer las necesidades y expectativas de usuarios y ciudadanos, según las políticas públicas y los estándares de calidad.\n\n**Nivel 1:** escucha y atiende al ciudadano en forma **objetiva y cordial** para responder **dentro de los plazos y condiciones de calidad**.\n- **Escucha activamente** y busca respuestas **oportunas, actualizadas y eficientes**.\n- Brinda soluciones aplicando los **protocolos de servicio**, los estándares de calidad y la tecnología disponible.\n- Muestra **disposición de servicio, amabilidad y respeto**.\n\n*Para comparar:* el nivel 2 usa comunicación **empática**, verifica la **satisfacción** y muestra **autocontrol emocional** en situaciones difíciles; el 3 crea **puentes** entre unidades y entidades; el 4 **anticipa** necesidades con estrategias innovadoras."
+        },
+        {
+          "ref": "comp-q-021"
+        },
+        {
+          "ref": "comp-q-022"
+        },
+        {
+          "ref": "comp-q-023"
+        },
+        {
+          "ref": "comp-q-024"
+        },
+        {
+          "ref": "comp-q-025"
+        }
+      ]
+    },
+    {
+      "id": "comp-06",
+      "title": "Trabajo en equipo",
+      "minutes": 5,
+      "steps": [
+        {
+          "id": "comp-c-007",
+          "type": "concept",
+          "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, niveles 1 y 3",
+          "title": "Trabajo en equipo: niveles 1 y 3",
+          "body": "**Definición:** trabajar con otros de forma coordinada, armónica y sinérgica, potenciando los aportes de cada integrante.\n\n**Nivel 1:** se **compromete con los acuerdos** del equipo.\n- Participa en las actividades del equipo y **cumple los acuerdos**.\n- **Colabora** con los demás integrantes.\n- **Acepta las normas comunes** de trabajo.\n\n**Nivel 3:** **fomenta el espíritu de colaboración**, valora los aportes de cada integrante y cuida el buen clima laboral.\n- **Orienta** el trabajo del equipo y fomenta y reconoce la participación de todos.\n- **Monitorea** el cumplimiento de los objetivos del equipo y **alerta sobre desviaciones con datos**.\n- Tiene una actitud **proactiva, receptiva y abierta** frente a las decisiones del equipo.\n\n*Para comparar:* el nivel 2 coopera, aporta su conocimiento y valora la diversidad de opiniones; el nivel 4 antepone el equipo a los intereses individuales y es referente conciliador."
+        },
+        {
+          "ref": "comp-q-026"
+        },
+        {
+          "ref": "comp-q-027"
+        },
+        {
+          "ref": "comp-q-028"
+        },
+        {
+          "ref": "comp-q-029"
+        },
+        {
+          "ref": "comp-q-030"
+        }
+      ]
+    },
+    {
+      "id": "comp-07",
+      "title": "Autoinforme A (práctica sin puntaje)",
+      "minutes": 5,
+      "steps": [
+        {
+          "ref": "comp-q-031"
+        },
+        {
+          "ref": "comp-q-036"
+        },
+        {
+          "ref": "comp-q-041"
+        },
+        {
+          "ref": "comp-q-046"
+        },
+        {
+          "ref": "comp-q-051"
+        },
+        {
+          "ref": "comp-q-056"
+        },
+        {
+          "ref": "comp-q-034"
+        },
+        {
+          "ref": "comp-q-038"
+        },
+        {
+          "ref": "comp-q-044"
+        },
+        {
+          "ref": "comp-q-059"
+        }
+      ]
+    },
+    {
+      "id": "comp-08",
+      "title": "Autoinforme B (práctica sin puntaje)",
+      "minutes": 5,
+      "steps": [
+        {
+          "ref": "comp-q-032"
+        },
+        {
+          "ref": "comp-q-037"
+        },
+        {
+          "ref": "comp-q-042"
+        },
+        {
+          "ref": "comp-q-047"
+        },
+        {
+          "ref": "comp-q-052"
+        },
+        {
+          "ref": "comp-q-057"
+        },
+        {
+          "ref": "comp-q-035"
+        },
+        {
+          "ref": "comp-q-039"
+        },
+        {
+          "ref": "comp-q-045"
+        },
+        {
+          "ref": "comp-q-060"
+        }
+      ]
+    },
+    {
+      "id": "comp-09",
+      "title": "Autoinforme C (práctica sin puntaje)",
+      "minutes": 5,
+      "steps": [
+        {
+          "ref": "comp-q-033"
+        },
+        {
+          "ref": "comp-q-043"
+        },
+        {
+          "ref": "comp-q-048"
+        },
+        {
+          "ref": "comp-q-049"
+        },
+        {
+          "ref": "comp-q-050"
+        },
+        {
+          "ref": "comp-q-053"
+        },
+        {
+          "ref": "comp-q-054"
+        },
+        {
+          "ref": "comp-q-055"
+        },
+        {
+          "ref": "comp-q-058"
+        },
+        {
+          "ref": "comp-q-040"
+        }
+      ]
+    },
+    {
+      "id": "comp-12",
+      "title": "Autoinforme D: niveles específicos de Gestor III (práctica sin puntaje)",
+      "minutes": 5,
+      "steps": [
+        {
+          "ref": "comp-q-081"
+        },
+        {
+          "ref": "comp-q-083"
+        },
+        {
+          "ref": "comp-q-038"
+        },
+        {
+          "ref": "comp-q-059"
+        },
+        {
+          "ref": "comp-q-082"
+        },
+        {
+          "ref": "comp-q-084"
+        },
+        {
+          "ref": "comp-q-039"
+        },
+        {
+          "ref": "comp-q-060"
+        },
+        {
+          "ref": "comp-q-035"
+        },
+        {
+          "ref": "comp-q-044"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "comp-fc-001",
+      "front": "Las 6 competencias comportamentales básicas",
+      "back": "Adaptabilidad, Comportamiento ético, Comunicación efectiva, Orientación al logro, Orientación al usuario y al ciudadano, y Trabajo en equipo.",
+      "source": "Res. DIAN 065/2024, Cap. II"
+    },
+    {
+      "id": "comp-fc-002",
+      "front": "Competencias básicas: ¿qué nivel?",
+      "back": "Se asimilan al nivel 1 y están en todas las fichas de empleo.",
+      "source": "Res. DIAN 065/2024, Cap. II"
+    },
+    {
+      "id": "comp-fc-003",
+      "front": "Adaptabilidad nivel 3 (idea clave)",
+      "back": "Se anticipa a los cambios; identifica sus repercusiones en su dependencia; actitud positiva y autocontrol; proactivo al adoptarlos.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3"
+    },
+    {
+      "id": "comp-fc-004",
+      "front": "Comportamiento ético nivel 4 (idea clave)",
+      "back": "Consciente de las repercusiones de su actuación; promueve el código en los equipos; es referente ético.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4"
+    },
+    {
+      "id": "comp-fc-005",
+      "front": "Comunicación efectiva nivel 3 (idea clave)",
+      "back": "Elige el método más adecuado; consolida redes internas y externas; minimiza barreras en la circulación de la información.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3"
+    },
+    {
+      "id": "comp-fc-006",
+      "front": "Orientación al logro nivel 1 (idea clave)",
+      "back": "Cumple en tiempo y con los recursos asignados; organiza y controla su trabajo; se responsabiliza.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1"
+    },
+    {
+      "id": "comp-fc-007",
+      "front": "Orientación al usuario nivel 1 (idea clave)",
+      "back": "Escucha y atiende con objetividad y cordialidad, según protocolos, dentro de plazos y con calidad.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1"
+    },
+    {
+      "id": "comp-fc-008",
+      "front": "Trabajo en equipo nivel 3 (idea clave)",
+      "back": "Fomenta la colaboración; orienta y reconoce la participación; monitorea y alerta con datos; es receptivo a las decisiones.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3"
+    },
+    {
+      "id": "comp-fc-009",
+      "front": "Prueba comportamental: formato",
+      "back": "Autoinforme Likert de 4 opciones; sin respuestas correctas; dos subescalas de control detectan respuestas exageradamente favorables.",
+      "source": "GOA DIAN 2676, págs. 18–19 y 25"
+    },
+    {
+      "id": "comp-fc-010",
+      "front": "Competencias comportamentales específicas de esta OPEC (Gestor III, 236842)",
+      "back": "Comportamiento ético 4, Adaptabilidad 3, Comunicación efectiva 3 y Trabajo en equipo 3 (más las 6 básicas en nivel 1).",
+      "source": "Ficha CT-CR-3006 (Gestor III) e indicadores de la OPEC 236842"
+    },
+    {
+      "id": "comp-fc-011",
+      "front": "Adaptabilidad: ¿qué separa el nivel 3 del 4?",
+      "back": "El 3 se anticipa y ajusta su propio accionar; el 4 diseña herramientas, estimula a los equipos y es agente de cambio.",
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, niveles 3 y 4"
+    }
+  ],
+  "questions": [
+    {
+      "id": "comp-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 1",
+      "prompt": "¿Qué conducta corresponde al nivel 1 de Adaptabilidad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Integra con facilidad nuevas perspectivas, aprendizajes y tecnologías para cumplir su labor."
+        },
+        {
+          "id": "b",
+          "text": "Diseña nuevas metodologías de adaptación y fomenta su uso en los equipos donde participa."
+        },
+        {
+          "id": "c",
+          "text": "Se anticipa a los cambios de su entorno y ajusta su accionar antes de que ocurran."
+        }
+      ],
+      "answer": "a",
+      "explain": "Es una de las tres conductas observables del nivel 1.",
+      "optionWhy": {
+        "b": "Diseñar metodologías y fomentarlas en equipos es del nivel 4.",
+        "c": "Anticiparse a los cambios describe el nivel 3."
+      }
+    },
+    {
+      "id": "comp-q-002",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 2",
+      "prompt": "¿Cuál de estas conductas es propia del nivel 2 de Adaptabilidad (y no del nivel 1)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pone en marcha los cambios que le proponen en sus objetivos laborales."
+        },
+        {
+          "id": "b",
+          "text": "Evalúa distintas posturas y ajusta su actuar ante nuevas evidencias o posibilidades."
+        },
+        {
+          "id": "c",
+          "text": "Demuestra con sus acciones que es un agente de cambio en la organización."
+        }
+      ],
+      "answer": "b",
+      "explain": "Revaluar las propias certezas ante nuevos argumentos y evidencias es lo que caracteriza el nivel 2.",
+      "optionWhy": {
+        "a": "Es del nivel 1.",
+        "c": "Ser agente de cambio es del nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-003",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Adaptabilidad con su nivel.",
+      "pairs": [
+        {
+          "left": "Pone en marcha los cambios que le proponen",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Entiende sistémicamente los cambios y usa las herramientas de la entidad",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Identifica cómo los cambios afectan su dependencia y fomenta nuevas metodologías",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Demuestra con sus acciones ser un agente de cambio",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "Los niveles van de aplicar el cambio (1) a entenderlo y apoyarlo (2), anticiparlo (3) y liderarlo (4)."
+    },
+    {
+      "id": "comp-q-004",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. II",
+      "statement": "Según la Res. 065/2024, las competencias comportamentales básicas se asimilan al nivel 1 de desarrollo.",
+      "answer": true,
+      "explain": "Verdadero. El Cap. II dice que las básicas se asimilan al nivel más bajo, el nivel 1, y deben estar en todas las fichas de empleo."
+    },
+    {
+      "id": "comp-q-005",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 2",
+      "prompt": "La DIAN reemplaza el aplicativo de fiscalización. ¿Qué actuación refleja mejor el nivel 2 de Adaptabilidad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Usar el nuevo aplicativo solo cuando el jefe lo exige y seguir con el anterior mientras se pueda."
+        },
+        {
+          "id": "b",
+          "text": "Diseñar una herramienta propia y pedir a todo el grupo que la use en lugar del aplicativo."
+        },
+        {
+          "id": "c",
+          "text": "Entender por qué cambió el proceso, aplicar las guías de la entidad y apoyar el cambio en su grupo."
+        }
+      ],
+      "answer": "c",
+      "explain": "Nivel 2: entiende los cambios de manera sistémica, aplica las herramientas que propone la entidad y apoya y promueve el cambio.",
+      "optionWhy": {
+        "a": "Resistirse al cambio no corresponde a ningún nivel.",
+        "b": "Diseñar herramientas es del nivel 4, y aquí además se aparta de lo que propone la entidad."
+      }
+    },
+    {
+      "id": "comp-q-006",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético",
+      "prompt": "¿Qué competencia se define como «actuar de acuerdo con prácticas laborales correctas, demostrando congruencia entre el discurso y la actuación»?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compromiso con la organización"
+        },
+        {
+          "id": "b",
+          "text": "Comportamiento ético"
+        },
+        {
+          "id": "c",
+          "text": "Orientación al logro"
+        }
+      ],
+      "answer": "b",
+      "explain": "Es la definición de Comportamiento ético, enmarcada en el código de integridad de la DIAN.",
+      "optionWhy": {
+        "a": "Compromiso con la organización es alinear la conducta con las metas y prioridades de la entidad.",
+        "c": "Orientación al logro es orientar el trabajo propio al cumplimiento de los objetivos."
+      }
+    },
+    {
+      "id": "comp-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4",
+      "prompt": "¿Qué conducta corresponde al nivel 4 de Comportamiento ético?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conoce y aplica el código de integridad de la organización."
+        },
+        {
+          "id": "b",
+          "text": "Maneja de forma imparcial los temas a su cargo."
+        },
+        {
+          "id": "c",
+          "text": "Es referente en la organización por su comportamiento ético."
+        }
+      ],
+      "answer": "c",
+      "explain": "Ser referente, promover el código en los equipos y ser consciente de las repercusiones de su actuación son las conductas del nivel 4.",
+      "optionWhy": {
+        "a": "Es del nivel 1.",
+        "b": "Es del nivel 2."
+      }
+    },
+    {
+      "id": "comp-q-008",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Comportamiento ético con su nivel.",
+      "pairs": [
+        {
+          "left": "Conoce y aplica el código de integridad",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Maneja de forma imparcial los temas a su cargo",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Asume las consecuencias de sus actos y corrige sus errores",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Promueve en los equipos la práctica del código",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "Del nivel 1 al 4 se pasa de aplicar el código a promoverlo en otros."
+    },
+    {
+      "id": "comp-q-009",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV (nota)",
+      "statement": "Comportamiento ético es solo una competencia básica; por eso siempre se evalúa en nivel 1.",
+      "answer": false,
+      "explain": "Falso. Es básica (nivel 1), pero también es específica y gerencial, y en esos casos su nivel es superior a 1."
+    },
+    {
+      "id": "comp-q-010",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4",
+      "prompt": "Un gestor nota que su grupo empezó a omitir la revisión de conflictos de interés para cumplir metas más rápido. ¿Qué actuación refleja el nivel 4 de Comportamiento ético?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plantear al grupo retomar la revisión y explicar el impacto de omitirla en la confianza en la entidad."
+        },
+        {
+          "id": "b",
+          "text": "Hacer él la revisión en sus propios casos y dejar que cada compañero decida qué hace con los suyos."
+        },
+        {
+          "id": "c",
+          "text": "Esperar a la evaluación de fin de año para mencionar la situación de manera general."
+        }
+      ],
+      "answer": "a",
+      "explain": "El nivel 4 promueve la práctica del código en los equipos y es consciente de las repercusiones de las actuaciones en el servicio.",
+      "optionWhy": {
+        "b": "Cumplir solo en lo propio es nivel 1; el nivel 4 influye en el equipo.",
+        "c": "Aplazarlo permite que la práctica incorrecta continúe."
+      }
+    },
+    {
+      "id": "comp-q-011",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "prompt": "¿Qué conducta corresponde al nivel 1 de Comunicación efectiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estructura y mantiene abiertos los canales de comunicación de la dependencia."
+        },
+        {
+          "id": "b",
+          "text": "Selecciona los métodos de comunicación más adecuados y consolida redes de contacto."
+        },
+        {
+          "id": "c",
+          "text": "Se asegura de que su interlocutor comprenda el mensaje."
+        }
+      ],
+      "answer": "c",
+      "explain": "Verificar la comprensión del mensaje es parte central del nivel 1.",
+      "optionWhy": {
+        "a": "Es del nivel 4.",
+        "b": "Describe el nivel 3."
+      }
+    },
+    {
+      "id": "comp-q-012",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3",
+      "prompt": "¿Cuál conducta es propia del nivel 3 de Comunicación efectiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Realiza las preguntas adecuadas para obtener la información que necesita."
+        },
+        {
+          "id": "b",
+          "text": "Minimiza las barreras que dificultan la circulación de la información."
+        },
+        {
+          "id": "c",
+          "text": "Estructura y mantiene abiertos los canales de comunicación de la entidad."
+        }
+      ],
+      "answer": "b",
+      "explain": "Minimizar barreras y distorsiones en la circulación de la información (incluso con tecnología) es del nivel 3.",
+      "optionWhy": {
+        "a": "Es del nivel 1.",
+        "c": "Es del nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-013",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Comunicación efectiva con su nivel.",
+      "pairs": [
+        {
+          "left": "Hace las preguntas adecuadas para obtener la información",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Comunica con transparencia y asertividad acuerdos y desacuerdos",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Minimiza las barreras que dificultan la circulación de la información",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Busca optimizar los canales y las redes de contacto de la entidad",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "Los niveles avanzan de comunicarse bien uno mismo (1–2) a mejorar cómo circula la información en la entidad (3–4)."
+    },
+    {
+      "id": "comp-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "prompt": "Un contribuyente dice que no entiende el requerimiento que recibió. ¿Qué actuación refleja el nivel 1 de Comunicación efectiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leerle de nuevo el artículo del Estatuto que cita el requerimiento."
+        },
+        {
+          "id": "b",
+          "text": "Explicarle en palabras sencillas y preguntarle qué entendió."
+        },
+        {
+          "id": "c",
+          "text": "Indicarle que la información completa está en la página web."
+        }
+      ],
+      "answer": "b",
+      "explain": "El nivel 1 brinda información clara y precisa y verifica que el interlocutor haya comprendido.",
+      "optionWhy": {
+        "a": "Repetir el texto legal no garantiza que entienda.",
+        "c": "Remitirlo sin explicar no verifica la comprensión."
+      }
+    },
+    {
+      "id": "comp-q-015",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "text": "Nivel 1 de Comunicación efectiva: escucha {{activamente}} y brinda información clara y precisa, verificando la {{comprensión}} del mensaje.",
+      "alternatives": {
+        "comprensión": [
+          "comprension"
+        ]
+      }
+    },
+    {
+      "id": "comp-q-016",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "prompt": "¿Qué conducta corresponde al nivel 1 de Orientación al logro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Propone nuevos desafíos y hace mediciones para evaluar el cumplimiento."
+        },
+        {
+          "id": "b",
+          "text": "Cumple con lo solicitado en los tiempos previstos y con los recursos asignados."
+        },
+        {
+          "id": "c",
+          "text": "Prevé planes de contingencia para asegurar los resultados de la dependencia."
+        }
+      ],
+      "answer": "b",
+      "explain": "Cumplir en tiempo y con los recursos asignados es una de las conductas del nivel 1.",
+      "optionWhy": {
+        "a": "Es del nivel 4.",
+        "c": "Es del nivel 3."
+      }
+    },
+    {
+      "id": "comp-q-017",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Orientación al logro con su nivel.",
+      "pairs": [
+        {
+          "left": "Se responsabiliza por el logro de sus objetivos y actividades",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Hace seguimiento a sus tareas midiendo sus resultados",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Ajusta sus métodos para lograr las metas de la dependencia",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Promueve con su ejemplo un ambiente de logro ético y de calidad",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "El foco pasa de los objetivos propios (1–2) a los de la dependencia (3) y a inspirar a otros (4)."
+    },
+    {
+      "id": "comp-q-018",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Organizar y controlar el propio trabajo, haciendo buen uso de la tecnología, es una conducta del nivel 1 de Orientación al logro.",
+      "answer": true,
+      "explain": "Verdadero. Es una de las tres conductas observables del nivel 1."
+    },
+    {
+      "id": "comp-q-019",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, niveles 1–4",
+      "prompt": "¿Cuál es la descripción del nivel 1 de Orientación al logro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mantiene una actitud orientada a metas según estándares de calidad, en el marco de la estrategia."
+        },
+        {
+          "id": "b",
+          "text": "Propone nuevos desafíos y promueve comportamientos para cumplirlos, con mediciones."
+        },
+        {
+          "id": "c",
+          "text": "Demuestra disposición y cumple las acciones necesarias para alcanzar los objetivos asignados."
+        }
+      ],
+      "answer": "c",
+      "explain": "Es la descripción textual del nivel 1.",
+      "optionWhy": {
+        "a": "Describe el nivel 2.",
+        "b": "Describe el nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-020",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "prompt": "Un gestor tiene tres expedientes que vencen el viernes y el aplicativo estuvo caído un día. ¿Qué actuación refleja el nivel 1 de Orientación al logro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esperar a que el jefe reasigne los expedientes, porque la falla no fue culpa suya."
+        },
+        {
+          "id": "b",
+          "text": "Reorganizar su trabajo por fechas de vencimiento y asumir el cumplimiento de sus tareas."
+        },
+        {
+          "id": "c",
+          "text": "Entregar los tres expedientes incompletos para no incumplir la fecha."
+        }
+      ],
+      "answer": "b",
+      "explain": "El nivel 1 organiza y controla su propio trabajo y se responsabiliza por cumplir lo asignado en el tiempo previsto, con calidad.",
+      "optionWhy": {
+        "a": "Trasladar la responsabilidad contradice «se responsabiliza por el logro de sus actividades».",
+        "c": "Cumplir la fecha sin calidad no es lo que pide la competencia."
+      }
+    },
+    {
+      "id": "comp-q-021",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "prompt": "¿Cuál es la descripción del nivel 1 de Orientación al usuario y al ciudadano?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Escucha y atiende al ciudadano en forma objetiva y cordial, dentro de los plazos y condiciones de calidad."
+        },
+        {
+          "id": "b",
+          "text": "Establece una comunicación empática con el ciudadano y le brinda valor agregado al servicio."
+        },
+        {
+          "id": "c",
+          "text": "Anticipa las necesidades de los ciudadanos con estrategias innovadoras en su dependencia."
+        }
+      ],
+      "answer": "a",
+      "explain": "Es la descripción textual del nivel 1.",
+      "optionWhy": {
+        "b": "Describe el nivel 2.",
+        "c": "Describe el nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-022",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Orientación al usuario con su nivel.",
+      "pairs": [
+        {
+          "left": "Brinda soluciones aplicando los protocolos de servicio",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Demuestra autocontrol emocional en situaciones difíciles",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Crea puentes entre unidades, procesos y entidades",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Diseña nuevas metodologías para un servicio de excelencia",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "Del nivel 1 al 4 se pasa de atender bien con el protocolo a transformar el servicio."
+    },
+    {
+      "id": "comp-q-023",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 2",
+      "statement": "Verificar constantemente la satisfacción de los ciudadanos y proponer mejoras es una conducta del nivel 1 de Orientación al usuario.",
+      "answer": false,
+      "explain": "Falso. Es del nivel 2. El nivel 1 se centra en escuchar, aplicar los protocolos y atender con amabilidad dentro de los plazos."
+    },
+    {
+      "id": "comp-q-024",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "prompt": "Diez minutos antes del cierre llega un ciudadano con una pregunta sobre el RUT. ¿Qué actuación refleja el nivel 1 de Orientación al usuario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pedirle que vuelva al día siguiente, porque la jornada está por terminar."
+        },
+        {
+          "id": "b",
+          "text": "Responderle rápido lo primero que se le ocurra para poder cerrar a tiempo."
+        },
+        {
+          "id": "c",
+          "text": "Escucharlo con cordialidad y responder según el protocolo, o indicarle el canal adecuado."
+        }
+      ],
+      "answer": "c",
+      "explain": "El nivel 1 escucha y atiende con cordialidad, aplica los protocolos de servicio y busca respuestas oportunas.",
+      "optionWhy": {
+        "a": "Despacharlo sin orientarlo no muestra disposición de servicio.",
+        "b": "Una respuesta improvisada no cumple los estándares de calidad."
+      }
+    },
+    {
+      "id": "comp-q-025",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, niveles 1 y 4",
+      "prompt": "¿Qué diferencia el nivel 1 del nivel 4 en Orientación al usuario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El nivel 1 es para usuarios internos y el nivel 4 para ciudadanos."
+        },
+        {
+          "id": "b",
+          "text": "El 1 atiende con cordialidad según protocolos y plazos; el 4 anticipa necesidades con estrategias nuevas."
+        },
+        {
+          "id": "c",
+          "text": "El 1 innova en el servicio y el 4 aplica con rigor los protocolos existentes."
+        }
+      ],
+      "answer": "b",
+      "explain": "Los niveles avanzan de atender bien cada caso (1) a anticipar necesidades y crear nuevas formas de servicio (4).",
+      "optionWhy": {
+        "a": "Ambos niveles se refieren a usuarios y ciudadanos.",
+        "c": "Está al revés."
+      }
+    },
+    {
+      "id": "comp-q-026",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 1",
+      "prompt": "¿Qué conducta corresponde al nivel 1 de Trabajo en equipo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orienta el trabajo del equipo y reconoce la participación de todos."
+        },
+        {
+          "id": "b",
+          "text": "Alienta al equipo y crea ambientes laborales colaborativos."
+        },
+        {
+          "id": "c",
+          "text": "Acepta las normas comunes de trabajo establecidas por el equipo."
+        }
+      ],
+      "answer": "c",
+      "explain": "Aceptar las normas comunes, colaborar y cumplir los acuerdos son las conductas del nivel 1.",
+      "optionWhy": {
+        "a": "Es del nivel 3.",
+        "b": "Es del nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-027",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3",
+      "prompt": "¿Cuál conducta es propia del nivel 3 de Trabajo en equipo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monitorea los objetivos del equipo y alerta sobre desviaciones con datos."
+        },
+        {
+          "id": "b",
+          "text": "Colabora con los demás integrantes del equipo."
+        },
+        {
+          "id": "c",
+          "text": "Muestra disposición para ayudar a otros miembros del equipo."
+        }
+      ],
+      "answer": "a",
+      "explain": "Monitorear los objetivos del equipo y alertar con datos es del nivel 3.",
+      "optionWhy": {
+        "b": "Es del nivel 1.",
+        "c": "Es del nivel 2."
+      }
+    },
+    {
+      "id": "comp-q-028",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, niveles 1–4",
+      "prompt": "Relaciona cada conducta de Trabajo en equipo con su nivel.",
+      "pairs": [
+        {
+          "left": "Participa en las actividades del equipo y cumple los acuerdos",
+          "right": "Nivel 1"
+        },
+        {
+          "left": "Aporta su conocimiento y valora la diversidad de opinión",
+          "right": "Nivel 2"
+        },
+        {
+          "left": "Actitud receptiva y abierta frente a las decisiones del equipo",
+          "right": "Nivel 3"
+        },
+        {
+          "left": "Antepone los intereses del equipo a los individuales",
+          "right": "Nivel 4"
+        }
+      ],
+      "explain": "Del compromiso con los acuerdos (1) a anteponer el equipo a lo individual (4)."
+    },
+    {
+      "id": "comp-q-029",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3",
+      "prompt": "En una reunión, el equipo decide un reparto de casos con el que Laura no está de acuerdo. ¿Qué actuación refleja el nivel 3 de Trabajo en equipo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aceptar en silencio y luego organizar su trabajo a su manera."
+        },
+        {
+          "id": "b",
+          "text": "Exponer sus argumentos y, adoptada la decisión, apoyarla con actitud abierta."
+        },
+        {
+          "id": "c",
+          "text": "Insistir en cada reunión hasta que el equipo cambie el reparto."
+        }
+      ],
+      "answer": "b",
+      "explain": "El nivel 3 valora los aportes (incluido el propio) y muestra una actitud proactiva, receptiva y abierta frente a las decisiones adoptadas.",
+      "optionWhy": {
+        "a": "Apartarse del acuerdo contradice incluso el nivel 1.",
+        "c": "Insistir sin fin no es receptivo y afecta el clima laboral."
+      }
+    },
+    {
+      "id": "comp-q-030",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3",
+      "text": "Nivel 3 de Trabajo en equipo: fomenta el espíritu de {{colaboración}}, valorando los aportes de cada integrante y cuidando el buen {{clima}} laboral.",
+      "alternatives": {
+        "colaboración": [
+          "colaboracion"
+        ]
+      }
+    },
+    {
+      "id": "comp-q-031",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 1",
+      "statement": "Cuando la entidad cambia un aplicativo, dedico tiempo a aprenderlo aunque eso me quite horas para otras tareas.",
+      "competency": "Adaptabilidad",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Integra con facilidad nuevas perspectivas, aprendizajes y tecnologías que le permitan cumplir con su labor.»"
+    },
+    {
+      "id": "comp-q-032",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 1",
+      "statement": "Si me asignan un tipo de trámite que nunca he hecho, lo asumo aunque al principio me tome más tiempo.",
+      "competency": "Adaptabilidad",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Acepta con disposición el enfrentarse a nuevas e inesperadas situaciones y medios.»"
+    },
+    {
+      "id": "comp-q-033",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 1",
+      "statement": "Aplico los cambios que mi jefe propone en mis metas aunque deba reorganizar lo que ya tenía planeado.",
+      "competency": "Adaptabilidad",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Pone en marcha los cambios que le son propuestos en sus objetivos laborales.»"
+    },
+    {
+      "id": "comp-q-034",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "statement": "Cuando sé que una norma o un procedimiento va a cambiar, reviso desde antes cómo afectará mi trabajo.",
+      "competency": "Adaptabilidad",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Se anticipa a los cambios en las diversas situaciones, contextos y medios, producto de la revisión de los objetivos bajo su responsabilidad, adecuando su propio accionar a los cambios necesarios.»"
+    },
+    {
+      "id": "comp-q-035",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "statement": "Mantengo la calma y una actitud positiva cuando cambian las prioridades del área a última hora.",
+      "competency": "Adaptabilidad",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Asume una actitud positiva y de autocontrol frente a los cambios, apoyado en el Código de Integridad.»"
+    },
+    {
+      "id": "comp-q-036",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 1",
+      "statement": "Sigo el procedimiento completo de un trámite aunque nadie vaya a revisar si me salté un paso.",
+      "competency": "Comportamiento ético",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Demuestra integridad en el ejercicio de sus tareas.»"
+    },
+    {
+      "id": "comp-q-037",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 1",
+      "statement": "Cuando dudo si una actuación es correcta, consulto el código de integridad antes de decidir, aunque eso retrase mi respuesta.",
+      "competency": "Comportamiento ético",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Conoce y aplica el código de integridad de la organización.»"
+    },
+    {
+      "id": "comp-q-038",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4",
+      "statement": "En mi grupo de trabajo propongo espacios para analizar casos éticos, aunque eso ocupe tiempo de la reunión.",
+      "competency": "Comportamiento ético",
+      "level": 4,
+      "insight": "Conducta observable (nivel 4): «Promueve en los equipos de trabajo en los que participa la práctica del código de integridad en todas las esferas de actuación.»"
+    },
+    {
+      "id": "comp-q-039",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4",
+      "statement": "Antes de actuar pienso en cómo mi decisión afectará la confianza de los ciudadanos en la entidad, aunque la opción más rápida sea otra.",
+      "competency": "Comportamiento ético",
+      "level": 4,
+      "insight": "Conducta observable (nivel 4): «Es consciente de las repercusiones de su actuación en el servicio que ofrece la entidad, orientando su conducta de acuerdo con el código de integridad.»"
+    },
+    {
+      "id": "comp-q-040",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comportamiento ético, nivel 4",
+      "statement": "Cuando un compañero me consulta un dilema ético, me tomo el tiempo de orientarlo aunque tenga trabajo pendiente.",
+      "competency": "Comportamiento ético",
+      "level": 4,
+      "insight": "Conducta observable (nivel 4): «Es referente en la organización por su comportamiento ético.»"
+    },
+    {
+      "id": "comp-q-041",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "statement": "Después de explicar un trámite a un ciudadano, le pido que me cuente qué entendió, aunque haya fila.",
+      "competency": "Comunicación efectiva",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Se asegura de que su interlocutor comprenda el mensaje.»"
+    },
+    {
+      "id": "comp-q-042",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "statement": "Antes de empezar una tarea poco clara, hago las preguntas necesarias aunque parezca que no domino el tema.",
+      "competency": "Comunicación efectiva",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Realiza las preguntas adecuadas a fin de obtener la información que necesita, de acuerdo con la necesidad.»"
+    },
+    {
+      "id": "comp-q-043",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 1",
+      "statement": "Mantengo un trato respetuoso con superiores, compañeros y ciudadanos aun cuando estoy presionado por los tiempos.",
+      "competency": "Comunicación efectiva",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Hace un uso adecuado de las redes de contacto organizacionales, manteniendo un diálogo respetuoso con superiores, colaboradores, pares y ciudadanos.»"
+    },
+    {
+      "id": "comp-q-044",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3",
+      "statement": "Si veo que la información no llega a quienes la necesitan, propongo otra forma de hacerla circular.",
+      "competency": "Comunicación efectiva",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Minimiza las barreras y distorsiones que dificultan la circulación de la información organizacional, para ello puede hacer uso de la tecnología.»"
+    },
+    {
+      "id": "comp-q-045",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3",
+      "statement": "Mantengo contacto con personas de otras áreas para resolver los casos que compartimos.",
+      "competency": "Comunicación efectiva",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Consolida las redes de contacto externas e internas generando un clima de colaboración.»"
+    },
+    {
+      "id": "comp-q-046",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Entrego mis tareas en la fecha acordada, aunque para lograrlo deba reorganizar mi jornada.",
+      "competency": "Orientación al logro",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Cumple con lo solicitado en los tiempos previstos y con los recursos que se le asignan.»"
+    },
+    {
+      "id": "comp-q-047",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Llevo un control de mis pendientes y vencimientos, aunque me tome unos minutos cada día.",
+      "competency": "Orientación al logro",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Realiza una adecuada organización y control de su propio trabajo para incrementar su productividad, haciendo buen uso de la tecnología.»"
+    },
+    {
+      "id": "comp-q-048",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Si no cumplo una meta, reviso primero qué pude hacer yo antes de buscar otras causas.",
+      "competency": "Orientación al logro",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Se responsabiliza por el logro de los objetivos y actividades propias.»"
+    },
+    {
+      "id": "comp-q-049",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Uso las herramientas tecnológicas disponibles para avanzar en mi trabajo, aunque al principio me cueste aprenderlas.",
+      "competency": "Orientación al logro",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Realiza una adecuada organización y control de su propio trabajo para incrementar su productividad, haciendo buen uso de la tecnología.»"
+    },
+    {
+      "id": "comp-q-050",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al logro, nivel 1",
+      "statement": "Avanzo en lo que me asignaron con los recursos disponibles, en lugar de esperar condiciones ideales para empezar.",
+      "competency": "Orientación al logro",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Cumple con lo solicitado en los tiempos previstos y con los recursos que se le asignan.»"
+    },
+    {
+      "id": "comp-q-051",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "statement": "Si al final de la jornada llega un ciudadano con una consulta, lo atiendo con la misma cordialidad que al primero del día.",
+      "competency": "Orientación al usuario y al ciudadano",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Muestra disposición de servicio, amabilidad y respeto en la atención a los ciudadanos y usuarios.»"
+    },
+    {
+      "id": "comp-q-052",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "statement": "Escucho completa la situación del contribuyente antes de responder, aunque crea saber desde el principio lo que necesita.",
+      "competency": "Orientación al usuario y al ciudadano",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Escucha activamente las necesidades y requerimientos de los ciudadanos y orienta sus esfuerzos en la entrega de respuestas y/o soluciones oportunas, actualizadas y eficientes.»"
+    },
+    {
+      "id": "comp-q-053",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "statement": "Sigo el protocolo de servicio aunque el ciudadano tenga prisa y me pida saltarme pasos.",
+      "competency": "Orientación al usuario y al ciudadano",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Brinda soluciones a los usuarios y ciudadanos aplicando los protocolos de servicio, los estándares de calidad y haciendo uso de la tecnología disponible.»"
+    },
+    {
+      "id": "comp-q-054",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "statement": "Verifico que la información que entrego al ciudadano esté actualizada, aunque eso alargue la atención.",
+      "competency": "Orientación al usuario y al ciudadano",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Escucha activamente las necesidades y requerimientos de los ciudadanos y orienta sus esfuerzos en la entrega de respuestas y/o soluciones oportunas, actualizadas y eficientes.»"
+    },
+    {
+      "id": "comp-q-055",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Orientación al usuario y al ciudadano, nivel 1",
+      "statement": "Respondo las solicitudes de los ciudadanos dentro del plazo, aunque tenga otras tareas que me resulten más interesantes.",
+      "competency": "Orientación al usuario y al ciudadano",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Escucha y atiende al ciudadano en forma objetiva y cordial para dar respuesta dentro de los plazos y condiciones de calidad establecidos.»"
+    },
+    {
+      "id": "comp-q-056",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 1",
+      "statement": "Cumplo los acuerdos del equipo aunque yo hubiera preferido otra forma de hacer las cosas.",
+      "competency": "Trabajo en equipo",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Participa en las actividades del equipo y cumple con los acuerdos, en pro de la consecución de los objetivos establecidos.»"
+    },
+    {
+      "id": "comp-q-057",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 1",
+      "statement": "Ayudo a un compañero que está atrasado aunque eso signifique terminar más tarde mis propias tareas.",
+      "competency": "Trabajo en equipo",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Colabora con los demás integrantes del equipo.»"
+    },
+    {
+      "id": "comp-q-058",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 1",
+      "statement": "Respeto las reglas de trabajo que acordó el grupo, como formatos y horarios de reunión, aunque me parezcan poco prácticas.",
+      "competency": "Trabajo en equipo",
+      "level": 1,
+      "insight": "Conducta observable (nivel 1): «Acepta las normas comunes de trabajo establecidas para la consecución de los resultados.»"
+    },
+    {
+      "id": "comp-q-059",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3",
+      "statement": "Cuando los datos muestran que el equipo se está alejando de una meta, lo advierto a tiempo aunque nadie me lo haya pedido.",
+      "competency": "Trabajo en equipo",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Monitorea el cumplimiento de los objetivos del equipo y alerta sobre las desviaciones, con fundamento en los datos.»"
+    },
+    {
+      "id": "comp-q-060",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Trabajo en equipo, nivel 3",
+      "statement": "En las reuniones procuro que todos opinen, también los compañeros más callados, aunque eso alargue la reunión.",
+      "competency": "Trabajo en equipo",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Orienta el trabajo del equipo, fomenta y reconoce la participación de todos, cuidando del buen ambiente de trabajo.»"
+    },
+    {
+      "id": "comp-q-079",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "prompt": "¿Qué conducta es propia del nivel 3 de Adaptabilidad, el que evalúa esta OPEC de Gestor III?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pone en marcha los cambios que le proponen en sus objetivos laborales."
+        },
+        {
+          "id": "b",
+          "text": "Identifica cómo los cambios afectan su campo de acción y el de su dependencia."
+        },
+        {
+          "id": "c",
+          "text": "Demuestra con sus acciones que es un agente de cambio en la entidad."
+        }
+      ],
+      "answer": "b",
+      "explain": "Identificar las repercusiones de los cambios internos y externos en su campo y en el de la dependencia es conducta del nivel 3.",
+      "optionWhy": {
+        "a": "Es del nivel 1.",
+        "c": "Ser agente de cambio es del nivel 4."
+      }
+    },
+    {
+      "id": "comp-q-080",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "prompt": "La DIAN anuncia que el sistema de cartera cambiará en dos meses. ¿Qué actuación refleja el nivel 3 de Adaptabilidad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esperar a que llegue el sistema y aprenderlo cuando le asignen los casos."
+        },
+        {
+          "id": "b",
+          "text": "Diseñar un método propio de adaptación y exigir al grupo que lo adopte."
+        },
+        {
+          "id": "c",
+          "text": "Revisar qué tareas suyas cambiarán y preparar desde ya los ajustes."
+        }
+      ],
+      "answer": "c",
+      "explain": "El nivel 3 se anticipa a los cambios a partir de la revisión de los objetivos a su cargo y adecúa su propio accionar.",
+      "optionWhy": {
+        "a": "Esperar a que el cambio llegue no es anticiparse; a lo sumo es nivel 1.",
+        "b": "Diseñar herramientas para los equipos es del nivel 4, y no se impone."
+      }
+    },
+    {
+      "id": "comp-q-081",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "statement": "Cuando hay un cambio en la entidad, analizo cómo afecta a mi dependencia aunque no me lo pidan.",
+      "competency": "Adaptabilidad",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Identifica las repercusiones que los cambios externos e internos de la organización tienen en su campo de acción y en el de la dependencia, y fomenta el uso de nuevas metodologías y herramientas que facilitan la adaptación.»"
+    },
+    {
+      "id": "comp-q-082",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Adaptabilidad, nivel 3",
+      "statement": "Adopto un cambio de procedimiento apenas lo identifico, aunque al principio me tome más tiempo.",
+      "competency": "Adaptabilidad",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Es proactivo en la identificación y adopción de los cambios para ajustar su accionar a situaciones, contextos, medios y personas.»"
+    },
+    {
+      "id": "comp-q-083",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3",
+      "statement": "Antes de enviar un mensaje importante, elijo el canal que mejor llegue a cada destinatario.",
+      "competency": "Comunicación efectiva",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Selecciona los métodos más adecuados para lograr comunicaciones efectivas, mediante la consolidación de redes de contacto, considerando su impacto en los interlocutores.»"
+    },
+    {
+      "id": "comp-q-084",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Res. DIAN 065/2024, Cap. IV — Comunicación efectiva, nivel 3",
+      "statement": "Verifico que la información que comparto sea exacta aunque eso retrase mi respuesta.",
+      "competency": "Comunicación efectiva",
+      "level": 3,
+      "insight": "Conducta observable (nivel 3): «Se muestra motivado por generar intercambios de información veraz y efectiva, que faciliten el logro de los objetivos institucionales.»"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "tests": [
+    {
+      "id": "test-basico-1",
+      "title": "Simulacro básico 1",
+      "difficulty": 1,
+      "minutes": 45,
+      "mode": "practice",
+      "items": 30,
+      "likert": 0
+    },
+    {
+      "id": "test-basico-2",
+      "title": "Simulacro básico 2",
+      "difficulty": 1,
+      "minutes": 45,
+      "mode": "practice",
+      "items": 30,
+      "likert": 0
+    },
+    {
+      "id": "test-medio-1",
+      "title": "Simulacro intermedio 1",
+      "difficulty": 2,
+      "minutes": 60,
+      "mode": "practice",
+      "items": 40,
+      "likert": 0
+    },
+    {
+      "id": "test-medio-2",
+      "title": "Simulacro intermedio 2",
+      "difficulty": 2,
+      "minutes": 60,
+      "mode": "practice",
+      "items": 40,
+      "likert": 0
+    },
+    {
+      "id": "test-avanzado-1",
+      "title": "Simulacro avanzado 1",
+      "difficulty": 3,
+      "minutes": 70,
+      "mode": "practice",
+      "items": 40,
+      "likert": 0
+    },
+    {
+      "id": "test-avanzado-2",
+      "title": "Simulacro avanzado 2",
+      "difficulty": 3,
+      "minutes": 70,
+      "mode": "practice",
+      "items": 40,
+      "likert": 0
+    },
+    {
+      "id": "test-examen-1",
+      "title": "Simulación del examen",
+      "difficulty": 2,
+      "minutes": 300,
+      "mode": "exam",
+      "items": 60,
+      "likert": 40
+    },
+    {
+      "id": "test-ficha-1",
+      "title": "Simulacro núcleo recaudo y cartera",
+      "difficulty": 2,
+      "minutes": 60,
+      "mode": "practice",
+      "items": 40,
+      "likert": 0
+    }
+  ]
+}

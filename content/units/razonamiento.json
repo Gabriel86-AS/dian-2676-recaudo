@@ -1,0 +1,964 @@
+{
+  "id": "razonamiento",
+  "title": "Razonamiento analítico",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Lectura de tablas, porcentajes, proporciones y conteo de plazos; deducción lógica (si-entonces, necesario y suficiente, negaciones) y secuencias; lectura crítica (conclusión, supuesto, causa alternativa, tasa base). Ítems originales con contexto DIAN y explicaciones paso a paso, sin calculadora.",
+  "sources": [
+    "Guía Icfes Saber Pro 2026-2 (módulos de Razonamiento cuantitativo y Lectura crítica: competencias y afirmaciones evaluadas)",
+    "GOA DIAN 2676 (CNSC, 19-10-2026): prohibido el uso de calculadora"
+  ],
+  "lessons": [
+    {
+      "id": "raz-01",
+      "title": "Tablas y porcentajes",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "raz-c-001",
+          "type": "concept",
+          "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación; GOA DIAN 2676",
+          "title": "Leer una tabla y calcular porcentajes",
+          "body": "**Antes de calcular:** lee el título, las unidades y qué representa cada columna. Pregúntate qué falta (por ejemplo, los **omisos** = obligados − presentadas).\n\n**Porcentaje = parte ÷ total × 100.** Sin calculadora (la GOA la prohíbe), simplifica la fracción: 340/400 = 34/40 = 17/20 = 85/100.\n\n**Trampas frecuentes:**\n- Comparar **cifras absolutas** de grupos de distinto tamaño. Compara proporciones.\n- **Promediar porcentajes** de grupos distintos. Suma las partes y divide por el total.\n- Aumentar y luego disminuir el mismo % **no** vuelve al inicio.\n- Quitar el IVA: **dividir por 1,19**, no restar el 19 %."
+        },
+        {
+          "ref": "raz-q-001"
+        },
+        {
+          "ref": "raz-q-002"
+        },
+        {
+          "ref": "raz-q-003"
+        },
+        {
+          "ref": "raz-q-004"
+        },
+        {
+          "ref": "raz-q-005"
+        },
+        {
+          "ref": "raz-q-006"
+        },
+        {
+          "ref": "raz-q-007"
+        }
+      ]
+    },
+    {
+      "id": "raz-02",
+      "title": "Proporciones, promedios y plazos",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "raz-c-002",
+          "type": "concept",
+          "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución",
+          "title": "Proporciones y conteo de días",
+          "body": "- **Directa:** si una cantidad crece, la otra también. Calcula por unidad: 45 expedientes ÷ 3 gestores = 15 por gestor.\n- **Inversa:** más personas, menos días. El producto es constante: 4 gestores × 6 días = 24 = 3 gestores × 8 días.\n- **«3 de cada 8»:** divide el total en grupos de 8 y multiplica por 3.\n- **Promedio ponderado:** cada grupo pesa según su tamaño.\n- **Días hábiles:** se cuentan desde el día siguiente y se saltan sábados, domingos y festivos. Cuenta por semanas: 5 días hábiles = una semana calendario."
+        },
+        {
+          "ref": "raz-q-008"
+        },
+        {
+          "ref": "raz-q-009"
+        },
+        {
+          "ref": "raz-q-010"
+        },
+        {
+          "ref": "raz-q-011"
+        },
+        {
+          "ref": "raz-q-012"
+        },
+        {
+          "ref": "raz-q-026"
+        }
+      ]
+    },
+    {
+      "id": "raz-03",
+      "title": "Deducción lógica y secuencias",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "raz-c-003",
+          "type": "concept",
+          "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación",
+          "title": "Si… entonces: qué se puede concluir",
+          "body": "Regla: **si P, entonces Q** («si declara tarde, paga sanción»).\n\n| Sabes que… | ¿Qué concluyes? |\n|---|---|\n| Ocurrió P | Ocurre Q ✔ |\n| No ocurrió Q | No ocurrió P ✔ (*modus tollens*) |\n| Ocurrió Q | **Nada** sobre P ✘ (afirmar el consecuente) |\n| No ocurrió P | **Nada** sobre Q ✘ (negar el antecedente) |\n\n- **Necesario:** sin él no hay resultado, pero no lo garantiza. **Suficiente:** basta para el resultado.\n- **Negación de «todos son X»:** «al menos uno no es X»."
+        },
+        {
+          "id": "raz-c-004",
+          "type": "concept",
+          "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación",
+          "title": "Secuencias y acertijos de asignación",
+          "body": "**Secuencias:** prueba en orden: diferencias entre términos → diferencias de las diferencias → multiplicar o dividir → cuadrados o cubos → dos patrones intercalados (letra y número).\n\n**Acertijos de asignación:** empieza por quien tiene **más restricciones**; asígnalo y elimina esa opción para los demás."
+        },
+        {
+          "ref": "raz-q-013"
+        },
+        {
+          "ref": "raz-q-014"
+        },
+        {
+          "ref": "raz-q-015"
+        },
+        {
+          "ref": "raz-q-016"
+        },
+        {
+          "ref": "raz-q-017"
+        },
+        {
+          "ref": "raz-q-018"
+        },
+        {
+          "ref": "raz-q-019"
+        },
+        {
+          "ref": "raz-q-020"
+        }
+      ]
+    },
+    {
+      "id": "raz-04",
+      "title": "Lectura crítica: conclusiones y supuestos",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "raz-c-005",
+          "type": "concept",
+          "source": "Guía Icfes Saber Pro 2026-2, Lectura crítica — Reflexiona a partir de un texto y evalúa su contenido",
+          "title": "Desarmar un argumento",
+          "body": "- **Conclusión:** lo que el autor quiere demostrar. Suele venir después de «por tanto», «en consecuencia», «así que».\n- **Premisas:** los datos o razones que la apoyan.\n- **Supuesto:** una idea **no dicha** que el argumento necesita para funcionar.\n- **Debilitar:** una **causa alternativa** o un dato que rompa el supuesto.\n- **Hecho vs opinión:** el hecho se verifica con datos; la opinión valora.\n- **Tasa base:** «el 60 % de los sancionados son X» no dice si X es más propenso. Hay que saber cuántos X hay en total."
+        },
+        {
+          "ref": "raz-q-021"
+        },
+        {
+          "ref": "raz-q-022"
+        },
+        {
+          "ref": "raz-q-023"
+        },
+        {
+          "ref": "raz-q-024"
+        },
+        {
+          "ref": "raz-q-025"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "raz-fc-001",
+      "front": "Porcentaje",
+      "back": "Parte ÷ total × 100. Ejemplo: 750 ÷ 5.000 = 0,15 = 15 %.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-002",
+      "front": "Comparar grupos de distinto tamaño",
+      "back": "Compara proporciones, no cifras absolutas: el grupo más grande suele tener más casos sin ser «peor».",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-003",
+      "front": "+20 % y luego −20 %",
+      "back": "No vuelve al inicio: 100 → 120 → 96. La baja se calcula sobre la nueva base.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-004",
+      "front": "Quitar el IVA del 19 %",
+      "back": "Base = precio con IVA ÷ 1,19. No restes el 19 % del precio final.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-005",
+      "front": "Regla de tres directa",
+      "back": "Más de una cosa → más de la otra. Calcula el valor por unidad y multiplica.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-006",
+      "front": "Regla de tres inversa",
+      "back": "Más personas → menos días. Producto constante: personas × días = trabajo total.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-007",
+      "front": "Promedio ponderado",
+      "back": "Si los grupos tienen tamaños distintos, suma los casos y divide por el total; no promedies porcentajes.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-008",
+      "front": "Contar días hábiles",
+      "back": "Empieza el día siguiente al hecho; salta sábados, domingos y festivos. Cuenta por semanas de 5 días.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-009",
+      "front": "Si P → Q, y ocurre Q",
+      "back": "No se puede concluir P (falacia de afirmar el consecuente).",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-010",
+      "front": "Si P → Q, y no ocurre Q",
+      "back": "Se concluye que no ocurrió P (modus tollens).",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-011",
+      "front": "Necesario vs suficiente",
+      "back": "Necesario: sin él no hay resultado, pero no lo garantiza. Si hubo resultado, se cumplió lo necesario.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-012",
+      "front": "Negar «todos son X»",
+      "back": "«Al menos uno no es X». No es «ninguno es X».",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-013",
+      "front": "Secuencias: qué revisar",
+      "back": "Diferencias (y diferencias de diferencias), multiplicaciones, cuadrados y patrones dobles (letra y número).",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-014",
+      "front": "Conclusión vs supuesto",
+      "back": "Conclusión: lo que el autor afirma (después de «por tanto»). Supuesto: idea no dicha que el argumento necesita.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-015",
+      "front": "Debilitar un argumento causal",
+      "back": "Busca una causa alternativa que explique el mismo resultado.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    },
+    {
+      "id": "raz-fc-016",
+      "front": "Tasa base",
+      "back": "Para saber si un grupo es «más propenso», compara casos ÷ tamaño del grupo, no el porcentaje de los casos.",
+      "source": "Guía Icfes Saber Pro 2026-2 (estrategia de solución)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "raz-q-001",
+      "type": "pjs",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación (ítem original)",
+      "case": "Declaraciones de renta de personas jurídicas, año gravable 2025 (datos hipotéticos):\n\n| Seccional | Obligados | A tiempo | Extemporáneas |\n|---|---|---|---|\n| Santa Marta | 12.000 | 9.600 | 1.200 |\n| Valledupar | 8.000 | 6.000 | 1.000 |\n| Riohacha | 5.000 | 3.500 | 750 |\n\nLos obligados que no presentaron son **omisos**.",
+      "prompt": "¿Qué seccional tiene el mayor porcentaje de declaraciones presentadas a tiempo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Santa Marta"
+        },
+        {
+          "id": "b",
+          "text": "Riohacha"
+        },
+        {
+          "id": "c",
+          "text": "Valledupar"
+        }
+      ],
+      "answer": "a",
+      "explain": "A tiempo ÷ obligados:\n- Santa Marta: 9.600 ÷ 12.000 = **80 %**\n- Valledupar: 6.000 ÷ 8.000 = 75 %\n- Riohacha: 3.500 ÷ 5.000 = 70 %",
+      "optionWhy": {
+        "b": "Riohacha tiene el menor porcentaje (70 %).",
+        "c": "Valledupar tiene 75 %."
+      }
+    },
+    {
+      "id": "raz-q-002",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "case": "Declaraciones de renta de personas jurídicas, año gravable 2025 (datos hipotéticos):\n\n| Seccional | Obligados | A tiempo | Extemporáneas |\n|---|---|---|---|\n| Santa Marta | 12.000 | 9.600 | 1.200 |\n| Valledupar | 8.000 | 6.000 | 1.000 |\n| Riohacha | 5.000 | 3.500 | 750 |\n\nLos obligados que no presentaron son **omisos**.",
+      "prompt": "¿Qué porcentaje de los obligados de Riohacha fue omiso?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 %"
+        },
+        {
+          "id": "b",
+          "text": "25 %"
+        },
+        {
+          "id": "c",
+          "text": "15 %"
+        }
+      ],
+      "answer": "c",
+      "explain": "1. Omisos = obligados − a tiempo − extemporáneas = 5.000 − 3.500 − 750 = **750**.\n2. 750 ÷ 5.000 = 0,15 = **15 %**.",
+      "optionWhy": {
+        "a": "10 % es el porcentaje de omisos de Santa Marta.",
+        "b": "25 % sale de restar solo las presentadas a tiempo (1.250 ÷ 5.000), sin descontar las extemporáneas."
+      }
+    },
+    {
+      "id": "raz-q-003",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "case": "Declaraciones de renta de personas jurídicas, año gravable 2025 (datos hipotéticos):\n\n| Seccional | Obligados | A tiempo | Extemporáneas |\n|---|---|---|---|\n| Santa Marta | 12.000 | 9.600 | 1.200 |\n| Valledupar | 8.000 | 6.000 | 1.000 |\n| Riohacha | 5.000 | 3.500 | 750 |\n\nLos obligados que no presentaron son **omisos**.\n\nUn analista afirma: «Santa Marta tiene el peor cumplimiento, porque es la seccional con más omisos».",
+      "prompt": "¿Es correcta la afirmación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sí, porque 1.200 omisos es la cifra más alta de las tres seccionales."
+        },
+        {
+          "id": "b",
+          "text": "No, porque en proporción Riohacha tiene más omisos que las demás."
+        },
+        {
+          "id": "c",
+          "text": "No se puede saber, porque la tabla no muestra el número de omisos."
+        }
+      ],
+      "answer": "b",
+      "explain": "Hay que comparar **proporciones**, no cifras absolutas:\n- Santa Marta: 1.200 ÷ 12.000 = 10 %\n- Valledupar: 1.000 ÷ 8.000 = 12,5 %\n- Riohacha: 750 ÷ 5.000 = **15 %**\n\nSanta Marta tiene más omisos solo porque tiene más obligados.",
+      "optionWhy": {
+        "a": "El número absoluto depende del tamaño de cada seccional.",
+        "c": "Los omisos se calculan con los datos de la tabla."
+      }
+    },
+    {
+      "id": "raz-q-004",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "case": "Declaraciones de renta de personas jurídicas, año gravable 2025 (datos hipotéticos):\n\n| Seccional | Obligados | A tiempo | Extemporáneas |\n|---|---|---|---|\n| Santa Marta | 12.000 | 9.600 | 1.200 |\n| Valledupar | 8.000 | 6.000 | 1.000 |\n| Riohacha | 5.000 | 3.500 | 750 |\n\nLos obligados que no presentaron son **omisos**.",
+      "prompt": "Tomando las tres seccionales juntas, ¿qué porcentaje de los obligados presentó a tiempo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "76,4 %"
+        },
+        {
+          "id": "b",
+          "text": "75,0 %"
+        },
+        {
+          "id": "c",
+          "text": "78,5 %"
+        }
+      ],
+      "answer": "a",
+      "explain": "1. A tiempo total: 9.600 + 6.000 + 3.500 = 19.100.\n2. Obligados total: 12.000 + 8.000 + 5.000 = 25.000.\n3. 19.100 ÷ 25.000 = **76,4 %**.\n\nNo sirve promediar 80, 75 y 70 (= 75 %), porque las seccionales tienen tamaños distintos.",
+      "optionWhy": {
+        "b": "75 % es el promedio simple de los tres porcentajes; ignora el tamaño de cada seccional.",
+        "c": "No corresponde a ningún cálculo correcto con estos datos."
+      }
+    },
+    {
+      "id": "raz-q-005",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "La meta de recaudo de una seccional era de $400 mil millones y se recaudaron $340 mil millones. ¿Qué porcentaje de la meta se cumplió?",
+      "options": [
+        {
+          "id": "a",
+          "text": "80 %"
+        },
+        {
+          "id": "b",
+          "text": "88 %"
+        },
+        {
+          "id": "c",
+          "text": "85 %"
+        }
+      ],
+      "answer": "c",
+      "explain": "Cumplimiento = recaudado ÷ meta = 340 ÷ 400.\nSimplifica: 34 ÷ 40 = 17 ÷ 20 = 85 ÷ 100 = **85 %**.",
+      "optionWhy": {
+        "a": "Sería 320 de 400.",
+        "b": "Sería 352 de 400."
+      }
+    },
+    {
+      "id": "raz-q-006",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "El número de solicitudes aumentó 20 % en enero y disminuyó 20 % en febrero. Frente al nivel inicial, en febrero hay:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Las mismas solicitudes que al inicio"
+        },
+        {
+          "id": "b",
+          "text": "Un 4 % menos de solicitudes"
+        },
+        {
+          "id": "c",
+          "text": "Un 4 % más de solicitudes"
+        }
+      ],
+      "answer": "b",
+      "explain": "Usa 100 como base:\n1. Enero: 100 × 1,20 = 120.\n2. Febrero: 120 × 0,80 = **96**.\n\nQueda 4 % por debajo, porque el 20 % de la baja se calcula sobre 120, no sobre 100.",
+      "optionWhy": {
+        "a": "Los porcentajes no se compensan: la baja se aplica sobre una base mayor.",
+        "c": "El resultado queda por debajo del inicio, no por encima."
+      }
+    },
+    {
+      "id": "raz-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "Un producto cuesta $119.000 con IVA incluido del 19 %. ¿Cuál es su valor antes de IVA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$100.000"
+        },
+        {
+          "id": "b",
+          "text": "$96.390"
+        },
+        {
+          "id": "c",
+          "text": "$102.000"
+        }
+      ],
+      "answer": "a",
+      "explain": "Precio con IVA = base × 1,19.\nBase = 119.000 ÷ 1,19 = **$100.000**.\n\nComprobación: 100.000 × 19 % = 19.000, y 100.000 + 19.000 = 119.000.",
+      "optionWhy": {
+        "b": "Es 119.000 × 0,81: restar el 19 % del precio final no da la base.",
+        "c": "No corresponde a ninguna operación correcta con estos datos."
+      }
+    },
+    {
+      "id": "raz-q-008",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "Los casos de devolución de una división pasaron de 250 a 300, y sus funcionarios pasaron de 10 a 12. ¿Qué pasó con el número de casos por funcionario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aumentó 20 %"
+        },
+        {
+          "id": "b",
+          "text": "Disminuyó 20 %"
+        },
+        {
+          "id": "c",
+          "text": "No cambió"
+        }
+      ],
+      "answer": "c",
+      "explain": "- Antes: 250 ÷ 10 = 25 casos por funcionario.\n- Después: 300 ÷ 12 = **25** casos por funcionario.\n\nAmbos crecieron 20 %, así que la razón se mantiene.",
+      "optionWhy": {
+        "a": "Creció el total de casos, pero también el personal en la misma proporción.",
+        "b": "La carga por persona no bajó: sigue en 25."
+      }
+    },
+    {
+      "id": "raz-q-009",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "Tres gestores revisan 45 expedientes en un día. Al mismo ritmo, ¿cuántos expedientes revisan 5 gestores en un día?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "75"
+        },
+        {
+          "id": "c",
+          "text": "90"
+        }
+      ],
+      "answer": "b",
+      "explain": "Regla de tres directa (más gestores → más expedientes):\n1. Cada gestor revisa 45 ÷ 3 = 15.\n2. 5 gestores: 15 × 5 = **75**.",
+      "optionWhy": {
+        "a": "Sería el resultado de 4 gestores.",
+        "c": "Sería el resultado de 6 gestores."
+      }
+    },
+    {
+      "id": "raz-q-010",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "Cuatro gestores terminan un lote de expedientes en 6 días. Si trabajan solo 3 gestores al mismo ritmo, ¿en cuántos días terminan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8 días"
+        },
+        {
+          "id": "b",
+          "text": "7 días"
+        },
+        {
+          "id": "c",
+          "text": "4,5 días"
+        }
+      ],
+      "answer": "a",
+      "explain": "Regla de tres **inversa** (menos gestores → más días):\n1. Trabajo total = 4 gestores × 6 días = 24 días-gestor.\n2. Con 3 gestores: 24 ÷ 3 = **8 días**.",
+      "optionWhy": {
+        "b": "Sumar un día por cada gestor menos no es proporcional.",
+        "c": "Es una regla de tres directa (6 × 3 ÷ 4); aquí la relación es inversa."
+      }
+    },
+    {
+      "id": "raz-q-011",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "Un requerimiento se notificó el viernes 6 de marzo. El plazo para responder es de 10 días hábiles, contados desde el día siguiente a la notificación. Si en el periodo no hay festivos, ¿cuál es el último día del plazo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lunes 16 de marzo"
+        },
+        {
+          "id": "b",
+          "text": "Miércoles 18 de marzo"
+        },
+        {
+          "id": "c",
+          "text": "Viernes 20 de marzo"
+        }
+      ],
+      "answer": "c",
+      "explain": "Los sábados y domingos no cuentan:\n- Semana 1: lunes 9 a viernes 13 → días 1 a 5.\n- Semana 2: lunes 16 a viernes 20 → días 6 a 10.\n\nEl día 10 es el **viernes 20 de marzo**.",
+      "optionWhy": {
+        "a": "El lunes 16 es apenas el día hábil 6.",
+        "b": "El miércoles 18 es el día hábil 8."
+      }
+    },
+    {
+      "id": "raz-q-012",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Formulación y ejecución (ítem original)",
+      "prompt": "En una auditoría, 3 de cada 8 expedientes revisados tenían errores de foliación. Si la tendencia se mantiene, ¿cuántos expedientes con errores se esperan en 200 expedientes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "75"
+        },
+        {
+          "id": "c",
+          "text": "80"
+        }
+      ],
+      "answer": "b",
+      "explain": "1. 200 ÷ 8 = 25 grupos de 8.\n2. 25 × 3 = **75**.",
+      "optionWhy": {
+        "a": "Sería 3 de cada 10.",
+        "c": "Sería 2 de cada 5 (40 %); 3 de cada 8 es 37,5 %."
+      }
+    },
+    {
+      "id": "raz-q-026",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "La seccional A resolvió a tiempo el 90 % de sus 400 solicitudes y la seccional B el 70 % de sus 600 solicitudes. ¿Qué porcentaje del total se resolvió a tiempo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "78 %"
+        },
+        {
+          "id": "b",
+          "text": "80 %"
+        },
+        {
+          "id": "c",
+          "text": "76 %"
+        }
+      ],
+      "answer": "a",
+      "explain": "Promedio **ponderado** por el tamaño de cada seccional:\n1. A: 90 % × 400 = 360.\n2. B: 70 % × 600 = 420.\n3. (360 + 420) ÷ 1.000 = **78 %**.\n\nEl 80 % (promedio simple de 90 y 70) ignora que B tiene más solicitudes.",
+      "optionWhy": {
+        "b": "Es el promedio simple; B pesa más porque tiene más solicitudes.",
+        "c": "No corresponde a ningún cálculo correcto con estos datos."
+      }
+    },
+    {
+      "id": "raz-q-013",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "«Si un contribuyente declara extemporáneamente, entonces debe pagar una sanción.» Juan pagó una sanción. ¿Qué se puede concluir con certeza?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juan declaró extemporáneamente."
+        },
+        {
+          "id": "b",
+          "text": "Juan no presentó la declaración."
+        },
+        {
+          "id": "c",
+          "text": "No se puede saber por qué Juan pagó la sanción."
+        }
+      ],
+      "answer": "c",
+      "explain": "La regla es «si P, entonces Q». Saber que ocurrió Q (pagó sanción) **no** prueba P (declaró tarde): la sanción pudo tener otra causa, como inexactitud.\n\nConcluir P a partir de Q es la falacia de **afirmar el consecuente**.",
+      "optionWhy": {
+        "a": "Es la falacia de afirmar el consecuente: hay otras causas de sanción.",
+        "b": "Nada en la regla permite concluirlo."
+      }
+    },
+    {
+      "id": "raz-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "«Todo contribuyente omiso recibe un emplazamiento.» Ana no recibió ningún emplazamiento. ¿Qué se concluye?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ana es omisa, pero aún no la han emplazado."
+        },
+        {
+          "id": "b",
+          "text": "Ana no es omisa."
+        },
+        {
+          "id": "c",
+          "text": "No se puede concluir nada sobre Ana."
+        }
+      ],
+      "answer": "b",
+      "explain": "«Si es omiso, entonces recibe emplazamiento.» Si **no** ocurrió la consecuencia (no hubo emplazamiento), tampoco ocurrió la condición: Ana no es omisa.\n\nEste razonamiento válido se llama **modus tollens**.",
+      "optionWhy": {
+        "a": "Contradice la premisa de que todo omiso recibe emplazamiento.",
+        "c": "Negar la consecuencia sí permite una conclusión válida."
+      }
+    },
+    {
+      "id": "raz-q-015",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "«Para acceder a la devolución es **necesario** haber presentado la declaración a tiempo.» ¿Cuál afirmación se deduce?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quien recibió la devolución presentó a tiempo."
+        },
+        {
+          "id": "b",
+          "text": "Quien presentó a tiempo recibe la devolución."
+        },
+        {
+          "id": "c",
+          "text": "Quien no recibió devolución presentó tarde."
+        }
+      ],
+      "answer": "a",
+      "explain": "Una condición **necesaria** no es **suficiente**: presentar a tiempo es requisito, pero puede haber otros.\n\nLo seguro es el sentido inverso: si alguien recibió la devolución, cumplió el requisito, es decir, presentó a tiempo.",
+      "optionWhy": {
+        "b": "Confunde necesario con suficiente: puede haber otros requisitos.",
+        "c": "No recibir la devolución puede deberse a otro requisito incumplido."
+      }
+    },
+    {
+      "id": "raz-q-016",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "¿Cuál es la negación de «Todos los expedientes del archivo están foliados»?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ningún expediente del archivo está foliado."
+        },
+        {
+          "id": "b",
+          "text": "Algunos expedientes del archivo están foliados."
+        },
+        {
+          "id": "c",
+          "text": "Al menos un expediente del archivo no está foliado."
+        }
+      ],
+      "answer": "c",
+      "explain": "Para que «todos están foliados» sea falso, basta **un** caso que no cumpla.\n\nLa negación de «todos son X» es «**al menos uno no es X**».",
+      "optionWhy": {
+        "a": "«Ninguno» es la afirmación contraria, mucho más fuerte que la negación.",
+        "b": "Es compatible con que todos estén foliados, así que no la niega."
+      }
+    },
+    {
+      "id": "raz-q-017",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "prompt": "Ana, Beto y Carolina trabajan en áreas distintas: Renta, IVA y Aduanas. Ana no trabaja en IVA. Beto no trabaja en Renta ni en IVA. ¿En qué área trabaja Carolina?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Renta"
+        },
+        {
+          "id": "b",
+          "text": "IVA"
+        },
+        {
+          "id": "c",
+          "text": "Aduanas"
+        }
+      ],
+      "answer": "b",
+      "explain": "1. Beto no está en Renta ni en IVA → Beto está en **Aduanas**.\n2. Ana no está en IVA, y Aduanas ya es de Beto → Ana está en **Renta**.\n3. Queda IVA para **Carolina**.",
+      "optionWhy": {
+        "a": "Renta es de Ana.",
+        "c": "Aduanas es de Beto."
+      }
+    },
+    {
+      "id": "raz-q-018",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación (ítem original)",
+      "prompt": "¿Qué número sigue? 3, 6, 12, 24, …",
+      "options": [
+        {
+          "id": "a",
+          "text": "48"
+        },
+        {
+          "id": "b",
+          "text": "36"
+        },
+        {
+          "id": "c",
+          "text": "30"
+        }
+      ],
+      "answer": "a",
+      "explain": "Cada término es el doble del anterior: 24 × 2 = **48**.",
+      "optionWhy": {
+        "b": "Sumar 12 no sigue el patrón; cada salto es el doble del anterior.",
+        "c": "Sumar 6 solo funciona en el primer salto."
+      }
+    },
+    {
+      "id": "raz-q-019",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación (ítem original)",
+      "prompt": "¿Qué número sigue? 2, 5, 10, 17, 26, …",
+      "options": [
+        {
+          "id": "a",
+          "text": "35"
+        },
+        {
+          "id": "b",
+          "text": "36"
+        },
+        {
+          "id": "c",
+          "text": "37"
+        }
+      ],
+      "answer": "c",
+      "explain": "Las diferencias son 3, 5, 7, 9: aumentan de 2 en 2. La siguiente es 11, y 26 + 11 = **37**.\n\nOtra forma: cada término es n² + 1 (1+1, 4+1, 9+1, …), y 6² + 1 = 37.",
+      "optionWhy": {
+        "a": "Supone que la diferencia vuelve a ser 9.",
+        "b": "Es 6², sin sumar 1."
+      }
+    },
+    {
+      "id": "raz-q-020",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Interpretación y representación (ítem original)",
+      "prompt": "Los códigos de radicación siguen un patrón: A1, C4, E9, G16, … ¿Cuál es el siguiente?",
+      "options": [
+        {
+          "id": "a",
+          "text": "H25"
+        },
+        {
+          "id": "b",
+          "text": "I25"
+        },
+        {
+          "id": "c",
+          "text": "I20"
+        }
+      ],
+      "answer": "b",
+      "explain": "Dos patrones a la vez:\n- Letras: saltan una (A, C, E, G → **I**).\n- Números: cuadrados (1, 4, 9, 16 → **25**).",
+      "optionWhy": {
+        "a": "Después de G, saltando una letra, sigue I, no H.",
+        "c": "Los números son cuadrados: después de 16 sigue 25."
+      }
+    },
+    {
+      "id": "raz-q-021",
+      "type": "pjs",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Lectura crítica — Comprende cómo se articulan las partes de un texto (ítem original)",
+      "case": "Una seccional empezó a enviar recordatorios por correo antes del vencimiento. Desde entonces, la extemporaneidad bajó de 12 % a 7 %. Por tanto, los recordatorios funcionan y deben extenderse a todas las seccionales.",
+      "prompt": "¿Cuál es la conclusión del texto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los recordatorios deben extenderse a todas las seccionales."
+        },
+        {
+          "id": "b",
+          "text": "La extemporaneidad bajó de 12 % a 7 %."
+        },
+        {
+          "id": "c",
+          "text": "La seccional empezó a enviar recordatorios por correo."
+        }
+      ],
+      "answer": "a",
+      "explain": "La conclusión es lo que el autor quiere demostrar (la introduce «por tanto»). Las otras dos frases son datos que usa como apoyo.",
+      "optionWhy": {
+        "b": "Es una premisa: un dato que apoya la conclusión.",
+        "c": "Es una premisa: describe el hecho de partida."
+      }
+    },
+    {
+      "id": "raz-q-022",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Guía Icfes Saber Pro 2026-2, Lectura crítica — Reflexiona a partir de un texto y evalúa su contenido (ítem original)",
+      "case": "Una seccional empezó a enviar recordatorios por correo antes del vencimiento. Desde entonces, la extemporaneidad bajó de 12 % a 7 %. Por tanto, los recordatorios funcionan y deben extenderse a todas las seccionales.",
+      "prompt": "¿Qué supone el autor sin decirlo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que la extemporaneidad era del 12 % en todas las seccionales."
+        },
+        {
+          "id": "b",
+          "text": "Que los contribuyentes prefieren el correo a otros canales."
+        },
+        {
+          "id": "c",
+          "text": "Que la baja se debe a los recordatorios y no a otra causa."
+        }
+      ],
+      "answer": "c",
+      "explain": "Un **supuesto** es una idea no dicha que el argumento necesita. Para pasar de «bajó después» a «los recordatorios funcionan», el autor asume que ninguna otra causa explica la baja.",
+      "optionWhy": {
+        "a": "No necesita que las demás seccionales tengan el mismo nivel.",
+        "b": "El argumento no depende de qué canal prefieren."
+      }
+    },
+    {
+      "id": "raz-q-023",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Lectura crítica — Reflexiona a partir de un texto y evalúa su contenido (ítem original)",
+      "case": "Una seccional empezó a enviar recordatorios por correo antes del vencimiento. Desde entonces, la extemporaneidad bajó de 12 % a 7 %. Por tanto, los recordatorios funcionan y deben extenderse a todas las seccionales.",
+      "prompt": "¿Cuál dato debilitaría más el argumento?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La seccional envió los recordatorios a todos los contribuyentes, sin excepción."
+        },
+        {
+          "id": "b",
+          "text": "En el mismo periodo, los plazos para declarar se ampliaron en todo el país."
+        },
+        {
+          "id": "c",
+          "text": "Algunos contribuyentes dijeron que los recordatorios les parecieron útiles."
+        }
+      ],
+      "answer": "b",
+      "explain": "Si los plazos se ampliaron en todo el país, esa es una **causa alternativa** de la baja, y ya no se puede atribuir a los recordatorios.",
+      "optionWhy": {
+        "a": "No ofrece otra explicación de la baja.",
+        "c": "Más bien apoya el argumento, aunque débilmente."
+      }
+    },
+    {
+      "id": "raz-q-024",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Guía Icfes Saber Pro 2026-2, Lectura crítica — Reflexiona a partir de un texto y evalúa su contenido (ítem original)",
+      "prompt": "¿Cuál de estas frases expresa una opinión y no un hecho?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La nueva plataforma es la mejor herramienta que ha tenido la entidad."
+        },
+        {
+          "id": "b",
+          "text": "La plataforma procesó 1,2 millones de declaraciones en abril."
+        },
+        {
+          "id": "c",
+          "text": "La plataforma entró en funcionamiento en marzo de 2026."
+        }
+      ],
+      "answer": "a",
+      "explain": "Un hecho se puede verificar con datos (cantidades, fechas). «La mejor herramienta» es una valoración del autor.",
+      "optionWhy": {
+        "b": "Es verificable: es un hecho.",
+        "c": "Es verificable: es un hecho."
+      }
+    },
+    {
+      "id": "raz-q-025",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Guía Icfes Saber Pro 2026-2, Razonamiento cuantitativo — Argumentación (ítem original)",
+      "case": "Un informe dice: «El 60 % de los sancionados por inexactitud en 2025 eran personas jurídicas». Un funcionario concluye que las personas jurídicas son más propensas a la inexactitud que las naturales.",
+      "prompt": "¿Qué hace falta para evaluar esa conclusión?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Saber cuántas sanciones por inexactitud se impusieron en 2024."
+        },
+        {
+          "id": "b",
+          "text": "Saber el monto promedio de las sanciones impuestas en 2025."
+        },
+        {
+          "id": "c",
+          "text": "Saber cuántas personas jurídicas y naturales declararon en 2025."
+        }
+      ],
+      "answer": "c",
+      "explain": "Sin la **tasa base** no se puede comparar. Si el 80 % de los declarantes revisados fueran personas jurídicas, que sean el 60 % de los sancionados indicaría que se equivocan **menos** en proporción.\n\nHay que comparar sancionados ÷ declarantes en cada grupo.",
+      "optionWhy": {
+        "a": "Comparar con otro año no corrige la falta de la tasa base.",
+        "b": "El monto no dice qué grupo es más propenso a la inexactitud."
+      }
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "id": "estructura",
+  "title": "Estructura organizacional de la DIAN",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Competencia y funciones de la DIAN, sus tres niveles (central, local y delegado), las direcciones y subdirecciones del nivel central, las direcciones seccionales y quién es competente para cada actuación.",
+  "sources": ["Decreto 1742 de 2020, arts. 1–9, 28, 31, 33, 39, 56–60, 63, 69–80"],
+  "lessons": [
+    {
+      "id": "estr-01",
+      "title": "Competencia y funciones de la DIAN",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "estr-c-001",
+          "type": "concept",
+          "source": "D1742/2020 arts. 1 y 3",
+          "title": "¿Qué le compete a la DIAN?",
+          "body": "La DIAN es una **Unidad Administrativa Especial** adscrita al Ministerio de Hacienda y Crédito Público (D1742 art. 1). Su competencia tiene tres frentes:\n\n- **Tributario:** administrar renta, ventas, timbre y los demás impuestos nacionales no asignados a otra entidad. Administrar comprende **recaudar, fiscalizar, liquidar, discutir, cobrar, devolver y sancionar**.\n- **Aduanero:** dirigir la gestión aduanera, incluida la **aprehensión, decomiso o abandono** de mercancías a favor de la Nación.\n- **Cambiario:** controlar el régimen cambiario en **importaciones y exportaciones** de bienes y servicios, sus gastos asociados, su financiación en moneda extranjera y la **sub- y sobrefacturación**.\n\nAdemás mantiene la **unidad doctrinal** en esas materias y **recauda el ICA consolidado en el régimen SIMPLE** (art. 1)."
+        },
+        {
+          "id": "estr-c-002",
+          "type": "concept",
+          "source": "D1742/2020 art. 3",
+          "title": "Algunas funciones generales (art. 3)",
+          "body": "- Administrar y **disponer de mercancías** aprehendidas, decomisadas o abandonadas (num. 4).\n- Controlar las operaciones cambiarias **que no sean competencia de otra entidad** (num. 6).\n- Autorizar y vigilar a los **profesionales de compra y venta de divisas** (num. 7).\n- **Reconocer y pagar recompensas** por colaboración eficaz contra el contrabando, la evasión y la corrupción (num. 8).\n- Ejercer funciones de **policía judicial** (num. 9).\n- Dirigir el **RUB** (Registro Único de Beneficiarios Finales) (num. 13).\n- Actuar como **autoridad doctrinaria** (num. 14)."
+        },
+        { "ref": "estr-q-024" },
+        { "ref": "estr-q-010" },
+        { "ref": "estr-q-028" },
+        { "ref": "estr-q-014" },
+        { "ref": "estr-q-001" }
+      ]
+    },
+    {
+      "id": "estr-02",
+      "title": "Niveles y nivel central",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "estr-c-003",
+          "type": "concept",
+          "source": "D1742/2020 arts. 4 y 5",
+          "title": "Tres niveles y once bloques en el nivel central",
+          "body": "La DIAN funciona en **3 niveles**: **central, local y delegado** (art. 4).\n\n**Nivel central (art. 5):**\n\n| # | Dependencia |\n|---|---|\n| 1 | Dirección General (oficinas de Control Interno, Seguridad de la Información, Comunicaciones Institucionales y Tributación Internacional) |\n| 2 | Dirección de Gestión de Impuestos |\n| 3 | Dirección de Gestión de Aduanas |\n| 4 | Dirección de Gestión de Fiscalización |\n| 5 | Dirección de Gestión Corporativa |\n| 6 | Dirección de Gestión Estratégica y de Analítica |\n| 7 | Dirección de Gestión de Innovación y Tecnología |\n| 8 | Dirección de Gestión Jurídica |\n| 9 | Dirección de Gestión de Policía Fiscal y Aduanera |\n| 10 | Dirección Operativa de Grandes Contribuyentes |\n| 11 | Órgano asesor y órgano especial: Defensor del Contribuyente y del Usuario Aduanero; Comité Institucional Estratégico (CIE) |"
+        },
+        {
+          "id": "estr-c-004",
+          "type": "concept",
+          "source": "D1742/2020 art. 5",
+          "title": "Subdirecciones que más se confunden",
+          "body": "- **Fiscalización:** Tributaria, Aduanera, **Cambiaria**, Internacional y **Apoyo en la Lucha contra el Delito Aduanero y Fiscal**.\n- **Impuestos:** RUT, Recaudo, Formalización, Factura Electrónica, Servicio al Ciudadano, **Devoluciones**, Cobranzas y Control Extensivo.\n- **Aduanas:** Operación Aduanera, Técnica Aduanera, Registro y Control, **OEA**, **Laboratorio Aduanero**, Facilitación.\n- **Corporativa:** Financiera, Empleo Público, Talento Humano, **Escuela de Impuestos y Aduanas**, **Asuntos Disciplinarios**, Compras, Administrativa, Logística.\n- **Estratégica y Analítica:** Información y Analítica, **Análisis de Riesgo y Programas**, Estudios Económicos, Planeación, Procesos, **Centro de Trazabilidad Aduanera**.\n- **Jurídica:** **Normativa y Doctrina**, **Recursos Jurídicos**, Representación Externa, **Asuntos Penales**.\n- **POLFA:** Operativa Policial; Gestión e Investigación."
+        },
+        { "ref": "estr-q-011" },
+        { "ref": "estr-q-012" },
+        { "ref": "estr-q-016" },
+        { "ref": "estr-q-015" },
+        { "ref": "estr-q-009" },
+        { "ref": "estr-q-008" }
+      ]
+    },
+    {
+      "id": "estr-03",
+      "title": "¿Quién es competente? Casos del nivel central",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "estr-c-005",
+          "type": "concept",
+          "source": "D1742/2020 arts. 28, 33, 39, 56, 59, 60 y 63",
+          "title": "Pistas para elegir la dependencia",
+          "body": "- **Grandes contribuyentes:** los administra la **Dirección Operativa de Grandes Contribuyentes**, **sin importar su ubicación geográfica** (art. 63).\n- **Denuncias** por contrabando, evasión o lavado: las recibe y direcciona la **Dirección de Gestión de Fiscalización** (art. 28 num. 4); las que llegan **al Director General** las clasifica la **Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal** (art. 33 num. 3).\n- **Doctrina general** (no casos particulares): **Subdirección de Normativa y Doctrina** (art. 56).\n- **Denuncias penales** y representación de la DIAN como víctima: **Subdirección de Asuntos Penales** (art. 59).\n- **Faltas disciplinarias** de servidores: **Subdirección de Asuntos Disciplinarios**, sin perjuicio del poder preferente de la Procuraduría (art. 39).\n- **Control posterior en vías y comercios, con aprehensión:** personal uniformado de **POLFA** (art. 60 num. 3)."
+        },
+        { "ref": "estr-q-002" },
+        { "ref": "estr-q-003" },
+        { "ref": "estr-q-007" },
+        { "ref": "estr-q-006" },
+        { "ref": "estr-q-027" },
+        { "ref": "estr-q-022" }
+      ]
+    },
+    {
+      "id": "estr-04",
+      "title": "Nivel local, recursos y delegación",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "estr-c-006",
+          "type": "concept",
+          "source": "D1742/2020 arts. 6, 7, 71–73",
+          "title": "Seccionales y sus divisiones",
+          "body": "**Nivel local (art. 6):** Direcciones Seccionales **de Impuestos**, **de Aduanas** y **de Impuestos y Aduanas**, clasificadas en **Tipo I, II y III**. El Director General puede **reclasificarlas** mediante acto administrativo motivado (par. 4).\n\n**Nivel delegado (art. 7):** Direcciones Seccionales **Delegadas**, autorizadas por el **Director General mediante resolución**, de forma permanente o transitoria.\n\n**Divisiones clave:**\n- **Fiscalización y Liquidación Tributaria:** investiga y profiere **requerimientos, emplazamientos, pliegos de cargos** y autos de inspección (art. 71).\n- **Fiscalización y Liquidación Aduanera y/o Cambiaria:** profiere requerimientos especiales aduaneros, **ordena la aprehensión y el decomiso directo** e impone sanciones cambiarias (art. 72).\n- **División con funciones de determinación, sanción y decomiso:** estudia las respuestas y **profiere los actos de determinación y sanción** (art. 73)."
+        },
+        {
+          "id": "estr-c-007",
+          "type": "concept",
+          "source": "D1742/2020 arts. 57, 69 y 80",
+          "title": "Recurso de reconsideración: competencia por cuantía",
+          "body": "| Cuantía del acto (incluidas sanciones) | Resuelve |\n|---|---|\n| Sin cuantía o **< 2.000 UVT** | Jefe de la **División Jurídica de la seccional (o DOGC) que profirió el acto** (art. 69 num. 1) |\n| **≥ 2.000 y < 20.000 UVT** | División Jurídica de la seccional **de la capital del departamento** (art. 69 num. 2) |\n| **≥ 20.000 UVT** | **Subdirección de Recursos Jurídicos** (nivel central) (art. 57) |\n\n**Delegación (art. 80):** las funciones del Director General se delegan en Directores de Gestión o en el servidor designado por resolución. Las de los **jefes de división** de una seccional se delegan **mediante resolución de quien ejerza la jefatura de la Dirección Seccional**."
+        },
+        { "ref": "estr-q-004" },
+        { "ref": "estr-q-005" },
+        { "ref": "estr-q-025" },
+        { "ref": "estr-q-017" },
+        { "ref": "estr-q-018" },
+        { "ref": "estr-q-019" },
+        { "ref": "estr-q-013" },
+        { "ref": "estr-q-021" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "estr-fc-001", "front": "¿En cuántos niveles funciona la DIAN y cuáles son?", "back": "Tres: central, local y delegado.", "source": "D1742/2020 art. 4" },
+    { "id": "estr-fc-002", "front": "¿Qué comprende la administración de los impuestos?", "back": "Recaudación, fiscalización, liquidación, discusión, cobro, devolución, sanción y demás aspectos del cumplimiento.", "source": "D1742/2020 art. 1" },
+    { "id": "estr-fc-003", "front": "¿Qué operaciones cambiarias controla la DIAN según el art. 1?", "back": "Importación y exportación de bienes y servicios, gastos asociados, su financiación en moneda extranjera y la sub- y sobrefacturación.", "source": "D1742/2020 art. 1" },
+    { "id": "estr-fc-004", "front": "¿Qué impuesto territorial recauda la DIAN?", "back": "El ICA consolidado en el régimen SIMPLE (par. 2 del art. 908 ET).", "source": "D1742/2020 art. 1" },
+    { "id": "estr-fc-005", "front": "Oficinas que dependen directamente de la Dirección General", "back": "Control Interno, Seguridad de la Información, Comunicaciones Institucionales y Tributación Internacional.", "source": "D1742/2020 art. 5" },
+    { "id": "estr-fc-006", "front": "¿Qué conforma el «órgano asesor y órgano especial» del nivel central?", "back": "El Defensor del Contribuyente y del Usuario Aduanero y el Comité Institucional Estratégico (CIE).", "source": "D1742/2020 art. 5 num. 11" },
+    { "id": "estr-fc-007", "front": "Subdirecciones de la Dirección de Gestión de Fiscalización", "back": "Tributaria, Aduanera, Cambiaria, Internacional y de Apoyo en la Lucha contra el Delito Aduanero y Fiscal.", "source": "D1742/2020 art. 5" },
+    { "id": "estr-fc-008", "front": "Subdirecciones de la Dirección de Gestión Jurídica", "back": "Normativa y Doctrina, Recursos Jurídicos, Representación Externa y Asuntos Penales.", "source": "D1742/2020 art. 5" },
+    { "id": "estr-fc-009", "front": "¿En qué dirección está la Subdirección de Asuntos Disciplinarios?", "back": "En la Dirección de Gestión Corporativa (no en la Dirección General).", "source": "D1742/2020 art. 5" },
+    { "id": "estr-fc-010", "front": "¿Quién administra a los grandes contribuyentes?", "back": "La Dirección Operativa de Grandes Contribuyentes, sin consideración de su ubicación geográfica.", "source": "D1742/2020 art. 63" },
+    { "id": "estr-fc-011", "front": "¿Quién actúa como autoridad doctrinaria nacional?", "back": "La Subdirección de Normativa y Doctrina; su doctrina es general y no se refiere a asuntos particulares.", "source": "D1742/2020 art. 56" },
+    { "id": "estr-fc-012", "front": "¿Quién presenta y ejecuta el plan anual de auditoría interna?", "back": "La Oficina de Control Interno, ante el Comité Institucional de Coordinación de Control Interno.", "source": "D1742/2020 art. 9" },
+    { "id": "estr-fc-013", "front": "¿Quién falla en primera instancia los procesos disciplinarios contra servidores de la DIAN?", "back": "La Subdirección de Asuntos Disciplinarios, sin perjuicio del poder preferente de la Procuraduría.", "source": "D1742/2020 art. 39" },
+    { "id": "estr-fc-014", "front": "¿Quién formula las denuncias penales por delitos tributarios, aduaneros y cambiarios?", "back": "La Subdirección de Asuntos Penales (salvo competencia asignada a otra dependencia).", "source": "D1742/2020 art. 59" },
+    { "id": "estr-fc-015", "front": "Recurso de reconsideración contra un acto de menos de 2.000 UVT", "back": "Lo resuelve el Jefe de la División Jurídica de la seccional (o de la DOGC) que profirió el acto.", "source": "D1742/2020 art. 69 num. 1" },
+    { "id": "estr-fc-016", "front": "Recurso de reconsideración contra un acto de 20.000 UVT o más", "back": "Lo resuelve la Subdirección de Recursos Jurídicos del nivel central.", "source": "D1742/2020 art. 57" },
+    { "id": "estr-fc-017", "front": "¿Quién crea una Dirección Seccional Delegada?", "back": "El Director General, mediante resolución y con disponibilidad presupuestal; puede ser permanente o transitoria.", "source": "D1742/2020 art. 7" },
+    { "id": "estr-fc-018", "front": "¿Quién preside el Comité Institucional Estratégico (CIE) y quién ejerce su secretaría técnica?", "back": "Lo preside el Director General; la secretaría técnica es de la Dirección de Gestión Corporativa.", "source": "D1742/2020 art. 77" },
+    { "id": "estr-fc-019", "front": "¿Qué división de una seccional ordena la aprehensión y el decomiso directo?", "back": "La División de Fiscalización y Liquidación Aduanera (y/o Cambiaria).", "source": "D1742/2020 art. 72 num. 3" },
+    { "id": "estr-fc-020", "front": "¿Cómo delega un jefe de división de una seccional sus funciones?", "back": "Mediante resolución de quien ejerza la jefatura de la Dirección Seccional, en servidores de esa dependencia.", "source": "D1742/2020 art. 80" }
+  ],
+  "questions": [
+    {
+      "id": "estr-q-001", "type": "mcq", "difficulty": 1, "source": "D1742/2020 art. 4",
+      "prompt": "¿En qué niveles desarrolla la DIAN sus funciones?",
+      "options": [
+        { "id": "a", "text": "Nacional, departamental y municipal" },
+        { "id": "b", "text": "Directivo, asesor y operativo" },
+        { "id": "c", "text": "Central, local y delegado" },
+        { "id": "d", "text": "Central, regional y seccional" }
+      ],
+      "answer": "c",
+      "explain": "El art. 4 del D1742/2020 fija tres niveles: central, local y delegado.",
+      "optionWhy": {
+        "a": "Esa es la división territorial del Estado, no la estructura de la DIAN.",
+        "b": "Son niveles jerárquicos de empleos, no niveles de la estructura.",
+        "d": "No existe un «nivel regional»; las seccionales forman el nivel local."
+      }
+    },
+    {
+      "id": "estr-q-002", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 63",
+      "case": "Una sociedad calificada como gran contribuyente tiene su domicilio en Cali. La División de Fiscalización de la Seccional de Impuestos de Cali recibe una alerta sobre posibles costos inexistentes en su declaración de renta.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        { "id": "a", "text": "Remitir la alerta a la Dirección Operativa de Grandes Contribuyentes, que administra a estos contribuyentes." },
+        { "id": "b", "text": "Abrir la investigación en la seccional de Cali, porque es la del domicilio fiscal del contribuyente." },
+        { "id": "c", "text": "Enviar la alerta a la Subdirección de Fiscalización Internacional, que vigila a las grandes empresas." }
+      ],
+      "answer": "a",
+      "explain": "La Dirección Operativa de Grandes Contribuyentes administra (incluida la fiscalización) a los grandes contribuyentes sin consideración de su ubicación geográfica (art. 63 num. 1 y 4).",
+      "optionWhy": {
+        "b": "El domicilio no define la competencia cuando se trata de un gran contribuyente.",
+        "c": "Fiscalización Internacional atiende operaciones internacionales, no la administración general de grandes contribuyentes."
+      }
+    },
+    {
+      "id": "estr-q-003", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 56",
+      "case": "Varias seccionales aplican de forma distinta una norma sobre la deducción de un gasto. Un gremio pide a la DIAN una interpretación oficial y general de la norma.",
+      "prompt": "La dependencia competente para emitir esa interpretación es:",
+      "options": [
+        { "id": "a", "text": "La Subdirección de Recursos Jurídicos, que unifica los criterios al fallar los recursos." },
+        { "id": "b", "text": "La Subdirección de Normativa y Doctrina, como autoridad doctrinaria nacional." },
+        { "id": "c", "text": "La División Jurídica de cada seccional, según el domicilio de quien consulta." }
+      ],
+      "answer": "b",
+      "explain": "La Subdirección de Normativa y Doctrina actúa como autoridad doctrinaria nacional y mantiene la unidad doctrinal; su doctrina es de carácter general (art. 56 num. 1 y 3).",
+      "optionWhy": {
+        "a": "Recursos Jurídicos resuelve recursos en casos concretos; no emite doctrina general.",
+        "c": "Las divisiones jurídicas locales no son la autoridad doctrinaria nacional."
+      }
+    },
+    {
+      "id": "estr-q-004", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 69 num. 1",
+      "case": "La Seccional de Impuestos y Aduanas de Pereira profirió una liquidación oficial de revisión por 1.500 UVT, incluida la sanción. El contribuyente interpone recurso de reconsideración.",
+      "prompt": "¿Quién es competente para resolver el recurso?",
+      "options": [
+        { "id": "a", "text": "La Subdirección de Recursos Jurídicos de la Dirección de Gestión Jurídica." },
+        { "id": "b", "text": "La División Jurídica de la seccional de la capital del departamento." },
+        { "id": "c", "text": "El Jefe de la División Jurídica de la Seccional de Pereira, que profirió el acto." }
+      ],
+      "answer": "c",
+      "explain": "Si el acto no tiene cuantía o es inferior a 2.000 UVT, resuelve el Jefe de la División Jurídica de la dirección que lo profirió (art. 69 num. 1).",
+      "optionWhy": {
+        "a": "Recursos Jurídicos resuelve cuando la cuantía es igual o superior a 20.000 UVT (art. 57).",
+        "b": "La seccional de la capital es competente entre 2.000 y menos de 20.000 UVT (art. 69 num. 2)."
+      }
+    },
+    {
+      "id": "estr-q-005", "type": "pjs", "difficulty": 3, "source": "D1742/2020 arts. 57 y 69",
+      "case": "Una seccional de impuestos profirió una liquidación de revisión: mayor impuesto de 15.000 UVT y sanción por inexactitud de 9.000 UVT. El contribuyente presenta recurso de reconsideración.",
+      "prompt": "¿Quién debe resolverlo?",
+      "options": [
+        { "id": "a", "text": "La Subdirección de Recursos Jurídicos, porque el acto suma 24.000 UVT con la sanción." },
+        { "id": "b", "text": "La seccional de la capital del departamento, porque el impuesto no llega a 20.000 UVT." },
+        { "id": "c", "text": "La División Jurídica de la seccional que profirió el acto, porque es la que lo conoce." }
+      ],
+      "answer": "a",
+      "explain": "La cuantía se mide **incluidas las sanciones**: 15.000 + 9.000 = 24.000 UVT, igual o superior a 20.000 UVT, así que resuelve la Subdirección de Recursos Jurídicos (art. 57 num. 1; art. 69).",
+      "optionWhy": {
+        "b": "Error típico: olvidar sumar la sanción a la cuantía del acto.",
+        "c": "La seccional que profirió el acto solo resuelve si la cuantía es inferior a 2.000 UVT."
+      }
+    },
+    {
+      "id": "estr-q-006", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 60 num. 3",
+      "case": "En un control en vía, una patrulla uniformada de la Policía Fiscal y Aduanera encuentra un camión con electrodomésticos importados sin documentos que acrediten su legal introducción al país.",
+      "prompt": "Frente a esta mercancía, el personal uniformado puede:",
+      "options": [
+        { "id": "a", "text": "Solo informar a la Dirección de Gestión de Aduanas para que ella decida si actúa." },
+        { "id": "b", "text": "Adoptar medidas cautelares, como la verificación y la aprehensión de la mercancía." },
+        { "id": "c", "text": "Imponer de inmediato la sanción y ordenar el decomiso definitivo en el sitio." }
+      ],
+      "answer": "b",
+      "explain": "El personal uniformado de POLFA ejerce el control posterior en vías y comercios y puede adoptar medidas cautelares de verificación y aprehensión (art. 60 num. 3).",
+      "optionWhy": {
+        "a": "La norma sí faculta a POLFA para actuar directamente con medidas cautelares.",
+        "c": "El decomiso y la sanción se deciden en el procedimiento por la división competente (art. 72), no en la vía."
+      }
+    },
+    {
+      "id": "estr-q-007", "type": "pjs", "difficulty": 2, "source": "D1742/2020 arts. 28 y 33",
+      "case": "Una carta dirigida directamente al Director General de la DIAN denuncia una red de contrabando y lavado de activos en una zona de frontera.",
+      "prompt": "¿Qué dependencia debe recibir, clasificar y direccionar esta denuncia?",
+      "options": [
+        { "id": "a", "text": "La Subdirección de Asuntos Penales, que formula las denuncias ante la Fiscalía." },
+        { "id": "b", "text": "La Oficina de Control Interno, que vigila los riesgos de la entidad." },
+        { "id": "c", "text": "La Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal." }
+      ],
+      "answer": "c",
+      "explain": "Las denuncias por contrabando, evasión, lavado o corrupción remitidas directamente al Director General las recibe, clasifica y direcciona la Subdirección de Apoyo en la Lucha contra el Delito Aduanero y Fiscal (art. 33 num. 3).",
+      "optionWhy": {
+        "a": "Asuntos Penales formula denuncias y representa a la DIAN en el proceso penal (art. 59), no clasifica las que llegan al Director.",
+        "b": "Control Interno evalúa el sistema de control interno (art. 9), no tramita denuncias externas."
+      }
+    },
+    {
+      "id": "estr-q-008", "type": "pjs", "difficulty": 2, "source": "D1742/2020 arts. 9 y 39",
+      "case": "Un jefe de grupo descubre que un funcionario de su área modificó sin autorización el estado de varios expedientes en el sistema.",
+      "prompt": "¿A qué dependencia corresponde investigar la posible falta disciplinaria?",
+      "options": [
+        { "id": "a", "text": "A la Subdirección de Asuntos Disciplinarios de la Dirección de Gestión Corporativa." },
+        { "id": "b", "text": "A la Oficina de Control Interno, que evalúa los controles de cada proceso." },
+        { "id": "c", "text": "A la Subdirección de Asuntos Penales, que representa a la DIAN como víctima." }
+      ],
+      "answer": "a",
+      "explain": "La Subdirección de Asuntos Disciplinarios ejerce el control disciplinario sobre servidores y exservidores, sin perjuicio del poder preferente de la Procuraduría (art. 39).",
+      "optionWhy": {
+        "b": "Control Interno audita procesos y controles (art. 9); no adelanta procesos disciplinarios.",
+        "c": "Asuntos Penales actúa en procesos penales; la falta disciplinaria se investiga aparte."
+      }
+    },
+    {
+      "id": "estr-q-009", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 9",
+      "case": "Se debe preparar el plan anual de auditoría interna de la DIAN y verificar si los controles de los procesos misionales son apropiados.",
+      "prompt": "Esta función corresponde a:",
+      "options": [
+        { "id": "a", "text": "La Subdirección de Procesos de la Dirección de Gestión Estratégica." },
+        { "id": "b", "text": "La Oficina de Control Interno de la Dirección General." },
+        { "id": "c", "text": "La Subdirección de Planeación y Cumplimiento de la entidad." }
+      ],
+      "answer": "b",
+      "explain": "La Oficina de Control Interno presenta el plan anual de auditoría interna al Comité Institucional de Coordinación de Control Interno, lo ejecuta y verifica los controles (art. 9 num. 1, 3 y 4).",
+      "optionWhy": {
+        "a": "La Subdirección de Procesos gestiona el modelo de procesos; no audita de forma independiente.",
+        "c": "Planeación hace seguimiento a la estrategia, pero la auditoría interna es de Control Interno."
+      }
+    },
+    {
+      "id": "estr-q-010", "type": "truefalse", "difficulty": 1, "source": "D1742/2020 arts. 1 y 3 num. 6",
+      "statement": "La DIAN controla todas las operaciones del régimen cambiario, incluidas las que la ley asigna a otras entidades.",
+      "answer": false,
+      "explain": "Falso. La DIAN controla las operaciones de comercio exterior señaladas en el art. 1 y las demás operaciones cambiarias «que no sean competencia de otra entidad» (art. 3 num. 6)."
+    },
+    {
+      "id": "estr-q-011", "type": "mcq", "difficulty": 1, "source": "D1742/2020 art. 5",
+      "prompt": "¿Cuál de estas dependencias NO es una oficina de la Dirección General?",
+      "options": [
+        { "id": "a", "text": "Oficina de Seguridad de la Información" },
+        { "id": "b", "text": "Oficina de Tributación Internacional" },
+        { "id": "c", "text": "Oficina de Control Interno" },
+        { "id": "d", "text": "Subdirección de Asuntos Disciplinarios" }
+      ],
+      "answer": "d",
+      "explain": "Asuntos Disciplinarios es una subdirección de la Dirección de Gestión Corporativa (art. 5 num. 5.5).",
+      "optionWhy": {
+        "a": "Es la oficina 1.2 de la Dirección General.",
+        "b": "Es la oficina 1.4 de la Dirección General.",
+        "c": "Es la oficina 1.1 de la Dirección General."
+      }
+    },
+    {
+      "id": "estr-q-012", "type": "match", "difficulty": 2, "source": "D1742/2020 art. 5",
+      "prompt": "Relaciona cada subdirección con la dirección a la que pertenece.",
+      "pairs": [
+        { "left": "Fiscalización Cambiaria", "right": "Dirección de Gestión de Fiscalización" },
+        { "left": "Devoluciones", "right": "Dirección de Gestión de Impuestos" },
+        { "left": "Laboratorio Aduanero", "right": "Dirección de Gestión de Aduanas" },
+        { "left": "Asuntos Penales", "right": "Dirección de Gestión Jurídica" },
+        { "left": "Centro de Trazabilidad Aduanera", "right": "Dirección de Gestión Estratégica y de Analítica" }
+      ],
+      "explain": "Estructura del nivel central según el art. 5 del D1742/2020."
+    },
+    {
+      "id": "estr-q-013", "type": "pjs", "difficulty": 3, "source": "D1742/2020 art. 80",
+      "case": "El jefe de la División de Recaudo y Cobranzas de una seccional quiere delegar la firma de ciertos actos de cobro en un funcionario de su división.",
+      "prompt": "¿Cómo debe hacerse la delegación?",
+      "options": [
+        { "id": "a", "text": "Con una resolución del Director General, porque solo él delega funciones." },
+        { "id": "b", "text": "Con un memorando del propio jefe de división dirigido al funcionario." },
+        { "id": "c", "text": "Con una resolución de quien ejerza la jefatura de la Dirección Seccional." }
+      ],
+      "answer": "c",
+      "explain": "Las funciones de los jefes de división de las seccionales pueden delegarse en servidores de esas dependencias mediante resolución de quien ejerza la jefatura de la Dirección Seccional (art. 80).",
+      "optionWhy": {
+        "a": "El Director General delega sus propias funciones; aquí la norma asigna la resolución al director seccional.",
+        "b": "Un memorando del jefe de división no es el acto previsto para delegar."
+      }
+    },
+    {
+      "id": "estr-q-014", "type": "pjs", "difficulty": 3, "source": "D1742/2020 arts. 1 y 31",
+      "case": "Una persona natural residente obtuvo un préstamo en dólares de un banco del exterior y no cumplió las obligaciones cambiarias del endeudamiento externo.",
+      "prompt": "¿Qué autoridad investiga el posible incumplimiento cambiario?",
+      "options": [
+        { "id": "a", "text": "La DIAN, por medio de su Subdirección de Fiscalización Cambiaria." },
+        { "id": "b", "text": "La Superintendencia de Sociedades, que vigila el endeudamiento externo." },
+        { "id": "c", "text": "El Banco de la República, como autoridad que regula el régimen cambiario." }
+      ],
+      "answer": "a",
+      "explain": "La Subdirección de Fiscalización Cambiaria controla, entre otras, el endeudamiento externo de **personas naturales** y las demás operaciones no asignadas a otra entidad (art. 31 num. 2).",
+      "optionWhy": {
+        "b": "Supersociedades vigila el endeudamiento externo de sociedades, no el de personas naturales.",
+        "c": "El Banco de la República regula, pero no ejerce este control y sanción."
+      }
+    },
+    {
+      "id": "estr-q-015", "type": "cloze", "difficulty": 1, "source": "D1742/2020 art. 77",
+      "text": "El Comité Institucional Estratégico (CIE) lo preside el {{Director General}} y su secretaría técnica la ejerce la Dirección de Gestión {{Corporativa}}.",
+      "alternatives": { "Director General": ["director", "el director general"], "Corporativa": ["corporativa"] }
+    },
+    {
+      "id": "estr-q-016", "type": "mcq", "difficulty": 2, "source": "D1742/2020 arts. 5 num. 11 y 76",
+      "prompt": "Según el D1742/2020, el Defensor del Contribuyente y del Usuario Aduanero:",
+      "options": [
+        { "id": "a", "text": "Es una subdirección de la Dirección de Gestión de Impuestos" },
+        { "id": "b", "text": "Hace parte del órgano asesor y especial del nivel central" },
+        { "id": "c", "text": "Es una dependencia del nivel local en cada seccional" },
+        { "id": "d", "text": "Es una oficina de la Dirección de Gestión Jurídica" }
+      ],
+      "answer": "b",
+      "explain": "El art. 5 num. 11 lo ubica, junto con el CIE, como órgano asesor y órgano especial. Se rige por el art. 31 del Decreto-ley 1071/1999 y tiene delegados (art. 76).",
+      "optionWhy": {
+        "a": "La Dirección de Impuestos tiene una subdirección de Servicio al Ciudadano, no el Defensor.",
+        "c": "Sus delegados pueden ubicarse en seccionales, pero el Defensor no es dependencia del nivel local.",
+        "d": "No pertenece a la Dirección Jurídica."
+      }
+    },
+    {
+      "id": "estr-q-017", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 71",
+      "case": "Tras una auditoría, el equipo encuentra ingresos no declarados en la declaración de renta de una persona natural (no gran contribuyente) de Bucaramanga. Se va a proponer la modificación de la declaración.",
+      "prompt": "¿Qué dependencia profiere el requerimiento especial?",
+      "options": [
+        { "id": "a", "text": "La División Jurídica de la seccional, que revisa la legalidad de los actos." },
+        { "id": "b", "text": "La División de Recaudo y Cobranzas, que gestiona las obligaciones pendientes." },
+        { "id": "c", "text": "La División de Fiscalización y Liquidación Tributaria de la seccional." }
+      ],
+      "answer": "c",
+      "explain": "La División de Fiscalización y Liquidación Tributaria profiere requerimientos, emplazamientos, pliegos de cargos y demás actos preparatorios (art. 71 num. 2).",
+      "optionWhy": {
+        "a": "La División Jurídica resuelve recursos; no profiere actos preparatorios de la determinación.",
+        "b": "Recaudo y Cobranzas actúa cuando ya existe una obligación exigible."
+      }
+    },
+    {
+      "id": "estr-q-018", "type": "pjs", "difficulty": 3, "source": "D1742/2020 arts. 69, 73",
+      "case": "Una seccional cuenta con una división con funciones de determinación, sanción y decomiso. El contribuyente respondió el requerimiento especial y el expediente está listo para decidir.",
+      "prompt": "¿Quién estudia la respuesta y profiere la liquidación oficial?",
+      "options": [
+        { "id": "a", "text": "La división con funciones de determinación, sanción y decomiso de la seccional." },
+        { "id": "b", "text": "La División Jurídica, porque la respuesta plantea argumentos de derecho." },
+        { "id": "c", "text": "La Subdirección de Recursos Jurídicos, por tratarse de un acto definitivo." }
+      ],
+      "answer": "a",
+      "explain": "Esa división estudia las respuestas a emplazamientos, requerimientos especiales y pliegos de cargos y profiere los actos de determinación y sanción (art. 73).",
+      "optionWhy": {
+        "b": "La División Jurídica interviene después, al resolver el recurso de reconsideración (art. 69).",
+        "c": "Recursos Jurídicos resuelve recursos de cuantía alta; no profiere la liquidación inicial."
+      }
+    },
+    {
+      "id": "estr-q-019", "type": "pjs", "difficulty": 2, "source": "D1742/2020 art. 72",
+      "case": "En una seccional de aduanas se detecta mercancía en una zona primaria sin declaración de importación. Procede el decomiso directo.",
+      "prompt": "¿Qué división lo ordena?",
+      "options": [
+        { "id": "a", "text": "La División de la Operación Aduanera, que controla el ingreso de mercancías." },
+        { "id": "b", "text": "La División de Fiscalización y Liquidación Aduanera de la seccional." },
+        { "id": "c", "text": "La División de Control de Carga, que inspecciona los medios de transporte." }
+      ],
+      "answer": "b",
+      "explain": "La División de Fiscalización y Liquidación Aduanera y/o Cambiaria ordena la aprehensión y el decomiso directo (art. 72 num. 3).",
+      "optionWhy": {
+        "a": "La Operación Aduanera atiende los trámites de importación y exportación, no el decomiso.",
+        "c": "Control de Carga verifica la carga, pero la orden de decomiso es de Fiscalización Aduanera."
+      }
+    },
+    {
+      "id": "estr-q-020", "type": "open", "difficulty": 2, "source": "D1742/2020 arts. 4–7",
+      "prompt": "Explica en 2–3 líneas los tres niveles de la DIAN y da un ejemplo de cada uno.",
+      "modelAnswer": "La DIAN funciona en nivel central (Dirección General y Direcciones de Gestión, p. ej. Fiscalización), nivel local (direcciones seccionales de impuestos, de aduanas o de impuestos y aduanas, p. ej. la de Medellín) y nivel delegado (seccionales delegadas creadas por resolución del Director General).",
+      "keyPoints": ["Nivel central: Dirección General y Direcciones de Gestión", "Nivel local: direcciones seccionales (impuestos, aduanas, impuestos y aduanas)", "Nivel delegado: seccionales delegadas por resolución del Director General"],
+      "keywords": ["central", "local", "delegado", "seccional", "direccion general", "resolucion"],
+      "minKeywords": 4
+    },
+    {
+      "id": "estr-q-021", "type": "open", "difficulty": 3, "source": "D1742/2020 arts. 57 y 69",
+      "prompt": "Explica cómo se reparte la competencia para resolver el recurso de reconsideración según la cuantía del acto.",
+      "modelAnswer": "Si el acto no tiene cuantía o es inferior a 2.000 UVT, resuelve la División Jurídica de la seccional que lo profirió. Entre 2.000 y menos de 20.000 UVT, la División Jurídica de la seccional de la capital del departamento. Desde 20.000 UVT, la Subdirección de Recursos Jurídicos del nivel central. La cuantía incluye las sanciones.",
+      "keyPoints": ["< 2.000 UVT: División Jurídica de la seccional que profirió el acto", "2.000 a < 20.000 UVT: seccional de la capital del departamento", "≥ 20.000 UVT: Subdirección de Recursos Jurídicos", "La cuantía incluye las sanciones"],
+      "keywords": ["2.000", "20.000", "uvt", "division juridica", "recursos juridicos", "capital", "sanciones"],
+      "minKeywords": 4
+    },
+    {
+      "id": "estr-q-022", "type": "open", "difficulty": 3, "source": "D1742/2020 arts. 9 y 39",
+      "prompt": "Diferencia las funciones de la Oficina de Control Interno y de la Subdirección de Asuntos Disciplinarios.",
+      "modelAnswer": "Control Interno, en la Dirección General, evalúa el sistema de control interno: elabora y ejecuta el plan anual de auditoría y verifica controles y riesgos. Asuntos Disciplinarios, en la Dirección de Gestión Corporativa, investiga y falla en primera instancia las faltas de servidores y exservidores, sin perjuicio del poder preferente de la Procuraduría.",
+      "keyPoints": ["Control Interno: auditoría interna, controles y riesgos", "Asuntos Disciplinarios: procesos contra servidores y exservidores", "Ubicación: Dirección General vs Dirección de Gestión Corporativa", "Poder preferente de la Procuraduría"],
+      "keywords": ["auditoria", "controles", "riesgos", "disciplinario", "servidores", "procuraduria", "primera instancia"],
+      "minKeywords": 4
+    },
+    {
+      "id": "estr-q-023", "type": "truefalse", "difficulty": 1, "source": "D1742/2020 art. 6 par. 4",
+      "statement": "El Director General puede reclasificar el tipo de una Dirección Seccional mediante acto administrativo motivado.",
+      "answer": true,
+      "explain": "Verdadero. El par. 4 del art. 6 lo permite, previa disponibilidad presupuestal y con un análisis organizacional, económico, sociodemográfico, de recaudo y de comercio exterior."
+    },
+    {
+      "id": "estr-q-024", "type": "mcq", "difficulty": 1, "source": "D1742/2020 art. 1",
+      "prompt": "Además de los impuestos nacionales, ¿qué tributo le compete recaudar a la DIAN según el art. 1 del D1742/2020?",
+      "options": [
+        { "id": "a", "text": "El impuesto predial de los municipios" },
+        { "id": "b", "text": "El ICA consolidado en el régimen SIMPLE" },
+        { "id": "c", "text": "El impuesto de vehículos automotores" },
+        { "id": "d", "text": "Las estampillas departamentales" }
+      ],
+      "answer": "b",
+      "explain": "El art. 1 le asigna el recaudo del impuesto de industria y comercio consolidado en el régimen SIMPLE (par. 2 del art. 908 ET).",
+      "optionWhy": {
+        "a": "El predial lo administran los municipios.",
+        "c": "El impuesto de vehículos es departamental.",
+        "d": "Las estampillas las administran las entidades territoriales."
+      }
+    },
+    {
+      "id": "estr-q-025", "type": "pjs", "difficulty": 3, "source": "D1742/2020 art. 69 num. 2.2",
+      "case": "La Seccional de Aduanas de Bogotá – Aeropuerto El Dorado impuso una sanción aduanera de 5.000 UVT. El usuario interpone recurso de reconsideración.",
+      "prompt": "¿Quién debe resolver el recurso?",
+      "options": [
+        { "id": "a", "text": "El jefe de la División Jurídica de la Seccional de Aduanas de Bogotá – El Dorado." },
+        { "id": "b", "text": "La Subdirección de Recursos Jurídicos, por tratarse de materia aduanera." },
+        { "id": "c", "text": "La División Jurídica de la Seccional de Aduanas de Bogotá." }
+      ],
+      "answer": "c",
+      "explain": "Entre 2.000 y menos de 20.000 UVT, la División Jurídica de la Seccional de Aduanas de Bogotá resuelve los recursos contra actos aduaneros y cambiarios suyos y de la Seccional El Dorado (art. 69 num. 2.2).",
+      "optionWhy": {
+        "a": "La seccional que profirió el acto solo resuelve por debajo de 2.000 UVT.",
+        "b": "Recursos Jurídicos resuelve desde 20.000 UVT; la materia aduanera no cambia esa regla."
+      }
+    },
+    {
+      "id": "estr-q-026", "type": "mcq", "difficulty": 1, "source": "D1742/2020 art. 7",
+      "prompt": "Las Direcciones Seccionales Delegadas de Impuestos y Aduanas se autorizan:",
+      "options": [
+        { "id": "a", "text": "Por decreto del Presidente de la República" },
+        { "id": "b", "text": "Por acuerdo del Comité Institucional Estratégico" },
+        { "id": "c", "text": "Por resolución del director seccional de la zona" },
+        { "id": "d", "text": "Por resolución del Director General de la DIAN" }
+      ],
+      "answer": "d",
+      "explain": "El art. 7 faculta al Director General para autorizarlas mediante resolución, de forma permanente o transitoria, previa disponibilidad presupuestal.",
+      "optionWhy": {
+        "a": "No se requiere decreto: basta una resolución del Director General.",
+        "b": "El CIE es un órgano asesor; no crea seccionales.",
+        "c": "El director seccional no tiene esta facultad."
+      }
+    },
+    {
+      "id": "estr-q-027", "type": "truefalse", "difficulty": 2, "source": "D1742/2020 art. 56 num. 1",
+      "statement": "La Subdirección de Normativa y Doctrina puede emitir doctrina para resolver el caso particular de un contribuyente.",
+      "answer": false,
+      "explain": "Falso. La doctrina de esta subdirección es de carácter general y no se refiere a asuntos particulares (art. 56 num. 1)."
+    },
+    {
+      "id": "estr-q-028", "type": "pjs", "difficulty": 1, "source": "D1742/2020 art. 3 num. 8",
+      "case": "Un ciudadano entrega a la DIAN información precisa que permite desarticular una red de contrabando. Luego pregunta si puede recibir algo por su colaboración.",
+      "prompt": "La respuesta correcta del gestor es:",
+      "options": [
+        { "id": "a", "text": "Que la DIAN puede reconocer y pagar recompensas por colaboración eficaz contra el contrabando." },
+        { "id": "b", "text": "Que la colaboración es un deber ciudadano y la ley prohíbe dar cualquier recompensa." },
+        { "id": "c", "text": "Que debe pedir la recompensa a la Fiscalía, que es la única autoridad que puede pagarla." }
+      ],
+      "answer": "a",
+      "explain": "El art. 3 num. 8 asigna a la DIAN reconocer y pagar recompensas y participaciones por colaboración eficaz de terceros contra el contrabando, la evasión y la corrupción.",
+      "optionWhy": {
+        "b": "La norma sí prevé recompensas por colaboración eficaz.",
+        "c": "La función está asignada a la propia DIAN."
+      }
+    }
+  ]
+}

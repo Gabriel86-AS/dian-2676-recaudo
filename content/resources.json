@@ -1,0 +1,107 @@
+{
+  "links": [
+    {
+      "title": "Guía de Orientación al Aspirante DIAN 2676 (CNSC, 19-10-2026)",
+      "url": "https://www.cnsc.gov.co/sites/default/files/2026-10/dian_2676_guia_orientacion_aspirante_19102026.pdf",
+      "note": "Oficial. Formato de la prueba, ejemplos de preguntas y reglas del día del examen.",
+      "group": "oficiales"
+    },
+    {
+      "title": "Protocolo de pruebas y reclamaciones (CNSC)",
+      "url": "https://www.cnsc.gov.co/sites/default/files/2026-10/protocolo_pruebas_reclamaciones_acceso_complementos-ps-dian-2676.pdf",
+      "note": "Oficial.",
+      "group": "oficiales"
+    },
+    {
+      "title": "Acuerdo 21 de 2025 (convocatoria DIAN 2676)",
+      "url": "https://www.cnsc.gov.co/sites/default/files/2025-11/acuerdo-no-21-dian-2676-de-20251.pdf",
+      "note": "Oficial. Ponderación de las pruebas (art. 17).",
+      "group": "oficiales"
+    },
+    {
+      "title": "Página del proceso DIAN 2676 en la CNSC",
+      "url": "https://www.cnsc.gov.co/convocatorias/dian-2676",
+      "note": "Guías, normatividad y avisos.",
+      "group": "oficiales"
+    },
+    {
+      "title": "Res. DIAN 065 de 2024 (diccionario de competencias)",
+      "url": "https://www.cnsc.gov.co/sites/default/files/2025-11/resolucion_dian_0065_2024_0_0-2676.pdf",
+      "note": "Base de la prueba comportamental.",
+      "group": "oficiales"
+    },
+    {
+      "title": "Estatuto Tributario (índice, Secretaría del Senado)",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html",
+      "note": "Libro V: recaudo (arts. 800–807), cobro (823–849) y devoluciones (850–865).",
+      "unit": "recaudo",
+      "group": "normas"
+    },
+    {
+      "title": "Grupo Geard: simulacro «Intensivo DIAN 2676»",
+      "url": "https://www.grupogeard.com/simulacro/29-intensivo-dian-2676",
+      "note": "Gratis, pide registro. No oficial.",
+      "simulacro": true,
+      "group": "simulacros"
+    },
+    {
+      "title": "Grupo Geard: lista de simulacros gratuitos",
+      "url": "https://www.grupogeard.com/simulacros-gratis",
+      "note": "No oficial.",
+      "simulacro": true,
+      "group": "simulacros"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Simulacro gratuito DIAN 2676 (Camilo Zapata – Talento Público)",
+      "url": "https://www.youtube.com/watch?v=hNiNOahMjuo",
+      "note": "Video. No oficial.",
+      "simulacro": true
+    },
+    {
+      "title": "Simulacro final y consejos para el 8 de noviembre (Misión Mérito)",
+      "url": "https://www.youtube.com/watch?v=hwlVn-fNgA8",
+      "note": "Video. Respuestas en el video «Resultados del simulacro final».",
+      "simulacro": true
+    },
+    {
+      "title": "Resultados del simulacro final (Misión Mérito)",
+      "url": "https://www.youtube.com/watch?v=O61pgxwsT6I",
+      "note": "Video."
+    },
+    {
+      "title": "Simulacro por nivel, incluye Profesional (Misión Mérito)",
+      "url": "https://www.youtube.com/watch?v=hhRrT0ovyl4",
+      "note": "Video. No oficial.",
+      "simulacro": true
+    },
+    {
+      "title": "Simulacro tipo examen (Misión Mérito)",
+      "url": "https://www.youtube.com/watch?v=5-SxDj10ZhA",
+      "note": "Video. No oficial.",
+      "simulacro": true
+    },
+    {
+      "title": "10 preguntas de juicio situacional (Merito al Día)",
+      "url": "https://www.youtube.com/watch?v=bpB3Bgn3yq8",
+      "note": "Video. No oficial.",
+      "simulacro": true
+    },
+    {
+      "title": "Juicio situacional (CNSC Colombia)",
+      "url": "https://www.youtube.com/watch?v=9XprbdLDRD8",
+      "note": "Video del canal oficial de la CNSC."
+    },
+    {
+      "title": "Comportamentales y escala Likert (Concursa con Éxito)",
+      "url": "https://www.youtube.com/watch?v=YpC9X4kTpx4",
+      "note": "Video. No oficial."
+    },
+    {
+      "title": "Comportamental e integridad: cómo responder (Misión Mérito)",
+      "url": "https://www.youtube.com/watch?v=KdQcCqSMgU8",
+      "note": "Video. No oficial."
+    }
+  ]
+}

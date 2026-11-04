@@ -1,0 +1,6 @@
+resources/
+dian_2676_recursos/
+ASPIRANT INFO/
+*.pdf
+.DS_Store
+node_modules/

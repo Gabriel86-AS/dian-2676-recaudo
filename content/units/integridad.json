@@ -1,0 +1,920 @@
+{
+  "id": "integridad",
+  "title": "Integridad",
+  "area": "integridad",
+  "priority": 2,
+  "summary": "Los cinco valores del Código de Integridad (honestidad, respeto, compromiso, diligencia y justicia) con lo que hago y lo que no hago; conflictos de interés, regalos, reserva tributaria y canales de denuncia de la DIAN; y 20 afirmaciones de autoinforme para practicar el formato Likert.",
+  "sources": [
+    "Código de Integridad del Servicio Público (Función Pública) (texto adoptado por la Alcaldía de Santa Marta, 2024)",
+    "Programa de Transparencia y Ética Pública DIAN 2025–2026, v3 (jun-2026)",
+    "ET art. 583",
+    "Res. DIAN 065/2024 (Comportamiento ético)",
+    "GOA DIAN 2676 (CNSC, 19-10-2026), §4.1.3 y págs. 18–19"
+  ],
+  "lessons": [
+    {
+      "id": "integ-01",
+      "title": "Los cinco valores en la práctica",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "integ-c-001",
+          "type": "concept",
+          "source": "Código de Integridad del Servicio Público (Función Pública); GOA DIAN 2676 §4.1.3; PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.4",
+          "title": "Los 5 valores del servicio público",
+          "body": "Función Pública definió un código general con mínimos de integridad para todos los servidores. Cada valor se expresa en primera persona:\n\n- **Honestidad:** actúo siempre con fundamento en la **verdad**, con transparencia y rectitud, favoreciendo el **interés general**.\n- **Respeto:** reconozco, valoro y trato de manera **digna** a todas las personas, sin importar su labor, procedencia, títulos o cualquier otra condición.\n- **Compromiso:** soy consciente de mi rol y estoy dispuesto a **comprender y resolver las necesidades** de las personas con las que me relaciono.\n- **Diligencia:** cumplo mis deberes con **atención, prontitud y eficiencia**, optimizando los recursos del Estado.\n- **Justicia:** actúo con **imparcialidad**, garantizando derechos, con equidad, igualdad y sin discriminación.\n\n**En el examen:** la prueba de Integridad mide los valores del **Código de Integridad de la DIAN** (CG-TAH-0002 v3, 20-dic-2023). Ese texto no es público; parte de este código general."
+        },
+        {
+          "id": "integ-c-002",
+          "type": "concept",
+          "source": "Código de Integridad del Servicio Público (Función Pública), listas «lo que hago / lo que no hago»",
+          "title": "Lo que hago y lo que no hago",
+          "body": "- **Honestidad.** Hago: digo la verdad **aun cuando me equivoco**, pido orientación si dudo, **denuncio siempre** las faltas que conozco. No hago: dar trato preferencial a conocidos, **aceptar incentivos o favores** de interesados, usar recursos o **tiempo de la jornada** para fines personales, descuidar la información a mi cargo.\n- **Respeto.** Hago: atiendo con amabilidad e igualdad, dialogo aun con quien piensa distinto. No hago: discriminar ni maltratar; decidir con base en **prejuicios o estereotipos**.\n- **Compromiso.** Hago: me pongo en los zapatos del otro, **escucho, atiendo y oriento**, atiendo sin distracciones. No hago: trabajar con actitud negativa, ver mi trabajo como un «favor» o **ignorar a un ciudadano**.\n- **Diligencia.** Hago: uso bien los recursos, cumplo los tiempos, aseguro la calidad, propongo mejoras. No hago: malgastar recursos, **postergar decisiones**, evadir funciones.\n- **Justicia.** Hago: decido con **evidencias y datos confiables**, protejo derechos, dialogo con todas las partes. No hago: favorecer a un grupo sin oír a todos ni dejar que **simpatías, presiones o intereses personales** afecten mi criterio."
+        },
+        {
+          "ref": "integ-q-001"
+        },
+        {
+          "ref": "integ-q-002"
+        },
+        {
+          "ref": "integ-q-003"
+        },
+        {
+          "ref": "integ-q-004"
+        },
+        {
+          "ref": "integ-q-005"
+        },
+        {
+          "ref": "integ-q-006"
+        },
+        {
+          "ref": "integ-q-008"
+        },
+        {
+          "ref": "integ-q-009"
+        }
+      ]
+    },
+    {
+      "id": "integ-02",
+      "title": "Conflictos de interés, reserva y denuncias",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "integ-c-003",
+          "type": "concept",
+          "source": "PTEP DIAN 2025–2026 (v3, jun-2026), num. 5.1.1 y 5.1.4; Código de Integridad del Servicio Público (Función Pública), Honestidad y Justicia; Ley 2013/2019 (título)",
+          "title": "Conflictos de interés y regalos",
+          "body": "- El **PTEP de la DIAN** gestiona como **riesgos de integridad** los **conflictos de intereses, el soborno, la corrupción y el fraude**. La **no declaración** de un conflicto de interés es una de esas prácticas de riesgo.\n- **Conflicto de interés:** cuando un interés personal, familiar o de amistad puede afectar tu criterio en un asunto a tu cargo. Se **declara** y se **tramita** (la DIAN tiene la Guía CT-TAH-0128 para la gestión y el trámite del conflicto de intereses). No se resuelve en silencio.\n- **Regalos y favores:** el código dice que **no** acepto incentivos, favores ni beneficios de personas interesadas en una decisión. Tampoco doy **trato preferencial** a conocidos.\n- La Ley 2013 de 2019 ordena publicar las **declaraciones de bienes y rentas** y el **registro de conflictos de interés** de los servidores.\n- La Res. 065/2024 pide para Comportamiento ético, desde el nivel 2, **manejar con imparcialidad** los temas a cargo."
+        },
+        {
+          "id": "integ-c-004",
+          "type": "concept",
+          "source": "ET art. 583; PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.3; Código de Integridad del Servicio Público (Función Pública), Honestidad",
+          "title": "Reserva tributaria y canales de denuncia",
+          "body": "**Reserva (ET art. 583):** las bases gravables y la determinación privada de los impuestos en las declaraciones son **información reservada**. Los funcionarios solo pueden usarla para **control, recaudo, determinación, discusión y administración** de los impuestos y para **estadísticas impersonales**. En un proceso penal se entrega copia si la autoridad la decreta como prueba.\n\n**Denunciar:** el código dice «denuncio las faltas, delitos o violación de derechos de los que tengo conocimiento… **siempre**». Canales de la DIAN según el PTEP:\n- **PQSR** en el portal de la DIAN (peticiones, quejas, reclamos y **denuncias**).\n- **ITRC** (Agencia del Inspector General de Tributos, Rentas y Contribuciones Parafiscales): denuncias por **fraude y corrupción de funcionarios de la DIAN**.\n- Ventanilla única de correspondencia, puntos de contacto y líneas telefónicas.\n\nEl Código de Buen Gobierno de la DIAN contiene la política **«Cero Tolerancia a la Corrupción»**."
+        },
+        {
+          "ref": "integ-q-011"
+        },
+        {
+          "ref": "integ-q-012"
+        },
+        {
+          "ref": "integ-q-013"
+        },
+        {
+          "ref": "integ-q-014"
+        },
+        {
+          "ref": "integ-q-016"
+        },
+        {
+          "ref": "integ-q-017"
+        },
+        {
+          "ref": "integ-q-019"
+        },
+        {
+          "ref": "integ-q-020"
+        }
+      ]
+    },
+    {
+      "id": "integ-03",
+      "title": "Autoinforme de integridad A (práctica sin puntaje)",
+      "minutes": 4,
+      "steps": [
+        {
+          "ref": "integ-q-021"
+        },
+        {
+          "ref": "integ-q-025"
+        },
+        {
+          "ref": "integ-q-029"
+        },
+        {
+          "ref": "integ-q-033"
+        },
+        {
+          "ref": "integ-q-037"
+        },
+        {
+          "ref": "integ-q-022"
+        },
+        {
+          "ref": "integ-q-026"
+        },
+        {
+          "ref": "integ-q-030"
+        },
+        {
+          "ref": "integ-q-034"
+        },
+        {
+          "ref": "integ-q-038"
+        }
+      ]
+    },
+    {
+      "id": "integ-04",
+      "title": "Autoinforme de integridad B (práctica sin puntaje)",
+      "minutes": 4,
+      "steps": [
+        {
+          "ref": "integ-q-023"
+        },
+        {
+          "ref": "integ-q-027"
+        },
+        {
+          "ref": "integ-q-031"
+        },
+        {
+          "ref": "integ-q-035"
+        },
+        {
+          "ref": "integ-q-039"
+        },
+        {
+          "ref": "integ-q-024"
+        },
+        {
+          "ref": "integ-q-028"
+        },
+        {
+          "ref": "integ-q-032"
+        },
+        {
+          "ref": "integ-q-036"
+        },
+        {
+          "ref": "integ-q-040"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "integ-fc-001",
+      "front": "Los 5 valores del Código de Integridad",
+      "back": "Honestidad, Respeto, Compromiso, Diligencia y Justicia.",
+      "source": "Código de Integridad del Servicio Público (Función Pública)"
+    },
+    {
+      "id": "integ-fc-002",
+      "front": "Honestidad: 2 cosas que no hago",
+      "back": "Aceptar incentivos o favores de interesados; usar recursos o tiempo de la jornada para fines personales.",
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que no hago"
+    },
+    {
+      "id": "integ-fc-003",
+      "front": "Diligencia: idea clave",
+      "back": "Atención, prontitud y eficiencia; no postergar decisiones; no malgastar recursos.",
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia"
+    },
+    {
+      "id": "integ-fc-004",
+      "front": "Justicia: idea clave",
+      "back": "Imparcialidad: decidir con evidencias y sin que simpatías, presiones o intereses personales afecten el criterio.",
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia"
+    },
+    {
+      "id": "integ-fc-005",
+      "front": "Riesgos de integridad (PTEP DIAN)",
+      "back": "Conflictos de intereses, soborno, corrupción y fraude.",
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.1"
+    },
+    {
+      "id": "integ-fc-006",
+      "front": "Conflicto de interés: ¿qué hago?",
+      "back": "Lo declaro y se tramita por el procedimiento institucional; no lo resuelvo en silencio.",
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.4 (Guía CT-TAH-0128)"
+    },
+    {
+      "id": "integ-fc-007",
+      "front": "Reserva de la declaración (ET 583)",
+      "back": "Solo para control, recaudo, determinación, discusión y administración de impuestos, y para estadísticas impersonales.",
+      "source": "ET art. 583"
+    },
+    {
+      "id": "integ-fc-008",
+      "front": "¿Dónde denunciar corrupción de un funcionario DIAN?",
+      "back": "ITRC; también el sistema PQSR de la DIAN y los canales presenciales y telefónicos.",
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.3"
+    },
+    {
+      "id": "integ-fc-009",
+      "front": "Base legal del PTEP",
+      "back": "Ley 1474/2011 art. 73, modificado por la Ley 2195/2022 art. 31 (reglamentado por el D1122/2024).",
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026), Introducción"
+    }
+  ],
+  "questions": [
+    {
+      "id": "integ-q-001",
+      "type": "match",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública)",
+      "prompt": "Relaciona cada valor con su idea central.",
+      "pairs": [
+        {
+          "left": "Honestidad",
+          "right": "Actuar con fundamento en la verdad y el interés general"
+        },
+        {
+          "left": "Respeto",
+          "right": "Tratar dignamente a todas las personas, sin importar su condición"
+        },
+        {
+          "left": "Compromiso",
+          "right": "Estar dispuesto a comprender y resolver las necesidades de las personas"
+        },
+        {
+          "left": "Diligencia",
+          "right": "Cumplir los deberes con atención, prontitud y eficiencia"
+        },
+        {
+          "left": "Justicia",
+          "right": "Actuar con imparcialidad, equidad y sin discriminación"
+        }
+      ],
+      "explain": "Son los cinco valores del Código de Integridad del Servicio Público."
+    },
+    {
+      "id": "integ-q-002",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública)",
+      "prompt": "¿Cuál de estos NO es uno de los cinco valores del Código de Integridad del Servicio Público?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Honestidad"
+        },
+        {
+          "id": "b",
+          "text": "Diligencia"
+        },
+        {
+          "id": "c",
+          "text": "Lealtad"
+        },
+        {
+          "id": "d",
+          "text": "Justicia"
+        }
+      ],
+      "answer": "c",
+      "explain": "Los cinco valores son honestidad, respeto, compromiso, diligencia y justicia.",
+      "optionWhy": {
+        "a": "Es uno de los cinco valores.",
+        "b": "Es uno de los cinco valores.",
+        "d": "Es uno de los cinco valores."
+      }
+    },
+    {
+      "id": "integ-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia — lo que no hago",
+      "case": "Un gestor tiene una solicitud que puede resolver hoy con la información completa. El término legal vence en tres semanas y prefiere dedicarse a otros temas.",
+      "prompt": "Según el valor de la diligencia, el gestor debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dejarla para la última semana, ya que aún está dentro del término."
+        },
+        {
+          "id": "b",
+          "text": "Resolverla ahora, porque no debe postergar lo que puede solucionar."
+        },
+        {
+          "id": "c",
+          "text": "Pasarla a un compañero con menos carga para quitársela de encima."
+        }
+      ],
+      "answer": "b",
+      "explain": "El código dice: «No postergo las decisiones y actividades que den solución a problemáticas ciudadanas». La diligencia es atención, prontitud y eficiencia.",
+      "optionWhy": {
+        "a": "Estar dentro del término no justifica demorar lo que puede resolverse ya.",
+        "c": "Trasladar la tarea sin razón es evadir funciones."
+      }
+    },
+    {
+      "id": "integ-q-004",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que hago",
+      "case": "Una gestora descubre que cometió un error de cálculo en un acto que ya fue notificado. Nadie lo ha notado.",
+      "prompt": "Lo que corresponde es:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esperar a ver si el contribuyente lo advierte y, solo entonces, corregirlo."
+        },
+        {
+          "id": "b",
+          "text": "No decir nada, porque el acto ya está notificado y no se puede cambiar."
+        },
+        {
+          "id": "c",
+          "text": "Informar del error a su jefe y corregirlo por el procedimiento previsto."
+        }
+      ],
+      "answer": "c",
+      "explain": "«Siempre digo la verdad, incluso cuando cometo errores, porque es humano cometerlos, pero no es correcto esconderlos.»",
+      "optionWhy": {
+        "a": "Esperar a que otro lo note es esconder el error.",
+        "b": "Callar es esconder el error; la ley prevé formas de corregir."
+      }
+    },
+    {
+      "id": "integ-q-005",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Respeto",
+      "case": "En la ventanilla, un contribuyente molesto por una sanción le habla de forma grosera a un servidor de la DIAN.",
+      "prompt": "El servidor debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atenderlo con amabilidad, sin ofenderlo, y explicarle sus opciones."
+        },
+        {
+          "id": "b",
+          "text": "Responderle en el mismo tono, para que entienda que debe respetarlo."
+        },
+        {
+          "id": "c",
+          "text": "Dejar de atenderlo y llamar al siguiente turno sin explicarle nada."
+        }
+      ],
+      "answer": "a",
+      "explain": "El respeto pide atender con amabilidad en cualquier situación y nunca actuar de manera grosera o hiriente. El diálogo es la vía.",
+      "optionWhy": {
+        "b": "Responder con groserías viola el valor del respeto.",
+        "c": "Ignorarlo contradice el compromiso de «jamás ignoro a un ciudadano»."
+      }
+    },
+    {
+      "id": "integ-q-006",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia — lo que no hago",
+      "case": "Un empresario conocido en la ciudad llama al gestor para que su solicitud de devolución se resuelva «de primeras», antes que otras radicadas antes que la suya.",
+      "prompt": "El gestor debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Darle prioridad, porque es un contribuyente importante para el recaudo."
+        },
+        {
+          "id": "b",
+          "text": "Tramitarla en su turno y con los mismos criterios que las demás."
+        },
+        {
+          "id": "c",
+          "text": "Resolverla de inmediato, pero con una revisión más estricta que las demás."
+        }
+      ],
+      "answer": "b",
+      "explain": "Justicia: nunca permito que simpatías, presiones o intereses interfieran en mi criterio; actúo con imparcialidad e igualdad.",
+      "optionWhy": {
+        "a": "Ceder a la presión es trato preferencial.",
+        "c": "Aplicar criterios distintos, aunque sea para endurecerlos, también rompe la igualdad."
+      }
+    },
+    {
+      "id": "integ-q-007",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que no hago",
+      "statement": "Usar el tiempo de la jornada o los equipos asignados para asuntos personales es compatible con el Código si el trabajo está al día.",
+      "answer": false,
+      "explain": "Falso. El código dice que no uso recursos públicos para fines personales, y aclara que esto incluye el tiempo de la jornada laboral y los bienes asignados."
+    },
+    {
+      "id": "integ-q-008",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso — lo que hago",
+      "prompt": "«Escucho, atiendo y oriento a quien necesite cualquier información o guía en algún asunto público». ¿A qué valor corresponde esta acción?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justicia"
+        },
+        {
+          "id": "b",
+          "text": "Compromiso"
+        },
+        {
+          "id": "c",
+          "text": "Diligencia"
+        }
+      ],
+      "answer": "b",
+      "explain": "Es una de las acciones del valor compromiso, junto con ponerse en los zapatos de los demás y prestar un servicio ágil y amable.",
+      "optionWhy": {
+        "a": "La justicia se refiere a la imparcialidad y la igualdad.",
+        "c": "La diligencia se refiere a cumplir con prontitud, calidad y buen uso de recursos."
+      }
+    },
+    {
+      "id": "integ-q-009",
+      "type": "pjs",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso; GOA DIAN 2676 pág. 19",
+      "case": "Faltando cinco minutos para el cierre, una ciudadana pregunta cómo consultar el estado de su trámite.",
+      "prompt": "Lo adecuado es:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decirle que regrese mañana, porque ya es hora de cerrar."
+        },
+        {
+          "id": "b",
+          "text": "Darle una respuesta general sin escuchar bien su caso."
+        },
+        {
+          "id": "c",
+          "text": "Escucharla y orientarla sobre dónde consultar su trámite."
+        }
+      ],
+      "answer": "c",
+      "explain": "El compromiso pide escuchar, atender y orientar a quien lo necesite, y no ignorar a un ciudadano. Es el caso del ejemplo oficial de Integridad de la GOA.",
+      "optionWhy": {
+        "a": "Despacharla sin orientarla contradice el compromiso.",
+        "b": "Responder sin escuchar no resuelve su necesidad."
+      }
+    },
+    {
+      "id": "integ-q-010",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia",
+      "text": "Diligencia: cumplo con los deberes, funciones y responsabilidades de mi cargo con atención, {{prontitud}} y {{eficiencia}}, para optimizar el uso de los recursos del Estado."
+    },
+    {
+      "id": "integ-q-011",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que no hago; PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.1",
+      "case": "Un contribuyente al que la gestora está fiscalizando le envía a la oficina una ancheta «en agradecimiento por la atención».",
+      "prompt": "La gestora debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Devolverla con cortesía e informar a su jefe."
+        },
+        {
+          "id": "b",
+          "text": "Recibirla y compartirla con todo el grupo de trabajo."
+        },
+        {
+          "id": "c",
+          "text": "Recibirla, porque su decisión ya está tomada y no cambiará."
+        }
+      ],
+      "answer": "a",
+      "explain": "No se aceptan incentivos, favores ni beneficios de personas interesadas en una decisión. El soborno y los conflictos de intereses son riesgos de integridad del PTEP.",
+      "optionWhy": {
+        "b": "Compartirlo no cambia que se aceptó un beneficio de una parte interesada.",
+        "c": "Aunque la decisión ya esté tomada, aceptarlo compromete la imparcialidad y la apariencia de transparencia."
+      }
+    },
+    {
+      "id": "integ-q-012",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.1 y 5.1.4 (Guía CT-TAH-0128); Código de Integridad del Servicio Público (Función Pública), Justicia — lo que no hago",
+      "case": "Le asignan a Daniel una investigación sobre una empresa cuyo contador es su cuñado.",
+      "prompt": "Daniel debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hacer la investigación con total objetividad, sin contarlo a nadie."
+        },
+        {
+          "id": "b",
+          "text": "Pedirle a un compañero, de manera informal, que lo reemplace."
+        },
+        {
+          "id": "c",
+          "text": "Declarar el conflicto de interés para que se tramite y se decida."
+        }
+      ],
+      "answer": "c",
+      "explain": "El conflicto de interés se declara y se tramita por el procedimiento institucional. No declararlo es un riesgo de integridad, aunque uno crea que puede ser objetivo.",
+      "optionWhy": {
+        "a": "Aunque actúe bien, callar el conflicto afecta la transparencia y la confianza.",
+        "b": "Un cambio informal no deja registro ni permite decidir quién debe asumir el caso."
+      }
+    },
+    {
+      "id": "integ-q-013",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 583",
+      "case": "Un amigo le pide a un gestor de la DIAN que le cuente cuánto declaró de renta un vecino «solo por curiosidad».",
+      "prompt": "El gestor debe:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decirle solo el valor aproximado, sin mostrar la declaración."
+        },
+        {
+          "id": "b",
+          "text": "Negarse, porque la información de la declaración es reservada."
+        },
+        {
+          "id": "c",
+          "text": "Consultar el dato y dárselo, porque es un amigo de confianza."
+        }
+      ],
+      "answer": "b",
+      "explain": "La información de las declaraciones es reservada y solo se usa para fines de control, recaudo, determinación, discusión y administración de los impuestos, o para estadísticas impersonales.",
+      "optionWhy": {
+        "a": "Un dato aproximado también viola la reserva.",
+        "c": "La confianza personal no levanta la reserva."
+      }
+    },
+    {
+      "id": "integ-q-014",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 583",
+      "statement": "La DIAN puede usar la información de las declaraciones para elaborar estadísticas impersonales.",
+      "answer": true,
+      "explain": "Verdadero. El art. 583 lo permite expresamente, junto con su uso para control, recaudo, determinación, discusión y administración de los impuestos."
+    },
+    {
+      "id": "integ-q-015",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 583",
+      "prompt": "Según el art. 583 del ET, en un proceso penal se puede entregar copia de una declaración cuando:",
+      "options": [
+        {
+          "id": "a",
+          "text": "La autoridad la decreta como prueba en la providencia."
+        },
+        {
+          "id": "b",
+          "text": "La pide cualquier parte del proceso por escrito."
+        },
+        {
+          "id": "c",
+          "text": "El contribuyente ya fue condenado mediante sentencia en firme."
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 583 permite suministrar copia en procesos penales cuando la autoridad competente la decreta como prueba en la providencia respectiva.",
+      "optionWhy": {
+        "b": "No basta la solicitud de una parte; se requiere el decreto de la prueba.",
+        "c": "No se exige una condena previa."
+      }
+    },
+    {
+      "id": "integ-q-016",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que hago; PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.3",
+      "case": "Un gestor se entera de que un compañero cobra dinero a algunos contribuyentes para «agilizar» sus trámites.",
+      "prompt": "Lo correcto es:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hablar con el compañero, pedirle que deje de hacerlo y no decir nada más."
+        },
+        {
+          "id": "b",
+          "text": "Denunciarlo por los canales institucionales, por ejemplo ante la ITRC."
+        },
+        {
+          "id": "c",
+          "text": "Comentarlo con otros compañeros para que estén atentos."
+        }
+      ],
+      "answer": "b",
+      "explain": "El código manda denunciar siempre las faltas y delitos que se conocen. La ITRC recibe las denuncias por fraude y corrupción de funcionarios de la DIAN.",
+      "optionWhy": {
+        "a": "Una advertencia privada no cumple el deber de denunciar.",
+        "c": "Difundirlo entre compañeros no lo denuncia y puede afectar la investigación."
+      }
+    },
+    {
+      "id": "integ-q-017",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.3",
+      "prompt": "Según el PTEP de la DIAN, ¿qué entidad recibe las denuncias por actos de fraude y corrupción de funcionarios de la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La UIAF (Unidad de Información y Análisis Financiero)"
+        },
+        {
+          "id": "b",
+          "text": "La Contraloría General de la República"
+        },
+        {
+          "id": "c",
+          "text": "La ITRC (Agencia del Inspector General de Tributos)"
+        }
+      ],
+      "answer": "c",
+      "explain": "El PTEP señala la ITRC como canal para denuncias sobre fraude y corrupción de funcionarios de la DIAN, además del sistema PQSR y los canales presenciales y telefónicos.",
+      "optionWhy": {
+        "a": "La UIAF recibe reportes de operaciones sospechosas (LA/FT).",
+        "b": "La Contraloría ejerce el control fiscal; no es el canal que señala el PTEP."
+      }
+    },
+    {
+      "id": "integ-q-018",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026), Introducción",
+      "prompt": "¿Qué norma obliga a las entidades a tener un Programa de Transparencia y Ética Pública (PTEP)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El art. 73 de la Ley 1474/2011, modificado por la Ley 2195/2022"
+        },
+        {
+          "id": "b",
+          "text": "El art. 583 del Estatuto Tributario, sobre la reserva de la información"
+        },
+        {
+          "id": "c",
+          "text": "La Ley 87 de 1993, que regula el control interno de las entidades"
+        }
+      ],
+      "answer": "a",
+      "explain": "Ese artículo obliga a implementar PTEP. En la DIAN, el programa reemplaza el anterior Plan Anticorrupción y de Atención al Ciudadano.",
+      "optionWhy": {
+        "b": "El art. 583 regula la reserva de las declaraciones.",
+        "c": "La Ley 87 regula el control interno, no el PTEP."
+      }
+    },
+    {
+      "id": "integ-q-019",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que no hago; Res. DIAN 065/2024, Comportamiento ético nivel 3",
+      "case": "Una gestora sale a almorzar y deja en su escritorio expedientes de fiscalización abiertos y la sesión del sistema sin bloquear.",
+      "prompt": "Lo adecuado habría sido:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dejarlo así, porque en la oficina solo entran funcionarios."
+        },
+        {
+          "id": "b",
+          "text": "Pedirle a un compañero que vigile el puesto mientras regresa."
+        },
+        {
+          "id": "c",
+          "text": "Guardar los expedientes y bloquear la sesión antes de salir."
+        }
+      ],
+      "answer": "c",
+      "explain": "El código dice que no estoy descuidado con la información a mi cargo, y la Res. 065 pide ser confiable con esa información (Comportamiento ético, nivel 3).",
+      "optionWhy": {
+        "a": "Ser funcionario no da acceso a cualquier expediente: también hay reserva interna.",
+        "b": "Dejarla expuesta a otra persona sigue siendo un descuido con la información."
+      }
+    },
+    {
+      "id": "integ-q-020",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "PTEP DIAN 2025–2026 (v3, jun-2026) num. 5.1.1",
+      "prompt": "Según el PTEP, ¿cuáles son los riesgos de integridad que gestiona la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conflictos de intereses, soborno, corrupción y fraude"
+        },
+        {
+          "id": "b",
+          "text": "Evasión, elusión, contrabando y subfacturación"
+        },
+        {
+          "id": "c",
+          "text": "Errores de liquidación, extemporaneidad e inexactitud"
+        }
+      ],
+      "answer": "a",
+      "explain": "El PTEP gestiona los riesgos de integridad (conflictos de intereses, soborno, corrupción y fraude) y, aparte, los de LA/FT/FP.",
+      "optionWhy": {
+        "b": "Son conductas de los contribuyentes que la DIAN fiscaliza, no riesgos de integridad de la entidad.",
+        "c": "Son causales de sanciones tributarias."
+      }
+    },
+    {
+      "id": "integ-q-021",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que hago",
+      "statement": "Reconozco ante mi jefe un error en un trámite aunque nadie más lo haya notado.",
+      "competency": "Integridad · Honestidad",
+      "insight": "Código de Integridad, Honestidad (lo que hago): «Siempre digo la verdad, incluso cuando cometo errores, porque es humano cometerlos, pero no es correcto esconderlos.»"
+    },
+    {
+      "id": "integ-q-022",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que hago",
+      "statement": "Cuando dudo cómo aplicar una norma, pido orientación aunque eso deje ver que no lo sé todo.",
+      "competency": "Integridad · Honestidad",
+      "insight": "Código de Integridad, Honestidad (lo que hago): «Cuando tengo dudas respecto a la aplicación de mis deberes busco orientación en las instancias pertinentes al interior de mi entidad.»"
+    },
+    {
+      "id": "integ-q-023",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que no hago",
+      "statement": "Rechazo cualquier atención o favor de un contribuyente con trámites a mi cargo, aunque parezca un simple detalle.",
+      "competency": "Integridad · Honestidad",
+      "insight": "Código de Integridad, Honestidad (lo que no hago): «Aceptar incentivos, favores, ni ningún otro tipo de beneficio que me ofrezcan personas o grupos que estén interesados en un proceso de toma de decisiones.»"
+    },
+    {
+      "id": "integ-q-024",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Honestidad — lo que hago",
+      "statement": "Denuncio las irregularidades que conozco en mi trabajo, aunque involucren a compañeros con los que me llevo bien.",
+      "competency": "Integridad · Honestidad",
+      "insight": "Código de Integridad, Honestidad (lo que hago): «Denuncio las faltas, delitos o violación de derechos de los que tengo conocimiento en el ejercicio de mi cargo, siempre.»"
+    },
+    {
+      "id": "integ-q-025",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Respeto — lo que hago",
+      "statement": "Trato con la misma amabilidad a todos los ciudadanos, aunque alguno me hable de mala manera.",
+      "competency": "Integridad · Respeto",
+      "insight": "Código de Integridad, Respeto (lo que hago): «Atiendo con amabilidad, igualdad y equidad a todas las personas en cualquier situación a través de mis palabras, gestos y actitudes.»"
+    },
+    {
+      "id": "integ-q-026",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Respeto — lo que hago",
+      "statement": "Escucho con atención las opiniones distintas a la mía, aunque esté seguro de tener la razón.",
+      "competency": "Integridad · Respeto",
+      "insight": "Código de Integridad, Respeto (lo que hago): «Estoy abierto al diálogo y a la comprensión a pesar de perspectivas y opiniones distintas a las mías.»"
+    },
+    {
+      "id": "integ-q-027",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Respeto — lo que no hago",
+      "statement": "Evito sacar conclusiones sobre un contribuyente por su apariencia o procedencia, aunque decidir así sería más rápido.",
+      "competency": "Integridad · Respeto",
+      "insight": "Código de Integridad, Respeto (lo que no hago): «Jamás baso mis decisiones en presunciones, estereotipos, o prejuicios.»"
+    },
+    {
+      "id": "integ-q-028",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Respeto — lo que no hago",
+      "statement": "Trato con respeto a los compañeros de otras dependencias, aunque sus demoras afecten mi trabajo.",
+      "competency": "Integridad · Respeto",
+      "insight": "Código de Integridad, Respeto (lo que no hago): «No agredo, ignoro o maltrato de ninguna manera a los ciudadanos ni a otros servidores públicos.»"
+    },
+    {
+      "id": "integ-q-029",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso — lo que hago",
+      "statement": "Al cierre de la jornada oriento a quien llega con una consulta, aunque eso me haga salir más tarde.",
+      "competency": "Integridad · Compromiso",
+      "insight": "Código de Integridad, Compromiso (lo que hago): «Escucho, atiendo y oriento a quien necesite cualquier información o guía en algún asunto público.»"
+    },
+    {
+      "id": "integ-q-030",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso — lo que hago",
+      "statement": "Me pongo en el lugar del contribuyente para entender su situación, aunque tenga muchos casos pendientes.",
+      "competency": "Integridad · Compromiso",
+      "insight": "Código de Integridad, Compromiso (lo que hago): «Siempre estoy dispuesto a ponerme en los zapatos de las personas.»"
+    },
+    {
+      "id": "integ-q-031",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso — lo que hago",
+      "statement": "Atiendo sin distracciones a la persona que tengo enfrente, aunque tenga mensajes pendientes en el celular.",
+      "competency": "Integridad · Compromiso",
+      "insight": "Código de Integridad, Compromiso (lo que hago): «Estoy atento siempre que interactúo con otras personas, sin distracciones de ningún tipo.»"
+    },
+    {
+      "id": "integ-q-032",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Compromiso — lo que no hago",
+      "statement": "Mantengo una buena disposición en mi trabajo aun en los días de más carga.",
+      "competency": "Integridad · Compromiso",
+      "insight": "Código de Integridad, Compromiso (lo que no hago): «Nunca trabajo con una actitud negativa.»"
+    },
+    {
+      "id": "integ-q-033",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia — lo que no hago",
+      "statement": "Resuelvo hoy lo que puedo resolver hoy, aunque el plazo legal me permita dejarlo para después.",
+      "competency": "Integridad · Diligencia",
+      "insight": "Código de Integridad, Diligencia (lo que no hago): «No postergo las decisiones y actividades que den solución a problemáticas ciudadanas o que hagan parte del funcionamiento de mi cargo.»"
+    },
+    {
+      "id": "integ-q-034",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia — lo que hago",
+      "statement": "Reviso la calidad de lo que entrego, aunque eso me tome tiempo adicional.",
+      "competency": "Integridad · Diligencia",
+      "insight": "Código de Integridad, Diligencia (lo que hago): «Aseguro la calidad en cada uno de los productos que entrego bajo los estándares del servicio público.»"
+    },
+    {
+      "id": "integ-q-035",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia — lo que hago",
+      "statement": "Propongo mejoras en el proceso a mi equipo, aunque implique trabajo extra para mí.",
+      "competency": "Integridad · Diligencia",
+      "insight": "Código de Integridad, Diligencia (lo que hago): «Siempre soy proactivo comunicando a tiempo propuestas para mejorar continuamente mi labor y la de mis compañeros de trabajo.»"
+    },
+    {
+      "id": "integ-q-036",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Diligencia — lo que hago",
+      "statement": "Cuido los recursos de la oficina (papel, equipos, vehículos) aunque nadie lleve la cuenta de su uso.",
+      "competency": "Integridad · Diligencia",
+      "insight": "Código de Integridad, Diligencia (lo que hago): «Uso responsablemente los recursos públicos para cumplir con mis obligaciones.»"
+    },
+    {
+      "id": "integ-q-037",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia — lo que no hago",
+      "statement": "Aplico los mismos criterios a todos los contribuyentes, aunque alguno sea conocido mío.",
+      "competency": "Integridad · Justicia",
+      "insight": "Código de Integridad, Justicia (lo que no hago): «Nunca permito que odios, simpatías, antipatías, caprichos, presiones o intereses de orden personal o grupal interfieran en mi criterio.»"
+    },
+    {
+      "id": "integ-q-038",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia — lo que hago",
+      "statement": "Antes de proyectar una decisión, verifico que tenga soporte en pruebas confiables, aunque eso demore el expediente.",
+      "competency": "Integridad · Justicia",
+      "insight": "Código de Integridad, Justicia (lo que hago): «Tomo decisiones informadas y objetivas basadas en evidencias y datos confiables.»"
+    },
+    {
+      "id": "integ-q-039",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia — lo que no hago",
+      "statement": "Escucho a todas las partes de una situación antes de decidir, aunque una de ellas tenga más poder.",
+      "competency": "Integridad · Justicia",
+      "insight": "Código de Integridad, Justicia (lo que no hago): «No favorezco el punto de vista de un grupo de interés sin tener en cuenta a todos los actores involucrados en una situación.»"
+    },
+    {
+      "id": "integ-q-040",
+      "type": "likert",
+      "difficulty": 1,
+      "source": "Código de Integridad del Servicio Público (Función Pública), Justicia — lo que no hago",
+      "statement": "Cuando tengo un interés personal en un caso, lo declaro y pido que lo asuma otra persona, aunque eso cargue de trabajo a un compañero.",
+      "competency": "Integridad · Justicia",
+      "insight": "Código de Integridad, Justicia (lo que no hago): «Nunca permito que odios, simpatías, antipatías, caprichos, presiones o intereses de orden personal o grupal interfieran en mi criterio, toma de decisión y gestión pública.»"
+    }
+  ]
+}

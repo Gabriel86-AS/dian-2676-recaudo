@@ -1,0 +1,852 @@
+{
+  "id": "recaudo",
+  "title": "Proceso de recaudo",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Cómo recibe la DIAN el dinero de los tributos: entidades autorizadas y sus obligaciones, aproximación, fecha de pago, imputación, intereses moratorios (también a cargo de los bancos) y pago de tributos aduaneros.",
+  "sources": [
+    "ET arts. 634, 635, 800–806, 811 y 812",
+    "Decreto 1165 de 2019 arts. 17 y 18"
+  ],
+  "lessons": [
+    {
+      "id": "rec-01",
+      "title": "Dónde y cómo se paga",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "rec-c-001",
+          "type": "concept",
+          "source": "ET arts. 800, 801 y 811",
+          "title": "Quién recauda",
+          "body": "El **recaudo** es recibir los pagos y las declaraciones de los contribuyentes.\n\n- **Lugar de pago (art. 800):** donde señale el Gobierno. Se puede recaudar a través de **bancos y demás entidades financieras**.\n- **Autorización (art. 801):** el **Ministerio de Hacienda y Crédito Público** señala los bancos y entidades autorizados para recaudar impuestos, anticipos, retenciones, sanciones e intereses y para **recibir declaraciones**.\n- **Plazos (art. 811):** los fija el Gobierno Nacional. En **importaciones**, el IVA se liquida y paga **junto con los derechos de aduana**."
+        },
+        {
+          "id": "rec-c-002",
+          "type": "concept",
+          "source": "ET arts. 801 y 802",
+          "title": "Obligaciones de la entidad autorizada",
+          "body": "Según el art. 801, la entidad autorizada debe, entre otras:\n\n- **a.** Recibir en todas sus oficinas las declaraciones y pagos de quien lo solicite, **sea o no cliente**.\n- **b.** Guardar los documentos garantizando su **reserva**.\n- **c.** **Consignar** lo recaudado en los plazos y lugares que señale el Ministerio.\n- **d.** **Entregar** las declaraciones y recibos de pago.\n- **e.** Diligenciar la **planilla de control** de recepción y recaudo.\n- **f.** Transcribir la información en medios magnéticos, identificando los **errores aritméticos**.\n- **g.** Verificar que la **identificación** coincida con el documento.\n- **h.** **Numerar** consecutivamente los documentos y planillas.\n\n**Redondeo (art. 802):** los recibos se aproximan al **múltiplo de mil más cercano** (excepción: timbre menor de $1.000)."
+        },
+        {
+          "ref": "rec-q-001"
+        },
+        {
+          "ref": "rec-q-002"
+        },
+        {
+          "ref": "rec-q-003"
+        },
+        {
+          "ref": "rec-q-004"
+        },
+        {
+          "ref": "rec-q-005"
+        },
+        {
+          "ref": "rec-q-006"
+        },
+        {
+          "ref": "rec-q-026"
+        }
+      ]
+    },
+    {
+      "id": "rec-02",
+      "title": "Fecha de pago e imputación",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "rec-c-003",
+          "type": "concept",
+          "source": "ET arts. 803 y 804",
+          "title": "Cuándo se entiende pagado y a qué se aplica",
+          "body": "- **Fecha de pago (art. 803):** el día en que los valores **ingresan a la DIAN o a los bancos autorizados**, aun si llegaron como depósitos, retenciones en la fuente o saldos a favor.\n- **Imputación (art. 804):** los pagos de deudas vencidas se aplican al periodo e impuesto que indique el contribuyente, **en proporción** a sanciones actualizadas, intereses, anticipos, impuestos y retenciones.\n- Si el contribuyente imputa distinto, la DIAN **reimputa sin acto administrativo previo**.\n- **Parágrafo:** el pago de un mayor impuesto de una declaración **en firme**, detallando el concepto, es **válido y no se devuelve**.",
+          "example": "Debe $10 millones: $6 de impuesto, $3 de intereses y $1 de sanción. Abona $5 millones: se aplican $3 a impuesto, $1,5 a intereses y $0,5 a sanción."
+        },
+        {
+          "ref": "rec-q-007"
+        },
+        {
+          "ref": "rec-q-008"
+        },
+        {
+          "ref": "rec-q-009"
+        },
+        {
+          "ref": "rec-q-010"
+        },
+        {
+          "ref": "rec-q-011"
+        },
+        {
+          "ref": "rec-q-012"
+        }
+      ]
+    },
+    {
+      "id": "rec-03",
+      "title": "Intereses moratorios",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "rec-c-004",
+          "type": "concept",
+          "source": "ET arts. 634, 635 y 812",
+          "title": "Cuánto cuesta pagar tarde",
+          "body": "- **Causación (arts. 634 y 812):** por **cada día calendario** de retardo en impuestos, anticipos y retenciones.\n- **Mayores valores** de liquidaciones oficiales o correcciones: intereses desde el **día siguiente al vencimiento del plazo original** de pago.\n- **Tasa (art. 635):** diaria, equivalente a la **tasa de usura de crédito de consumo menos 2 puntos**. La DIAN la publica en su web.\n- **Suspensión (art. 634, par. 2):** pasados **2 años** desde la admisión de la demanda, se suspenden los intereses hasta la ejecutoria de la sentencia."
+        },
+        {
+          "id": "rec-c-005",
+          "type": "concept",
+          "source": "ET art. 634, par. 1",
+          "title": "Intereses a cargo de la entidad recaudadora",
+          "body": "Si una entidad autorizada **no consigna** los recaudos en el plazo:\n\n- Se generan **a su cargo**, **sin trámite previo**, intereses moratorios a la tasa de mora tributaria, desde el día siguiente al vencimiento y hasta la consignación.\n- Si la suma de la casilla **«Pago total»** informada no coincide con el valor real de los formularios, los intereses se liquidan **al doble** de la tasa."
+        },
+        {
+          "ref": "rec-q-013"
+        },
+        {
+          "ref": "rec-q-014"
+        },
+        {
+          "ref": "rec-q-015"
+        },
+        {
+          "ref": "rec-q-016"
+        },
+        {
+          "ref": "rec-q-017"
+        },
+        {
+          "ref": "rec-q-018"
+        },
+        {
+          "ref": "rec-q-024"
+        }
+      ]
+    },
+    {
+      "id": "rec-04",
+      "title": "Pago de tributos aduaneros y otros medios",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "rec-c-006",
+          "type": "concept",
+          "source": "D1165/2019 arts. 17 y 18; ET arts. 805 y 806",
+          "title": "Recaudo aduanero y títulos",
+          "body": "- **Pago aduanero (D1165 art. 17):** presentada y **aceptada** la declaración, los tributos aduaneros, rescate y sanciones se pagan en **bancos y entidades autorizadas por la DIAN**. Los valores se aproximan al **múltiplo de mil**.\n- Las importaciones desde **zona franca** se pagan dentro de los **2 meses** siguientes a la aceptación; si no, se presenta nueva declaración (par. 2).\n- **Pago consolidado (art. 18):** el importador **OEA** paga dentro de los **5 primeros días hábiles** de cada mes las declaraciones con levante del mes anterior.\n- **Títulos de Devolución de Impuestos (ET art. 806):** sirven para pagar impuestos o derechos administrados por la DIAN dentro del **año calendario siguiente** a su expedición."
+        },
+        {
+          "ref": "rec-q-019"
+        },
+        {
+          "ref": "rec-q-020"
+        },
+        {
+          "ref": "rec-q-021"
+        },
+        {
+          "ref": "rec-q-022"
+        },
+        {
+          "ref": "rec-q-023"
+        },
+        {
+          "ref": "rec-q-025"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "rec-fc-001",
+      "front": "¿Quién autoriza a los bancos para recaudar impuestos?",
+      "back": "El Ministerio de Hacienda y Crédito Público.",
+      "source": "ET art. 801"
+    },
+    {
+      "id": "rec-fc-002",
+      "front": "¿A quién debe atender el banco autorizado?",
+      "back": "A quien lo solicite, sea o no cliente, en todas sus oficinas (salvo las que excluya la DIAN).",
+      "source": "ET art. 801, lit. a"
+    },
+    {
+      "id": "rec-fc-003",
+      "front": "¿A qué múltiplo se aproximan los recibos de pago?",
+      "back": "Al múltiplo de mil más cercano (excepto timbre menor de $1.000).",
+      "source": "ET art. 802"
+    },
+    {
+      "id": "rec-fc-004",
+      "front": "¿Qué fecha se tiene como fecha de pago?",
+      "back": "La fecha en que los valores ingresan a la DIAN o a los bancos autorizados.",
+      "source": "ET art. 803"
+    },
+    {
+      "id": "rec-fc-005",
+      "front": "¿Cómo se imputan los pagos de deudas vencidas?",
+      "back": "En proporción a sanciones, intereses, anticipos, impuestos y retenciones.",
+      "source": "ET art. 804"
+    },
+    {
+      "id": "rec-fc-006",
+      "front": "Si el contribuyente imputa mal un pago, ¿qué hace la DIAN?",
+      "back": "Lo reimputa en el orden legal sin acto administrativo previo.",
+      "source": "ET art. 804"
+    },
+    {
+      "id": "rec-fc-007",
+      "front": "Tasa de interés moratorio tributario",
+      "back": "Tasa de usura de crédito de consumo menos 2 puntos, liquidada diariamente.",
+      "source": "ET art. 635"
+    },
+    {
+      "id": "rec-fc-008",
+      "front": "¿Desde cuándo causan intereses los mayores valores de una liquidación oficial?",
+      "back": "Desde el día siguiente al vencimiento del plazo en que debieron pagarse.",
+      "source": "ET art. 634"
+    },
+    {
+      "id": "rec-fc-009",
+      "front": "Banco que no consigna a tiempo lo recaudado",
+      "back": "Intereses de mora a su cargo, sin trámite previo; al doble si «Pago total» no coincide.",
+      "source": "ET art. 634, par. 1"
+    },
+    {
+      "id": "rec-fc-010",
+      "front": "¿Cómo se paga el IVA en importaciones?",
+      "back": "Junto con la liquidación y el pago de los derechos de aduana.",
+      "source": "ET art. 811"
+    },
+    {
+      "id": "rec-fc-011",
+      "front": "¿Cuándo se pagan los tributos aduaneros?",
+      "back": "Presentada y aceptada la declaración, en bancos y entidades autorizadas por la DIAN.",
+      "source": "D1165/2019 art. 17"
+    },
+    {
+      "id": "rec-fc-012",
+      "front": "Pago consolidado del importador OEA",
+      "back": "Primeros 5 días hábiles de cada mes, por las declaraciones con levante del mes anterior.",
+      "source": "D1165/2019 art. 18, num. 1"
+    },
+    {
+      "id": "rec-fc-013",
+      "front": "¿Hasta cuándo sirven los Títulos de Devolución de Impuestos?",
+      "back": "Dentro del año calendario siguiente a su expedición.",
+      "source": "ET art. 806"
+    }
+  ],
+  "questions": [
+    {
+      "id": "rec-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 801",
+      "prompt": "¿Quién señala los bancos y entidades autorizados para recaudar impuestos y recibir declaraciones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Ministerio de Hacienda y Crédito Público"
+        },
+        {
+          "id": "b",
+          "text": "La DIAN, mediante resolución de cada seccional"
+        },
+        {
+          "id": "c",
+          "text": "La Superintendencia Financiera de Colombia"
+        },
+        {
+          "id": "d",
+          "text": "El Banco de la República"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 801 asigna al Ministerio de Hacienda y Crédito Público señalar los bancos y entidades especializadas autorizadas para recaudar y recibir declaraciones.",
+      "optionWhy": {
+        "b": "La DIAN no expide esa autorización según el art. 801.",
+        "c": "La Superintendencia Financiera fija la tasa de usura, no autoriza el recaudo.",
+        "d": "El Banco de la República no tiene esa función en el art. 801."
+      }
+    },
+    {
+      "id": "rec-q-002",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 801, lit. a",
+      "case": "Una persona que no es cliente de un banco autorizado llega a una de sus sucursales a presentar su declaración y pagar. El cajero le dice que solo atiende a clientes.",
+      "prompt": "¿Qué obligación del banco autorizado se está incumpliendo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Consignar los valores recaudados en los plazos que señale el Ministerio."
+        },
+        {
+          "id": "b",
+          "text": "Recibir las declaraciones y pagos de quien lo solicite, sea o no cliente."
+        },
+        {
+          "id": "c",
+          "text": "Numerar en forma consecutiva los documentos y las planillas de control."
+        }
+      ],
+      "answer": "b",
+      "explain": "El lit. a del art. 801 obliga a recibir en todas las oficinas las declaraciones y pagos de quienes lo soliciten, sean o no clientes de la entidad.",
+      "optionWhy": {
+        "a": "Consignar es una obligación posterior al recaudo (lit. c), no la que se incumple aquí.",
+        "c": "La numeración (lit. h) no tiene que ver con negarse a recibir."
+      }
+    },
+    {
+      "id": "rec-q-003",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 801",
+      "prompt": "Relaciona cada obligación de la entidad autorizada para recaudar con su contenido.",
+      "pairs": [
+        {
+          "left": "Lit. b",
+          "right": "Guardar los documentos garantizando su reserva"
+        },
+        {
+          "left": "Lit. c",
+          "right": "Consignar los valores recaudados"
+        },
+        {
+          "left": "Lit. d",
+          "right": "Entregar las declaraciones y recibos recibidos"
+        },
+        {
+          "left": "Lit. g",
+          "right": "Verificar que la identificación coincida con el documento"
+        }
+      ],
+      "explain": "Son algunas de las obligaciones del art. 801 (lits. a–h)."
+    },
+    {
+      "id": "rec-q-004",
+      "type": "pjs",
+      "difficulty": 1,
+      "source": "ET art. 802",
+      "case": "Un contribuyente diligencia un recibo de pago por $1.523.740.",
+      "prompt": "¿Qué valor debe registrar en el recibo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1.523.000"
+        },
+        {
+          "id": "b",
+          "text": "$1.523.740"
+        },
+        {
+          "id": "c",
+          "text": "$1.524.000"
+        }
+      ],
+      "answer": "c",
+      "explain": "Los valores de los recibos se aproximan al múltiplo de mil más cercano (art. 802). $1.523.740 está más cerca de $1.524.000.",
+      "optionWhy": {
+        "a": "No se trunca: se aproxima al múltiplo de mil más cercano.",
+        "b": "El art. 802 exige aproximar."
+      }
+    },
+    {
+      "id": "rec-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 802",
+      "statement": "La aproximación al múltiplo de mil no se aplica al impuesto de timbre cuando el valor del documento es inferior a $1.000; en ese caso se paga en su totalidad.",
+      "answer": true,
+      "explain": "Verdadero. Es la excepción del art. 802 para el impuesto de timbre, y esa cifra no se reajusta anualmente."
+    },
+    {
+      "id": "rec-q-006",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 811",
+      "prompt": "En las importaciones, ¿cómo se paga el IVA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En la declaración bimestral de IVA del importador"
+        },
+        {
+          "id": "b",
+          "text": "Dentro del mes siguiente a la obtención del levante"
+        },
+        {
+          "id": "c",
+          "text": "En la declaración anual de renta del importador"
+        },
+        {
+          "id": "d",
+          "text": "Con la liquidación y el pago de los derechos de aduana"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 811 dispone que en importaciones el IVA se liquida y paga conjuntamente con la liquidación y pago de los derechos de aduana.",
+      "optionWhy": {
+        "a": "El IVA de la importación no se paga en la declaración periódica de IVA.",
+        "b": "El art. 811 no fija ese plazo.",
+        "c": "La renta no tiene relación con este pago."
+      }
+    },
+    {
+      "id": "rec-q-007",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 803",
+      "case": "Un contribuyente consignó su impuesto en un banco autorizado el último día del plazo. El banco transfirió los recursos a la DIAN tres días después.",
+      "prompt": "¿Qué fecha de pago debe tenerse en cuenta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La fecha en que la DIAN recibió la transferencia del banco."
+        },
+        {
+          "id": "b",
+          "text": "La fecha en que ingresó el dinero al banco autorizado."
+        },
+        {
+          "id": "c",
+          "text": "La fecha en que se presentó la declaración tributaria."
+        }
+      ],
+      "answer": "b",
+      "explain": "Es fecha de pago aquella en que los valores ingresan a las oficinas de la DIAN o a los bancos autorizados (art. 803). El pago fue oportuno.",
+      "optionWhy": {
+        "a": "El ingreso al banco autorizado ya cuenta como pago.",
+        "c": "La presentación de la declaración no equivale al pago."
+      }
+    },
+    {
+      "id": "rec-q-008",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 803",
+      "statement": "Los valores retenidos en la fuente o los saldos a favor imputados no cuentan como pago, porque no fueron consignados por el contribuyente.",
+      "answer": false,
+      "explain": "Falso. El art. 803 tiene como fecha de pago el ingreso de los valores imputables aun cuando se hayan recibido como depósitos, retenciones en la fuente o saldos a favor."
+    },
+    {
+      "id": "rec-q-009",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 804",
+      "case": "Una persona debe IVA vencido con impuesto, sanción e intereses. Hace un abono y escribe en el recibo que todo se aplique al impuesto. Usted revisa el estado de cuenta.",
+      "prompt": "¿Cómo debe imputarse el abono?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Todo al impuesto, como lo indicó el contribuyente."
+        },
+        {
+          "id": "b",
+          "text": "Primero a intereses y sanción, y el saldo al impuesto, con acto previo."
+        },
+        {
+          "id": "c",
+          "text": "En proporción a sanción, intereses e impuesto; se reimputa sin acto."
+        }
+      ],
+      "answer": "c",
+      "explain": "Los pagos de deudas vencidas se imputan en la misma proporción con que participan sanciones, intereses, anticipos, impuestos y retenciones. Si el contribuyente lo imputa distinto, la DIAN lo reimputa sin acto administrativo previo (art. 804).",
+      "optionWhy": {
+        "a": "El contribuyente escoge el periodo e impuesto, pero no puede alterar la proporción legal.",
+        "b": "La regla es proporcional, no de prelación, y no exige acto previo."
+      }
+    },
+    {
+      "id": "rec-q-010",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 804",
+      "statement": "Si un contribuyente imputa un pago de forma distinta a la legal, la DIAN debe expedir un acto administrativo antes de reimputarlo.",
+      "answer": false,
+      "explain": "Falso. La DIAN lo reimputa en el orden señalado sin que se requiera acto administrativo previo (art. 804)."
+    },
+    {
+      "id": "rec-q-011",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 804, par.",
+      "prompt": "Un contribuyente paga un mayor impuesto asociado a una declaración que ya está en firme, detallando el concepto. ¿Qué dice el ET de ese pago?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es un pago de lo no debido y la DIAN debe devolverlo."
+        },
+        {
+          "id": "b",
+          "text": "Solo es válido si la DIAN lo autoriza antes."
+        },
+        {
+          "id": "c",
+          "text": "Es válido y no puede devolverse por ningún concepto."
+        },
+        {
+          "id": "d",
+          "text": "Se convierte en saldo a favor del siguiente periodo."
+        }
+      ],
+      "answer": "c",
+      "explain": "El parágrafo del art. 804 (DL 2106/2019) dice que esos pagos son válidos y no serán objeto de devolución por pago de lo no debido, pago en exceso ni otro concepto.",
+      "optionWhy": {
+        "a": "La norma dice expresamente lo contrario.",
+        "b": "No se exige autorización previa.",
+        "d": "No genera saldo a favor: es un pago válido del mayor impuesto."
+      }
+    },
+    {
+      "id": "rec-q-012",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "ET art. 804",
+      "text": "Los pagos de deudas vencidas se imputan al periodo e impuesto que indique el contribuyente, en las mismas {{proporciones}} con que participan sanciones, intereses, anticipos, impuestos y retenciones.",
+      "alternatives": {
+        "proporciones": [
+          "proporcion",
+          "proporción"
+        ]
+      }
+    },
+    {
+      "id": "rec-q-013",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 634",
+      "prompt": "¿Cómo se causan los intereses moratorios tributarios?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Por cada mes o fracción de mes de retardo"
+        },
+        {
+          "id": "b",
+          "text": "Por cada día hábil de retardo en el pago"
+        },
+        {
+          "id": "c",
+          "text": "Una sola vez, al vencer el plazo"
+        },
+        {
+          "id": "d",
+          "text": "Por cada día calendario de retardo en el pago"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 634 ordena liquidar y pagar intereses moratorios por cada día calendario de retardo.",
+      "optionWhy": {
+        "a": "El cálculo es diario, no mensual.",
+        "b": "Se cuentan días calendario, no hábiles.",
+        "c": "Los intereses corren mientras dure el retardo."
+      }
+    },
+    {
+      "id": "rec-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 635",
+      "prompt": "¿Cómo se determina la tasa de interés moratorio tributario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tasa de usura de crédito de consumo menos dos puntos"
+        },
+        {
+          "id": "b",
+          "text": "Tasa de usura de crédito de consumo más dos puntos"
+        },
+        {
+          "id": "c",
+          "text": "DTF más diez puntos porcentuales"
+        },
+        {
+          "id": "d",
+          "text": "Tasa de interés bancario corriente sin ajuste"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 635 fija la tasa diaria equivalente a la tasa de usura vigente para crédito de consumo, menos dos puntos. La DIAN la publica en su página web.",
+      "optionWhy": {
+        "b": "Son dos puntos menos, no más.",
+        "c": "La DTF no es la referencia del art. 635.",
+        "d": "Se parte de la tasa de usura, no del interés bancario corriente."
+      }
+    },
+    {
+      "id": "rec-q-015",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 634",
+      "case": "Una liquidación de revisión, en firme en 2026, determinó un mayor impuesto de renta del año gravable 2023. El contribuyente pregunta desde cuándo debe intereses sobre ese mayor valor.",
+      "prompt": "¿Qué le responde el gestor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desde el día siguiente al vencimiento del plazo de pago de 2023."
+        },
+        {
+          "id": "b",
+          "text": "Desde la fecha de notificación de la liquidación de revisión."
+        },
+        {
+          "id": "c",
+          "text": "Desde la fecha en que quedó en firme la liquidación."
+        }
+      ],
+      "answer": "a",
+      "explain": "Los mayores valores determinados en liquidaciones oficiales causan intereses desde el día siguiente al vencimiento del término en que debieron pagarse, según los plazos del periodo liquidado (art. 634).",
+      "optionWhy": {
+        "b": "Los intereses no se cuentan desde la notificación, sino desde el vencimiento original.",
+        "c": "La firmeza del acto no marca el inicio de los intereses."
+      }
+    },
+    {
+      "id": "rec-q-016",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 634, par. 1",
+      "case": "Un banco autorizado recaudó impuestos el lunes y consignó los recursos a la DIAN cuatro días después del plazo fijado. Además, la suma de la casilla «Pago total» que informó no coincide con el valor real de los formularios.",
+      "prompt": "¿Qué consecuencia aplica al banco por el recaudo no consignado a tiempo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intereses a la tasa de mora, previo pliego de cargos."
+        },
+        {
+          "id": "b",
+          "text": "Intereses al doble de la tasa de mora, sin trámite previo."
+        },
+        {
+          "id": "c",
+          "text": "Ninguna, porque el contribuyente ya quedó al día."
+        }
+      ],
+      "answer": "b",
+      "explain": "Si la entidad no consigna a tiempo, causa intereses a la tasa de mora sin trámite previo; si además la casilla «Pago total» informada no coincide con el valor real, se liquidan al doble de la tasa (art. 634, par. 1).",
+      "optionWhy": {
+        "a": "Los intereses del par. 1 se generan sin necesidad de trámite previo.",
+        "c": "El retardo en consignar es una falta propia del banco, distinta del pago del contribuyente."
+      }
+    },
+    {
+      "id": "rec-q-017",
+      "type": "truefalse",
+      "difficulty": 3,
+      "source": "ET art. 634, par. 2",
+      "statement": "Pasados dos años desde la admisión de la demanda ante lo contencioso administrativo, se suspenden los intereses moratorios a cargo del contribuyente hasta que quede ejecutoriada la providencia definitiva.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dispone el par. 2 del art. 634; también se suspenden los intereses corrientes a cargo de la DIAN."
+    },
+    {
+      "id": "rec-q-018",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "ET art. 812",
+      "text": "El no pago oportuno de los impuestos, anticipos y retenciones causa intereses {{moratorios}} en la forma prevista en los artículos 634 y 635."
+    },
+    {
+      "id": "rec-q-019",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 17",
+      "case": "Un importador presentó su declaración de importación y quiere pagar los tributos aduaneros. Pregunta si puede pagar en la ventanilla de la seccional.",
+      "prompt": "¿Qué le responde el gestor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que pague en la caja de la seccional antes de presentar la declaración."
+        },
+        {
+          "id": "b",
+          "text": "Que el pago lo hace el depósito al entregar la mercancía."
+        },
+        {
+          "id": "c",
+          "text": "Que pague en bancos autorizados, una vez aceptada la declaración."
+        }
+      ],
+      "answer": "c",
+      "explain": "Presentada y aceptada la declaración, el pago de tributos aduaneros, rescate, sanciones y demás obligaciones se hace a través de los bancos y entidades financieras autorizadas por la DIAN (D1165 art. 17).",
+      "optionWhy": {
+        "a": "El pago se hace en entidades autorizadas y después de aceptada la declaración.",
+        "b": "El depósito no recauda los tributos aduaneros."
+      }
+    },
+    {
+      "id": "rec-q-020",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 18, num. 1",
+      "prompt": "¿Dentro de qué plazo hace el pago consolidado un importador que es Operador Económico Autorizado (OEA)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dentro de los cinco primeros días hábiles de cada mes"
+        },
+        {
+          "id": "b",
+          "text": "Dentro de los dos meses siguientes al levante"
+        },
+        {
+          "id": "c",
+          "text": "El último día hábil del mes en que obtuvo el levante"
+        },
+        {
+          "id": "d",
+          "text": "Al momento de la aceptación de cada declaración"
+        }
+      ],
+      "answer": "a",
+      "explain": "El OEA paga en forma consolidada dentro de los primeros cinco días hábiles de cada mes las declaraciones con levante del mes anterior (D1165 art. 18, num. 1).",
+      "optionWhy": {
+        "b": "Los dos meses son para pagar declaraciones de salida de zona franca (art. 17, par. 2).",
+        "c": "El plazo es al inicio del mes, no al final.",
+        "d": "El beneficio del pago consolidado es justamente no pagar declaración por declaración."
+      }
+    },
+    {
+      "id": "rec-q-021",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "D1165/2019 art. 17, par. 1",
+      "statement": "Los valores a pagar liquidados en las declaraciones de aduanas también se aproximan al múltiplo de mil más cercano.",
+      "answer": true,
+      "explain": "Verdadero. El par. 1 del art. 17 del D1165 lo exige para tributos, rescate, sanciones y demás obligaciones."
+    },
+    {
+      "id": "rec-q-022",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 806",
+      "prompt": "¿Para qué sirven los Títulos de Devolución de Impuestos (TIDIS)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Para pagar cualquier deuda con entidades públicas sin límite de tiempo"
+        },
+        {
+          "id": "b",
+          "text": "Para pagar impuestos o derechos administrados por la DIAN durante un año"
+        },
+        {
+          "id": "c",
+          "text": "Para garantizar facilidades de pago ante el área de cobranzas"
+        },
+        {
+          "id": "d",
+          "text": "Para pagar impuestos territoriales de cualquier municipio"
+        }
+      ],
+      "answer": "b",
+      "explain": "Según el art. 806, los Títulos de Devolución de Impuestos solo sirven para cancelar impuestos o derechos administrados por la DIAN, dentro del año calendario siguiente a su expedición.",
+      "optionWhy": {
+        "a": "Su uso está limitado a obligaciones con la DIAN y a un año.",
+        "c": "El art. 806 no los regula como garantía.",
+        "d": "Son para impuestos o derechos administrados por la DIAN."
+      }
+    },
+    {
+      "id": "rec-q-023",
+      "type": "order",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 17; ET arts. 801 y 803",
+      "prompt": "Ordena los pasos del pago de una importación.",
+      "items": [
+        "Presentar la declaración de importación",
+        "Aceptación de la declaración",
+        "Pagar los tributos en un banco autorizado",
+        "El banco consigna lo recaudado a la DIAN"
+      ],
+      "explain": "El pago se hace una vez presentada y aceptada la declaración (D1165 art. 17); el banco autorizado luego consigna los recaudos (ET art. 801, lit. c)."
+    },
+    {
+      "id": "rec-q-024",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET arts. 800, 801 y 634",
+      "case": "En la revisión diaria del recaudo, usted detecta que una entidad autorizada recibió pagos de varios contribuyentes pero no los ha consignado, aunque ya venció su plazo.",
+      "prompt": "¿Qué actuación corresponde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cobrar de nuevo el impuesto a los contribuyentes que pagaron."
+        },
+        {
+          "id": "b",
+          "text": "Anular los recibos de pago hasta que la entidad haga la consignación."
+        },
+        {
+          "id": "c",
+          "text": "Liquidar intereses de mora a cargo de la entidad recaudadora."
+        }
+      ],
+      "answer": "c",
+      "explain": "Los contribuyentes pagaron en la fecha en que el dinero ingresó al banco (art. 803). La entidad que no consigna a tiempo causa intereses a su cargo sin trámite previo (art. 634, par. 1).",
+      "optionWhy": {
+        "a": "El pago de los contribuyentes es válido desde que ingresó al banco autorizado.",
+        "b": "La norma no prevé anular los recibos: el incumplimiento es de la entidad."
+      }
+    },
+    {
+      "id": "rec-q-025",
+      "type": "open",
+      "difficulty": 2,
+      "source": "ET arts. 800, 801, 803 y 804",
+      "prompt": "Explica a un contribuyente dónde puede pagar, qué fecha se tiene como fecha de pago y cómo se aplica un abono a una deuda vencida.",
+      "modelAnswer": "Puede pagar en los bancos y entidades autorizadas que señala el Ministerio de Hacienda (arts. 800 y 801). La fecha de pago es la del ingreso del dinero al banco autorizado o a la DIAN (art. 803). Un abono a deuda vencida se imputa en proporción a sanción, intereses e impuesto; si lo imputa distinto, la DIAN lo reimputa sin acto previo (art. 804).",
+      "keyPoints": [
+        "Bancos y entidades autorizadas",
+        "Fecha de ingreso al banco",
+        "Imputación proporcional",
+        "Reimputación sin acto previo"
+      ],
+      "keywords": [
+        "bancos",
+        "autorizad",
+        "fecha",
+        "ingreso",
+        "proporci",
+        "reimput"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "rec-q-026",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "ET art. 801, lits. e y f",
+      "prompt": "Una entidad recaudadora entrega a la DIAN la información de las declaraciones recibidas. ¿Qué debe identificar en esa información?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los contribuyentes que pagaron por fuera del plazo"
+        },
+        {
+          "id": "b",
+          "text": "Los contribuyentes que no son clientes de la entidad"
+        },
+        {
+          "id": "c",
+          "text": "Las declaraciones que deben ser objeto de fiscalización"
+        },
+        {
+          "id": "d",
+          "text": "Los documentos con errores aritméticos, previa validación"
+        }
+      ],
+      "answer": "d",
+      "explain": "El lit. f del art. 801 exige transcribir y entregar en medios magnéticos la información de declaraciones y recibos, identificando los que presenten errores aritméticos, previa validación.",
+      "optionWhy": {
+        "a": "La extemporaneidad la determina la DIAN, no la entidad recaudadora.",
+        "b": "Ser o no cliente no importa: debe recibir a todos (lit. a).",
+        "c": "Seleccionar casos de fiscalización no es función de la entidad recaudadora."
+      }
+    }
+  ]
+}
