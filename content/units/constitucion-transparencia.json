@@ -1,0 +1,1235 @@
+{
+  "id": "constitucion-transparencia",
+  "title": "Constitución, transparencia y servicio al ciudadano",
+  "area": "funcional",
+  "priority": 3,
+  "summary": "Competencias funcionales básicas de la ficha AF-LF-3005: principios y estructura del Estado, derechos fundamentales y sus mecanismos de protección, función pública, Ley de Transparencia (Ley 1712 de 2014) y atención de peticiones, quejas, reclamos y sugerencias.",
+  "sources": [
+    "Constitución Política de 1991, arts. 1, 2, 4, 6, 13, 15, 20, 23, 29, 74, 83, 85–88, 95, 113, 117–119, 121–125, 209, 338 y 363",
+    "Ley 1712/2014 arts. 2–7, 9–11, 18–22 y 24–29",
+    "Ley 1474/2011 art. 76; Ley 1437/2011 arts. 5, 7 y 14"
+  ],
+  "lessons": [
+    {
+      "id": "const-01",
+      "title": "Estado social de derecho y función pública",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "const-c-001",
+          "type": "concept",
+          "source": "Constitución Política arts. 1, 2, 4, 6, 113, 117–119 y 121",
+          "title": "Principios y estructura del Estado",
+          "body": "**Art. 1:** Colombia es un **Estado social de derecho**, República **unitaria, descentralizada**, con autonomía de sus entidades territoriales, **democrática, participativa y pluralista**, fundada en la **dignidad humana**, el trabajo, la solidaridad y la **prevalencia del interés general**.\n\n- **Fines del Estado** (art. 2): servir a la comunidad, promover la prosperidad general, garantizar los principios, derechos y deberes, facilitar la participación, defender la independencia y asegurar un orden justo.\n- **Supremacía** (art. 4): la Constitución es **norma de normas**; si hay incompatibilidad con la ley, prevalece la Constitución.\n- **Responsabilidad** (art. 6): los particulares responden por infringir la Constitución y las leyes; los **servidores públicos**, además, por **omisión o extralimitación** de funciones.\n- **Legalidad de las funciones** (art. 121): ninguna autoridad puede ejercer funciones distintas de las que le atribuyen la Constitución y la ley.\n\n| Estructura (art. 113) | |\n|---|---|\n| Ramas del poder público | **Legislativa, ejecutiva y judicial**, con funciones separadas que **colaboran armónicamente** |\n| Órganos autónomos e independientes | Para las demás funciones del Estado |\n| Órganos de control (art. 117) | **Ministerio Público** (Procurador, Defensor del Pueblo, personeros: derechos humanos, interés público y **conducta oficial**, art. 118) y **Contraloría General** (**gestión fiscal**, art. 119) |"
+        },
+        {
+          "id": "const-c-002",
+          "type": "concept",
+          "source": "Constitución Política arts. 122, 123, 125 y 209",
+          "title": "Función pública y función administrativa",
+          "body": "- **Empleo público** (art. 122): todo empleo tiene **funciones detalladas** en ley o reglamento. Nadie entra a ejercer su cargo sin **jurar** cumplir y defender la Constitución. Al posesionarse, al retirarse o cuando se lo pidan, el servidor **declara bajo juramento sus bienes y rentas**.\n- **Servidores públicos** (art. 123): miembros de corporaciones públicas, empleados y trabajadores del Estado; están **al servicio del Estado y de la comunidad**.\n- **Carrera** (art. 125): los empleos del Estado son **de carrera**, salvo elección popular, libre nombramiento y remoción, trabajadores oficiales y los que señale la ley. El ingreso y el ascenso se hacen por **méritos**, y quienes no tengan otro sistema de nombramiento se nombran por **concurso público**. La **filiación política** nunca determina nombramiento, ascenso o remoción.\n- **Función administrativa** (art. 209): al servicio de los **intereses generales**, con los principios de **igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad**, mediante **descentralización, delegación y desconcentración**. Toda la administración tiene **control interno**.",
+          "example": "El concurso DIAN 2676 aplica el art. 125: el ingreso a un empleo de carrera como Gestor III se hace por méritos, mediante concurso público."
+        },
+        {
+          "ref": "const-q-001"
+        },
+        {
+          "ref": "const-q-002"
+        },
+        {
+          "ref": "const-q-003"
+        },
+        {
+          "ref": "const-q-004"
+        },
+        {
+          "ref": "const-q-005"
+        },
+        {
+          "ref": "const-q-006"
+        },
+        {
+          "ref": "const-q-007"
+        },
+        {
+          "ref": "const-q-035"
+        }
+      ]
+    },
+    {
+      "id": "const-02",
+      "title": "Derechos fundamentales y cómo se protegen",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "const-c-003",
+          "type": "concept",
+          "source": "Constitución Política arts. 13, 15, 20, 23, 29, 74, 83, 95 num. 9, 338 y 363",
+          "title": "Derechos y deberes que más tocan el trabajo en la DIAN",
+          "body": "| Artículo | Contenido |\n|---|---|\n| 13 | **Igualdad**; protección especial a quien está en **debilidad manifiesta**. |\n| 15 | **Intimidad** y habeas data (conocer, actualizar y rectificar datos). Para efectos **tributarios** o judiciales puede exigirse la presentación de **libros de contabilidad** y documentos privados, según la ley. |\n| 20 | Libertad de expresión e información veraz e imparcial. |\n| 23 | **Derecho de petición**: peticiones respetuosas por interés general o particular y **pronta resolución**. |\n| 29 | **Debido proceso** en actuaciones **judiciales y administrativas**: presunción de inocencia, defensa, controvertir pruebas, no ser juzgado dos veces por el mismo hecho. |\n| 74 | Acceso a **documentos públicos**, salvo los casos que establezca la ley. |\n| 83 | **Buena fe**, que se **presume** en las gestiones de los particulares ante las autoridades. |\n| 95 num. 9 | Deber de **contribuir al financiamiento** de los gastos del Estado con justicia y equidad. |\n| 338 | En tiempo de paz, solo el **Congreso, las asambleas y los concejos** imponen contribuciones fiscales o parafiscales. |\n| 363 | Sistema tributario: **equidad, eficiencia y progresividad**; leyes tributarias **no retroactivas**. |"
+        },
+        {
+          "id": "const-c-004",
+          "type": "concept",
+          "source": "Constitución Política arts. 85, 86, 87 y 88",
+          "title": "Tutela, acción de cumplimiento y acciones populares",
+          "body": "- **Aplicación inmediata** (art. 85): entre otros, los derechos de los arts. 13, 15, 20, 23 y 29 no esperan desarrollo legal.\n- **Tutela** (art. 86): cualquier persona, por sí o por quien actúe a su nombre, pide a un juez la **protección inmediata de derechos fundamentales** vulnerados o amenazados por **acción u omisión** de una autoridad. Procedimiento **preferente y sumario**; no pueden pasar más de **10 días** entre la solicitud y la resolución. El fallo es de **inmediato cumplimiento**. Solo procede si **no hay otro medio** de defensa judicial, salvo como **mecanismo transitorio** ante un **perjuicio irremediable**.\n- **Acción de cumplimiento** (art. 87): pedir al juez que la autoridad **cumpla una ley o un acto administrativo**.\n- **Acciones populares** (art. 88): protegen **derechos e intereses colectivos** (patrimonio, espacio y salubridad públicos, **moral administrativa**, ambiente, libre competencia)."
+        },
+        {
+          "ref": "const-q-008"
+        },
+        {
+          "ref": "const-q-009"
+        },
+        {
+          "ref": "const-q-010"
+        },
+        {
+          "ref": "const-q-011"
+        },
+        {
+          "ref": "const-q-012"
+        },
+        {
+          "ref": "const-q-013"
+        },
+        {
+          "ref": "const-q-014"
+        },
+        {
+          "ref": "const-q-015"
+        }
+      ]
+    },
+    {
+      "id": "const-03",
+      "title": "Ley de Transparencia (Ley 1712 de 2014)",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "const-c-005",
+          "type": "concept",
+          "source": "Ley 1712/2014 arts. 2–7 y 9–11",
+          "title": "Máxima publicidad y divulgación proactiva",
+          "body": "**Máxima publicidad** (art. 2): toda información en poder de un sujeto obligado es **pública** y solo puede reservarse o limitarse por **disposición constitucional o legal**.\n\n**Principios** (art. 3), entre otros: transparencia (la información **se presume pública**), buena fe, **facilitación** (sin requisitos que obstruyan), **no discriminación** (sin exigir **expresión de causa**), **gratuidad** (solo el costo de reproducción), celeridad, eficacia, **calidad de la información** y **divulgación proactiva**.\n\n- **Sujetos obligados** (art. 5): todas las entidades públicas, órganos autónomos y de control, quienes presten función o servicios públicos, partidos políticos, entre otros.\n- **Disponibilidad** (art. 7): la información debe estar **en la web** y la entidad debe apoyar a quien lo requiera.\n- **Información mínima** que se publica **sin que nadie la pida** (arts. 9 y 11): estructura, funciones, sedes y horarios; presupuesto; directorio con escalas salariales; normas, políticas y metas; **plan de compras** y contrataciones; trámites con costos y formularios; informes de gestión y auditoría; **mecanismos para presentar solicitudes, quejas y reclamos**.\n- **Contratación** (art. 10): publicar las contrataciones en curso y un vínculo al **sistema electrónico de contratación pública**. La información del art. 9 se actualiza **mínimo cada mes**."
+        },
+        {
+          "id": "const-c-006",
+          "type": "concept",
+          "source": "Ley 1712/2014 arts. 6, 18–22 y 24–29",
+          "title": "Información clasificada y reservada; solicitudes de acceso",
+          "body": "| | **Clasificada** (art. 18) | **Reservada** (art. 19) |\n|---|---|---|\n| Protege | **Derechos de personas**: intimidad, vida, salud o seguridad; **secretos comerciales, industriales y profesionales** | **Intereses públicos**: defensa y seguridad nacional, seguridad pública, relaciones internacionales, investigación de delitos y faltas disciplinarias, debido proceso, administración de justicia, infancia, estabilidad macroeconómica, salud pública |\n| Requisito | Que el acceso pueda causar daño a esos derechos | Que una **norma legal o constitucional** prohíba expresamente el acceso |\n| Duración | **Ilimitada** | **Máximo 15 años** (art. 22) |\n\n- El rechazo se hace **motivado y por escrito**. El sujeto obligado tiene la **carga de la prueba**: debe demostrar un **daño presente, probable y específico** que excede el interés público del acceso (art. 28).\n- **Versión pública** (art. 21): si solo una parte está protegida, se entrega el documento **tachando solo lo indispensable**. La reserva cubre el **contenido**, no la **existencia** del documento.\n- Las entidades mantienen un **índice de información clasificada y reservada** (art. 20).\n- **Solicitud** (art. 25): oral o escrita, incluso electrónica; **nunca se rechaza por fundamentación inadecuada o incompleta**. La **respuesta** (art. 26) es escrita, motivada y se da en los plazos del **art. 14 de la Ley 1437**; es gratuita o cuesta solo la reproducción y el envío.\n- Ocultar, destruir o alterar a propósito información pública ya solicitada tiene **sanción penal** (art. 29)."
+        },
+        {
+          "ref": "const-q-016"
+        },
+        {
+          "ref": "const-q-017"
+        },
+        {
+          "ref": "const-q-018"
+        },
+        {
+          "ref": "const-q-019"
+        },
+        {
+          "ref": "const-q-020"
+        },
+        {
+          "ref": "const-q-021"
+        },
+        {
+          "ref": "const-q-022"
+        },
+        {
+          "ref": "const-q-023"
+        }
+      ]
+    },
+    {
+      "id": "const-04",
+      "title": "Servicio al ciudadano y PQRSF",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "const-c-007",
+          "type": "concept",
+          "source": "Ley 1474/2011 art. 76; Ley 1437/2011 arts. 5, 7 y 14; Ley 1712/2014 art. 11 lit. h",
+          "title": "Peticiones, quejas, reclamos, sugerencias y felicitaciones",
+          "body": "**PQRSF** agrupa las formas en que el ciudadano se dirige a la entidad. Todas son **ejercicio del derecho de petición** (Const. art. 23).\n\n- **Oficina de quejas, sugerencias y reclamos** (Ley 1474 art. 76): en **toda entidad pública** debe haber al menos una dependencia que **reciba, tramite y resuelva** las quejas, sugerencias y reclamos relacionados con la misión de la entidad.\n  - La **oficina de control interno** vigila que la atención cumpla la ley y rinde un **informe semestral**.\n  - La **página web principal** debe tener un enlace de quejas, sugerencias y reclamos de fácil acceso, y un espacio para **denunciar actos de corrupción** de funcionarios.\n  - Las quejas se investigan en coordinación con el **operador disciplinario interno**.\n- **Deberes de atención** (Ley 1437 art. 7): atención personal mínimo **40 horas semanales**, **carta de trato digno** actualizada cada año, turnos, dependencias especializadas en quejas y reclamos.\n- **Plazos** (Ley 1437 art. 14): **15 días** regla general; **10 días** documentos e información; **30 días** consultas.\n- **Atención preferente** (Ley 1437 art. 5 num. 6) a personas con discapacidad, niños, mujeres gestantes, adultos mayores y personas en indefensión.\n- Los mecanismos para presentar solicitudes, quejas y reclamos son **información mínima** que la entidad publica (Ley 1712 art. 11 lit. h)."
+        },
+        {
+          "ref": "const-q-024"
+        },
+        {
+          "ref": "const-q-025"
+        },
+        {
+          "ref": "const-q-026"
+        },
+        {
+          "ref": "const-q-027"
+        },
+        {
+          "ref": "const-q-028"
+        },
+        {
+          "ref": "const-q-029"
+        },
+        {
+          "ref": "const-q-030"
+        },
+        {
+          "ref": "const-q-033"
+        },
+        {
+          "ref": "const-q-034"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "const-fc-001",
+      "front": "¿Cómo define el art. 1 de la Constitución a Colombia?",
+      "back": "Estado social de derecho, República unitaria, descentralizada, con autonomía territorial, democrática, participativa y pluralista.",
+      "source": "Constitución Política art. 1"
+    },
+    {
+      "id": "const-fc-002",
+      "front": "¿Por qué responden los servidores públicos y no los particulares?",
+      "back": "Además de infringir la Constitución y las leyes, por omisión o extralimitación en sus funciones.",
+      "source": "Constitución Política art. 6"
+    },
+    {
+      "id": "const-fc-003",
+      "front": "Ramas del poder público",
+      "back": "Legislativa, ejecutiva y judicial; funciones separadas que colaboran armónicamente.",
+      "source": "Constitución Política art. 113"
+    },
+    {
+      "id": "const-fc-004",
+      "front": "Órganos de control",
+      "back": "Ministerio Público y Contraloría General de la República.",
+      "source": "Constitución Política art. 117"
+    },
+    {
+      "id": "const-fc-005",
+      "front": "¿Qué vigila la Contraloría General?",
+      "back": "La gestión fiscal y el resultado de la administración.",
+      "source": "Constitución Política art. 119"
+    },
+    {
+      "id": "const-fc-006",
+      "front": "Principios de la función administrativa (art. 209)",
+      "back": "Igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad.",
+      "source": "Constitución Política art. 209"
+    },
+    {
+      "id": "const-fc-007",
+      "front": "Regla general de los empleos del Estado",
+      "back": "Son de carrera; se ingresa por méritos. Excepciones: elección popular, libre nombramiento y remoción, trabajadores oficiales y las que fije la ley.",
+      "source": "Constitución Política art. 125"
+    },
+    {
+      "id": "const-fc-008",
+      "front": "¿Cuándo declara el servidor sus bienes y rentas?",
+      "back": "Antes de posesionarse, al retirarse o cuando lo pida la autoridad competente.",
+      "source": "Constitución Política art. 122"
+    },
+    {
+      "id": "const-fc-009",
+      "front": "Plazo máximo para resolver una tutela",
+      "back": "No más de 10 días entre la solicitud y la resolución.",
+      "source": "Constitución Política art. 86"
+    },
+    {
+      "id": "const-fc-010",
+      "front": "¿Para qué sirve la acción de cumplimiento?",
+      "back": "Para que el juez ordene a una autoridad cumplir una ley o un acto administrativo.",
+      "source": "Constitución Política art. 87"
+    },
+    {
+      "id": "const-fc-011",
+      "front": "Principios del sistema tributario",
+      "back": "Equidad, eficiencia y progresividad; las leyes tributarias no son retroactivas.",
+      "source": "Constitución Política art. 363"
+    },
+    {
+      "id": "const-fc-012",
+      "front": "¿Quién puede imponer contribuciones fiscales en tiempo de paz?",
+      "back": "Solo el Congreso, las asambleas departamentales y los concejos distritales y municipales.",
+      "source": "Constitución Política art. 338"
+    },
+    {
+      "id": "const-fc-013",
+      "front": "Principio de máxima publicidad",
+      "back": "Toda información de un sujeto obligado es pública; solo se reserva por disposición constitucional o legal.",
+      "source": "Ley 1712/2014 art. 2"
+    },
+    {
+      "id": "const-fc-014",
+      "front": "Principio de no discriminación (Ley 1712)",
+      "back": "Entregar la información a todos en igualdad de condiciones, sin exigir expresión de causa.",
+      "source": "Ley 1712/2014 art. 3"
+    },
+    {
+      "id": "const-fc-015",
+      "front": "Información clasificada vs. reservada",
+      "back": "Clasificada: protege derechos de personas (intimidad, secretos comerciales). Reservada: protege intereses públicos y requiere norma que prohíba el acceso.",
+      "source": "Ley 1712/2014 arts. 6, 18 y 19"
+    },
+    {
+      "id": "const-fc-016",
+      "front": "Duración máxima de la reserva por intereses públicos",
+      "back": "15 años.",
+      "source": "Ley 1712/2014 art. 22"
+    },
+    {
+      "id": "const-fc-017",
+      "front": "¿Quién prueba que una información debe ser reservada?",
+      "back": "El sujeto obligado: debe demostrar un daño presente, probable y específico.",
+      "source": "Ley 1712/2014 art. 28"
+    },
+    {
+      "id": "const-fc-018",
+      "front": "¿Qué es una versión pública?",
+      "back": "El documento entregado con reserva solo sobre la parte indispensable.",
+      "source": "Ley 1712/2014 art. 21"
+    },
+    {
+      "id": "const-fc-019",
+      "front": "Plazo de respuesta a una solicitud de acceso a información",
+      "back": "El del art. 14 de la Ley 1437 (10 días para documentos e información).",
+      "source": "Ley 1712/2014 art. 26"
+    },
+    {
+      "id": "const-fc-020",
+      "front": "Oficina de quejas, sugerencias y reclamos",
+      "back": "Obligatoria en toda entidad pública; control interno la vigila y rinde informe semestral.",
+      "source": "Ley 1474/2011 art. 76"
+    }
+  ],
+  "questions": [
+    {
+      "id": "const-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Constitución Política art. 4",
+      "prompt": "Si una ley es incompatible con la Constitución, ¿qué se aplica?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La norma más reciente de las dos"
+        },
+        {
+          "id": "b",
+          "text": "La norma más específica de las dos"
+        },
+        {
+          "id": "c",
+          "text": "Lo que decida la entidad que la aplica"
+        },
+        {
+          "id": "d",
+          "text": "Las disposiciones constitucionales"
+        }
+      ],
+      "answer": "d",
+      "explain": "La Constitución es norma de normas: ante incompatibilidad se aplican las disposiciones constitucionales (art. 4).",
+      "optionWhy": {
+        "a": "El criterio cronológico no aplica frente a la Constitución.",
+        "b": "La especialidad tampoco prevalece sobre la Constitución.",
+        "c": "No es una decisión discrecional de la entidad."
+      }
+    },
+    {
+      "id": "const-q-002",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Constitución Política arts. 6 y 121",
+      "case": "Un compañero propone que, para agilizar, la dependencia resuelva unas solicitudes que por norma le corresponden a otra área de la DIAN.",
+      "prompt": "Al gestor le corresponde advertir que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puede hacerse si el jefe inmediato lo aprueba por escrito."
+        },
+        {
+          "id": "b",
+          "text": "Ninguna autoridad puede ejercer funciones que no le asigna la ley."
+        },
+        {
+          "id": "c",
+          "text": "Puede hacerse si los ciudadanos se benefician con la rapidez."
+        }
+      ],
+      "answer": "b",
+      "explain": "Ninguna autoridad puede ejercer funciones distintas de las que le atribuyen la Constitución y la ley (art. 121). Hacerlo es extralimitación, por la que responden los servidores (art. 6).",
+      "optionWhy": {
+        "a": "La aprobación del jefe no asigna competencias que la norma no da.",
+        "c": "La eficiencia no habilita funciones que no se tienen."
+      }
+    },
+    {
+      "id": "const-q-003",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Constitución Política art. 6",
+      "statement": "Los servidores públicos responden solo por infringir la Constitución y las leyes, igual que los particulares.",
+      "answer": false,
+      "explain": "Falso. Los servidores públicos responden también por omisión o extralimitación en el ejercicio de sus funciones (art. 6)."
+    },
+    {
+      "id": "const-q-004",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Constitución Política arts. 113, 117, 118 y 119",
+      "prompt": "Relaciona cada órgano con su función.",
+      "pairs": [
+        {
+          "left": "Contraloría General de la República",
+          "right": "Vigilar la gestión fiscal"
+        },
+        {
+          "left": "Ministerio Público",
+          "right": "Vigilar la conducta oficial y proteger el interés público"
+        },
+        {
+          "left": "Ramas legislativa, ejecutiva y judicial",
+          "right": "Funciones separadas que colaboran armónicamente"
+        },
+        {
+          "left": "Órganos autónomos e independientes",
+          "right": "Las demás funciones del Estado"
+        }
+      ],
+      "explain": "Estructura del Estado: ramas y órganos autónomos (art. 113) y órganos de control (arts. 117–119)."
+    },
+    {
+      "id": "const-q-005",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Constitución Política art. 209",
+      "prompt": "¿Cuál de estos NO es uno de los principios de la función administrativa del art. 209?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moralidad"
+        },
+        {
+          "id": "b",
+          "text": "Celeridad"
+        },
+        {
+          "id": "c",
+          "text": "Publicidad"
+        },
+        {
+          "id": "d",
+          "text": "Rentabilidad"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 209 enumera igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. La rentabilidad no está.",
+      "optionWhy": {
+        "a": "La moralidad sí está en el art. 209.",
+        "b": "La celeridad sí está en el art. 209.",
+        "c": "La publicidad sí está en el art. 209."
+      }
+    },
+    {
+      "id": "const-q-006",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Constitución Política art. 125",
+      "case": "Un conocido le dice que, como milita en el mismo partido que un directivo, su nombramiento en un cargo de carrera de la DIAN está asegurado.",
+      "prompt": "Al gestor le corresponde aclararle que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "La afinidad política ayuda, pero debe aprobar el concurso."
+        },
+        {
+          "id": "b",
+          "text": "Los cargos de carrera se proveen por libre nombramiento."
+        },
+        {
+          "id": "c",
+          "text": "La filiación política nunca determina el ingreso a carrera."
+        }
+      ],
+      "answer": "c",
+      "explain": "El ingreso y el ascenso en carrera se hacen por méritos, y en ningún caso la filiación política puede determinar el nombramiento, ascenso o remoción (art. 125).",
+      "optionWhy": {
+        "a": "La filiación política no puede tener ningún peso en el ingreso.",
+        "b": "La carrera es la regla; el libre nombramiento es una excepción."
+      }
+    },
+    {
+      "id": "const-q-007",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Constitución Política art. 122",
+      "case": "Una persona que ganó el concurso va a tomar posesión como Gestor III. Pregunta si debe presentar algún documento sobre su patrimonio.",
+      "prompt": "Al gestor le corresponde informarle que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debe declarar bajo juramento sus bienes y rentas antes de posesionarse."
+        },
+        {
+          "id": "b",
+          "text": "Solo debe declarar sus bienes si el cargo maneja recursos públicos."
+        },
+        {
+          "id": "c",
+          "text": "Solo debe declarar sus bienes cuando se retire de la entidad."
+        }
+      ],
+      "answer": "a",
+      "explain": "Antes de tomar posesión, al retirarse o cuando la autoridad lo solicite, el servidor declara bajo juramento el monto de sus bienes y rentas (art. 122).",
+      "optionWhy": {
+        "b": "La obligación es de todo servidor, sin importar si maneja recursos.",
+        "c": "También se declara antes de la posesión, no solo al retiro."
+      }
+    },
+    {
+      "id": "const-q-008",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Constitución Política art. 86",
+      "prompt": "¿Cuál es el plazo máximo para resolver una acción de tutela?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 días desde la solicitud"
+        },
+        {
+          "id": "b",
+          "text": "15 días desde la solicitud"
+        },
+        {
+          "id": "c",
+          "text": "30 días desde la solicitud"
+        },
+        {
+          "id": "d",
+          "text": "2 meses desde la solicitud"
+        }
+      ],
+      "answer": "a",
+      "explain": "No pueden pasar más de 10 días entre la solicitud de tutela y su resolución (art. 86).",
+      "optionWhy": {
+        "b": "15 días es el plazo general de las peticiones (Ley 1437 art. 14).",
+        "c": "30 días es el plazo de las consultas (Ley 1437 art. 14).",
+        "d": "2 meses es el plazo del silencio en recursos (Ley 1437 art. 86)."
+      }
+    },
+    {
+      "id": "const-q-009",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Constitución Política arts. 23, 85 y 86",
+      "case": "Un ciudadano presentó un derecho de petición a la DIAN hace dos meses y no ha recibido respuesta. Le pregunta qué puede hacer ante un juez.",
+      "prompt": "El gestor debe orientarlo a que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interponga una acción popular por afectar la moral administrativa."
+        },
+        {
+          "id": "b",
+          "text": "Interponga una acción de cumplimiento contra la Constitución."
+        },
+        {
+          "id": "c",
+          "text": "Interponga una tutela por vulneración del derecho de petición."
+        }
+      ],
+      "answer": "c",
+      "explain": "El derecho de petición es fundamental y de aplicación inmediata (arts. 23 y 85). La tutela protege derechos fundamentales vulnerados por la omisión de una autoridad (art. 86). Además, la DIAN debe responder: la demora es falta disciplinaria.",
+      "optionWhy": {
+        "a": "La acción popular protege derechos colectivos (art. 88), no un derecho individual.",
+        "b": "La acción de cumplimiento busca que se cumpla una ley o un acto administrativo (art. 87), no proteger un derecho fundamental."
+      }
+    },
+    {
+      "id": "const-q-010",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Constitución Política arts. 86, 87 y 88",
+      "prompt": "Relaciona cada acción con lo que protege.",
+      "pairs": [
+        {
+          "left": "Tutela",
+          "right": "Derechos fundamentales vulnerados o amenazados"
+        },
+        {
+          "left": "Acción de cumplimiento",
+          "right": "Que se cumpla una ley o un acto administrativo"
+        },
+        {
+          "left": "Acción popular",
+          "right": "Derechos e intereses colectivos, como la moral administrativa"
+        }
+      ],
+      "explain": "Mecanismos de protección de los arts. 86, 87 y 88 de la Constitución."
+    },
+    {
+      "id": "const-q-011",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Constitución Política art. 86",
+      "statement": "La tutela procede aunque el afectado tenga otro medio de defensa judicial, en cualquier caso.",
+      "answer": false,
+      "explain": "Falso. Solo procede si no hay otro medio de defensa judicial, salvo que se use como mecanismo transitorio para evitar un perjuicio irremediable (art. 86)."
+    },
+    {
+      "id": "const-q-012",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Constitución Política art. 29",
+      "case": "Se adelanta un proceso por mercancía que llegó sin documentos. Un compañero quiere decidir sin dar traslado de unas pruebas al interesado, porque «es obvio que es contrabando».",
+      "prompt": "Al gestor le corresponde advertir que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "El debido proceso aplica en lo administrativo: hay que dejar controvertir las pruebas."
+        },
+        {
+          "id": "b",
+          "text": "El debido proceso solo aplica en los procesos judiciales penales."
+        },
+        {
+          "id": "c",
+          "text": "Basta con notificar la decisión final para garantizar la defensa."
+        }
+      ],
+      "answer": "a",
+      "explain": "El debido proceso se aplica a toda clase de actuaciones judiciales y administrativas, e incluye presentar y controvertir pruebas y la presunción de inocencia (art. 29).",
+      "optionWhy": {
+        "b": "El art. 29 lo extiende expresamente a las actuaciones administrativas.",
+        "c": "La defensa incluye controvertir las pruebas antes de decidir, no solo conocer la decisión."
+      }
+    },
+    {
+      "id": "const-q-013",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Constitución Política art. 83",
+      "case": "Un ciudadano aporta una factura para retirar una mercancía. Un compañero propone exigirle una declaración juramentada adicional de que la factura es auténtica, aunque la norma no la pide.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pedir la declaración, pues la autenticidad debe probarse siempre."
+        },
+        {
+          "id": "b",
+          "text": "Presumir su buena fe y no exigir requisitos que la norma no pide."
+        },
+        {
+          "id": "c",
+          "text": "Rechazar la factura hasta verificarla con el proveedor."
+        }
+      ],
+      "answer": "b",
+      "explain": "La buena fe se presume en las gestiones de los particulares ante las autoridades (art. 83). Exigir requisitos no previstos en la norma también está prohibido (Ley 1437 art. 9 num. 5).",
+      "optionWhy": {
+        "a": "La regla es presumir la buena fe; la entidad puede verificar, pero no crear requisitos.",
+        "c": "Rechazar sin causa desconoce la presunción de buena fe."
+      }
+    },
+    {
+      "id": "const-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Constitución Política art. 15",
+      "prompt": "Según el art. 15 de la Constitución, ¿cuándo puede exigirse la presentación de libros de contabilidad y documentos privados?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nunca: la intimidad es absoluta"
+        },
+        {
+          "id": "b",
+          "text": "Solo con orden de un juez penal"
+        },
+        {
+          "id": "c",
+          "text": "Para efectos tributarios o judiciales, según la ley"
+        },
+        {
+          "id": "d",
+          "text": "Siempre que lo pida cualquier ciudadano"
+        }
+      ],
+      "answer": "c",
+      "explain": "Para efectos tributarios o judiciales y para inspección, vigilancia e intervención del Estado puede exigirse su presentación, en los términos de la ley (art. 15).",
+      "optionWhy": {
+        "a": "La propia norma permite exigirlos en esos casos.",
+        "b": "La orden judicial es para interceptar comunicaciones privadas, no para esto.",
+        "d": "Un particular no tiene esa facultad."
+      }
+    },
+    {
+      "id": "const-q-015",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Constitución Política arts. 95 num. 9, 338 y 363",
+      "prompt": "Relaciona cada artículo con su regla tributaria.",
+      "pairs": [
+        {
+          "left": "Art. 95 num. 9",
+          "right": "Deber de contribuir a los gastos del Estado con justicia y equidad"
+        },
+        {
+          "left": "Art. 338",
+          "right": "Solo Congreso, asambleas y concejos imponen contribuciones en tiempo de paz"
+        },
+        {
+          "left": "Art. 363",
+          "right": "Equidad, eficiencia, progresividad y no retroactividad"
+        }
+      ],
+      "explain": "Bases constitucionales del sistema tributario que administra la DIAN."
+    },
+    {
+      "id": "const-q-016",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Ley 1712/2014 art. 2",
+      "prompt": "Según el principio de máxima publicidad, la información en poder de un sujeto obligado:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es reservada salvo que se pruebe su interés público"
+        },
+        {
+          "id": "b",
+          "text": "Es pública salvo que la Constitución o la ley la limiten"
+        },
+        {
+          "id": "c",
+          "text": "Es pública solo para quien demuestre interés directo"
+        },
+        {
+          "id": "d",
+          "text": "Es pública solo cuando la entidad decida divulgarla"
+        }
+      ],
+      "answer": "b",
+      "explain": "Toda información de un sujeto obligado es pública y solo puede reservarse o limitarse por disposición constitucional o legal (art. 2).",
+      "optionWhy": {
+        "a": "Es al revés: se presume pública.",
+        "c": "No se exige expresión de causa ni interés (art. 3, no discriminación).",
+        "d": "La divulgación es un deber, no una decisión discrecional."
+      }
+    },
+    {
+      "id": "const-q-017",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 art. 3",
+      "case": "Una persona pide por escrito el listado de contratos de la seccional. El funcionario de turno le exige que explique para qué la quiere antes de radicar.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exigir la explicación, para evitar usos indebidos de la información."
+        },
+        {
+          "id": "b",
+          "text": "Radicar la solicitud solo si la persona es contratista de la DIAN."
+        },
+        {
+          "id": "c",
+          "text": "Radicarla sin exigir motivo, porque no se pide expresión de causa."
+        }
+      ],
+      "answer": "c",
+      "explain": "Por el principio de no discriminación, la información se entrega a todas las personas en igualdad de condiciones, sin exigir expresión de causa o motivación (art. 3). La contratación además es información mínima publicada (arts. 9 y 10).",
+      "optionWhy": {
+        "a": "La ley prohíbe exigir la motivación de la solicitud.",
+        "b": "Cualquier persona tiene derecho de acceso (art. 24)."
+      }
+    },
+    {
+      "id": "const-q-018",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1712/2014 arts. 18, 21 y 28",
+      "case": "Piden copia de un contrato de arrendamiento de bodega. Uno de sus anexos contiene la fórmula de un proceso industrial del arrendador; el resto no tiene ninguna restricción.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entregar una versión pública que proteja solo el anexo con el secreto."
+        },
+        {
+          "id": "b",
+          "text": "Negar todo el contrato, porque contiene un secreto industrial."
+        },
+        {
+          "id": "c",
+          "text": "Entregar todo el contrato, porque la contratación es pública."
+        }
+      ],
+      "answer": "a",
+      "explain": "El secreto industrial es información clasificada (art. 18). Si solo una parte está protegida, se hace una versión pública que mantiene la reserva únicamente de lo indispensable (art. 21), con motivación por escrito y la carga de probar el daño (art. 28).",
+      "optionWhy": {
+        "b": "La protección no se extiende a lo que no está cubierto por la excepción.",
+        "c": "La publicidad de la contratación no elimina la protección del secreto industrial."
+      }
+    },
+    {
+      "id": "const-q-019",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 arts. 18 y 19",
+      "prompt": "¿Cuál de estas es información pública RESERVADA (art. 19) y no clasificada (art. 18)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La historia clínica de un servidor"
+        },
+        {
+          "id": "b",
+          "text": "Un secreto comercial de una empresa"
+        },
+        {
+          "id": "c",
+          "text": "Datos sobre la salud de una persona"
+        },
+        {
+          "id": "d",
+          "text": "Información sobre defensa nacional"
+        }
+      ],
+      "answer": "d",
+      "explain": "La reservada protege intereses públicos, como la defensa y seguridad nacional (art. 19). La clasificada protege derechos de personas: intimidad, salud, secretos comerciales (art. 18).",
+      "optionWhy": {
+        "a": "Protege la intimidad de una persona: es clasificada.",
+        "b": "Los secretos comerciales son clasificados (art. 18 lit. c).",
+        "c": "La salud de una persona es un derecho particular: es clasificada."
+      }
+    },
+    {
+      "id": "const-q-020",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Ley 1712/2014 art. 22",
+      "statement": "La reserva de la información por daño a intereses públicos no puede extenderse por más de 15 años.",
+      "answer": true,
+      "explain": "Verdadero. Así lo fija el art. 22. En cambio, las excepciones por daño a derechos de personas (art. 18) tienen duración ilimitada."
+    },
+    {
+      "id": "const-q-021",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1712/2014 arts. 21 y 28",
+      "case": "Un periodista pregunta si la DIAN tiene un informe sobre un operativo de control. El informe sí existe y está reservado por una investigación en curso.",
+      "prompt": "Al gestor le corresponde proyectar una respuesta que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niegue que exista cualquier informe sobre el operativo."
+        },
+        {
+          "id": "b",
+          "text": "Confirme que existe y niegue su contenido, de forma motivada."
+        },
+        {
+          "id": "c",
+          "text": "Entregue el informe, porque el periodista tiene trato preferente."
+        }
+      ],
+      "answer": "b",
+      "explain": "La reserva opera sobre el contenido del documento, no sobre su existencia; ninguna autoridad puede negarse a indicar si un documento obra en su poder, salvo daño mayor (art. 21). El rechazo es motivado y la entidad prueba el daño (art. 28).",
+      "optionWhy": {
+        "a": "Negar la existencia del documento está prohibido por el art. 21.",
+        "c": "El trámite preferente del periodista (Ley 1437 art. 20) no levanta una reserva legal."
+      }
+    },
+    {
+      "id": "const-q-022",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 art. 25",
+      "case": "Un ciudadano pide información sobre las mercancías donadas el año pasado. Su escrito es breve y no explica bien las razones de su solicitud.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tramitarla, porque no se rechaza por fundamentación incompleta."
+        },
+        {
+          "id": "b",
+          "text": "Rechazarla y pedirle que la presente de nuevo con argumentos."
+        },
+        {
+          "id": "c",
+          "text": "Archivarla hasta que el ciudadano amplíe sus razones."
+        }
+      ],
+      "answer": "a",
+      "explain": "La solicitud de acceso a información nunca puede rechazarse por motivos de fundamentación inadecuada o incompleta (Ley 1712 art. 25; también Ley 1437 art. 16 par. 2).",
+      "optionWhy": {
+        "b": "El rechazo por esa causa está prohibido.",
+        "c": "Archivarla equivale a no tramitarla."
+      }
+    },
+    {
+      "id": "const-q-023",
+      "type": "open",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 arts. 6, 18, 19 y 22",
+      "prompt": "Explica la diferencia entre información pública clasificada y reservada, con un ejemplo y su duración.",
+      "modelAnswer": "La clasificada protege derechos de personas naturales o jurídicas: intimidad, vida, salud, seguridad y secretos comerciales, industriales o profesionales (art. 18); por ejemplo, una hoja de vida; su protección es ilimitada. La reservada protege intereses públicos, como defensa y seguridad nacional o investigación de delitos, y exige una norma legal o constitucional que prohíba el acceso (art. 19); su reserva dura máximo 15 años (art. 22).",
+      "keyPoints": [
+        "Clasificada: derechos de personas",
+        "Reservada: intereses públicos",
+        "Reservada exige norma expresa",
+        "Clasificada: duración ilimitada",
+        "Reservada: máximo 15 años"
+      ],
+      "keywords": [
+        "clasificada",
+        "reservada",
+        "intimidad",
+        "intereses publicos",
+        "15 anos",
+        "ilimitada",
+        "norma"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "const-q-024",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1474/2011 art. 76",
+      "case": "Un ciudadano quiere denunciar que un funcionario le pidió dinero para agilizar la entrega de una mercancía. Pregunta dónde hacerlo.",
+      "prompt": "El gestor debe informarle que puede presentarla:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo ante la Fiscalía, porque la DIAN no recibe estas denuncias."
+        },
+        {
+          "id": "b",
+          "text": "Ante el mismo funcionario, para que tenga oportunidad de explicarse."
+        },
+        {
+          "id": "c",
+          "text": "En el espacio de denuncias de corrupción de la página web de la DIAN."
+        }
+      ],
+      "answer": "c",
+      "explain": "Toda entidad pública debe tener en su página web un espacio para que los ciudadanos denuncien actos de corrupción de sus funcionarios; la oficina de quejas los investiga con el operador disciplinario interno (art. 76).",
+      "optionWhy": {
+        "a": "La entidad también debe recibir estas denuncias; eso no impide acudir a otras autoridades.",
+        "b": "Presentarla ante el denunciado expone al ciudadano y no es el canal previsto."
+      }
+    },
+    {
+      "id": "const-q-025",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Ley 1474/2011 art. 76",
+      "prompt": "¿Quién vigila que la atención de quejas, sugerencias y reclamos se preste conforme a la ley, y con qué periodicidad informa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La oficina jurídica, con informe anual"
+        },
+        {
+          "id": "b",
+          "text": "La Contraloría, con informe trimestral"
+        },
+        {
+          "id": "c",
+          "text": "La oficina de control interno, con informe semestral"
+        },
+        {
+          "id": "d",
+          "text": "El Defensor del Pueblo, con informe mensual"
+        }
+      ],
+      "answer": "c",
+      "explain": "La oficina de control interno vigila la atención y rinde a la administración un informe semestral (art. 76).",
+      "optionWhy": {
+        "a": "La norma asigna esta vigilancia a control interno.",
+        "b": "La Contraloría vigila la gestión fiscal (Const. art. 119), no este servicio.",
+        "d": "No es una función que el art. 76 asigne al Defensor del Pueblo."
+      }
+    },
+    {
+      "id": "const-q-026",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1437/2011 art. 14; Ley 1712/2014 art. 26",
+      "case": "Una veeduría ciudadana pide copia de las actas de destrucción de mercancías del último semestre. Los documentos no tienen reserva.",
+      "prompt": "El gestor debe responder dentro de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los 10 días de las peticiones de documentos e información."
+        },
+        {
+          "id": "b",
+          "text": "Los 15 días del plazo general de las peticiones."
+        },
+        {
+          "id": "c",
+          "text": "Los 30 días de las consultas a la entidad."
+        }
+      ],
+      "answer": "a",
+      "explain": "La respuesta a una solicitud de acceso a información se da en los términos del art. 14 de la Ley 1437 (Ley 1712 art. 26): 10 días para documentos e información.",
+      "optionWhy": {
+        "b": "El plazo general cede ante el especial de documentos.",
+        "c": "No es una consulta sobre materias a cargo de la entidad."
+      }
+    },
+    {
+      "id": "const-q-027",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1474/2011 art. 76; Ley 1437/2011 art. 7",
+      "case": "En la seccional llegan muchas quejas por la demora en las entregas de mercancías, pero no hay una dependencia definida para atenderlas y cada área las responde a su manera.",
+      "prompt": "Al gestor le corresponde proponer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que cada área siga respondiendo, para no recargar a nadie."
+        },
+        {
+          "id": "b",
+          "text": "Canalizarlas por la dependencia de quejas y reclamos, con seguimiento."
+        },
+        {
+          "id": "c",
+          "text": "Responderlas solo cuando el ciudadano insista por segunda vez."
+        }
+      ],
+      "answer": "b",
+      "explain": "Toda entidad debe tener al menos una dependencia que reciba, tramite y resuelva quejas, sugerencias y reclamos (Ley 1474 art. 76), y atribuir a dependencias especializadas la atención de quejas y reclamos (Ley 1437 art. 7 num. 7).",
+      "optionWhy": {
+        "a": "La dispersión impide el seguimiento y el control que exige la ley.",
+        "c": "Toda queja debe resolverse dentro del plazo; esperar a que insista viola el art. 14 de la Ley 1437."
+      }
+    },
+    {
+      "id": "const-q-028",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Ley 1712/2014 art. 11 lit. h",
+      "statement": "Los mecanismos para presentar solicitudes, quejas y reclamos hacen parte de la información mínima que la entidad debe publicar sin que nadie la pida.",
+      "answer": true,
+      "explain": "Verdadero. El art. 11 lit. h los incluye en la información mínima obligatoria que se publica de manera proactiva."
+    },
+    {
+      "id": "const-q-029",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 arts. 9 y 10",
+      "case": "Un ciudadano pregunta dónde puede consultar los contratos que la seccional tiene en curso. La página web de la seccional no tiene esa información.",
+      "prompt": "Al gestor le corresponde proponer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atender su caso y dejar la web como está, pues no es obligatorio."
+        },
+        {
+          "id": "b",
+          "text": "Publicar solo los contratos ya liquidados, que no generan riesgos."
+        },
+        {
+          "id": "c",
+          "text": "Publicar los contratos en curso y el vínculo al sistema de contratación."
+        }
+      ],
+      "answer": "c",
+      "explain": "Las entidades publican en su medio electrónico las contrataciones en curso y un vínculo al sistema electrónico de contratación pública (art. 10). El plan de compras y las contrataciones son información mínima (art. 9 lit. e).",
+      "optionWhy": {
+        "a": "Es información mínima obligatoria que se publica de forma proactiva.",
+        "b": "La ley exige publicar las contrataciones en curso."
+      }
+    },
+    {
+      "id": "const-q-030",
+      "type": "open",
+      "difficulty": 2,
+      "source": "Ley 1474/2011 art. 76",
+      "prompt": "Explica qué exige la Ley 1474 de 2011 sobre la atención de quejas, sugerencias y reclamos en una entidad pública.",
+      "modelAnswer": "En toda entidad pública debe haber al menos una dependencia que reciba, tramite y resuelva las quejas, sugerencias y reclamos. La oficina de control interno vigila que la atención cumpla la ley y rinde un informe semestral. La página web debe tener un enlace de fácil acceso para quejas, sugerencias y reclamos y un espacio para denunciar actos de corrupción. Las quejas se investigan con el operador disciplinario interno.",
+      "keyPoints": [
+        "Dependencia obligatoria",
+        "Control interno vigila; informe semestral",
+        "Enlace en la página web",
+        "Espacio para denuncias de corrupción",
+        "Coordinación con control disciplinario"
+      ],
+      "keywords": [
+        "dependencia",
+        "control interno",
+        "semestral",
+        "pagina web",
+        "corrupcion",
+        "disciplinario"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "const-q-031",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Constitución Política art. 86",
+      "text": "Entre la solicitud de tutela y su resolución no pueden pasar más de {{10}} días.",
+      "alternatives": {
+        "10": [
+          "diez"
+        ]
+      }
+    },
+    {
+      "id": "const-q-032",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Constitución Política art. 13; Ley 1437/2011 art. 5 num. 6",
+      "case": "Una persona con discapacidad visual llega a pedir información sobre un trámite de devolución de mercancía. El formulario solo existe impreso en letra pequeña.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Darle el formulario y pedirle que vuelva acompañado."
+        },
+        {
+          "id": "b",
+          "text": "Atenderla de forma preferente y ayudarle a diligenciarlo."
+        },
+        {
+          "id": "c",
+          "text": "Remitirla al canal virtual para que lo haga desde casa."
+        }
+      ],
+      "answer": "b",
+      "explain": "El Estado protege especialmente a quienes están en debilidad manifiesta por su condición física (Const. art. 13), y las personas con discapacidad tienen derecho a atención especial y preferente (Ley 1437 art. 5 num. 6).",
+      "optionWhy": {
+        "a": "Trasladarle la carga desconoce su derecho a atención preferente.",
+        "c": "Remitirla a otro canal no atiende su necesidad en el momento."
+      }
+    },
+    {
+      "id": "const-q-033",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 art. 20",
+      "case": "Una veeduría ciudadana señala que la seccional no tiene un listado de los documentos que ha calificado como clasificados o reservados.",
+      "prompt": "Al gestor le corresponde proponer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elaborar y mantener actualizado el índice de información clasificada y reservada."
+        },
+        {
+          "id": "b",
+          "text": "Publicar todos los documentos reservados para demostrar transparencia ante la veeduría."
+        },
+        {
+          "id": "c",
+          "text": "Responder que el índice solo se elabora cuando un juez administrativo lo ordena."
+        }
+      ],
+      "answer": "a",
+      "explain": "Los sujetos obligados deben mantener un índice actualizado de los actos, documentos e informaciones clasificados o reservados, con sus denominaciones, la motivación y la individualización del acto de calificación (art. 20).",
+      "optionWhy": {
+        "b": "El índice identifica los documentos protegidos; no levanta su reserva.",
+        "c": "Es un deber legal directo, no depende de una orden judicial."
+      }
+    },
+    {
+      "id": "const-q-034",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1712/2014 art. 29",
+      "case": "Llegó una solicitud de información sobre los correos que cruzó la dependencia con un proveedor. Un compañero sugiere borrar algunos correos «que no aportan» antes de responder.",
+      "prompt": "Al gestor le corresponde:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Depurar los correos irrelevantes para entregar una respuesta más ordenada."
+        },
+        {
+          "id": "b",
+          "text": "Conservar la información: destruirla después de la solicitud tiene sanción penal."
+        },
+        {
+          "id": "c",
+          "text": "Entregar solo los correos que muestran una buena gestión de la dependencia."
+        }
+      ],
+      "answer": "b",
+      "explain": "Todo acto de ocultamiento, destrucción o alteración deliberada de información pública, una vez solicitada, se sanciona en los términos del art. 292 del Código Penal (art. 29).",
+      "optionWhy": {
+        "a": "Borrar información ya solicitada es destrucción deliberada.",
+        "c": "Entregar solo una parte para favorecer a la entidad es ocultamiento."
+      }
+    },
+    {
+      "id": "const-q-035",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Constitución Política art. 86",
+      "case": "Un juez falla una tutela y ordena a la DIAN responder de fondo una petición en 48 horas. El jefe quiere esperar a que se resuelva la impugnación que piensa presentar.",
+      "prompt": "Al gestor le corresponde advertir que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "El fallo se cumple de inmediato, aunque se impugne."
+        },
+        {
+          "id": "b",
+          "text": "Puede esperarse a que se resuelva la impugnación."
+        },
+        {
+          "id": "c",
+          "text": "Solo obliga cuando lo revise la Corte Constitucional."
+        }
+      ],
+      "answer": "a",
+      "explain": "El fallo de tutela es de inmediato cumplimiento; puede impugnarse ante el juez competente y, en todo caso, se remite a la Corte Constitucional para su eventual revisión (art. 86).",
+      "optionWhy": {
+        "b": "La impugnación no suspende el cumplimiento inmediato.",
+        "c": "La revisión de la Corte es eventual y no condiciona el cumplimiento."
+      }
+    },
+    {
+      "id": "const-q-036",
+      "type": "open",
+      "difficulty": 2,
+      "source": "Constitución Política arts. 85 y 86",
+      "prompt": "Explica qué es la acción de tutela: qué protege, contra quién procede, en qué plazo se resuelve y cuándo no procede.",
+      "modelAnswer": "Es la acción que tiene toda persona, por sí o por quien actúe a su nombre, para pedir al juez la protección inmediata de sus derechos fundamentales vulnerados o amenazados por la acción u omisión de una autoridad pública (y, en los casos de ley, de ciertos particulares). Se resuelve en máximo 10 días y el fallo es de inmediato cumplimiento. No procede si hay otro medio de defensa judicial, salvo como mecanismo transitorio para evitar un perjuicio irremediable.",
+      "keyPoints": [
+        "Derechos fundamentales",
+        "Acción u omisión de autoridad pública",
+        "Máximo 10 días; cumplimiento inmediato",
+        "Subsidiaria: no procede si hay otro medio",
+        "Salvo perjuicio irremediable (transitorio)"
+      ],
+      "keywords": [
+        "fundamentales",
+        "autoridad",
+        "10 dias",
+        "inmediato",
+        "otro medio",
+        "perjuicio irremediable",
+        "transitorio"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}

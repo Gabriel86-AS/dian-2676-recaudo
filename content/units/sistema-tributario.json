@@ -1,0 +1,603 @@
+{
+  "id": "sistema-tributario",
+  "title": "Sistema tributario, evasión, elusión y contrabando",
+  "area": "funcional",
+  "priority": 3,
+  "summary": "Temas básicos de la ficha: principios constitucionales del sistema tributario y elementos del tributo, los regímenes tributario, aduanero y cambiario, el abuso tributario, los delitos de evasión y omisión del agente retenedor, y el contrabando.",
+  "sources": [
+    "Constitución arts. 95, 338 y 363",
+    "ET arts. 792, 869 y 869-1",
+    "Código Penal arts. 319, 320, 402, 434A y 434B",
+    "Decreto 1165 de 2019 art. 13",
+    "Decreto Ley 2245 de 2011 arts. 1 y 2",
+    "Ley 2586 de 2026 art. 1"
+  ],
+  "lessons": [
+    {
+      "id": "sist-01",
+      "title": "Introducción al sistema tributario y teoría de la imposición",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "sist-c-001",
+          "type": "concept",
+          "source": "Constitución arts. 95-9, 338 y 363; ET art. 792; D1165/2019 art. 13; DL 2245/2011 arts. 1 y 2",
+          "title": "Bases del sistema",
+          "body": "- **Deber de contribuir (art. 95, num. 9):** financiar los gastos e inversiones del Estado con **justicia y equidad**.\n- **Legalidad (art. 338):** en tiempo de paz, solo el **Congreso, las asambleas y los concejos** imponen contribuciones. La ley fija **sujetos activos y pasivos, hechos generadores, bases gravables y tarifas**. En tributos de **periodo**, la ley aplica desde el **periodo siguiente** a su vigencia.\n- **Principios (art. 363):** **equidad, eficiencia y progresividad**; **no retroactividad**.\n- **Sujetos:** pasivo es aquel respecto de quien se realiza el hecho generador (ET art. 792); en aduanas, el sujeto activo es la **Nación - DIAN** y el pasivo el **importador o declarante** (D1165 art. 13).\n- **Tres regímenes que administra la DIAN:** **tributario** (ET), **aduanero** (D1165) y **cambiario** de su competencia (DL 2245; la infracción cambiaria es una **contravención administrativa**)."
+        },
+        {
+          "ref": "sist-q-001"
+        },
+        {
+          "ref": "sist-q-002"
+        },
+        {
+          "ref": "sist-q-003"
+        },
+        {
+          "ref": "sist-q-004"
+        },
+        {
+          "ref": "sist-q-005"
+        },
+        {
+          "ref": "sist-q-006"
+        }
+      ]
+    },
+    {
+      "id": "sist-02",
+      "title": "Evasión, elusión y abuso tributario",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "sist-c-002",
+          "type": "concept",
+          "source": "ET arts. 869 y 869-1; Código Penal arts. 402, 434A y 434B",
+          "title": "Pagar menos de lo debido",
+          "body": "**Elusión abusiva (ET art. 869):** actos o negocios **artificiosos**, sin propósito económico o comercial aparente, para obtener **provecho tributario**. La DIAN puede **recaracterizarlos** y liquidar impuestos, intereses y sanciones. Señales: operación no razonable, beneficio fiscal alto sin riesgo económico, negocio aparente. Procedimiento: **emplazamiento especial** dentro del término de firmeza (art. 869-1).\n\n**Delitos (Código Penal):**\n\n| Delito | Conducta | Umbral y pena |\n|---|---|---|\n| Omisión del agente retenedor (402) | No consignar lo retenido o el IVA dentro de **2 meses** del plazo | 48 a 108 meses |\n| Omisión de activos (434A) | Omitir activos o declarar pasivos inexistentes | ≥ 1.000 SMMLV; 48 a 108 meses |\n| Defraudación o evasión (434B) | No declarar, omitir ingresos, costos inexistentes | ≥ 100 SMMLV; 36 a 60 meses |\n\nEn 434A y 434B el monto se define por **liquidación oficial**, y el **pago** extingue la acción penal hasta **dos veces**."
+        },
+        {
+          "ref": "sist-q-007"
+        },
+        {
+          "ref": "sist-q-008"
+        },
+        {
+          "ref": "sist-q-009"
+        },
+        {
+          "ref": "sist-q-010"
+        },
+        {
+          "ref": "sist-q-011"
+        },
+        {
+          "ref": "sist-q-012"
+        },
+        {
+          "ref": "sist-q-013"
+        }
+      ]
+    },
+    {
+      "id": "sist-03",
+      "title": "Contrabando",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "sist-c-003",
+          "type": "concept",
+          "source": "Código Penal arts. 319 y 320; Ley 2586 de 2026 art. 1",
+          "title": "Mercancías fuera del control aduanero",
+          "body": "- **Contrabando (CP art. 319):** introducir o extraer mercancías por lugares **no habilitados**, u ocultarlas o sustraerlas del **control aduanero**, en cuantía **> 50 SMMLV**: prisión de **4 a 8 años** y multa del **200 % al 300 %** del valor aduanero. **> 200 SMMLV:** 9 a 12 años.\n- **Favorecimiento y facilitación (art. 320):** poseer, transportar, almacenar, ocultar, distribuir o vender esa mercancía: > 50 y ≤ 200 SMMLV, **3 a 6 años**; > 200 SMMLV, 6 a 10 años.\n- **Por debajo de esos montos,** y además del proceso penal, rige el **régimen sancionatorio aduanero** y el **decomiso** (Ley 2586 de 2026)."
+        },
+        {
+          "ref": "sist-q-014"
+        },
+        {
+          "ref": "sist-q-015"
+        },
+        {
+          "ref": "sist-q-016"
+        },
+        {
+          "ref": "sist-q-017"
+        },
+        {
+          "ref": "sist-q-018"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "sist-fc-001",
+      "front": "Principios del sistema tributario",
+      "back": "Equidad, eficiencia y progresividad; no retroactividad.",
+      "source": "Constitución art. 363"
+    },
+    {
+      "id": "sist-fc-002",
+      "front": "¿Quién crea tributos en tiempo de paz?",
+      "back": "Congreso, asambleas departamentales y concejos.",
+      "source": "Constitución art. 338"
+    },
+    {
+      "id": "sist-fc-003",
+      "front": "Elementos que debe fijar la ley",
+      "back": "Sujetos activo y pasivo, hecho generador, base gravable y tarifa.",
+      "source": "Constitución art. 338"
+    },
+    {
+      "id": "sist-fc-004",
+      "front": "Ley que cambia un tributo de periodo",
+      "back": "Aplica desde el periodo siguiente a su vigencia.",
+      "source": "Constitución art. 338"
+    },
+    {
+      "id": "sist-fc-005",
+      "front": "Abuso en materia tributaria",
+      "back": "Actos artificiosos sin propósito económico para obtener provecho tributario; la DIAN los recaracteriza.",
+      "source": "ET art. 869"
+    },
+    {
+      "id": "sist-fc-006",
+      "front": "Omisión del agente retenedor",
+      "back": "No consignar dentro de 2 meses del plazo; prisión de 48 a 108 meses.",
+      "source": "Código Penal art. 402"
+    },
+    {
+      "id": "sist-fc-007",
+      "front": "Defraudación o evasión tributaria",
+      "back": "Desde 100 SMMLV; prisión de 36 a 60 meses.",
+      "source": "Código Penal art. 434B"
+    },
+    {
+      "id": "sist-fc-008",
+      "front": "Contrabando",
+      "back": "Más de 50 SMMLV; 4 a 8 años y multa del 200 % al 300 % del valor aduanero.",
+      "source": "Código Penal art. 319"
+    },
+    {
+      "id": "sist-fc-009",
+      "front": "Favorecimiento del contrabando",
+      "back": "Poseer o vender mercancía ilegal > 50 SMMLV; 3 a 6 años.",
+      "source": "Código Penal art. 320"
+    }
+  ],
+  "questions": [
+    {
+      "id": "sist-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Constitución art. 363",
+      "prompt": "¿En qué principios se funda el sistema tributario según la Constitución?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equidad, eficiencia y progresividad"
+        },
+        {
+          "id": "b",
+          "text": "Igualdad, moralidad y publicidad"
+        },
+        {
+          "id": "c",
+          "text": "Solidaridad, subsidiariedad y concurrencia"
+        },
+        {
+          "id": "d",
+          "text": "Celeridad, economía y eficacia"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 363 dice que el sistema tributario se funda en los principios de equidad, eficiencia y progresividad, y que las leyes tributarias no se aplican con retroactividad.",
+      "optionWhy": {
+        "b": "Son principios de la función administrativa (art. 209).",
+        "c": "Son principios de la organización territorial.",
+        "d": "Son principios de las actuaciones administrativas."
+      }
+    },
+    {
+      "id": "sist-q-002",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Constitución art. 338",
+      "prompt": "En tiempo de paz, ¿quiénes pueden imponer contribuciones fiscales o parafiscales?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Presidente, por decreto reglamentario"
+        },
+        {
+          "id": "b",
+          "text": "El Congreso, las asambleas y los concejos"
+        },
+        {
+          "id": "c",
+          "text": "La DIAN, mediante resolución"
+        },
+        {
+          "id": "d",
+          "text": "Los gobernadores y alcaldes, por decreto"
+        }
+      ],
+      "answer": "b",
+      "explain": "Según el art. 338, solo el Congreso, las asambleas departamentales y los concejos distritales y municipales pueden imponerlas.",
+      "optionWhy": {
+        "a": "El Gobierno reglamenta, pero no crea tributos en tiempo de paz.",
+        "c": "La DIAN administra los tributos; no los crea.",
+        "d": "Los ejecutivos territoriales no crean tributos."
+      }
+    },
+    {
+      "id": "sist-q-003",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Constitución art. 338; ET art. 792; D1165/2019 art. 13",
+      "prompt": "Relaciona cada elemento del tributo con su ejemplo.",
+      "pairs": [
+        {
+          "left": "Sujeto activo",
+          "right": "La Nación - DIAN, como acreedora"
+        },
+        {
+          "left": "Sujeto pasivo",
+          "right": "Aquel respecto de quien se realiza el hecho generador"
+        },
+        {
+          "left": "Hecho generador",
+          "right": "Importar una mercancía"
+        },
+        {
+          "left": "Base gravable",
+          "right": "El valor sobre el que se aplica la tarifa"
+        }
+      ],
+      "explain": "El art. 338 exige que la ley fije sujetos activos y pasivos, hechos y bases gravables y tarifas."
+    },
+    {
+      "id": "sist-q-004",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Constitución arts. 338 y 363",
+      "case": "Una ley publicada en julio de 2026 aumenta la tarifa de un impuesto cuya base se forma con hechos de todo el año. Un contribuyente pregunta desde cuándo aplica.",
+      "prompt": "¿Qué le responde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desde el 1 de enero de 2026, para todo el año."
+        },
+        {
+          "id": "b",
+          "text": "Desde el día siguiente a su publicación, para los hechos restantes."
+        },
+        {
+          "id": "c",
+          "text": "Desde el periodo que comience después de iniciar su vigencia."
+        }
+      ],
+      "answer": "c",
+      "explain": "En tributos de periodo, la ley solo aplica desde el periodo que comience después de iniciar su vigencia (art. 338); además, las leyes tributarias no son retroactivas (art. 363).",
+      "optionWhy": {
+        "a": "Eso sería aplicarla con retroactividad.",
+        "b": "Para tributos de periodo no se fracciona el año: se aplica al periodo siguiente."
+      }
+    },
+    {
+      "id": "sist-q-005",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Constitución art. 95, num. 9",
+      "statement": "Contribuir al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad es un deber de la persona y del ciudadano.",
+      "answer": true,
+      "explain": "Verdadero. Es el num. 9 del art. 95."
+    },
+    {
+      "id": "sist-q-006",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET Libro V; D1165/2019; DL 2245/2011 arts. 1 y 2",
+      "prompt": "Relaciona cada régimen con lo que regula.",
+      "pairs": [
+        {
+          "left": "Tributario",
+          "right": "Impuestos nacionales: renta, IVA, retención, timbre"
+        },
+        {
+          "left": "Aduanero",
+          "right": "Tributos al comercio exterior y control de mercancías"
+        },
+        {
+          "left": "Cambiario",
+          "right": "Operaciones de cambio; infracciones son contravenciones administrativas"
+        }
+      ],
+      "explain": "La DIAN administra los tres: impuestos (ET), aduanas (D1165) y control cambiario de su competencia (DL 2245)."
+    },
+    {
+      "id": "sist-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 869",
+      "prompt": "¿Qué es abuso en materia tributaria según el ET?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No presentar la declaración dentro del plazo legal"
+        },
+        {
+          "id": "b",
+          "text": "Pagar el impuesto con un día de retraso sobre el plazo"
+        },
+        {
+          "id": "c",
+          "text": "Pedir la devolución de un saldo a favor que sí existe"
+        },
+        {
+          "id": "d",
+          "text": "Usar actos artificiosos para obtener provecho tributario"
+        }
+      ],
+      "answer": "d",
+      "explain": "Hay abuso cuando se usan uno o varios actos o negocios artificiosos, sin razón o propósito económico o comercial aparente, para obtener provecho tributario (art. 869). La DIAN puede recaracterizarlos.",
+      "optionWhy": {
+        "a": "Es omisión o extemporaneidad, no abuso.",
+        "b": "Es mora, que causa intereses.",
+        "c": "Pedir lo que corresponde no es abuso."
+      }
+    },
+    {
+      "id": "sist-q-008",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 869, par. 2",
+      "case": "Una empresa vende un inmueble a una sociedad vinculada por un precio muy bajo y, un mes después, esa sociedad lo vende a un tercero a precio de mercado. La operación no tiene razón comercial y reduce el impuesto del grupo.",
+      "prompt": "¿Qué puede hacer la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aceptarla, porque cada contrato es formalmente válido."
+        },
+        {
+          "id": "b",
+          "text": "Recaracterizar la operación según su realidad económica."
+        },
+        {
+          "id": "c",
+          "text": "Solo imponer una sanción por no informar la operación."
+        }
+      ],
+      "answer": "b",
+      "explain": "Un negocio estructuralmente correcto pero aparente, sin razón económica y con elevado beneficio fiscal, es artificioso; la DIAN puede recaracterizarlo y desconocer sus efectos (art. 869).",
+      "optionWhy": {
+        "a": "La validez formal no impide recaracterizar un acto artificioso.",
+        "c": "La consecuencia es recaracterizar y liquidar, no solo sancionar."
+      }
+    },
+    {
+      "id": "sist-q-009",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 869-1",
+      "statement": "Si un funcionario evidencia un posible abuso en materia tributaria dentro del término de firmeza, debe emitir un emplazamiento especial explicando sus razones.",
+      "answer": true,
+      "explain": "Verdadero. Es el procedimiento especial del art. 869-1."
+    },
+    {
+      "id": "sist-q-010",
+      "type": "match",
+      "difficulty": 3,
+      "source": "Código Penal (Ley 599 de 2000) arts. 402, 434A y 434B",
+      "prompt": "Relaciona cada delito tributario con su conducta.",
+      "pairs": [
+        {
+          "left": "Omisión del agente retenedor (art. 402)",
+          "right": "No consignar lo retenido dentro de 2 meses del plazo"
+        },
+        {
+          "left": "Omisión de activos (art. 434A)",
+          "right": "Omitir activos o declarar pasivos inexistentes"
+        },
+        {
+          "left": "Defraudación o evasión (art. 434B)",
+          "right": "Omitir ingresos o incluir costos inexistentes"
+        }
+      ],
+      "explain": "Son los tres delitos tributarios del Código Penal relacionados con la DIAN."
+    },
+    {
+      "id": "sist-q-011",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código Penal (Ley 599 de 2000) art. 402",
+      "prompt": "¿Cuándo incurre en delito el agente retenedor que no consigna lo retenido?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desde el primer día de retraso en el pago de la retención"
+        },
+        {
+          "id": "b",
+          "text": "Solo si la deuda supera los 1.000 salarios mínimos"
+        },
+        {
+          "id": "c",
+          "text": "Si no consigna dentro de los 2 meses siguientes al plazo"
+        },
+        {
+          "id": "d",
+          "text": "Solo si la DIAN ya le notificó un mandamiento de pago"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 402 sanciona al retenedor o autorretenedor que no consigne dentro de los 2 meses siguientes a la fecha fijada para presentar y pagar la declaración de retención (prisión de 48 a 108 meses).",
+      "optionWhy": {
+        "a": "Antes de los 2 meses hay mora (intereses), no delito.",
+        "b": "Ese umbral es del art. 434A.",
+        "d": "El delito no depende del mandamiento de pago."
+      }
+    },
+    {
+      "id": "sist-q-012",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Código Penal (Ley 599 de 2000) art. 434B",
+      "case": "Una liquidación oficial determinó que un contribuyente omitió ingresos con propósito de evasión, con un menor impuesto equivalente a 300 SMMLV.",
+      "prompt": "¿Qué delito y pena básica corresponden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Defraudación o evasión: 36 a 60 meses de prisión."
+        },
+        {
+          "id": "b",
+          "text": "Omisión de activos: 48 a 108 meses de prisión."
+        },
+        {
+          "id": "c",
+          "text": "Ninguno: el delito exige más de 1.000 SMMLV."
+        }
+      ],
+      "answer": "a",
+      "explain": "Omitir ingresos con propósito de evasión, por 100 a 2.500 SMMLV definidos por liquidación oficial, es defraudación o evasión tributaria, con prisión de 36 a 60 meses (art. 434B).",
+      "optionWhy": {
+        "b": "La omisión de activos (434A) es otra conducta y exige 1.000 SMMLV.",
+        "c": "El umbral del 434B es de 100 SMMLV."
+      }
+    },
+    {
+      "id": "sist-q-013",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Código Penal (Ley 599 de 2000) art. 434A, par. 2",
+      "statement": "La acción penal por omisión de activos se extingue cuando el contribuyente paga los impuestos, sanciones e intereses, hasta por dos ocasiones.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dispone el parágrafo 2; después de dos ocasiones, el pago solo rebaja la pena hasta la mitad."
+    },
+    {
+      "id": "sist-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código Penal (Ley 599 de 2000) art. 319",
+      "prompt": "¿Desde qué cuantía es delito de contrabando introducir mercancías por lugares no habilitados?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cualquier cuantía"
+        },
+        {
+          "id": "b",
+          "text": "Más de 200 salarios mínimos mensuales"
+        },
+        {
+          "id": "c",
+          "text": "Más de 1.000 UVT"
+        },
+        {
+          "id": "d",
+          "text": "Más de 50 salarios mínimos mensuales"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 319 tipifica el contrabando en cuantía superior a 50 SMMLV (prisión de 4 a 8 años y multa del 200 % al 300 % del valor aduanero); por encima de 200 SMMLV, 9 a 12 años.",
+      "optionWhy": {
+        "a": "Por debajo de ese monto la conducta se trata en el régimen sancionatorio aduanero.",
+        "b": "Los 200 SMMLV agravan la pena.",
+        "c": "La cuantía se fija en salarios mínimos."
+      }
+    },
+    {
+      "id": "sist-q-015",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código Penal (Ley 599 de 2000) art. 320",
+      "case": "Un comerciante almacena y vende mercancía que sabe ingresó al país ilegalmente, por un valor de 120 SMMLV. Él no la importó.",
+      "prompt": "¿Qué delito se configura?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Contrabando, porque la mercancía es ilegal."
+        },
+        {
+          "id": "b",
+          "text": "Ninguno, porque él no la introdujo."
+        },
+        {
+          "id": "c",
+          "text": "Favorecimiento y facilitación del contrabando."
+        }
+      ],
+      "answer": "c",
+      "explain": "Poseer, almacenar, distribuir o enajenar mercancía introducida ilegalmente, de más de 50 y hasta 200 SMMLV, es favorecimiento y facilitación del contrabando (art. 320), con prisión de 3 a 6 años.",
+      "optionWhy": {
+        "a": "El contrabando (art. 319) es introducir o extraer la mercancía.",
+        "b": "El art. 320 sanciona a quien la posee o comercializa."
+      }
+    },
+    {
+      "id": "sist-q-016",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Código Penal (Ley 599 de 2000) art. 319",
+      "statement": "Ocultar o sustraer mercancías del control aduanero, en cuantía superior a 50 SMMLV, tiene la misma pena que introducirlas por lugares no habilitados.",
+      "answer": true,
+      "explain": "Verdadero. El segundo inciso del art. 319 le da la misma pena."
+    },
+    {
+      "id": "sist-q-017",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 2586 de 2026 art. 1",
+      "prompt": "¿Qué regula la Ley 2586 de 2026?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El procedimiento penal del delito de contrabando"
+        },
+        {
+          "id": "b",
+          "text": "El régimen sancionatorio y el decomiso aduanero"
+        },
+        {
+          "id": "c",
+          "text": "Los tributos al comercio exterior y sus tarifas vigentes"
+        },
+        {
+          "id": "d",
+          "text": "El régimen de insolvencia de los importadores del país"
+        }
+      ],
+      "answer": "b",
+      "explain": "Su objeto es el régimen sancionatorio y el decomiso de mercancías en materia de aduanas, y el procedimiento aplicable (art. 1).",
+      "optionWhy": {
+        "a": "El delito se regula en el Código Penal.",
+        "c": "Las tarifas no son su objeto.",
+        "d": "La insolvencia la regula la Ley 1116."
+      }
+    },
+    {
+      "id": "sist-q-018",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET art. 869; Código Penal arts. 319 y 434B",
+      "prompt": "Explica la diferencia entre elusión (abuso), evasión y contrabando.",
+      "modelAnswer": "La elusión abusiva usa actos artificiosos, sin propósito económico, para obtener provecho tributario; la DIAN los recaracteriza (ET art. 869). La evasión es omitir ingresos o incluir costos inexistentes para pagar menos; desde 100 SMMLV es delito (CP art. 434B). El contrabando es introducir, extraer u ocultar mercancías del control aduanero; desde 50 SMMLV es delito (CP art. 319) y por debajo se trata con el régimen sancionatorio aduanero.",
+      "keyPoints": [
+        "Abuso: actos artificiosos (869)",
+        "Evasión: omitir ingresos (434B)",
+        "Contrabando: control aduanero (319)"
+      ],
+      "keywords": [
+        "artificios",
+        "recaracteriz",
+        "omitir",
+        "ingresos",
+        "mercancias",
+        "aduanero"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}

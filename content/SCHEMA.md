@@ -22,7 +22,7 @@ Plantilla completa con un ítem de cada tipo: `content/units/_ejemplo.json` (no 
 5. `pjs` imita el formato oficial: caso + enunciado + **3 opciones A–C**, una sola correcta. Las incorrectas suelen ser acciones de otra etapa del procedimiento.
 6. Texto en español de Colombia. No copiar texto de sitios de preparación; las normas y documentos oficiales sí pueden citarse.
 
-Prefijos por unidad: `rec` recaudo · `decl` recepcion-declaraciones · `erec` entidades-recaudadoras · `ext` extincion-obligaciones · `tit` titulos-ejecutivos · `dev` devoluciones · `cont` principios-contables · `dat` analitica-datos · `estr` estructura · `mis` misionalidad · `raz` razonamiento · `comp` comportamentales · `integ` integridad.
+Prefijos por unidad: `rec` recaudo · `decl` recepcion-declaraciones · `erec` entidades-recaudadoras · `ext` extincion-obligaciones · `tit` titulos-ejecutivos · `dev` devoluciones · `cont` principios-contables · `dat` analitica-datos · `cpi` cobro-persuasivo-insolvencia · `sist` sistema-tributario · `proc` procedimiento-administrativo · `const` constitucion-transparencia · `mipg` mipg · `gdoc` gestion-documental · `estr` estructura · `mis` misionalidad · `raz` razonamiento · `comp` comportamentales · `integ` integridad.
 
 ## Manifiesto
 

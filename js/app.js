@@ -82,7 +82,8 @@ async function home() {
       <summary><h2>Cómo usar este sitio</h2></summary>
       <ol>
         <li>Haz primero las lecciones de <strong>prioridad 1</strong>: el núcleo del empleo (recaudo, declaraciones, entidades recaudadoras, extinción de obligaciones, cobro y devoluciones).</li>
-        <li>Las de <strong>prioridad 2</strong> completan los indicadores de tu OPEC: contabilidad, analítica, estructura, misionalidad, razonamiento, comportamentales e integridad.</li>
+        <li>Las de <strong>prioridad 2</strong> completan los indicadores de tu OPEC: contabilidad, analítica, estructura, misionalidad, razonamiento, comportamentales e integridad, más cobro persuasivo e insolvencia.</li>
+        <li>Las de <strong>prioridad 3</strong> son temas básicos de la ficha que no están en tu lista de indicadores (CPACA, Constitución, MIPG, gestión documental, sistema tributario y contrabando): estúdialas si te sobra tiempo.</li>
         <li>Cada día, repasa <a href="#/repaso">tus errores</a> y las tarjetas que tocan.</li>
         <li><strong>Jueves:</strong> un <a href="#/simulacros">simulacro intermedio</a>. <strong>Viernes:</strong> la simulación del examen.</li>
         <li><strong>Sábado:</strong> solo repaso de errores y tarjetas. Descansa.</li>

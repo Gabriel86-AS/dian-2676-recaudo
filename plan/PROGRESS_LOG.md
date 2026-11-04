@@ -17,3 +17,8 @@
 - Motor: las preguntas de relacionar dan por buena cualquier derecha con el mismo texto (antes, «10 UVT» repetido marcaba error).
 - E2E: se quitó la prueba del aviso post-corte (no hay ítems post-corte) y se apuntó a `recaudo` y `devoluciones`.
 - Publicado: repo público `Gabriel86-AS/dian-2676-recaudo`, Pages desde `main`; https://gabriel86-as.github.io/dian-2676-recaudo/ responde con las 13 unidades.
+
+## 2026-11-04 — Temas restantes de la ficha
+- Nuevas: `cobro-persuasivo-insolvencia` (3 lecciones, 21 preguntas) y `sistema-tributario` (3 lecciones, 18 preguntas).
+- Restauradas del sitio anterior como prioridad 3: `procedimiento-administrativo`, `constitucion-transparencia`, `mipg`, `gestion-documental`.
+- Inicio explica la prioridad 3 (temas básicos de la ficha fuera de los indicadores). E2E qa-site: 19 lecciones OK, 27 páginas sin desbordes.

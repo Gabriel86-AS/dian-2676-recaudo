@@ -9,7 +9,8 @@ const C = (p) => path.join(ROOT, 'content', p);
 const PREFIX = {
   recaudo: 'rec', 'recepcion-declaraciones': 'decl', 'entidades-recaudadoras': 'erec', 'extincion-obligaciones': 'ext',
   'titulos-ejecutivos': 'tit', devoluciones: 'dev', 'principios-contables': 'cont', 'analitica-datos': 'dat',
-  estructura: 'estr', misionalidad: 'mis', razonamiento: 'raz', comportamentales: 'comp', integridad: 'integ', _ejemplo: 'ej',
+  'cobro-persuasivo-insolvencia': 'cpi', 'sistema-tributario': 'sist', 'procedimiento-administrativo': 'proc',
+  'constitucion-transparencia': 'const', mipg: 'mipg', 'gestion-documental': 'gdoc', estructura: 'estr', misionalidad: 'mis', razonamiento: 'raz', comportamentales: 'comp', integridad: 'integ', _ejemplo: 'ej',
 };
 const TYPES = ['concept', 'mcq', 'pjs', 'truefalse', 'open', 'order', 'match', 'cloze', 'likert', 'flashcard'];
 const errors = [];

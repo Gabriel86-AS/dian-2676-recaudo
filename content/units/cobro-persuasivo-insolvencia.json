@@ -1,0 +1,697 @@
+{
+  "id": "cobro-persuasivo-insolvencia",
+  "title": "Cobro persuasivo, control extensivo e insolvencia",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Competencias funcionales de la ficha que complementan el cobro: reglamento de cartera y etapa persuasiva (Ley 1066 y Decreto 4473 de 2006), control extensivo y plan de cobro, y la actuación de la DIAN en la insolvencia empresarial (Ley 1116 de 2006).",
+  "sources": [
+    "Ley 1066 de 2006 arts. 1, 2 y 5",
+    "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7)",
+    "Decreto 1742 de 2020 arts. 20 y 65",
+    "Ley 1116 de 2006 arts. 1–4, 6, 9, 20, 34 y 41"
+  ],
+  "lessons": [
+    {
+      "id": "cpi-01",
+      "title": "Cartera pública y cobro persuasivo",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "cpi-c-001",
+          "type": "concept",
+          "source": "Ley 1066 de 2006 arts. 1, 2 y 5; Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) arts. 2–4",
+          "title": "Antes del cobro coactivo",
+          "body": "- **Gestión (Ley 1066 art. 1):** ágil, eficaz, eficiente y oportuna, para dar liquidez al Tesoro.\n- **Reglamento interno del recaudo de cartera (art. 2 y D4473):** lo expide el representante legal. Contenido mínimo: **funcionario competente** para las etapas **persuasiva y coactiva**, las **etapas** del recaudo y los **criterios para clasificar la cartera** (cuantía, antigüedad, naturaleza, condiciones del deudor).\n- **Facilidades (D4473 art. 3):** garantías (Código Civil, Código de Comercio, ET), plazos que **nunca superan 5 años** y **cláusulas aceleratorias**.\n- **Garantías (art. 4):** según monto, tipo de acreencia y capacidad de pago; deben cubrir capital, intereses y sanciones; los **costos los paga el deudor**.\n- **Incumplimiento (Ley 1066 art. 2):** reporte al **Boletín de Deudores Morosos del Estado**; no se celebran nuevos acuerdos hasta que se subsane.\n- **Coactivo (art. 5):** jurisdicción coactiva con el **procedimiento del ET**.\n- **En la DIAN:** técnicas de **negociación** e investigación de bienes (D1742 art. 20, num. 2)."
+        },
+        {
+          "ref": "cpi-q-001"
+        },
+        {
+          "ref": "cpi-q-002"
+        },
+        {
+          "ref": "cpi-q-003"
+        },
+        {
+          "ref": "cpi-q-004"
+        },
+        {
+          "ref": "cpi-q-005"
+        },
+        {
+          "ref": "cpi-q-006"
+        },
+        {
+          "ref": "cpi-q-007"
+        },
+        {
+          "ref": "cpi-q-008"
+        }
+      ]
+    },
+    {
+      "id": "cpi-02",
+      "title": "Control extensivo y plan de cobro",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "cpi-c-002",
+          "type": "concept",
+          "source": "D1742/2020 arts. 20 y 65",
+          "title": "Control masivo e inmediato",
+          "body": "La **Subdirección de Cobranzas y Control Extensivo** (art. 20):\n\n- Ejerce el **control inicial** del cumplimiento correcto y oportuno de contribuyentes, responsables y retenedores (num. 3).\n- Coordina **programas de control extensivo** de **gestión inmediata y amplia cobertura** para verificar las obligaciones **formales** (num. 5): campañas masivas, antes de procesos individuales.\n- Define el **plan de cobro** y evalúa su ejecución (num. 7).\n- Supervisa las divisiones de cobranzas y de recaudo y cobranzas de las seccionales (num. 6).\n\nPara los **Grandes Contribuyentes**, la Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones coordina el cobro **persuasivo y coactivo** (art. 65, num. 5)."
+        },
+        {
+          "ref": "cpi-q-009"
+        },
+        {
+          "ref": "cpi-q-010"
+        },
+        {
+          "ref": "cpi-q-011"
+        },
+        {
+          "ref": "cpi-q-012"
+        },
+        {
+          "ref": "cpi-q-020"
+        }
+      ]
+    },
+    {
+      "id": "cpi-03",
+      "title": "Insolvencia empresarial (Ley 1116) y la DIAN",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "cpi-c-003",
+          "type": "concept",
+          "source": "Ley 1116 de 2006 arts. 1, 2, 3, 4, 6, 9, 20, 34 y 41",
+          "title": "Cuando el deudor entra en concurso",
+          "body": "- **Finalidad (art. 1):** proteger el crédito y conservar la empresa. **Reorganización** (acuerdo para empresas viables) o **liquidación judicial** (pronta y ordenada).\n- **Ámbito (arts. 2–3):** comerciantes y personas jurídicas privadas o mixtas; se excluyen, entre otras, las vigiladas por la **Superfinanciera** y las EPS.\n- **Principios (art. 4):** universalidad, igualdad, eficiencia, información, negociabilidad, entre otros.\n- **Juez del concurso (art. 6):** **Superintendencia de Sociedades** (sociedades) o juez civil del circuito.\n- **Cesación de pagos (art. 9):** más de **90 días** de mora en **2 o más** obligaciones con **2 o más** acreedores, por al menos el **10 % del pasivo**.\n- **Efecto en el cobro (art. 20):** no se admite ni continúa ningún cobro; los procesos se **remiten** al juez y las **medidas cautelares** quedan a su disposición.\n- **Créditos DIAN (art. 34):** condiciones y tasas sujetas al **acuerdo**, no al ET.\n- **Prelación (art. 41):** puede **compartirse a prorrata** con quien aporte **recursos nuevos** (peso a peso). Si se garantiza la acreencia con garantía real, mobiliaria o póliza, la DIAN **no puede obstaculizar** el acuerdo (falta disciplinaria)."
+        },
+        {
+          "ref": "cpi-q-013"
+        },
+        {
+          "ref": "cpi-q-014"
+        },
+        {
+          "ref": "cpi-q-015"
+        },
+        {
+          "ref": "cpi-q-016"
+        },
+        {
+          "ref": "cpi-q-017"
+        },
+        {
+          "ref": "cpi-q-018"
+        },
+        {
+          "ref": "cpi-q-019"
+        },
+        {
+          "ref": "cpi-q-021"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "cpi-fc-001",
+      "front": "Etapas del recaudo de cartera",
+      "back": "Persuasiva y coactiva.",
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 2"
+    },
+    {
+      "id": "cpi-fc-002",
+      "front": "Criterios para clasificar la cartera",
+      "back": "Cuantía, antigüedad, naturaleza de la obligación y condiciones del deudor.",
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 2"
+    },
+    {
+      "id": "cpi-fc-003",
+      "front": "Plazo máximo de las facilidades de pago del reglamento de cartera",
+      "back": "5 años, con cláusula aceleratoria.",
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 3"
+    },
+    {
+      "id": "cpi-fc-004",
+      "front": "Deudor que incumple un acuerdo de pago",
+      "back": "Se reporta al Boletín de Deudores Morosos; no hay nuevo acuerdo hasta subsanar.",
+      "source": "Ley 1066 de 2006 art. 2"
+    },
+    {
+      "id": "cpi-fc-005",
+      "front": "Programas de control extensivo",
+      "back": "Gestión inmediata y amplia cobertura para verificar obligaciones formales.",
+      "source": "D1742/2020 art. 20, num. 5"
+    },
+    {
+      "id": "cpi-fc-006",
+      "front": "Procesos de insolvencia de la Ley 1116",
+      "back": "Reorganización y liquidación judicial.",
+      "source": "Ley 1116 de 2006 art. 1"
+    },
+    {
+      "id": "cpi-fc-007",
+      "front": "Juez del concurso de las sociedades",
+      "back": "La Superintendencia de Sociedades.",
+      "source": "Ley 1116 de 2006 art. 6"
+    },
+    {
+      "id": "cpi-fc-008",
+      "front": "Cesación de pagos",
+      "back": "+90 días de mora en 2+ obligaciones con 2+ acreedores, ≥ 10 % del pasivo.",
+      "source": "Ley 1116 de 2006 art. 9"
+    },
+    {
+      "id": "cpi-fc-009",
+      "front": "Cobro coactivo cuando inicia la reorganización",
+      "back": "Se remite al juez del concurso; no puede continuarse.",
+      "source": "Ley 1116 de 2006 art. 20"
+    },
+    {
+      "id": "cpi-fc-010",
+      "front": "Prelación de la DIAN en la reorganización",
+      "back": "Se comparte a prorrata con quien aporte recursos nuevos (peso a peso).",
+      "source": "Ley 1116 de 2006 art. 41"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cpi-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Ley 1066 de 2006 art. 1",
+      "prompt": "¿Cómo deben gestionar el recaudo de cartera los servidores públicos que lo tienen a cargo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De manera ágil, eficaz, eficiente y oportuna"
+        },
+        {
+          "id": "b",
+          "text": "Solo cuando el deudor se presente a pagar"
+        },
+        {
+          "id": "c",
+          "text": "Una vez al año, al cierre de la vigencia"
+        },
+        {
+          "id": "d",
+          "text": "Siempre mediante cobro judicial ante jueces"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 1 de la Ley 1066 exige una gestión ágil, eficaz, eficiente y oportuna, con el fin de obtener liquidez para el Tesoro Público.",
+      "optionWhy": {
+        "b": "La gestión es activa, no a la espera del deudor.",
+        "c": "La ley exige oportunidad, no una gestión anual.",
+        "d": "Las entidades tienen jurisdicción coactiva propia (art. 5)."
+      }
+    },
+    {
+      "id": "cpi-q-002",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 2",
+      "prompt": "Relaciona cada aspecto con lo que debe contener el reglamento interno del recaudo de cartera.",
+      "pairs": [
+        {
+          "left": "Funcionario competente",
+          "right": "Para las etapas persuasiva y coactiva"
+        },
+        {
+          "left": "Etapas del recaudo",
+          "right": "Persuasiva y coactiva"
+        },
+        {
+          "left": "Clasificación de la cartera",
+          "right": "Cuantía, antigüedad, naturaleza y condiciones del deudor"
+        }
+      ],
+      "explain": "Es el contenido mínimo del art. 2 del Decreto 4473 de 2006."
+    },
+    {
+      "id": "cpi-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 2; D1742/2020 art. 20, num. 2",
+      "case": "Un contribuyente debe una declaración de IVA vencida hace dos meses. No tiene antecedentes de mora y la deuda es pequeña.",
+      "prompt": "¿Qué actuación es la más adecuada como primer paso?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decretar de inmediato el embargo de todas sus cuentas bancarias."
+        },
+        {
+          "id": "b",
+          "text": "Adelantar la etapa persuasiva: invitarlo a pagar o a acordar el pago."
+        },
+        {
+          "id": "c",
+          "text": "Proponer su exclusión del RUT por el incumplimiento detectado."
+        }
+      ],
+      "answer": "b",
+      "explain": "El reglamento de cartera prevé dos etapas, persuasiva y coactiva (D4473 art. 2), y la DIAN usa técnicas de negociación que faciliten el cobro (D1742 art. 20, num. 2). Se empieza por la persuasión antes de medidas coactivas.",
+      "optionWhy": {
+        "a": "El embargo es una medida del cobro coactivo; primero se busca el pago voluntario.",
+        "c": "La mora no es causal para excluir del RUT."
+      }
+    },
+    {
+      "id": "cpi-q-004",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 3",
+      "prompt": "¿Cuál es el plazo máximo de las facilidades de pago que fije el reglamento de cartera?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 año"
+        },
+        {
+          "id": "b",
+          "text": "10 años"
+        },
+        {
+          "id": "c",
+          "text": "5 años"
+        },
+        {
+          "id": "d",
+          "text": "18 meses"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 3 del Decreto 4473 dice que los plazos en ningún caso superarán cinco (5) años, en armonía con el ET art. 814.",
+      "optionWhy": {
+        "a": "Un año es el límite de las facilidades sin garantía del ET.",
+        "b": "No es el límite.",
+        "d": "No es el límite."
+      }
+    },
+    {
+      "id": "cpi-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 3",
+      "statement": "El reglamento de cartera debe incluir cláusulas aceleratorias para los casos de incumplimiento de las facilidades de pago.",
+      "answer": true,
+      "explain": "Verdadero. Es obligatorio según el num. 3 del art. 3 del Decreto 4473."
+    },
+    {
+      "id": "cpi-q-006",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 4",
+      "prompt": "¿Quién asume los costos de constituir la garantía de una facilidad de pago?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La entidad pública acreedora de la deuda"
+        },
+        {
+          "id": "b",
+          "text": "El banco o la aseguradora que la expide"
+        },
+        {
+          "id": "c",
+          "text": "Se reparten por partes iguales entre ambos"
+        },
+        {
+          "id": "d",
+          "text": "El deudor o el tercero que firma por él"
+        }
+      ],
+      "answer": "d",
+      "explain": "El par. 2 del art. 4 del Decreto 4473 dispone que esos costos los cubre el deudor o el tercero que suscriba el acuerdo.",
+      "optionWhy": {
+        "a": "La norma los pone a cargo del deudor.",
+        "b": "El garante cobra por su servicio; no asume el costo.",
+        "c": "No hay reparto."
+      }
+    },
+    {
+      "id": "cpi-q-007",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1066 de 2006 art. 2, nums. 5 y 6",
+      "case": "Un deudor incumplió un acuerdo de pago con la DIAN y fue reportado. Ahora pide un nuevo acuerdo sin haber subsanado el incumplimiento.",
+      "prompt": "¿Qué procede?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Celebrarlo, porque cada acuerdo de pago es independiente."
+        },
+        {
+          "id": "b",
+          "text": "No celebrarlo hasta que subsane y la CGN lo certifique."
+        },
+        {
+          "id": "c",
+          "text": "Celebrarlo sin garantías para facilitarle el pago total."
+        }
+      ],
+      "answer": "b",
+      "explain": "Quien incumple acuerdos se reporta al Boletín de Deudores Morosos del Estado, y la entidad debe abstenerse de nuevos acuerdos salvo que se subsane y la Contaduría General lo certifique (Ley 1066 art. 2, nums. 5 y 6).",
+      "optionWhy": {
+        "a": "La ley prohíbe nuevos acuerdos con morosos reportados.",
+        "c": "Además, los acuerdos exigen garantías idóneas (num. 3)."
+      }
+    },
+    {
+      "id": "cpi-q-008",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Ley 1066 de 2006 art. 5",
+      "statement": "Las entidades públicas que recaudan rentas tienen jurisdicción coactiva y deben seguir el procedimiento del Estatuto Tributario.",
+      "answer": true,
+      "explain": "Verdadero. Lo dispone el art. 5 de la Ley 1066 (también el art. 5 del Decreto 4473)."
+    },
+    {
+      "id": "cpi-q-009",
+      "type": "match",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 20",
+      "prompt": "Relaciona cada función de la Subdirección de Cobranzas y Control Extensivo con su numeral.",
+      "pairs": [
+        {
+          "left": "Técnicas de negociación e investigación de bienes",
+          "right": "Num. 2"
+        },
+        {
+          "left": "Control inicial del cumplimiento oportuno",
+          "right": "Num. 3"
+        },
+        {
+          "left": "Programas de gestión inmediata y amplia cobertura",
+          "right": "Num. 5"
+        },
+        {
+          "left": "Plan de cobro",
+          "right": "Num. 7"
+        }
+      ],
+      "explain": "Funciones del art. 20 del D1742/2020."
+    },
+    {
+      "id": "cpi-q-010",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 20, num. 5",
+      "case": "Usted detecta que 3.000 personas no presentaron la declaración de retención del último mes. La dirección quiere una acción rápida y masiva antes de abrir procesos individuales.",
+      "prompt": "¿Qué instrumento corresponde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Una inspección tributaria a cada uno de los 3.000 omisos."
+        },
+        {
+          "id": "b",
+          "text": "Un mandamiento de pago colectivo contra todos los omisos."
+        },
+        {
+          "id": "c",
+          "text": "Un programa de control extensivo de amplia cobertura."
+        }
+      ],
+      "answer": "c",
+      "explain": "Los programas de control extensivo de gestión inmediata y amplia cobertura buscan determinar el cumplimiento de las obligaciones formales (art. 20, num. 5).",
+      "optionWhy": {
+        "a": "La inspección es individual y costosa para un universo masivo.",
+        "b": "No hay título ejecutivo sin declaración; el mandamiento no procede."
+      }
+    },
+    {
+      "id": "cpi-q-011",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 20, num. 7",
+      "statement": "La Subdirección de Cobranzas y Control Extensivo define el plan de cobro y controla su ejecución según las políticas de la Dirección General y la Dirección de Gestión de Impuestos.",
+      "answer": true,
+      "explain": "Verdadero. Es el num. 7 del art. 20."
+    },
+    {
+      "id": "cpi-q-012",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 65, num. 5",
+      "prompt": "¿Quién coordina el cobro persuasivo y coactivo de los Grandes Contribuyentes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La división de cobranzas de la seccional del domicilio del deudor"
+        },
+        {
+          "id": "b",
+          "text": "La Subdirección de Recaudo del nivel central de la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "La Oficina Jurídica de la DIAN, con apoyo de cada seccional"
+        },
+        {
+          "id": "d",
+          "text": "Su Subdirección Operativa de Servicio, Recaudo, Cobro y Devoluciones"
+        }
+      ],
+      "answer": "d",
+      "explain": "El num. 5 del art. 65 asigna a esa subdirección de la Dirección Operativa de Grandes Contribuyentes las acciones de cobro persuasivo y coactivo.",
+      "optionWhy": {
+        "a": "Los grandes contribuyentes tienen su propia dirección operativa.",
+        "b": "Recaudo no adelanta el cobro.",
+        "c": "No es función de la Oficina Jurídica."
+      }
+    },
+    {
+      "id": "cpi-q-013",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Ley 1116 de 2006 art. 1",
+      "prompt": "¿Cuáles son los dos procesos del régimen de insolvencia empresarial?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reorganización y liquidación judicial"
+        },
+        {
+          "id": "b",
+          "text": "Concordato preventivo y quiebra"
+        },
+        {
+          "id": "c",
+          "text": "Cobro persuasivo y cobro coactivo"
+        },
+        {
+          "id": "d",
+          "text": "Conciliación judicial y arbitraje"
+        }
+      ],
+      "answer": "a",
+      "explain": "La Ley 1116 regula la reorganización (preservar empresas viables mediante un acuerdo) y la liquidación judicial (liquidación pronta y ordenada).",
+      "optionWhy": {
+        "b": "Son figuras del régimen anterior.",
+        "c": "Son etapas del cobro de la DIAN, no procesos de insolvencia.",
+        "d": "No son procesos de insolvencia."
+      }
+    },
+    {
+      "id": "cpi-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 1116 de 2006 art. 6",
+      "prompt": "¿Quién conoce del proceso de insolvencia de una sociedad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La Superintendencia de Sociedades"
+        },
+        {
+          "id": "b",
+          "text": "La DIAN, por su jurisdicción coactiva"
+        },
+        {
+          "id": "c",
+          "text": "La Superintendencia Financiera"
+        },
+        {
+          "id": "d",
+          "text": "El juez laboral del domicilio"
+        }
+      ],
+      "answer": "a",
+      "explain": "La Superintendencia de Sociedades conoce de las sociedades con facultades jurisdiccionales; el juez civil del circuito, en los demás casos (art. 6).",
+      "optionWhy": {
+        "b": "La DIAN es acreedora; no es juez del concurso.",
+        "c": "Las vigiladas por la Superfinanciera están excluidas (art. 3).",
+        "d": "No es el juez del concurso."
+      }
+    },
+    {
+      "id": "cpi-q-015",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1116 de 2006 art. 9",
+      "case": "Una sociedad tiene vencidas por más de 90 días dos obligaciones con dos acreedores distintos, que suman el 12 % de su pasivo total.",
+      "prompt": "¿Está en cesación de pagos para pedir la reorganización?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No: debe tener al menos cinco obligaciones vencidas."
+        },
+        {
+          "id": "b",
+          "text": "Sí: cumple cantidad, plazo y porcentaje del pasivo."
+        },
+        {
+          "id": "c",
+          "text": "No: las obligaciones deben superar el 50 % del pasivo."
+        }
+      ],
+      "answer": "b",
+      "explain": "Hay cesación de pagos si incumple por más de 90 días dos o más obligaciones con dos o más acreedores, por al menos el 10 % del pasivo total (art. 9).",
+      "optionWhy": {
+        "a": "Bastan dos obligaciones.",
+        "c": "El umbral es el 10 %, no el 50 %."
+      }
+    },
+    {
+      "id": "cpi-q-016",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1116 de 2006 art. 20",
+      "case": "Usted adelanta un cobro coactivo contra una empresa y le notifican que fue admitida a un proceso de reorganización.",
+      "prompt": "¿Qué debe hacer con el proceso de cobro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continuarlo hasta el remate, porque la DIAN tiene prelación."
+        },
+        {
+          "id": "b",
+          "text": "Terminarlo y declarar extinguida la deuda con la DIAN."
+        },
+        {
+          "id": "c",
+          "text": "Remitirlo al juez del concurso con las medidas cautelares."
+        }
+      ],
+      "answer": "c",
+      "explain": "Desde el inicio de la reorganización no puede admitirse ni continuarse ningún proceso de cobro; los iniciados se remiten al juez del concurso y las medidas cautelares quedan a su disposición (art. 20). Continuarlo lleva a nulidad.",
+      "optionWhy": {
+        "a": "La prelación se respeta dentro del concurso, no continuando el cobro aparte.",
+        "b": "La deuda no se extingue: se hace valer en el proceso."
+      }
+    },
+    {
+      "id": "cpi-q-017",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Ley 1116 de 2006 art. 34",
+      "statement": "En un acuerdo de reorganización, las condiciones de pago y tasas de los créditos de la DIAN quedan sujetas al acuerdo y no a los términos del Estatuto Tributario.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dispone el art. 34 de la Ley 1116."
+    },
+    {
+      "id": "cpi-q-018",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "Ley 1116 de 2006 art. 41",
+      "prompt": "¿En qué caso puede compartirse a prorrata la prelación de los créditos de la DIAN en un acuerdo de reorganización?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Con cualquier acreedor que vote a favor del acuerdo"
+        },
+        {
+          "id": "b",
+          "text": "Con los socios que capitalicen pasivos de la empresa"
+        },
+        {
+          "id": "c",
+          "text": "Nunca: la prelación fiscal no puede compartirse"
+        },
+        {
+          "id": "d",
+          "text": "Con quien entregue recursos nuevos, peso por peso"
+        }
+      ],
+      "answer": "d",
+      "explain": "Puede compartirse con quienes entreguen o se comprometan a entregar nuevos recursos: cada peso nuevo da prelación a un peso de la deuda anterior. No aplica por capitalización de pasivos (art. 41).",
+      "optionWhy": {
+        "a": "No basta con votar el acuerdo.",
+        "b": "La capitalización de pasivos está excluida expresamente.",
+        "c": "El art. 41 sí lo permite."
+      }
+    },
+    {
+      "id": "cpi-q-019",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1116 de 2006 art. 41, par. 3",
+      "case": "En una reorganización, el deudor ofrece una póliza de seguro por el valor total de la deuda con la DIAN para que el acuerdo pueda aprobarse.",
+      "prompt": "¿Cómo debe actuar la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No obstaculizar el acuerdo: la deuda quedó garantizada."
+        },
+        {
+          "id": "b",
+          "text": "Oponerse siempre, porque la prelación fiscal es intocable."
+        },
+        {
+          "id": "c",
+          "text": "Exigir además el pago inmediato de todos los intereses."
+        }
+      ],
+      "answer": "a",
+      "explain": "La prelación de la DIAN no es obstáculo si se constituye garantía real, mobiliaria o póliza por el valor de la acreencia; la obstaculización injustificada es falta disciplinaria (art. 41, par. 3).",
+      "optionWhy": {
+        "b": "La ley prevé esta salida y sanciona la obstaculización injustificada.",
+        "c": "Las condiciones de pago quedan sujetas al acuerdo (art. 34)."
+      }
+    },
+    {
+      "id": "cpi-q-020",
+      "type": "order",
+      "difficulty": 2,
+      "source": "Ley 1066 de 2006 art. 2; Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) art. 2; ET arts. 826 y 836",
+      "prompt": "Ordena la gestión típica de una deuda vencida.",
+      "items": [
+        "Clasificación de la cartera",
+        "Etapa persuasiva (invitación a pagar o acordar)",
+        "Mandamiento de pago (etapa coactiva)",
+        "Medidas cautelares y remate si no paga"
+      ],
+      "explain": "El reglamento clasifica la cartera y fija las etapas persuasiva y coactiva; la coactiva sigue el ET."
+    },
+    {
+      "id": "cpi-q-021",
+      "type": "open",
+      "difficulty": 3,
+      "source": "Ley 1066 de 2006 art. 2; Decreto 4473 de 2006 (DUR 1625 de 2016, arts. 3.1.1–3.1.7) arts. 2–4; Ley 1116 de 2006 arts. 20 y 41",
+      "prompt": "Explica cómo gestionarías una cartera de un deudor que primero no paga, luego pide un acuerdo y después entra en reorganización.",
+      "modelAnswer": "Primero, etapa persuasiva según el reglamento de cartera. Si pide acuerdo, se concede con garantías idóneas, plazo máximo de 5 años y cláusula aceleratoria; si lo incumple, se reporta al boletín de deudores morosos. Si entra en reorganización, se suspende el cobro coactivo y se remite al juez del concurso, donde la DIAN hace valer su crédito con su prelación, que puede compartirse con quien aporte recursos nuevos.",
+      "keyPoints": [
+        "Etapa persuasiva",
+        "Acuerdo con garantías y 5 años",
+        "Reporte por incumplimiento",
+        "Remisión al juez del concurso"
+      ],
+      "keywords": [
+        "persuasiva",
+        "garantia",
+        "cinco",
+        "boletin",
+        "reorganizacion",
+        "prelacion"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}

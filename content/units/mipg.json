@@ -1,0 +1,978 @@
+{
+  "id": "mipg",
+  "title": "MIPG: Modelo Integrado de Planeación y Gestión y servicio al ciudadano",
+  "area": "funcional",
+  "priority": 3,
+  "summary": "Competencias funcionales básicas de la ficha AF-LF-3005: el Sistema de Gestión y el MIPG (definición, objetivos, comités y medición), sus 7 dimensiones y 19 políticas de gestión y desempeño, el control interno (MECI) y la política de servicio al ciudadano.",
+  "sources": [
+    "Decreto 1083/2015 arts. 2.2.21.5.3, 2.2.22.1.1, 2.2.22.2.1, 2.2.22.3.2–2.2.22.3.8 y 2.2.23.1–2.2.23.2 (texto del Decreto 1499/2017 con adiciones de los Decretos 1299/2018, 454/2020 y 742/2021)",
+    "Manual Operativo MIPG versión 6.1 (Función Pública, febrero de 2026)",
+    "Manual Operativo MIPG versión 7 (Función Pública, agosto de 2026), posterior al corte normativo"
+  ],
+  "lessons": [
+    {
+      "id": "mipg-01",
+      "title": "Qué es el MIPG y cómo se organiza",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "mipg-c-001",
+          "type": "concept",
+          "source": "Decreto 1083/2015 arts. 2.2.22.1.1, 2.2.22.3.2, 2.2.22.3.3 y 2.2.22.3.4",
+          "title": "Sistema de Gestión y MIPG",
+          "body": "**Sistema de Gestión** (art. 2.2.22.1.1): creado por la Ley 1753 de 2015, **integra** los Sistemas de Desarrollo Administrativo y de Gestión de la Calidad. Dirige la gestión pública al mejor desempeño y a resultados que satisfagan las necesidades y los derechos de los ciudadanos, **en el marco de la legalidad y la integridad**.\n\n**MIPG** (art. 2.2.22.3.2): **marco de referencia** para **dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar** la gestión de las entidades públicas, para generar resultados que atiendan los planes de desarrollo y resuelvan las necesidades de los ciudadanos, **con integridad y calidad en el servicio**.\n\n**Objetivos** (art. 2.2.22.3.3):\n1. Fortalecer el **liderazgo y el talento humano** con integridad y legalidad.\n2. **Agilizar, simplificar y flexibilizar** la operación de las entidades.\n3. Una cultura basada en **información, control y evaluación** para decidir y mejorar.\n4. Promover la **participación ciudadana** en planeación, gestión y evaluación.\n5. Promover la **coordinación entre entidades**.\n\n**Ámbito** (art. 2.2.22.3.4): entidades de la **Rama Ejecutiva** nacional y territorial (y descentralizadas con 90 % o más de capital público). Las ramas Legislativa y Judicial, la Organización Electoral y los organismos de control aplican la política de **control interno** de la Ley 87 de 1993 y las demás políticas en lo que les aplique."
+        },
+        {
+          "id": "mipg-c-002",
+          "type": "concept",
+          "source": "Decreto 1083/2015 arts. 2.2.22.2.1 y 2.2.22.3.8; Manual Operativo MIPG v6.1, § 3.3",
+          "title": "Las 19 políticas, el comité institucional y la medición",
+          "body": "**Políticas de Gestión y Desempeño Institucional** (art. 2.2.22.2.1), «entre otras»:\n\n| | | |\n|---|---|---|\n| 1. Planeación institucional | 8. Participación ciudadana | 15. Control interno |\n| 2. Gestión presupuestal y eficiencia del gasto | 9. Racionalización de trámites | 16. Seguimiento y evaluación del desempeño |\n| 3. Talento humano | 10. **Gestión documental** | 17. Mejora normativa (D. 1299/2018) |\n| 4. **Integridad** | 11. Gobierno digital | 18. Gestión de la información estadística (D. 454/2020) |\n| 5. **Transparencia**, acceso a la información y lucha contra la corrupción | 12. Seguridad digital | 19. **Compras y contratación pública** (D. 742/2021) |\n| 6. Fortalecimiento organizacional y simplificación de procesos | 13. Defensa jurídica | |\n| 7. **Servicio al ciudadano** | 14. Gestión del conocimiento y la innovación | |\n\n**Comité Institucional de Gestión y Desempeño** (art. 2.2.22.3.8): en **cada entidad**, orienta la implementación del MIPG y **sustituye** los demás comités relacionados con el modelo que no sean obligatorios por ley.\n- **Aprueba y hace seguimiento**, por lo menos **una vez cada 3 meses**, a las acciones del MIPG.\n- Promueve el **autodiagnóstico** permanente y asegura las políticas de **seguridad digital** y de la información.\n- **Secretaría técnica:** el **jefe de planeación**. **Control interno:** invitado permanente **con voz pero sin voto**.\n\n**Medición del Desempeño Institucional (MDI)** (Manual v6.1 § 3.3): ejercicio **anual** que mide la gestión según el MIPG y el avance del control interno (MECI)."
+        },
+        {
+          "ref": "mipg-q-001"
+        },
+        {
+          "ref": "mipg-q-002"
+        },
+        {
+          "ref": "mipg-q-003"
+        },
+        {
+          "ref": "mipg-q-004"
+        },
+        {
+          "ref": "mipg-q-005"
+        },
+        {
+          "ref": "mipg-q-006"
+        },
+        {
+          "ref": "mipg-q-007"
+        },
+        {
+          "ref": "mipg-q-023"
+        }
+      ]
+    },
+    {
+      "id": "mipg-02",
+      "title": "Las 7 dimensiones y el control interno",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "mipg-c-003",
+          "type": "concept",
+          "source": "Manual Operativo MIPG v6.1, §§ 3.2 y III (dimensiones 1 a 7)",
+          "title": "Dimensiones de MIPG y sus políticas",
+          "body": "El MIPG opera a través de **7 dimensiones** que agrupan las políticas (Manual v6.1 § 3.2):\n\n| Dimensión | Políticas principales | Idea clave |\n|---|---|---|\n| 1. **Talento humano** | Gestión estratégica del talento humano; **Integridad** | El talento humano es **el activo más importante**; ciclo ingreso, desarrollo y retiro, con **mérito** |\n| 2. **Direccionamiento estratégico y planeación** | Planeación institucional; gestión presupuestal; **compras y contratación** | La **ruta estratégica**: misión, grupos de valor, necesidades |\n| 3. **Gestión con valores para resultados** | Fortalecimiento organizacional; **servicio al ciudadano**; trámites; participación; gobierno digital; transparencia; seguridad digital; defensa jurídica; mejora normativa | **Ejecutar** lo planeado, con integridad. Incluye la perspectiva **relación Estado-ciudadano** |\n| 4. **Evaluación de resultados** | Seguimiento y evaluación del desempeño | Conocer **permanentemente** los avances y corregir |\n| 5. **Información y comunicación** | **Gestión documental**; transparencia; información estadística | Dimensión **articuladora**: flujo de información interna y externa |\n| 6. **Gestión del conocimiento y la innovación** | Gestión del conocimiento y la innovación | Convertir información en **conocimiento útil** y memoria institucional |\n| 7. **Control interno** | Control interno | Se desarrolla con el **MECI**; asegura que las demás dimensiones cumplan su propósito |"
+        },
+        {
+          "id": "mipg-c-004",
+          "type": "concept",
+          "source": "Decreto 1083/2015 arts. 2.2.21.5.3, 2.2.23.1 y 2.2.23.2; Manual Operativo MIPG v6.1, dimensión 7",
+          "title": "Control interno dentro del MIPG",
+          "body": "- El **Sistema de Control Interno** (Leyes 87 de 1993 y 489 de 1998) se **articula** al Sistema de Gestión en el marco del MIPG. El control interno es **transversal** y se implementa con el **Modelo Estándar de Control Interno (MECI)** (art. 2.2.23.1).\n- El MECI se **actualiza** a través del **Manual Operativo del MIPG**, de obligatorio cumplimiento (art. 2.2.23.2).\n- **Oficinas de control interno** (art. 2.2.21.5.3), cinco roles: **liderazgo estratégico**; **enfoque hacia la prevención**; **evaluación de la gestión del riesgo**; **evaluación y seguimiento**; **relación con entes externos de control**.\n- El MECI organiza las responsabilidades en una **línea estratégica** y **tres líneas de defensa** (ver la unidad de auditoría)."
+        },
+        {
+          "id": "mipg-c-005",
+          "type": "concept",
+          "source": "Manual Operativo MIPG versión 7 (Función Pública, agosto de 2026), control de cambios",
+          "title": "Versión 7 del manual: de 7 a 6 dimensiones (posterior al corte)",
+          "tags": [
+            "post-corte"
+          ],
+          "body": "En **agosto de 2026** Función Pública publicó la **versión 7** del Manual Operativo («MIPG 2026»). Pasa de **siete a seis dimensiones**: 1. Talento humano; 2. Direccionamiento estratégico y planeación; 3. **Relación Estado – Ciudadanías**; 4. **Fortalecimiento institucional**; 5. **Gestión del conocimiento, la innovación y la memoria pública**; 6. **Seguimiento, evaluación y control integral**. También incorpora la política de **Gestión Ambiental Institucional** y llama a la política de servicio al ciudadano **«Servicio a las Ciudadanías»**.\n\n**Para el examen:** la GOA solo tiene en cuenta normas expedidas **hasta el 19 de junio de 2026**. Prepara las **7 dimensiones** de la versión 6.1 y usa esta nota solo como contexto."
+        },
+        {
+          "ref": "mipg-q-008"
+        },
+        {
+          "ref": "mipg-q-009"
+        },
+        {
+          "ref": "mipg-q-010"
+        },
+        {
+          "ref": "mipg-q-011"
+        },
+        {
+          "ref": "mipg-q-012"
+        },
+        {
+          "ref": "mipg-q-013"
+        },
+        {
+          "ref": "mipg-q-014"
+        }
+      ]
+    },
+    {
+      "id": "mipg-03",
+      "title": "Política de servicio al ciudadano",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "mipg-c-006",
+          "type": "concept",
+          "source": "Manual Operativo MIPG v6.1, § 3.3.1; Constitución Política art. 2",
+          "title": "Servicio al ciudadano en el MIPG",
+          "body": "**Propósito:** garantizar el **acceso efectivo, oportuno y de calidad** de los ciudadanos a sus derechos **en todos los escenarios de relacionamiento** con el Estado (Manual v6.1 § 3.3.1).\n\n- Se funda en que **servir a la comunidad** es un **fin esencial del Estado** (Const. art. 2). Por eso aplica a **todas** las entidades públicas y a los particulares con funciones públicas.\n- Va más allá de atender a tiempo los requerimientos: busca **garantizar derechos y deberes** con escenarios **dialogantes, incluyentes** y que **construyan confianza**.\n- Se actualizó en **2020** para una gestión **transversal** del servicio en todas las dimensiones del MIPG, superando el esquema del **Conpes 3789 de 2013** («ventanilla hacia adentro» y «ventanilla hacia afuera»).\n- **Carta de trato digno:** informa de forma proactiva los derechos del ciudadano: petición, eliminación de **barreras** físicas, verbales y actitudinales, **enfoque diferencial**, **atención preferencial**, gratuidad del acceso a la información y participación.\n- Se articula con las políticas de **transparencia**, **racionalización de trámites** y **participación ciudadana** (relación Estado-ciudadano), y con lineamientos de **lenguaje claro** (Circular 100-010 de 2021)."
+        },
+        {
+          "ref": "mipg-q-015"
+        },
+        {
+          "ref": "mipg-q-016"
+        },
+        {
+          "ref": "mipg-q-017"
+        },
+        {
+          "ref": "mipg-q-018"
+        },
+        {
+          "ref": "mipg-q-019"
+        },
+        {
+          "ref": "mipg-q-020"
+        },
+        {
+          "ref": "mipg-q-025"
+        },
+        {
+          "ref": "mipg-q-024"
+        },
+        {
+          "ref": "mipg-q-028"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "mipg-fc-001",
+      "front": "¿Qué es el MIPG?",
+      "back": "Un marco de referencia para dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar la gestión de las entidades públicas, con integridad y calidad en el servicio.",
+      "source": "Decreto 1083/2015 art. 2.2.22.3.2"
+    },
+    {
+      "id": "mipg-fc-002",
+      "front": "¿Qué sistemas integra el Sistema de Gestión?",
+      "back": "Los Sistemas de Desarrollo Administrativo y de Gestión de la Calidad (Ley 1753 de 2015).",
+      "source": "Decreto 1083/2015 art. 2.2.22.1.1"
+    },
+    {
+      "id": "mipg-fc-003",
+      "front": "Cinco objetivos del MIPG",
+      "back": "Liderazgo y talento humano; agilizar y simplificar la operación; cultura de información, control y evaluación; participación ciudadana; coordinación entre entidades.",
+      "source": "Decreto 1083/2015 art. 2.2.22.3.3"
+    },
+    {
+      "id": "mipg-fc-004",
+      "front": "¿Cuántas políticas de gestión y desempeño lista hoy el Decreto 1083?",
+      "back": "19 (las 16 originales más mejora normativa, información estadística y compras y contratación pública).",
+      "source": "Decreto 1083/2015 art. 2.2.22.2.1"
+    },
+    {
+      "id": "mipg-fc-005",
+      "front": "Comité Institucional de Gestión y Desempeño: ¿cada cuánto hace seguimiento?",
+      "back": "Por lo menos una vez cada 3 meses.",
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 num. 1"
+    },
+    {
+      "id": "mipg-fc-006",
+      "front": "¿Quién ejerce la secretaría técnica del Comité Institucional de Gestión y Desempeño?",
+      "back": "El jefe de la oficina de planeación o quien haga sus veces.",
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 par. 1"
+    },
+    {
+      "id": "mipg-fc-007",
+      "front": "Papel de control interno en el Comité Institucional de Gestión y Desempeño",
+      "back": "Invitado permanente, con voz pero sin voto.",
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 par. 3"
+    },
+    {
+      "id": "mipg-fc-008",
+      "front": "Las 7 dimensiones del MIPG (versión 6.1)",
+      "back": "Talento humano; Direccionamiento estratégico y planeación; Gestión con valores para resultados; Evaluación de resultados; Información y comunicación; Gestión del conocimiento y la innovación; Control interno.",
+      "source": "Manual Operativo MIPG v6.1, § 3.2"
+    },
+    {
+      "id": "mipg-fc-009",
+      "front": "¿En qué dimensión están Talento humano e Integridad?",
+      "back": "Dimensión 1: Talento humano.",
+      "source": "Manual Operativo MIPG v6.1, dimensión 1"
+    },
+    {
+      "id": "mipg-fc-010",
+      "front": "¿En qué dimensión está la gestión documental?",
+      "back": "Dimensión 5: Información y comunicación (con transparencia e información estadística).",
+      "source": "Manual Operativo MIPG v6.1, dimensión 5"
+    },
+    {
+      "id": "mipg-fc-011",
+      "front": "¿En qué dimensión está compras y contratación pública?",
+      "back": "Dimensión 2: Direccionamiento estratégico y planeación.",
+      "source": "Manual Operativo MIPG v6.1, dimensión 2"
+    },
+    {
+      "id": "mipg-fc-012",
+      "front": "¿Con qué modelo se implementa el control interno en el MIPG?",
+      "back": "Con el Modelo Estándar de Control Interno (MECI).",
+      "source": "Decreto 1083/2015 art. 2.2.23.1"
+    },
+    {
+      "id": "mipg-fc-013",
+      "front": "Roles de las oficinas de control interno",
+      "back": "Liderazgo estratégico; enfoque hacia la prevención; evaluación de la gestión del riesgo; evaluación y seguimiento; relación con entes externos de control.",
+      "source": "Decreto 1083/2015 art. 2.2.21.5.3"
+    },
+    {
+      "id": "mipg-fc-014",
+      "front": "Propósito de la política de servicio al ciudadano",
+      "back": "Garantizar el acceso efectivo, oportuno y de calidad de los ciudadanos a sus derechos en todos los escenarios de relación con el Estado.",
+      "source": "Manual Operativo MIPG v6.1, § 3.3.1"
+    },
+    {
+      "id": "mipg-fc-015",
+      "front": "¿Qué mide la Medición del Desempeño Institucional (MDI)?",
+      "back": "Cada año, el estado de la gestión según el MIPG y el avance del control interno (MECI).",
+      "source": "Manual Operativo MIPG v6.1, § 3.3"
+    },
+    {
+      "id": "mipg-fc-016",
+      "front": "Versión 7 del manual MIPG (agosto de 2026)",
+      "back": "Pasa de 7 a 6 dimensiones. Es posterior al corte normativo de la GOA (19-jun-2026).",
+      "source": "Manual Operativo MIPG v7, control de cambios",
+      "tags": [
+        "post-corte"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "mipg-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.2",
+      "prompt": "Según el Decreto 1083 de 2015, el MIPG es:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Un sistema de información para reportar la ejecución presupuestal anual"
+        },
+        {
+          "id": "b",
+          "text": "Un marco de referencia para dirigir, planear, evaluar y controlar la gestión"
+        },
+        {
+          "id": "c",
+          "text": "Una norma técnica de calidad certificable por organismos privados"
+        },
+        {
+          "id": "d",
+          "text": "El plan de desarrollo que aprueba el Congreso para cada cuatrienio"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 2.2.22.3.2 lo define como un marco de referencia para dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar la gestión de las entidades públicas.",
+      "optionWhy": {
+        "a": "El MIPG no es un sistema de información presupuestal.",
+        "c": "No es una norma técnica certificable; es un modelo de gestión pública.",
+        "d": "El MIPG busca atender los planes de desarrollo, pero no es uno de ellos."
+      }
+    },
+    {
+      "id": "mipg-q-002",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Decreto 1083/2015 art. 2.2.22.1.1",
+      "statement": "El Sistema de Gestión integra los antiguos Sistemas de Desarrollo Administrativo y de Gestión de la Calidad.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dice el art. 2.2.22.1.1, que remite a su creación por la Ley 1753 de 2015."
+    },
+    {
+      "id": "mipg-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8",
+      "case": "La seccional quiere crear un comité nuevo para revisar cada trimestre los avances del MIPG, aparte del Comité Institucional de Gestión y Desempeño.",
+      "prompt": "Al gestor le corresponde advertir que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es necesario, porque el Comité Institucional solo se reúne una vez al año."
+        },
+        {
+          "id": "b",
+          "text": "Es posible, siempre que lo presida el jefe de control interno."
+        },
+        {
+          "id": "c",
+          "text": "El Comité Institucional ya hace ese seguimiento y sustituye a esos comités."
+        }
+      ],
+      "answer": "c",
+      "explain": "El Comité Institucional de Gestión y Desempeño orienta el MIPG, sustituye los demás comités relacionados con el modelo que no sean obligatorios por ley, y hace seguimiento por lo menos una vez cada 3 meses (art. 2.2.22.3.8).",
+      "optionWhy": {
+        "a": "El seguimiento es al menos trimestral, no anual.",
+        "b": "Control interno es invitado con voz pero sin voto; no preside."
+      }
+    },
+    {
+      "id": "mipg-q-004",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 pars. 1 y 3",
+      "prompt": "En el Comité Institucional de Gestión y Desempeño, la oficina de control interno:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ejerce la secretaría técnica del comité"
+        },
+        {
+          "id": "b",
+          "text": "Preside el comité y tiene voto de calidad"
+        },
+        {
+          "id": "c",
+          "text": "No puede asistir, para no perder independencia"
+        },
+        {
+          "id": "d",
+          "text": "Es invitada permanente, con voz pero sin voto"
+        }
+      ],
+      "answer": "d",
+      "explain": "La oficina de control interno es invitada permanente con voz pero sin voto (par. 3). La secretaría técnica la ejerce el jefe de planeación (par. 1).",
+      "optionWhy": {
+        "a": "La secretaría técnica es del jefe de planeación.",
+        "b": "No preside ni vota.",
+        "c": "Asiste como invitada permanente."
+      }
+    },
+    {
+      "id": "mipg-q-005",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.2.1",
+      "case": "En una reunión, un compañero afirma que la contratación pública no hace parte del MIPG porque tiene su propia ley.",
+      "prompt": "Al gestor le corresponde aclarar que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compras y contratación pública es una de las políticas de gestión y desempeño."
+        },
+        {
+          "id": "b",
+          "text": "Tiene razón: el MIPG solo cubre planeación, talento humano y control interno."
+        },
+        {
+          "id": "c",
+          "text": "La contratación entra al MIPG solo cuando supera la menor cuantía."
+        }
+      ],
+      "answer": "a",
+      "explain": "El Decreto 742 de 2021 añadió «Compras y Contratación Pública» como política 19 del art. 2.2.22.2.1. Las políticas se rigen por sus propias normas y se implementan en el marco del MIPG (par.).",
+      "optionWhy": {
+        "b": "El MIPG comprende 19 políticas, no solo tres.",
+        "c": "No existe esa condición de cuantía."
+      }
+    },
+    {
+      "id": "mipg-q-006",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.2.1",
+      "prompt": "Relaciona cada política agregada con el decreto que la incorporó.",
+      "pairs": [
+        {
+          "left": "Mejora normativa",
+          "right": "Decreto 1299 de 2018"
+        },
+        {
+          "left": "Gestión de la información estadística",
+          "right": "Decreto 454 de 2020"
+        },
+        {
+          "left": "Compras y contratación pública",
+          "right": "Decreto 742 de 2021"
+        }
+      ],
+      "explain": "Las 16 políticas originales del Decreto 1499 de 2017 se ampliaron con los numerales 17, 18 y 19."
+    },
+    {
+      "id": "mipg-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.3",
+      "prompt": "¿Cuál de estos es un objetivo del MIPG según el Decreto 1083?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aumentar el recaudo tributario de las entidades"
+        },
+        {
+          "id": "b",
+          "text": "Promover la participación ciudadana en la gestión"
+        },
+        {
+          "id": "c",
+          "text": "Reemplazar la Ley 87 de 1993 de control interno"
+        },
+        {
+          "id": "d",
+          "text": "Centralizar la contratación en Función Pública"
+        }
+      ],
+      "answer": "b",
+      "explain": "Uno de los cinco objetivos es facilitar y promover la efectiva participación ciudadana en la planeación, gestión y evaluación (art. 2.2.22.3.3 num. 4).",
+      "optionWhy": {
+        "a": "No es un objetivo del MIPG.",
+        "c": "El control interno de la Ley 87 se articula al MIPG; no se reemplaza.",
+        "d": "No es un objetivo del MIPG."
+      }
+    },
+    {
+      "id": "mipg-q-008",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Manual Operativo MIPG v6.1, § 3.2",
+      "prompt": "¿Cuántas dimensiones tiene el MIPG según la versión 6.1 del Manual Operativo (anterior al corte)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 dimensiones"
+        },
+        {
+          "id": "b",
+          "text": "6 dimensiones"
+        },
+        {
+          "id": "c",
+          "text": "7 dimensiones"
+        },
+        {
+          "id": "d",
+          "text": "19 dimensiones"
+        }
+      ],
+      "answer": "c",
+      "explain": "El MIPG opera a través de 7 dimensiones que agrupan las políticas de gestión y desempeño (Manual v6.1 § 3.2).",
+      "optionWhy": {
+        "a": "No hay una versión del manual con 5 dimensiones.",
+        "b": "Las 6 dimensiones son de la versión 7 (agosto de 2026), posterior al corte.",
+        "d": "19 es el número de políticas, no de dimensiones."
+      }
+    },
+    {
+      "id": "mipg-q-009",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensiones 1, 2, 5 y 7",
+      "prompt": "Relaciona cada política con su dimensión.",
+      "pairs": [
+        {
+          "left": "Integridad",
+          "right": "Talento humano"
+        },
+        {
+          "left": "Compras y contratación pública",
+          "right": "Direccionamiento estratégico y planeación"
+        },
+        {
+          "left": "Gestión documental",
+          "right": "Información y comunicación"
+        },
+        {
+          "left": "Control interno",
+          "right": "Control interno (MECI)"
+        }
+      ],
+      "explain": "Ubicación de las políticas en las dimensiones del Manual Operativo v6.1."
+    },
+    {
+      "id": "mipg-q-010",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensión 5",
+      "case": "La dependencia mejora sus tablas de retención documental y el flujo de información entre áreas para responder a tiempo a los ciudadanos.",
+      "prompt": "¿En qué dimensión del MIPG se enmarca principalmente esta mejora?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Evaluación de resultados"
+        },
+        {
+          "id": "b",
+          "text": "Información y comunicación"
+        },
+        {
+          "id": "c",
+          "text": "Talento humano"
+        }
+      ],
+      "answer": "b",
+      "explain": "Información y comunicación es la dimensión articuladora que garantiza el flujo de información interna y externa; incluye la política de gestión documental.",
+      "optionWhy": {
+        "a": "Evaluación de resultados mide avances; no gestiona documentos ni flujos de información.",
+        "c": "Talento humano se ocupa del ciclo de vida de los servidores."
+      }
+    },
+    {
+      "id": "mipg-q-011",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Decreto 1083/2015 art. 2.2.23.1",
+      "statement": "Dentro del MIPG, el control interno se implementa a través del Modelo Estándar de Control Interno (MECI).",
+      "answer": true,
+      "explain": "Verdadero. El control interno es transversal a la gestión y se implementa con el MECI (art. 2.2.23.1)."
+    },
+    {
+      "id": "mipg-q-012",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.21.5.3",
+      "prompt": "¿Cuál de estos NO es uno de los roles de las oficinas de control interno?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Enfoque hacia la prevención"
+        },
+        {
+          "id": "b",
+          "text": "Relación con entes externos de control"
+        },
+        {
+          "id": "c",
+          "text": "Evaluación de la gestión del riesgo"
+        },
+        {
+          "id": "d",
+          "text": "Ordenación del gasto de la entidad"
+        }
+      ],
+      "answer": "d",
+      "explain": "Los roles son liderazgo estratégico, enfoque hacia la prevención, evaluación de la gestión del riesgo, evaluación y seguimiento, y relación con entes externos de control (art. 2.2.21.5.3). Ordenar el gasto no es un rol de control interno.",
+      "optionWhy": {
+        "a": "Es uno de los cinco roles.",
+        "b": "Es uno de los cinco roles.",
+        "c": "Es uno de los cinco roles."
+      }
+    },
+    {
+      "id": "mipg-q-013",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Manual Operativo MIPG v6.1, dimensión 3; Manual Operativo MIPG v7",
+      "tags": [
+        "post-corte"
+      ],
+      "case": "Preparando el examen, una compañera encuentra la versión 7 del manual MIPG (agosto de 2026) con 6 dimensiones, y pregunta cuál estudiar.",
+      "prompt": "Lo más adecuado es responderle que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prepare las 7 dimensiones de la versión 6.1, porque la v7 es posterior al corte."
+        },
+        {
+          "id": "b",
+          "text": "Prepare solo las 6 dimensiones, porque la norma más reciente siempre prevalece."
+        },
+        {
+          "id": "c",
+          "text": "Ignore el MIPG, porque no hace parte de las competencias de la ficha."
+        }
+      ],
+      "answer": "a",
+      "explain": "La GOA solo tiene en cuenta normas expedidas hasta el 19 de junio de 2026. La versión 7 es de agosto de 2026; la 6.1 (febrero de 2026), con 7 dimensiones, es la vigente a la fecha de corte.",
+      "optionWhy": {
+        "b": "El examen se rige por el corte normativo de la GOA.",
+        "c": "El MIPG es una competencia funcional básica de la ficha AF-LF-3005."
+      }
+    },
+    {
+      "id": "mipg-q-014",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Manual Operativo MIPG v6.1, dimensiones 2, 3 y 4",
+      "case": "La DIAN definió en su plan metas de reducción de tiempos de entrega de mercancías. A mitad de año, el gestor debe revisar si se están cumpliendo y proponer ajustes.",
+      "prompt": "Esta tarea corresponde principalmente a la dimensión de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Direccionamiento estratégico, porque allí se fijaron las metas."
+        },
+        {
+          "id": "b",
+          "text": "Gestión con valores, porque allí se ejecutan las acciones."
+        },
+        {
+          "id": "c",
+          "text": "Evaluación de resultados, que sigue los avances y corrige."
+        }
+      ],
+      "answer": "c",
+      "explain": "La dimensión de evaluación de resultados promueve el seguimiento permanente de la gestión para conocer los avances, mitigar riesgos y determinar si se lograron las metas.",
+      "optionWhy": {
+        "a": "Fijar las metas es planeación; revisarlas y ajustarlas es evaluación.",
+        "b": "Gestión con valores ejecuta lo planeado; el seguimiento es de la dimensión 4."
+      }
+    },
+    {
+      "id": "mipg-q-015",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Manual Operativo MIPG v6.1, § 3.3.1",
+      "prompt": "¿Cuál es el propósito de la política de servicio al ciudadano?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reducir el número de ventanillas de atención presencial"
+        },
+        {
+          "id": "b",
+          "text": "Garantizar el acceso efectivo y de calidad a los derechos"
+        },
+        {
+          "id": "c",
+          "text": "Centralizar todas las quejas en la Procuraduría General"
+        },
+        {
+          "id": "d",
+          "text": "Cobrar los trámites para financiar la atención al público"
+        }
+      ],
+      "answer": "b",
+      "explain": "Busca garantizar el acceso efectivo, oportuno y de calidad de los ciudadanos a sus derechos en todos los escenarios de relación con el Estado.",
+      "optionWhy": {
+        "a": "No es su propósito.",
+        "c": "Las quejas se atienden en cada entidad (Ley 1474 art. 76).",
+        "d": "No es su propósito."
+      }
+    },
+    {
+      "id": "mipg-q-016",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, § 3.3.1; Constitución Política art. 2",
+      "case": "Un compañero dice que la política de servicio al ciudadano solo aplica a las áreas de ventanilla y no al área de logística y mercancías.",
+      "prompt": "Al gestor le corresponde aclarar que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tiene razón: solo aplica a quien atiende público directamente."
+        },
+        {
+          "id": "b",
+          "text": "Aplica solo si el área tiene un indicador de satisfacción."
+        },
+        {
+          "id": "c",
+          "text": "Es transversal: servir a la comunidad es fin esencial del Estado."
+        }
+      ],
+      "answer": "c",
+      "explain": "La política se actualizó en 2020 para una gestión transversal del servicio en todas las dimensiones del MIPG, y se funda en que servir a la comunidad es un fin esencial del Estado (Const. art. 2).",
+      "optionWhy": {
+        "a": "Superó el esquema de «ventanilla hacia adentro / hacia afuera» del Conpes 3789.",
+        "b": "No depende de tener un indicador."
+      }
+    },
+    {
+      "id": "mipg-q-017",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, § 3.3.1, nota 19",
+      "case": "La seccional actualiza su carta de trato digno. Un compañero propone incluir solo los horarios y la dirección de las oficinas.",
+      "prompt": "Al gestor le corresponde proponer que la carta informe además:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los derechos del ciudadano, como petición y atención preferencial."
+        },
+        {
+          "id": "b",
+          "text": "Los nombres de los funcionarios sancionados durante el año anterior."
+        },
+        {
+          "id": "c",
+          "text": "Las metas de recaudo fijadas para la seccional en esta vigencia."
+        }
+      ],
+      "answer": "a",
+      "explain": "La carta de trato digno informa de forma proactiva los derechos de los ciudadanos: petición, eliminación de barreras físicas, verbales y actitudinales, enfoque diferencial, atención preferencial, gratuidad del acceso a la información y participación.",
+      "optionWhy": {
+        "b": "No es contenido de la carta de trato digno.",
+        "c": "Las metas de recaudo no son derechos de los usuarios."
+      }
+    },
+    {
+      "id": "mipg-q-018",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, § 3.3.1",
+      "statement": "La política de servicio al ciudadano se actualizó en 2020 para superar el esquema de «ventanilla hacia adentro y hacia afuera» del Conpes 3789 de 2013.",
+      "answer": true,
+      "explain": "Verdadero. La actualización de 2020 busca una gestión transversal y sistémica del servicio en todas las dimensiones del MIPG."
+    },
+    {
+      "id": "mipg-q-019",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Manual Operativo MIPG v6.1, dimensión 3; Ley 1437/2011 art. 9",
+      "case": "Los usuarios se quejan de que para retirar una mercancía deben llevar tres copias del mismo documento y volver dos veces a la seccional.",
+      "prompt": "Desde el MIPG, al gestor le corresponde proponer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mantener el trámite y publicar mejor sus requisitos actuales."
+        },
+        {
+          "id": "b",
+          "text": "Simplificarlo con la política de racionalización de trámites."
+        },
+        {
+          "id": "c",
+          "text": "Trasladar el trámite a control interno para que lo evalúe."
+        }
+      ],
+      "answer": "b",
+      "explain": "La relación Estado-ciudadano de la dimensión 3 incluye racionalización de trámites y servicio al ciudadano. Además, está prohibido exigir documentos no previstos por la norma o que reposen en la entidad (Ley 1437 art. 9).",
+      "optionWhy": {
+        "a": "Publicar mejor un trámite innecesario no resuelve la carga para el ciudadano.",
+        "c": "Control interno evalúa, pero la mejora del trámite le corresponde a la gestión."
+      }
+    },
+    {
+      "id": "mipg-q-020",
+      "type": "open",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, § 3.2",
+      "prompt": "Nombra las 7 dimensiones del MIPG (versión 6.1) y ubica en ellas las políticas de integridad, gestión documental y compras y contratación pública.",
+      "modelAnswer": "Talento humano; Direccionamiento estratégico y planeación; Gestión con valores para resultados; Evaluación de resultados; Información y comunicación; Gestión del conocimiento y la innovación; Control interno. Integridad está en Talento humano; gestión documental, en Información y comunicación; compras y contratación pública, en Direccionamiento estratégico y planeación.",
+      "keyPoints": [
+        "Las 7 dimensiones",
+        "Integridad → Talento humano",
+        "Gestión documental → Información y comunicación",
+        "Contratación → Direccionamiento estratégico y planeación"
+      ],
+      "keywords": [
+        "talento humano",
+        "direccionamiento",
+        "gestion con valores",
+        "evaluacion de resultados",
+        "informacion y comunicacion",
+        "conocimiento",
+        "control interno"
+      ],
+      "minKeywords": 5
+    },
+    {
+      "id": "mipg-q-021",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensión 1",
+      "case": "La dependencia quiere fortalecer la cultura de integridad de su equipo con talleres sobre el Código de Integridad.",
+      "prompt": "Esta acción se enmarca en la dimensión de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Talento humano, junto con la política de integridad."
+        },
+        {
+          "id": "b",
+          "text": "Control interno, porque previene la corrupción."
+        },
+        {
+          "id": "c",
+          "text": "Información y comunicación, porque se divulga."
+        }
+      ],
+      "answer": "a",
+      "explain": "La dimensión 1, Talento humano, se desarrolla con las políticas de gestión estratégica del talento humano e integridad.",
+      "optionWhy": {
+        "b": "Control interno evalúa los controles; la política de integridad está en Talento humano.",
+        "c": "Divulgar es un medio; la política de integridad pertenece a la dimensión de Talento humano."
+      }
+    },
+    {
+      "id": "mipg-q-022",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 num. 1",
+      "text": "El Comité Institucional de Gestión y Desempeño aprueba y hace seguimiento a las acciones del MIPG por lo menos una vez cada {{3}} meses.",
+      "alternatives": {
+        "3": [
+          "tres"
+        ]
+      }
+    },
+    {
+      "id": "mipg-q-023",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8 pars. 1 y 3",
+      "case": "Al conformar el Comité Institucional de Gestión y Desempeño, alguien propone que el jefe de control interno sea el secretario técnico.",
+      "prompt": "Al gestor le corresponde advertir que la secretaría técnica le corresponde a:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Control interno, porque evalúa el MIPG."
+        },
+        {
+          "id": "b",
+          "text": "El jefe de planeación o quien haga sus veces."
+        },
+        {
+          "id": "c",
+          "text": "El representante legal de la entidad."
+        }
+      ],
+      "answer": "b",
+      "explain": "La secretaría técnica la ejerce el jefe de la oficina de planeación o quien haga sus veces (par. 1). Control interno es invitado permanente con voz pero sin voto (par. 3).",
+      "optionWhy": {
+        "a": "Control interno participa con voz y sin voto, para conservar su independencia.",
+        "c": "El representante legal no es el secretario técnico."
+      }
+    },
+    {
+      "id": "mipg-q-024",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensión 6",
+      "case": "Después de varias ventas de mercancías decomisadas, el gestor quiere documentar lo aprendido para que otras seccionales lo apliquen.",
+      "prompt": "Esta iniciativa corresponde a la dimensión de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestión del conocimiento y la innovación."
+        },
+        {
+          "id": "b",
+          "text": "Evaluación de resultados."
+        },
+        {
+          "id": "c",
+          "text": "Direccionamiento estratégico y planeación."
+        }
+      ],
+      "answer": "a",
+      "explain": "La sexta dimensión busca transformar la información de las áreas en conocimiento útil y memoria institucional, sistematizando prácticas que faciliten el aprendizaje colectivo.",
+      "optionWhy": {
+        "b": "Evaluación de resultados mide avances frente a metas; no sistematiza aprendizajes.",
+        "c": "Direccionamiento define la ruta estratégica."
+      }
+    },
+    {
+      "id": "mipg-q-025",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8; Manual Operativo MIPG v6.1, § 3.3",
+      "case": "La Medición del Desempeño Institucional de la DIAN muestra un puntaje bajo en la política de servicio al ciudadano.",
+      "prompt": "Al gestor le corresponde proponer:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esperar a la medición del año siguiente para ver si mejora."
+        },
+        {
+          "id": "b",
+          "text": "Llevar el resultado al Comité Institucional para aprobar mejoras y seguirlas."
+        },
+        {
+          "id": "c",
+          "text": "Enviar el resultado a la Contraloría para que abra una investigación."
+        }
+      ],
+      "answer": "b",
+      "explain": "El Comité Institucional aprueba y hace seguimiento, al menos cada 3 meses, a las acciones del MIPG y promueve el autodiagnóstico (art. 2.2.22.3.8). La MDI es anual y sirve para orientar esas mejoras.",
+      "optionWhy": {
+        "a": "Esperar no corrige; el comité debe adoptar acciones y seguirlas.",
+        "c": "La Contraloría vigila la gestión fiscal; un puntaje bajo no es por sí mismo un hecho fiscal."
+      }
+    },
+    {
+      "id": "mipg-q-026",
+      "type": "open",
+      "difficulty": 3,
+      "source": "Decreto 1083/2015 art. 2.2.22.3.8",
+      "prompt": "Explica qué es el Comité Institucional de Gestión y Desempeño: quién lo integra, qué hace, cada cuánto hace seguimiento y qué papel tienen planeación y control interno.",
+      "modelAnswer": "Existe en cada entidad para orientar la implementación y operación del MIPG y sustituye los demás comités relacionados con el modelo que no sean obligatorios por ley. Lo integran servidores del nivel directivo o asesor que designe el representante legal. Aprueba y hace seguimiento, por lo menos cada 3 meses, a las acciones del MIPG; articula esfuerzos, promueve el autodiagnóstico y asegura las políticas de seguridad digital. La secretaría técnica es del jefe de planeación y control interno es invitado permanente con voz pero sin voto.",
+      "keyPoints": [
+        "Orienta el MIPG; sustituye otros comités",
+        "Directivos o asesores",
+        "Seguimiento al menos cada 3 meses",
+        "Secretaría técnica: planeación",
+        "Control interno: voz sin voto"
+      ],
+      "keywords": [
+        "mipg",
+        "directivo",
+        "3 meses",
+        "autodiagnostico",
+        "planeacion",
+        "control interno",
+        "sin voto"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "mipg-q-027",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensión 2",
+      "case": "El gestor prepara el plan anual de adquisiciones de la seccional y quiere saber en qué parte del MIPG se enmarca esa tarea.",
+      "prompt": "Le corresponde ubicarla en la dimensión de:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Control interno."
+        },
+        {
+          "id": "b",
+          "text": "Información y comunicación."
+        },
+        {
+          "id": "c",
+          "text": "Direccionamiento estratégico y planeación."
+        }
+      ],
+      "answer": "c",
+      "explain": "La dimensión 2 se desarrolla con las políticas de planeación institucional, gestión presupuestal y compras y contratación pública.",
+      "optionWhy": {
+        "a": "Control interno evalúa; no planea las compras.",
+        "b": "Información y comunicación gestiona documentos y flujos de información."
+      }
+    },
+    {
+      "id": "mipg-q-028",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Manual Operativo MIPG v6.1, dimensiones 3 y 5; Ley 1712/2014 art. 9",
+      "case": "Al publicar en la web la información mínima que exige la Ley de Transparencia, un compañero pregunta a qué dimensión del MIPG pertenece la política de transparencia.",
+      "prompt": "Al gestor le corresponde responder que:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo a control interno, porque previene la corrupción."
+        },
+        {
+          "id": "b",
+          "text": "Se tiene en cuenta en gestión con valores y en información y comunicación."
+        },
+        {
+          "id": "c",
+          "text": "A ninguna: solo se aplica cuando un ciudadano pide información."
+        }
+      ],
+      "answer": "b",
+      "explain": "El manual v6.1 ubica la política de transparencia en la dimensión 3 (gestión institucional y buen manejo de recursos) y la incluye también entre las políticas de la dimensión 5, información y comunicación.",
+      "optionWhy": {
+        "a": "Control interno es otra dimensión y otra política.",
+        "c": "La Ley 1712 exige divulgación proactiva (art. 9), sin necesidad de solicitud."
+      }
+    }
+  ]
+}
