@@ -60,10 +60,12 @@ export function render(item, el, ctx) {
       locked = true;
       activeLeft = null;
       draw();
-      const correct = [...pairOf].every(([l, r]) => l === r);
+      // Dos derechas con el mismo texto son intercambiables (p. ej. «10 UVT» en dos filas).
+      const ok = (l, r) => r !== undefined && (l === r || item.pairs[l].right === item.pairs[r].right);
+      const correct = [...pairOf].every(([l, r]) => ok(l, r));
       colL.querySelectorAll('.match-item').forEach((b) => {
         const l = Number(b.dataset.l);
-        b.classList.add(pairOf.get(l) === l ? 'is-correct' : 'is-wrong');
+        b.classList.add(ok(l, pairOf.get(l)) ? 'is-correct' : 'is-wrong');
       });
       const fb = el.querySelector('.feedback');
       fb.hidden = false;

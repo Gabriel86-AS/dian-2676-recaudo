@@ -1,0 +1,848 @@
+{
+  "id": "devoluciones",
+  "title": "Devoluciones de impuestos y de tributos aduaneros",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Cómo se devuelven saldos a favor y pagos en exceso o de lo no debido: término para pedir, compensación previa, términos para devolver, verificación, suspensión, inadmisión y rechazo, garantías, intereses, sanción por improcedencia y la devolución de tributos aduaneros.",
+  "sources": [
+    "ET arts. 670 y 850–865",
+    "Decreto 1165 de 2019 arts. 727–731"
+  ],
+  "lessons": [
+    {
+      "id": "dev-01",
+      "title": "Qué se devuelve, quién decide y cuándo pedir",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "dev-c-001",
+          "type": "concept",
+          "source": "ET arts. 850, 853, 854 y 861",
+          "title": "La solicitud de devolución",
+          "body": "- **Qué (art. 850):** saldos a favor liquidados en las declaraciones y **pagos en exceso o de lo no debido**, tributarios y aduaneros, por el mismo procedimiento.\n- **Quién decide (art. 853):** el **jefe de la unidad de devoluciones** (o de recaudo con esa función) ordena, rechaza o niega; los funcionarios estudian, verifican y proyectan.\n- **Término (art. 854):** a más tardar **2 años después del vencimiento** del término para declarar. La parte rechazada por liquidación oficial no se puede pedir hasta la decisión definitiva.\n- **Compensación previa (art. 861):** primero se compensan las **deudas vencidas**, en el mismo acto que ordena la devolución."
+        },
+        {
+          "ref": "dev-q-001"
+        },
+        {
+          "ref": "dev-q-002"
+        },
+        {
+          "ref": "dev-q-003"
+        },
+        {
+          "ref": "dev-q-004"
+        },
+        {
+          "ref": "dev-q-005"
+        }
+      ]
+    },
+    {
+      "id": "dev-02",
+      "title": "Términos, verificación, inadmisión y rechazo",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "dev-c-002",
+          "type": "concept",
+          "source": "ET arts. 855–859",
+          "title": "El trámite",
+          "body": "- **Término para devolver (art. 855):** **50 días** desde la solicitud oportuna y en debida forma; **+1 mes** si se pide dentro de los 2 meses siguientes a la declaración; **30 días** para ciertos responsables de IVA que son OEA. Hay **devolución automática** para quienes no son de alto riesgo y soportan sus costos con factura electrónica.\n- **Verificación (art. 856):** se seleccionan solicitudes; basta comprobar que **uno o varios** retenedores o proveedores existen y practicaron la retención o liquidaron el IVA.\n- **Retenciones no consignadas (art. 859):** se devuelven igual; se investiga al agente. No aplica a autorretenciones, retenciones de IVA y anticipos.\n- **Suspensión (art. 857-1):** hasta **90 días** para que fiscalización investigue.\n- **Inadmisión (art. 858):** auto inadmisorio en **15 días** si faltan requisitos.\n- **Rechazo definitivo (art. 857):** extemporánea, saldo ya devuelto o imputado, corrección que genera saldo a pagar, entre otras."
+        },
+        {
+          "ref": "dev-q-006"
+        },
+        {
+          "ref": "dev-q-007"
+        },
+        {
+          "ref": "dev-q-008"
+        },
+        {
+          "ref": "dev-q-009"
+        },
+        {
+          "ref": "dev-q-010"
+        },
+        {
+          "ref": "dev-q-011"
+        },
+        {
+          "ref": "dev-q-012"
+        }
+      ]
+    },
+    {
+      "id": "dev-03",
+      "title": "Garantía, pago, intereses e improcedencia",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "dev-c-003",
+          "type": "concept",
+          "source": "ET arts. 860, 862–864 y 670",
+          "title": "Después de la decisión",
+          "body": "- **Con garantía (art. 860):** bancaria o de seguros por el monto más las sanciones del art. 670 → devolución en **20 días**; la garantía vale **2 años**.\n- **Medios (art. 862):** **cheque, título o giro**; más de **1.000 UVT** puede devolverse en títulos de devolución de impuestos.\n- **Intereses a favor (art. 863):** **corrientes** mientras el saldo está en discusión; **moratorios** desde el vencimiento del término para devolver hasta el giro. Tasa: la del art. 635 (moratorios) y el interés bancario corriente (corrientes) (art. 864).\n- **Improcedencia (art. 670):** la devolución no es reconocimiento definitivo. Se reintegra lo devuelto en exceso con intereses, más una sanción del **10 %** (si corrige el contribuyente) o del **20 %** (si la DIAN rechaza o modifica). Con **fraude**, además **100 %**. Pliego de cargos con **1 mes** para responder."
+        },
+        {
+          "ref": "dev-q-013"
+        },
+        {
+          "ref": "dev-q-014"
+        },
+        {
+          "ref": "dev-q-015"
+        },
+        {
+          "ref": "dev-q-016"
+        },
+        {
+          "ref": "dev-q-017"
+        },
+        {
+          "ref": "dev-q-018"
+        },
+        {
+          "ref": "dev-q-019"
+        }
+      ]
+    },
+    {
+      "id": "dev-04",
+      "title": "Devolución de tributos aduaneros",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "dev-c-004",
+          "type": "concept",
+          "source": "D1165/2019 arts. 727–731",
+          "title": "Pagos en exceso en aduanas",
+          "body": "- **Qué (art. 727):** la DIAN compensa o devuelve los pagos en exceso de tributos aduaneros, sanciones o rescate, y los pagos de lo no debido.\n- **Causales (art. 728):** liquidación oficial de corrección que reduce el valor; pago mayor al liquidado; derechos **antidumping** provisionales no impuestos; recursos que advierten el exceso; **cancelación del levante**.\n- **Requisitos (art. 729):** presentación personal (importador, representante o apoderado) e indicación del número y fecha de aceptación, levante o recibo de pago, entre otros.\n- **Término (art. 730):** **6 meses** desde el pago; si la suma surge de un acto, desde su **ejecutoria**. Pago de lo no debido: como en materia tributaria.\n- **Remisión (art. 731):** en lo demás, se aplica el **Estatuto Tributario**."
+        },
+        {
+          "ref": "dev-q-020"
+        },
+        {
+          "ref": "dev-q-021"
+        },
+        {
+          "ref": "dev-q-022"
+        },
+        {
+          "ref": "dev-q-023"
+        },
+        {
+          "ref": "dev-q-024"
+        },
+        {
+          "ref": "dev-q-025"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "dev-fc-001",
+      "front": "Término para pedir devolución de saldos a favor",
+      "back": "2 años después del vencimiento del término para declarar.",
+      "source": "ET art. 854"
+    },
+    {
+      "id": "dev-fc-002",
+      "front": "Término general para devolver",
+      "back": "50 días desde la solicitud oportuna y en debida forma.",
+      "source": "ET art. 855"
+    },
+    {
+      "id": "dev-fc-003",
+      "front": "Solicitud dentro de los 2 meses siguientes a la declaración",
+      "back": "La DIAN tiene un mes adicional para devolver.",
+      "source": "ET art. 855, par. 3"
+    },
+    {
+      "id": "dev-fc-004",
+      "front": "Devolución con garantía bancaria o de seguros",
+      "back": "20 días; la garantía vale 2 años.",
+      "source": "ET art. 860"
+    },
+    {
+      "id": "dev-fc-005",
+      "front": "Plazo del auto inadmisorio",
+      "back": "15 días.",
+      "source": "ET art. 858"
+    },
+    {
+      "id": "dev-fc-006",
+      "front": "Suspensión del término para investigar",
+      "back": "Hasta 90 días.",
+      "source": "ET art. 857-1"
+    },
+    {
+      "id": "dev-fc-007",
+      "front": "Retención practicada pero no consignada por el agente",
+      "back": "Se devuelve al retenido y se investiga al agente.",
+      "source": "ET art. 859"
+    },
+    {
+      "id": "dev-fc-008",
+      "front": "¿Qué se hace antes de devolver?",
+      "back": "Compensar las deudas vencidas, en el mismo acto.",
+      "source": "ET art. 861"
+    },
+    {
+      "id": "dev-fc-009",
+      "front": "Medios de devolución",
+      "back": "Cheque, título o giro; títulos si supera 1.000 UVT.",
+      "source": "ET art. 862"
+    },
+    {
+      "id": "dev-fc-010",
+      "front": "Intereses moratorios a favor del contribuyente",
+      "back": "Desde el vencimiento del término para devolver hasta el giro.",
+      "source": "ET art. 863"
+    },
+    {
+      "id": "dev-fc-011",
+      "front": "Sanción por devolución improcedente",
+      "back": "10 % si corrige el contribuyente; 20 % si la DIAN rechaza; +100 % si hay fraude.",
+      "source": "ET art. 670"
+    },
+    {
+      "id": "dev-fc-012",
+      "front": "Término para pedir devolución de pagos en exceso aduaneros",
+      "back": "6 meses desde el pago (o desde la ejecutoria del acto).",
+      "source": "D1165/2019 art. 730"
+    },
+    {
+      "id": "dev-fc-013",
+      "front": "Vacíos del trámite de devolución aduanera",
+      "back": "Se aplica el Estatuto Tributario.",
+      "source": "D1165/2019 art. 731"
+    }
+  ],
+  "questions": [
+    {
+      "id": "dev-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 850",
+      "prompt": "¿Qué puede devolver la DIAN siguiendo el procedimiento de devolución de saldos a favor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Saldos a favor y pagos en exceso o de lo no debido"
+        },
+        {
+          "id": "b",
+          "text": "Solo los saldos a favor del impuesto de renta"
+        },
+        {
+          "id": "c",
+          "text": "Solo los pagos hechos en efectivo en ventanilla"
+        },
+        {
+          "id": "d",
+          "text": "Los impuestos pagados a los municipios"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 850 permite pedir la devolución de saldos a favor y ordena devolver los pagos en exceso o de lo no debido por obligaciones tributarias y aduaneras, con el mismo procedimiento.",
+      "optionWhy": {
+        "b": "Incluye también IVA, pagos en exceso y de lo no debido.",
+        "c": "El medio de pago no limita la devolución.",
+        "d": "La DIAN no devuelve tributos territoriales."
+      }
+    },
+    {
+      "id": "dev-q-002",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 853",
+      "prompt": "¿Quién profiere los actos que ordenan, rechazan o niegan las devoluciones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El funcionario que estudió y verificó la solicitud"
+        },
+        {
+          "id": "b",
+          "text": "El jefe de la unidad de devoluciones"
+        },
+        {
+          "id": "c",
+          "text": "El jefe de la división de fiscalización seccional"
+        },
+        {
+          "id": "d",
+          "text": "El Director General de la DIAN, en todos los casos"
+        }
+      ],
+      "answer": "b",
+      "explain": "Según el art. 853, corresponde al jefe de la unidad de devoluciones (o de recaudo con esa función); los funcionarios estudian, verifican y proyectan los fallos.",
+      "optionWhy": {
+        "a": "Los funcionarios proyectan; el acto lo firma el jefe.",
+        "c": "Fiscalización investiga en ciertos casos, pero no decide la devolución.",
+        "d": "No se centraliza en el Director General."
+      }
+    },
+    {
+      "id": "dev-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 854",
+      "case": "El plazo para declarar la renta del año gravable 2023 de una persona venció en agosto de 2024. En octubre de 2026 pide la devolución de su saldo a favor.",
+      "prompt": "¿Qué debe hacer la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inadmitir y pedirle que corrija la solicitud."
+        },
+        {
+          "id": "b",
+          "text": "Tramitarla, porque tiene 5 años para pedirla."
+        },
+        {
+          "id": "c",
+          "text": "Rechazar la solicitud por extemporánea."
+        }
+      ],
+      "answer": "c",
+      "explain": "La devolución debe pedirse a más tardar 2 años después del vencimiento del término para declarar (art. 854): venció en agosto de 2026. La solicitud extemporánea se rechaza en forma definitiva (art. 857, num. 1).",
+      "optionWhy": {
+        "a": "La extemporaneidad no se subsana: es causal de rechazo definitivo.",
+        "b": "Cinco años es la prescripción del cobro, no el término para pedir devolución."
+      }
+    },
+    {
+      "id": "dev-q-004",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 861",
+      "case": "Un contribuyente tiene un saldo a favor de renta de $40 millones y una deuda vencida de IVA de $15 millones. Pide la devolución del saldo.",
+      "prompt": "¿Cuánto se le devuelve y cómo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$25 millones; en el mismo acto se compensa la deuda de IVA."
+        },
+        {
+          "id": "b",
+          "text": "$40 millones; la deuda de IVA se cobra en un proceso aparte."
+        },
+        {
+          "id": "c",
+          "text": "Nada, hasta que pague primero la deuda de IVA."
+        }
+      ],
+      "answer": "a",
+      "explain": "La devolución se efectúa una vez compensadas las deudas de plazo vencido; en el mismo acto que ordena la devolución se compensan (art. 861).",
+      "optionWhy": {
+        "b": "La ley exige compensar antes de devolver.",
+        "c": "No hay que pagar primero: se compensa."
+      }
+    },
+    {
+      "id": "dev-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 854",
+      "statement": "Si una liquidación oficial rechazó parte del saldo a favor y el contribuyente la demandó, puede pedir la devolución de esa parte mientras se decide la demanda.",
+      "answer": false,
+      "explain": "Falso. La parte rechazada no puede solicitarse, aunque la liquidación haya sido impugnada, hasta que se resuelva en forma definitiva (art. 854)."
+    },
+    {
+      "id": "dev-q-006",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 855",
+      "prompt": "¿En qué término general debe devolver la DIAN los saldos a favor de renta e IVA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 días desde la presentación de la declaración"
+        },
+        {
+          "id": "b",
+          "text": "30 días hábiles desde la verificación del saldo"
+        },
+        {
+          "id": "c",
+          "text": "6 meses desde la radicación de la solicitud"
+        },
+        {
+          "id": "d",
+          "text": "50 días desde la solicitud en debida forma"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 855 fija 50 días siguientes a la fecha de la solicitud presentada oportunamente y en debida forma, previas las compensaciones.",
+      "optionWhy": {
+        "a": "Quince días es el término del auto inadmisorio (art. 858).",
+        "b": "No es el término general.",
+        "c": "No es el término del art. 855."
+      }
+    },
+    {
+      "id": "dev-q-007",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 855, par. 3",
+      "case": "Una sociedad presentó su declaración de renta con saldo a favor y, tres semanas después, pidió la devolución.",
+      "prompt": "¿De cuánto tiempo dispone la DIAN para devolver?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo los 50 días generales."
+        },
+        {
+          "id": "b",
+          "text": "30 días, como si fuera un OEA."
+        },
+        {
+          "id": "c",
+          "text": "50 días y un mes adicional."
+        }
+      ],
+      "answer": "c",
+      "explain": "Si la solicitud se formula dentro de los 2 meses siguientes a la presentación de la declaración o su corrección, la DIAN tiene un mes adicional (art. 855, par. 3).",
+      "optionWhy": {
+        "a": "Al pedirla dentro de los 2 meses, se suma un mes.",
+        "b": "Los 30 días aplican a ciertos responsables de IVA que son OEA (par. 4)."
+      }
+    },
+    {
+      "id": "dev-q-008",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 856",
+      "prompt": "En la verificación de una devolución por retenciones, ¿qué basta comprobar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que todos los agentes retenedores consignaron lo retenido"
+        },
+        {
+          "id": "b",
+          "text": "Que el contribuyente lleva contabilidad en debida forma"
+        },
+        {
+          "id": "c",
+          "text": "Que la declaración fue firmada por un revisor fiscal"
+        },
+        {
+          "id": "d",
+          "text": "Que uno o varios retenedores existen y retuvieron"
+        }
+      ],
+      "answer": "d",
+      "explain": "Basta comprobar que existen uno o varios de los agentes retenedores señalados y que practicaron la retención denunciada (art. 856).",
+      "optionWhy": {
+        "a": "No se exige revisar a todos ni la consignación (ver art. 859).",
+        "b": "La verificación constata retenciones, descontables o pagos.",
+        "c": "No es el objeto de la verificación."
+      }
+    },
+    {
+      "id": "dev-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 859",
+      "case": "Al verificar una devolución, usted encuentra que el agente retenedor practicó la retención al solicitante, pero no la consignó a la DIAN.",
+      "prompt": "¿Qué procede con la devolución?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Negarla hasta que el agente consigne lo retenido."
+        },
+        {
+          "id": "b",
+          "text": "Devolver e investigar al agente retenedor."
+        },
+        {
+          "id": "c",
+          "text": "Rechazarla de plano porque el dinero no ingresó."
+        }
+      ],
+      "answer": "b",
+      "explain": "Se devuelven las retenciones legalmente practicadas aunque el agente no las haya consignado; se adelantan investigaciones y sanciones contra el agente (art. 859). No aplica a autorretenciones, retenciones de IVA y anticipos.",
+      "optionWhy": {
+        "a": "La ley protege al retenido que acredita la retención.",
+        "c": "No es causal de rechazo."
+      }
+    },
+    {
+      "id": "dev-q-010",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 857-1",
+      "prompt": "¿Hasta por cuánto tiempo puede suspenderse el término para devolver, para que fiscalización investigue?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hasta 90 días"
+        },
+        {
+          "id": "b",
+          "text": "Hasta 15 días"
+        },
+        {
+          "id": "c",
+          "text": "Hasta 1 año"
+        },
+        {
+          "id": "d",
+          "text": "Hasta 2 meses"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 857-1 permite suspender el término hasta por 90 días cuando, por ejemplo, hay retenciones o descontables inexistentes o un indicio de inexactitud.",
+      "optionWhy": {
+        "b": "Quince días es el término del auto inadmisorio.",
+        "c": "No es el término del art. 857-1.",
+        "d": "No es el término del art. 857-1."
+      }
+    },
+    {
+      "id": "dev-q-011",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET arts. 857 y 858",
+      "prompt": "Relaciona cada situación con su consecuencia.",
+      "pairs": [
+        {
+          "left": "Solicitud presentada fuera de término",
+          "right": "Rechazo definitivo"
+        },
+        {
+          "left": "Hay deudas vencidas a cargo del solicitante",
+          "right": "Compensación previa"
+        },
+        {
+          "left": "Solicitud sin el lleno de los requisitos",
+          "right": "Auto inadmisorio en 15 días"
+        },
+        {
+          "left": "Indicio de inexactitud en la declaración",
+          "right": "Suspensión hasta 90 días"
+        }
+      ],
+      "explain": "El rechazo es definitivo (art. 857); la inadmisión permite corregir (art. 858); la suspensión es para investigar (art. 857-1); las deudas se compensan antes de devolver (art. 861)."
+    },
+    {
+      "id": "dev-q-012",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 857",
+      "statement": "Si durante la investigación previa el contribuyente corrige su declaración y resulta un saldo a pagar, la solicitud de devolución se rechaza en forma definitiva.",
+      "answer": true,
+      "explain": "Verdadero. Es el num. 4 del art. 857."
+    },
+    {
+      "id": "dev-q-013",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 860",
+      "case": "Un contribuyente presenta con su solicitud una póliza de una compañía de seguros por el monto a devolver más las sanciones del art. 670.",
+      "prompt": "¿En qué término debe la DIAN entregar el dinero?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dentro de los 50 días siguientes."
+        },
+        {
+          "id": "b",
+          "text": "Dentro de los 20 días siguientes."
+        },
+        {
+          "id": "c",
+          "text": "Dentro de los 90 días siguientes."
+        }
+      ],
+      "answer": "b",
+      "explain": "Con garantía bancaria o de seguros por el monto a devolver más las sanciones del art. 670, la DIAN debe entregar el cheque, título o giro dentro de los 20 días siguientes (art. 860).",
+      "optionWhy": {
+        "a": "Cincuenta días es el término sin garantía (art. 855).",
+        "c": "Noventa días es el máximo de suspensión para investigar."
+      }
+    },
+    {
+      "id": "dev-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 860",
+      "prompt": "¿Qué vigencia tiene la garantía de una devolución?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 año"
+        },
+        {
+          "id": "b",
+          "text": "5 años"
+        },
+        {
+          "id": "c",
+          "text": "2 años"
+        },
+        {
+          "id": "d",
+          "text": "6 meses"
+        }
+      ],
+      "answer": "c",
+      "explain": "La garantía tiene vigencia de 2 años; si en ese lapso se notifica requerimiento especial o el contribuyente corrige, el garante responde solidariamente (art. 860).",
+      "optionWhy": {
+        "a": "No es la vigencia del art. 860.",
+        "b": "No es la vigencia del art. 860.",
+        "d": "No es la vigencia del art. 860."
+      }
+    },
+    {
+      "id": "dev-q-015",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 862",
+      "prompt": "¿Por qué medios puede hacerse la devolución de saldos a favor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo consignación en cuenta"
+        },
+        {
+          "id": "b",
+          "text": "Solo títulos de devolución"
+        },
+        {
+          "id": "c",
+          "text": "Efectivo en la seccional"
+        },
+        {
+          "id": "d",
+          "text": "Cheque, título o giro"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 862 permite devolver mediante cheque, título o giro; los saldos superiores a 1.000 UVT pueden devolverse en títulos de devolución de impuestos.",
+      "optionWhy": {
+        "a": "La ley prevé varios medios.",
+        "b": "Los títulos son una opción, no la única.",
+        "c": "No se devuelve en efectivo en ventanilla."
+      }
+    },
+    {
+      "id": "dev-q-016",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET arts. 863 y 864",
+      "case": "La DIAN debía devolver un saldo a favor el 10 de marzo y lo consignó el 20 de abril. El saldo nunca estuvo en discusión.",
+      "prompt": "¿Qué intereses debe pagar la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moratorios, desde el vencimiento del término."
+        },
+        {
+          "id": "b",
+          "text": "Corrientes, desde la solicitud hasta la consignación."
+        },
+        {
+          "id": "c",
+          "text": "Ninguno, porque el saldo no estuvo en discusión."
+        }
+      ],
+      "answer": "a",
+      "explain": "Se causan intereses moratorios a partir del vencimiento del término para devolver y hasta el giro, emisión del título o consignación (art. 863), a la tasa del art. 635 (art. 864).",
+      "optionWhy": {
+        "b": "Los corrientes se causan cuando el saldo está en discusión.",
+        "c": "El retraso causa intereses moratorios aunque no haya discusión."
+      }
+    },
+    {
+      "id": "dev-q-017",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 670",
+      "case": "Después de recibir una devolución de IVA, el contribuyente corrige su declaración y reduce el saldo a favor que ya le habían devuelto.",
+      "prompt": "¿Qué debe hacer el contribuyente?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nada, porque la devolución ya era un reconocimiento definitivo."
+        },
+        {
+          "id": "b",
+          "text": "Reintegrar el exceso con intereses y liquidar sanción del 10 %."
+        },
+        {
+          "id": "c",
+          "text": "Reintegrar sin intereses y esperar a que la DIAN le imponga el 20 %."
+        }
+      ],
+      "answer": "b",
+      "explain": "Las devoluciones no son un reconocimiento definitivo. Si el contribuyente corrige, reintegra lo devuelto en exceso con intereses moratorios y liquida y paga una sanción del 10 % (art. 670, num. 1). El 20 % aplica cuando la DIAN rechaza o modifica el saldo.",
+      "optionWhy": {
+        "a": "El art. 670 dice que no constituyen un reconocimiento definitivo.",
+        "c": "Sí causa intereses, y el 20 % es para cuando la DIAN rechaza el saldo."
+      }
+    },
+    {
+      "id": "dev-q-018",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 670",
+      "statement": "Si la devolución se obtuvo con documentos falsos o fraude, se impone además una sanción del 100 % del monto devuelto en forma improcedente.",
+      "answer": true,
+      "explain": "Verdadero. El contador, revisor fiscal y representante legal que firmaron responden solidariamente si ordenaron, aprobaron o no salvaron las irregularidades (art. 670)."
+    },
+    {
+      "id": "dev-q-019",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "ET art. 670",
+      "text": "La sanción por devolución improcedente es del {{10}} % si el contribuyente corrige y del {{20}} % si la DIAN rechaza o modifica el saldo.",
+      "alternatives": {
+        "10": [
+          "diez"
+        ],
+        "20": [
+          "veinte"
+        ]
+      }
+    },
+    {
+      "id": "dev-q-020",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 730",
+      "prompt": "¿Dentro de qué término se pide la devolución de un pago en exceso de tributos aduaneros?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 años desde el vencimiento para declarar"
+        },
+        {
+          "id": "b",
+          "text": "5 años desde la aceptación de la declaración"
+        },
+        {
+          "id": "c",
+          "text": "6 meses desde la fecha del pago que lo originó"
+        },
+        {
+          "id": "d",
+          "text": "1 mes desde el levante de la mercancía"
+        }
+      ],
+      "answer": "c",
+      "explain": "Según el art. 730 del D1165, a más tardar dentro de los 6 meses siguientes al pago; si la suma se determina en un acto administrativo, desde su ejecutoria.",
+      "optionWhy": {
+        "a": "Los 2 años son el término del ET para saldos a favor.",
+        "b": "No es el término aduanero.",
+        "d": "No es el término aduanero."
+      }
+    },
+    {
+      "id": "dev-q-021",
+      "type": "match",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 728",
+      "prompt": "Relaciona cada situación aduanera con su causal de pago en exceso.",
+      "pairs": [
+        {
+          "left": "Liquidación oficial de corrección que reduce el valor",
+          "right": "Num. 1"
+        },
+        {
+          "left": "Se pagó más de lo liquidado y debido",
+          "right": "Num. 2"
+        },
+        {
+          "left": "Derechos antidumping provisionales que no se imponen",
+          "right": "Num. 3"
+        },
+        {
+          "left": "Cancelación del levante",
+          "right": "Num. 5"
+        }
+      ],
+      "explain": "Son causales del art. 728 del D1165."
+    },
+    {
+      "id": "dev-q-022",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1165/2019 arts. 729 y 731",
+      "case": "Un importador pide la devolución de un pago en exceso de aranceles. Sobre el trámite de la sanción por improcedencia, el decreto aduanero no dice nada especial.",
+      "prompt": "¿Qué norma se aplica a ese punto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Estatuto Tributario, por remisión del D1165."
+        },
+        {
+          "id": "b",
+          "text": "Ninguna: no hay sanción por improcedencia en aduanas."
+        },
+        {
+          "id": "c",
+          "text": "El Código General del Proceso, de manera directa."
+        }
+      ],
+      "answer": "a",
+      "explain": "Salvo las particularidades del título aduanero, el reconocimiento, trámite y sanción por improcedencia se remiten al Estatuto Tributario (D1165 art. 731).",
+      "optionWhy": {
+        "b": "Sí hay sanción, por remisión al ET.",
+        "c": "La remisión expresa es al ET."
+      }
+    },
+    {
+      "id": "dev-q-023",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "D1165/2019 art. 729",
+      "statement": "La solicitud de devolución aduanera debe indicar el número y fecha de aceptación de la declaración de importación, del levante o del recibo de pago.",
+      "answer": true,
+      "explain": "Verdadero. Es uno de los requisitos especiales del art. 729."
+    },
+    {
+      "id": "dev-q-024",
+      "type": "order",
+      "difficulty": 2,
+      "source": "ET arts. 854–856, 861 y 862",
+      "prompt": "Ordena el trámite de una devolución de saldo a favor sin garantía.",
+      "items": [
+        "Solicitud dentro de los 2 años",
+        "Revisión de requisitos (o auto inadmisorio en 15 días)",
+        "Verificación de las solicitudes seleccionadas",
+        "Compensación de deudas vencidas",
+        "Devolución por cheque, título o giro"
+      ],
+      "explain": "El art. 854 fija el término; el 858 la inadmisión; el 856 la verificación; el 861 la compensación previa y el 862 los medios."
+    },
+    {
+      "id": "dev-q-025",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET arts. 855, 857-1, 860 y 863",
+      "prompt": "Un contribuyente pregunta cuánto se demora su devolución y qué pasa si la DIAN se atrasa. Explícale los términos.",
+      "modelAnswer": "El término general es de 50 días desde la solicitud oportuna y en debida forma (art. 855), con un mes adicional si la pide dentro de los 2 meses siguientes a la declaración. Con garantía bancaria o de seguros, 20 días (art. 860). Puede suspenderse hasta 90 días si fiscalización investiga (art. 857-1). Si la DIAN se atrasa, paga intereses moratorios desde el vencimiento del término hasta el giro (art. 863).",
+      "keyPoints": [
+        "50 días",
+        "Mes adicional",
+        "20 días con garantía",
+        "Suspensión de 90 días",
+        "Intereses moratorios"
+      ],
+      "keywords": [
+        "50",
+        "garantia",
+        "20",
+        "90",
+        "intereses",
+        "moratorio"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}
