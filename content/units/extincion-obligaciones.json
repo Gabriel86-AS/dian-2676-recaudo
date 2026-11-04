@@ -1,0 +1,847 @@
+{
+  "id": "extincion-obligaciones",
+  "title": "Extinción de las obligaciones tributarias, aduaneras y cambiarias",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Cómo se extinguen las deudas que administra la DIAN: pago, compensación, prescripción de la acción de cobro (con su interrupción y suspensión), remisión de deudas y los modos propios de las obligaciones aduaneras y cambiarias.",
+  "sources": [
+    "ET arts. 803 y 815–820",
+    "Decreto 1165 de 2019 arts. 19 y 727",
+    "Decreto Ley 2245 de 2011 arts. 37–39",
+    "Ley 2586 de 2026 art. 21"
+  ],
+  "lessons": [
+    {
+      "id": "ext-01",
+      "title": "Modos de extinción: tributarios, aduaneros y cambiarios",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "ext-c-001",
+          "type": "concept",
+          "source": "ET arts. 803, 815, 817 y 820; D1165/2019 art. 19; DL 2245/2011 arts. 37–39; Ley 2586 de 2026 art. 21",
+          "title": "Cómo se extingue una deuda",
+          "body": "**Tributaria (ET):** **pago** (art. 803), **compensación** (arts. 815–816), **prescripción** de la acción de cobro (art. 817) y **remisión** (art. 820).\n\n**Aduanera (D1165 art. 19):** pago, compensación, **abandono**, **destrucción** por fuerza mayor o caso fortuito comprobados, destrucción ordenada por autoridad y **decomiso**.\n\n**Cambiaria (DL 2245/2011):** el cobro de las sanciones cambiarias prescribe en **5 años desde la ejecutoria** de la providencia (art. 37), se adelanta con el **cobro coactivo del ET** (art. 38) y admite **facilidades de pago** (art. 39).\n\n**Sanciones aduaneras (Ley 2586 art. 21):** la facultad para hacerlas efectivas prescribe en **5 años desde la ejecutoria** del acto."
+        },
+        {
+          "ref": "ext-q-001"
+        },
+        {
+          "ref": "ext-q-002"
+        },
+        {
+          "ref": "ext-q-003"
+        },
+        {
+          "ref": "ext-q-004"
+        },
+        {
+          "ref": "ext-q-005"
+        },
+        {
+          "ref": "ext-q-006"
+        }
+      ]
+    },
+    {
+      "id": "ext-02",
+      "title": "Compensación",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "ext-c-002",
+          "type": "concept",
+          "source": "ET arts. 815 y 816; D1165/2019 art. 727",
+          "title": "Cruzar saldos a favor con deudas",
+          "body": "- **Opciones con un saldo a favor (art. 815):** imputarlo en la declaración del **mismo impuesto del periodo siguiente** o pedir su **compensación** con deudas por impuestos, anticipos, retenciones, intereses y sanciones. En IVA, solo ciertos responsables pueden pedir compensación.\n- **Término (art. 816):** a más tardar **2 años después del vencimiento** del término para declarar.\n- **Parte rechazada** por liquidación oficial: no se puede pedir hasta que se decida en forma definitiva.\n- **De oficio (art. 816, par.):** si se pide la **devolución** y hay **deudas**, la DIAN compensa oficiosamente.\n- **Aduanas (D1165 art. 727):** la DIAN compensa o devuelve los pagos en exceso o de lo no debido."
+        },
+        {
+          "ref": "ext-q-007"
+        },
+        {
+          "ref": "ext-q-008"
+        },
+        {
+          "ref": "ext-q-009"
+        },
+        {
+          "ref": "ext-q-010"
+        },
+        {
+          "ref": "ext-q-011"
+        }
+      ]
+    },
+    {
+      "id": "ext-03",
+      "title": "Prescripción de la acción de cobro",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "ext-c-003",
+          "type": "concept",
+          "source": "ET arts. 817, 818 y 819",
+          "title": "Cinco años para cobrar",
+          "body": "**Término (art. 817): 5 años** contados desde:\n\n1. El **vencimiento del plazo** para declarar, si se declaró a tiempo.\n2. La **presentación**, si fue extemporánea.\n3. La presentación de la **corrección**, por los mayores valores.\n4. La **ejecutoria** del acto de determinación o discusión.\n\nLa decretan los directores seccionales o sus delegados, **de oficio o a petición de parte**.\n\n**Interrupción (art. 818):** notificación del **mandamiento de pago**, **facilidades de pago**, admisión del **concordato** y declaratoria de **liquidación forzosa administrativa**. El término vuelve a correr desde el día siguiente a la notificación del mandamiento o desde la terminación del concordato o de la liquidación.\n\n**Suspensión:** desde el auto de suspensión del remate hasta que se decida la causa.\n\n**Pago de lo prescrito (art. 819):** no se devuelve ni se compensa, aunque se haya pagado sin saber."
+        },
+        {
+          "ref": "ext-q-012"
+        },
+        {
+          "ref": "ext-q-013"
+        },
+        {
+          "ref": "ext-q-014"
+        },
+        {
+          "ref": "ext-q-015"
+        },
+        {
+          "ref": "ext-q-016"
+        },
+        {
+          "ref": "ext-q-017"
+        },
+        {
+          "ref": "ext-q-018"
+        },
+        {
+          "ref": "ext-q-025"
+        }
+      ]
+    },
+    {
+      "id": "ext-04",
+      "title": "Remisión de deudas",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "ext-c-004",
+          "type": "concept",
+          "source": "ET art. 820",
+          "title": "Suprimir deudas de los registros",
+          "body": "| Caso | Requisitos |\n|---|---|\n| Deudor **muerto sin bienes** | Resolución del Director Seccional con la **partida de defunción** y pruebas de que no dejó bienes |\n| Deuda **sin respaldo** | Principal **≤ 159 UVT**, sin bienes embargados ni garantías, vencimiento **> 54 meses** |\n| Total del deudor **≤ 40 UVT** | **6 meses** desde la exigibilidad de la obligación más reciente + gestión de cobro reglamentaria |\n| Total **> 40 y ≤ 96 UVT** | **18 meses** desde la exigibilidad de la obligación más reciente + gestión de cobro |\n\nLos montos se miden **sin** sanciones, intereses, recargos, actualizaciones ni costas.\n\n**Búsqueda de bienes (par.):** se oficia a registros (cámaras de comercio, tránsito, instrumentos públicos…) y al sector financiero; si no responden en **1 mes**, la respuesta se entiende **negativa**. En los casos de 40 y 96 UVT no se exige esa búsqueda."
+        },
+        {
+          "ref": "ext-q-019"
+        },
+        {
+          "ref": "ext-q-020"
+        },
+        {
+          "ref": "ext-q-021"
+        },
+        {
+          "ref": "ext-q-022"
+        },
+        {
+          "ref": "ext-q-023"
+        },
+        {
+          "ref": "ext-q-024"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ext-fc-001",
+      "front": "Modos de extinción de la obligación tributaria en el ET",
+      "back": "Pago, compensación, prescripción de la acción de cobro y remisión.",
+      "source": "ET arts. 803, 815, 817 y 820"
+    },
+    {
+      "id": "ext-fc-002",
+      "front": "Modos de extinción de la obligación aduanera de pago",
+      "back": "Pago, compensación, abandono, destrucción (fuerza mayor u ordenada) y decomiso.",
+      "source": "D1165/2019 art. 19"
+    },
+    {
+      "id": "ext-fc-003",
+      "front": "Prescripción del cobro de sanciones cambiarias",
+      "back": "5 años desde la ejecutoria de la providencia que la impuso.",
+      "source": "DL 2245/2011 art. 37"
+    },
+    {
+      "id": "ext-fc-004",
+      "front": "Término para pedir compensación",
+      "back": "2 años después del vencimiento del término para declarar.",
+      "source": "ET art. 816"
+    },
+    {
+      "id": "ext-fc-005",
+      "front": "Devolución pedida por quien tiene deudas",
+      "back": "La DIAN compensa de oficio.",
+      "source": "ET art. 816, par."
+    },
+    {
+      "id": "ext-fc-006",
+      "front": "Prescripción de la acción de cobro tributaria",
+      "back": "5 años.",
+      "source": "ET art. 817"
+    },
+    {
+      "id": "ext-fc-007",
+      "front": "Inicio de la prescripción si la declaración fue extemporánea",
+      "back": "Fecha de presentación de la declaración.",
+      "source": "ET art. 817, num. 2"
+    },
+    {
+      "id": "ext-fc-008",
+      "front": "Causales de interrupción de la prescripción",
+      "back": "Mandamiento de pago notificado, facilidades de pago, concordato admitido, liquidación forzosa administrativa.",
+      "source": "ET art. 818"
+    },
+    {
+      "id": "ext-fc-009",
+      "front": "¿Se devuelve lo pagado por una deuda prescrita?",
+      "back": "No, ni se compensa, aunque se pagara sin saberlo.",
+      "source": "ET art. 819"
+    },
+    {
+      "id": "ext-fc-010",
+      "front": "Remisión de deudas sin respaldo",
+      "back": "Principal ≤ 159 UVT, sin bienes ni garantías, vencimiento > 54 meses.",
+      "source": "ET art. 820"
+    },
+    {
+      "id": "ext-fc-011",
+      "front": "Remisión de deudas totales ≤ 40 UVT",
+      "back": "Pasados 6 meses desde la exigibilidad de la obligación más reciente.",
+      "source": "ET art. 820"
+    },
+    {
+      "id": "ext-fc-012",
+      "front": "Prescripción de la facultad para cobrar sanciones aduaneras",
+      "back": "5 años desde la ejecutoria del acto sancionatorio.",
+      "source": "Ley 2586 de 2026 art. 21"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ext-q-001",
+      "type": "match",
+      "difficulty": 1,
+      "source": "ET arts. 803, 815, 817 y 820",
+      "prompt": "Relaciona cada modo de extinguir una deuda tributaria con su artículo del ET.",
+      "pairs": [
+        {
+          "left": "Pago",
+          "right": "Art. 803"
+        },
+        {
+          "left": "Compensación",
+          "right": "Arts. 815 y 816"
+        },
+        {
+          "left": "Prescripción de la acción de cobro",
+          "right": "Art. 817"
+        },
+        {
+          "left": "Remisión",
+          "right": "Art. 820"
+        }
+      ],
+      "explain": "Son los modos de extinción que regula el Libro V del ET."
+    },
+    {
+      "id": "ext-q-002",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "D1165/2019 art. 19",
+      "prompt": "¿Cuál de estos eventos extingue la obligación aduanera de pagar los tributos?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El decomiso de la mercancía"
+        },
+        {
+          "id": "b",
+          "text": "La inspección física de la mercancía"
+        },
+        {
+          "id": "c",
+          "text": "La aceptación de la declaración"
+        },
+        {
+          "id": "d",
+          "text": "La autorización del levante"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 19 del D1165 lista: pago, compensación, abandono, destrucción por fuerza mayor o caso fortuito, destrucción ordenada por autoridad competente y decomiso.",
+      "optionWhy": {
+        "b": "La inspección es un control; no extingue la obligación.",
+        "c": "La aceptación es la que permite exigir el pago.",
+        "d": "El levante no extingue la obligación de pago."
+      }
+    },
+    {
+      "id": "ext-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 19, num. 4",
+      "case": "Una mercancía en depósito se destruyó por un incendio. El importador demostró ante la aduana la fuerza mayor.",
+      "prompt": "¿Qué pasa con la obligación de pagar los tributos aduaneros de esa mercancía?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subsiste, porque los tributos se causaron al llegar al país."
+        },
+        {
+          "id": "b",
+          "text": "Se extingue, porque la destrucción por fuerza mayor está probada."
+        },
+        {
+          "id": "c",
+          "text": "Se suspende hasta que la aseguradora pague la indemnización."
+        }
+      ],
+      "answer": "b",
+      "explain": "La destrucción de las mercancías por fuerza mayor o caso fortuito, debidamente comprobada ante la autoridad aduanera, extingue la obligación aduanera de pago (D1165 art. 19, num. 4).",
+      "optionWhy": {
+        "a": "La norma prevé expresamente esta causal de extinción.",
+        "c": "El seguro no suspende ni condiciona la extinción."
+      }
+    },
+    {
+      "id": "ext-q-004",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "DL 2245/2011 art. 37",
+      "prompt": "¿En cuánto tiempo prescribe la acción de cobro de las sanciones cambiarias que impone la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 años desde la comisión de la infracción cambiaria"
+        },
+        {
+          "id": "b",
+          "text": "2 años desde la notificación del pliego de cargos"
+        },
+        {
+          "id": "c",
+          "text": "5 años desde la ejecutoria de la sanción"
+        },
+        {
+          "id": "d",
+          "text": "10 años desde la fecha de la operación de cambio"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 37 del DL 2245/2011 fija 5 años contados desde la ejecutoria de la providencia que impuso la sanción; se interrumpe y suspende por las causales del ET art. 818.",
+      "optionWhy": {
+        "a": "Ese término no es el de cobro de la sanción cambiaria.",
+        "b": "No existe ese término de cobro.",
+        "d": "El término es de 5 años y se cuenta desde la ejecutoria."
+      }
+    },
+    {
+      "id": "ext-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "DL 2245/2011 art. 38",
+      "statement": "Las sanciones cambiarias impuestas por la DIAN se cobran con el procedimiento administrativo coactivo del Estatuto Tributario.",
+      "answer": true,
+      "explain": "Verdadero. El art. 38 remite a los Títulos VIII y IX del Libro V del ET."
+    },
+    {
+      "id": "ext-q-006",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 2586 de 2026 art. 21",
+      "prompt": "¿Cuándo prescribe la facultad para hacer efectivas las sanciones aduaneras?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 años desde la comisión del hecho sancionable"
+        },
+        {
+          "id": "b",
+          "text": "1 año desde la notificación del acto sancionatorio"
+        },
+        {
+          "id": "c",
+          "text": "2 años desde la aceptación de la declaración"
+        },
+        {
+          "id": "d",
+          "text": "5 años desde la ejecutoria del acto sancionatorio"
+        }
+      ],
+      "answer": "d",
+      "explain": "Según el art. 21 de la Ley 2586 de 2026, prescribe en 5 años contados desde la ejecutoria del acto sancionatorio.",
+      "optionWhy": {
+        "a": "Los 3 años son la caducidad para imponer la sanción (art. 20), no para cobrarla.",
+        "b": "No es el término legal.",
+        "c": "No es el término legal."
+      }
+    },
+    {
+      "id": "ext-q-007",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 815",
+      "prompt": "¿Qué puede hacer un contribuyente con un saldo a favor liquidado en su declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Imputarlo al periodo siguiente o compensarlo con deudas"
+        },
+        {
+          "id": "b",
+          "text": "Únicamente pedir su devolución en dinero o en títulos"
+        },
+        {
+          "id": "c",
+          "text": "Cederlo libremente a otro contribuyente del mismo grupo"
+        },
+        {
+          "id": "d",
+          "text": "Usarlo para pagar el impuesto predial de su municipio"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 815 permite imputarlo en la liquidación privada del mismo impuesto del periodo siguiente o pedir su compensación con deudas por impuestos, anticipos, retenciones, intereses y sanciones a su cargo (también puede pedirse la devolución, art. 850).",
+      "optionWhy": {
+        "b": "La devolución es una opción, no la única.",
+        "c": "El ET no permite cederlo libremente.",
+        "d": "Los impuestos municipales no los administra la DIAN."
+      }
+    },
+    {
+      "id": "ext-q-008",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 816",
+      "case": "El plazo para declarar la renta de 2023 de una sociedad venció el 10 de mayo de 2024. La sociedad pide en junio de 2026 compensar su saldo a favor con una deuda de IVA.",
+      "prompt": "¿La solicitud es oportuna?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sí: la compensación puede pedirse dentro de los 5 años."
+        },
+        {
+          "id": "b",
+          "text": "Sí: el término se cuenta desde la presentación de la solicitud."
+        },
+        {
+          "id": "c",
+          "text": "No: el plazo de 2 años desde el vencimiento para declarar ya pasó."
+        }
+      ],
+      "answer": "c",
+      "explain": "La compensación debe pedirse a más tardar 2 años después del vencimiento del término para declarar (art. 816): venció el 10 de mayo de 2026.",
+      "optionWhy": {
+        "a": "Cinco años es el término de prescripción del cobro, no el de compensación.",
+        "b": "El término corre desde el vencimiento del plazo para declarar."
+      }
+    },
+    {
+      "id": "ext-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 816, par.",
+      "case": "Un contribuyente con deudas de renta vencidas pide la devolución en dinero de un saldo a favor de IVA.",
+      "prompt": "¿Qué debe hacer la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Devolver todo el saldo, porque el contribuyente no pidió compensación."
+        },
+        {
+          "id": "b",
+          "text": "Compensar de oficio con las deudas y devolver lo que sobre."
+        },
+        {
+          "id": "c",
+          "text": "Rechazar la devolución hasta que pague las deudas de renta."
+        }
+      ],
+      "answer": "b",
+      "explain": "La compensación se efectúa oficiosamente cuando se pide la devolución de un saldo y existen deudas fiscales a cargo del solicitante (art. 816, par.).",
+      "optionWhy": {
+        "a": "La ley ordena compensar de oficio aunque no se pida.",
+        "c": "No se rechaza: se compensa y se devuelve lo que sobre."
+      }
+    },
+    {
+      "id": "ext-q-010",
+      "type": "truefalse",
+      "difficulty": 3,
+      "source": "ET art. 816",
+      "statement": "Si una liquidación oficial rechazó parte de un saldo a favor, el contribuyente puede pedir la compensación de la parte rechazada mientras demanda esa liquidación.",
+      "answer": false,
+      "explain": "Falso. La parte rechazada no puede solicitarse, aunque la liquidación haya sido impugnada, hasta que se resuelva definitivamente sobre la procedencia del saldo (art. 816)."
+    },
+    {
+      "id": "ext-q-011",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 727",
+      "prompt": "¿Qué hace la DIAN con los pagos en exceso de tributos aduaneros o de sanciones aduaneras?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los imputa automáticamente al año siguiente"
+        },
+        {
+          "id": "b",
+          "text": "Los transfiere al Tesoro como ingreso sin destinación"
+        },
+        {
+          "id": "c",
+          "text": "Los aplica a las deudas del agente de aduanas"
+        },
+        {
+          "id": "d",
+          "text": "Los compensa o los devuelve a quien los hizo"
+        }
+      ],
+      "answer": "d",
+      "explain": "Según el art. 727 del D1165, la DIAN compensará o devolverá a quien hubiere efectuado pagos en exceso de tributos aduaneros, de sanciones o pagos de lo no debido.",
+      "optionWhy": {
+        "a": "No se imputan automáticamente al año siguiente.",
+        "b": "Son sumas que deben compensarse o devolverse.",
+        "c": "Se compensan con deudas de quien pagó, no de un tercero."
+      }
+    },
+    {
+      "id": "ext-q-012",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 817",
+      "prompt": "¿En cuánto tiempo prescribe la acción de cobro de las obligaciones fiscales?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 años"
+        },
+        {
+          "id": "b",
+          "text": "3 años"
+        },
+        {
+          "id": "c",
+          "text": "2 años"
+        },
+        {
+          "id": "d",
+          "text": "10 años"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 817 fija 5 años, contados según el caso.",
+      "optionWhy": {
+        "b": "Tres años es la firmeza general de las declaraciones, no la prescripción del cobro.",
+        "c": "Dos años es el término para pedir compensación.",
+        "d": "No es el término del art. 817."
+      }
+    },
+    {
+      "id": "ext-q-013",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 817",
+      "prompt": "Relaciona cada caso con el momento desde el que corren los 5 años de prescripción.",
+      "pairs": [
+        {
+          "left": "Declaración presentada a tiempo",
+          "right": "Vencimiento del plazo para declarar"
+        },
+        {
+          "left": "Declaración extemporánea",
+          "right": "Fecha de su presentación"
+        },
+        {
+          "left": "Corrección con mayores valores",
+          "right": "Presentación de la corrección"
+        },
+        {
+          "left": "Liquidación oficial",
+          "right": "Ejecutoria del acto"
+        }
+      ],
+      "explain": "Son los cuatro numerales del art. 817."
+    },
+    {
+      "id": "ext-q-014",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 817",
+      "case": "Un contribuyente presentó tarde su declaración de renta: el plazo venció el 12 de mayo de 2020 y la presentó el 20 de agosto de 2020, sin pagar. La DIAN no ha iniciado el cobro.",
+      "prompt": "¿Desde cuándo se cuenta la prescripción de la acción de cobro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desde el 12 de mayo de 2020, vencimiento del plazo."
+        },
+        {
+          "id": "b",
+          "text": "Desde el 20 de agosto de 2020, fecha de presentación."
+        },
+        {
+          "id": "c",
+          "text": "Desde que la DIAN notifique el mandamiento de pago."
+        }
+      ],
+      "answer": "b",
+      "explain": "En las declaraciones extemporáneas, los 5 años se cuentan desde la fecha de presentación (art. 817, num. 2).",
+      "optionWhy": {
+        "a": "El vencimiento del plazo cuenta solo para las declaraciones presentadas a tiempo.",
+        "c": "El mandamiento de pago interrumpe la prescripción; no la inicia."
+      }
+    },
+    {
+      "id": "ext-q-015",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 818",
+      "prompt": "¿Cuál de estos hechos interrumpe la prescripción de la acción de cobro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El envío de una carta de cobro persuasivo"
+        },
+        {
+          "id": "b",
+          "text": "La presentación de un derecho de petición"
+        },
+        {
+          "id": "c",
+          "text": "La notificación del mandamiento de pago"
+        },
+        {
+          "id": "d",
+          "text": "La visita de un funcionario al deudor"
+        }
+      ],
+      "answer": "c",
+      "explain": "La interrumpen la notificación del mandamiento de pago, el otorgamiento de facilidades de pago, la admisión del concordato y la declaratoria de la liquidación forzosa administrativa (art. 818).",
+      "optionWhy": {
+        "a": "El cobro persuasivo no está entre las causales del art. 818.",
+        "b": "Un derecho de petición no interrumpe.",
+        "d": "Una visita no es causal de interrupción."
+      }
+    },
+    {
+      "id": "ext-q-016",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 818",
+      "statement": "Interrumpida la prescripción por la notificación del mandamiento de pago, el término empieza a correr de nuevo desde el día siguiente a esa notificación.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dispone el art. 818; si la interrupción es por concordato o liquidación forzosa, corre desde su terminación."
+    },
+    {
+      "id": "ext-q-017",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 819",
+      "case": "Un contribuyente pagó en 2026 una deuda de renta de 2015 que ya estaba prescrita. Al enterarse, pide la devolución porque no sabía de la prescripción.",
+      "prompt": "¿Qué le responde la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que se devuelve, porque fue un pago de lo no debido."
+        },
+        {
+          "id": "b",
+          "text": "Que se compensa con su próxima declaración de renta."
+        },
+        {
+          "id": "c",
+          "text": "Que no se devuelve ni se compensa, aunque no lo supiera."
+        }
+      ],
+      "answer": "c",
+      "explain": "Lo pagado para satisfacer una obligación prescrita no puede ser materia de repetición, aunque el pago se haya hecho sin conocimiento de la prescripción (art. 819).",
+      "optionWhy": {
+        "a": "La ley no lo trata como pago de lo no debido.",
+        "b": "El art. 819 tampoco permite compensarlo."
+      }
+    },
+    {
+      "id": "ext-q-018",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 817",
+      "prompt": "¿Cómo se decreta la prescripción de la acción de cobro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo a petición de parte, mediante una demanda ante el juez"
+        },
+        {
+          "id": "b",
+          "text": "Solo por el Director General de la DIAN, mediante circular"
+        },
+        {
+          "id": "c",
+          "text": "De forma automática, sin que se expida ningún acto"
+        },
+        {
+          "id": "d",
+          "text": "De oficio o a petición, por el director seccional o su delegado"
+        }
+      ],
+      "answer": "d",
+      "explain": "La decretan los directores de impuestos o de impuestos y aduanas respectivos, o los servidores en quienes deleguen, de oficio o a petición de parte (art. 817).",
+      "optionWhy": {
+        "a": "También puede decretarse de oficio, en sede administrativa.",
+        "b": "La competencia es de los directores seccionales o sus delegados.",
+        "c": "Se requiere que se decrete."
+      }
+    },
+    {
+      "id": "ext-q-019",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 820",
+      "case": "Un contribuyente murió sin dejar bienes y tenía deudas de renta con la DIAN.",
+      "prompt": "¿Qué debe allegar el Director Seccional al expediente para suprimir esas deudas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La sentencia de sucesión y el inventario de herederos."
+        },
+        {
+          "id": "b",
+          "text": "La partida de defunción y las pruebas de que no dejó bienes."
+        },
+        {
+          "id": "c",
+          "text": "El concepto previo de la Contraloría General de la República."
+        }
+      ],
+      "answer": "b",
+      "explain": "Para suprimir las deudas de personas muertas sin bienes, el Director Seccional dicta resolución allegando la partida de defunción y las pruebas de no haber dejado bienes (art. 820).",
+      "optionWhy": {
+        "a": "Si no dejó bienes no hay sucesión que liquidar; la norma pide la partida y las pruebas.",
+        "c": "La norma no exige concepto de la Contraloría."
+      }
+    },
+    {
+      "id": "ext-q-020",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "ET art. 820",
+      "prompt": "Para suprimir deudas sin respaldo (sin bienes embargados ni garantías), ¿qué condiciones fija el art. 820?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Principal hasta 40 UVT y vencimiento mayor de 6 meses"
+        },
+        {
+          "id": "b",
+          "text": "Principal hasta 96 UVT y vencimiento mayor de 18 meses"
+        },
+        {
+          "id": "c",
+          "text": "Cualquier monto y vencimiento mayor de 5 años"
+        },
+        {
+          "id": "d",
+          "text": "Principal hasta 159 UVT y vencimiento mayor de 54 meses"
+        }
+      ],
+      "answer": "d",
+      "explain": "El inciso segundo del art. 820 permite suprimir deudas cuya obligación principal no supere 159 UVT, sin respaldo alguno y con vencimiento mayor de 54 meses.",
+      "optionWhy": {
+        "a": "Esa regla (hasta 40 UVT, 6 meses) es para deudores con obligaciones totales pequeñas.",
+        "b": "Esa regla (40 a 96 UVT, 18 meses) es otro inciso del art. 820.",
+        "c": "La norma sí fija un tope."
+      }
+    },
+    {
+      "id": "ext-q-021",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 820",
+      "case": "El total de las obligaciones de un deudor es de 35 UVT, sin contar sanciones ni intereses. La obligación más reciente se volvió exigible hace 7 meses y ya se hizo la gestión de cobro que exige el reglamento.",
+      "prompt": "¿Pueden suprimirse esas obligaciones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sí: no superan 40 UVT y pasaron más de 6 meses."
+        },
+        {
+          "id": "b",
+          "text": "No: deben pasar 18 meses desde la exigibilidad."
+        },
+        {
+          "id": "c",
+          "text": "No: primero hay que probar que no tiene bienes."
+        }
+      ],
+      "answer": "a",
+      "explain": "Si el total es hasta 40 UVT, puede suprimirse pasados 6 meses desde la exigibilidad de la obligación más reciente, con la gestión de cobro reglamentaria; no se requiere determinar la existencia de bienes (art. 820).",
+      "optionWhy": {
+        "b": "Los 18 meses aplican cuando el total supera 40 UVT y llega hasta 96 UVT.",
+        "c": "Para este caso la norma no exige determinar bienes."
+      }
+    },
+    {
+      "id": "ext-q-022",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 820, par.",
+      "statement": "Si una cámara de comercio no responde en el mes siguiente a la solicitud de la DIAN sobre bienes del deudor, se entiende que la respuesta es negativa.",
+      "answer": true,
+      "explain": "Verdadero. El parágrafo del art. 820 lo dispone así y permite decretar la remisibilidad."
+    },
+    {
+      "id": "ext-q-023",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "ET art. 820",
+      "text": "Cuando el total de las obligaciones supera 40 UVT y llega hasta {{96}} UVT, pueden suprimirse pasados {{18}} meses desde la exigibilidad de la obligación más reciente.",
+      "alternatives": {
+        "18": [
+          "dieciocho"
+        ],
+        "96": [
+          "noventa y seis"
+        ]
+      }
+    },
+    {
+      "id": "ext-q-024",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET arts. 815–820; D1165/2019 art. 19",
+      "prompt": "Un contribuyente pregunta de qué formas puede «desaparecer» una deuda con la DIAN. Explícale los modos de extinción.",
+      "modelAnswer": "Se extingue por pago (art. 803), por compensación con saldos a favor (arts. 815 y 816, pidiéndola dentro de 2 años o de oficio si pide devolución), por prescripción de la acción de cobro a los 5 años (art. 817), salvo interrupción (art. 818), y por remisión en los casos del art. 820 (deudor muerto sin bienes o deudas pequeñas y antiguas sin respaldo). En aduanas también por abandono, destrucción o decomiso de la mercancía (D1165 art. 19).",
+      "keyPoints": [
+        "Pago",
+        "Compensación",
+        "Prescripción (5 años)",
+        "Remisión",
+        "Modos aduaneros"
+      ],
+      "keywords": [
+        "pago",
+        "compensacion",
+        "prescripcion",
+        "remision",
+        "cinco",
+        "decomiso"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "ext-q-025",
+      "type": "order",
+      "difficulty": 2,
+      "source": "ET arts. 817 y 818",
+      "prompt": "Ordena lo que ocurre con la prescripción en un proceso de cobro.",
+      "items": [
+        "Vence el plazo para declarar (empiezan los 5 años)",
+        "Se notifica el mandamiento de pago (se interrumpe)",
+        "El término vuelve a correr desde el día siguiente",
+        "Pasan 5 años sin otra interrupción: prescribe"
+      ],
+      "explain": "El art. 817 fija el inicio y el art. 818 la interrupción y el nuevo conteo."
+    }
+  ]
+}
