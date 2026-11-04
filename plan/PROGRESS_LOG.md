@@ -22,3 +22,4 @@
 - Nuevas: `cobro-persuasivo-insolvencia` (3 lecciones, 21 preguntas) y `sistema-tributario` (3 lecciones, 18 preguntas).
 - Restauradas del sitio anterior como prioridad 3: `procedimiento-administrativo`, `constitucion-transparencia`, `mipg`, `gestion-documental`.
 - Inicio explica la prioridad 3 (temas básicos de la ficha fuera de los indicadores). E2E qa-site: 19 lecciones OK, 27 páginas sin desbordes.
+- Unidad `buen-gobierno` (3 lecciones, 20 preguntas): Código de Buen Gobierno DIAN CG-PEC-0001 v. 15, descargado de dian.gov.co/atencionciudadano (Transparencia). Incluye la política de administración de cartera y las de seguridad de la información y datos (cubre «herramientas informáticas» en lo que tiene fuente). Sus políticas se adoptaron antes del corte (datos jul-2025, comunicaciones abr-2026).

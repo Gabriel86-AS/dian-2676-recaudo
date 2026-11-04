@@ -1,0 +1,631 @@
+{
+  "id": "buen-gobierno",
+  "title": "Código de Buen Gobierno, cartera y seguridad de la información",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "El Código de Buen Gobierno de la DIAN (CG-PEC-0001): qué es, las políticas de recaudo, fiscalización y cultura de la contribución, la política de administración de cartera, y las de seguridad de la información, gobierno de datos y riesgos.",
+  "sources": [
+    "Código de Buen Gobierno DIAN, CG-PEC-0001, versión 15 (2026), publicado en dian.gov.co (Transparencia)"
+  ],
+  "lessons": [
+    {
+      "id": "cbg-01",
+      "title": "Qué es el Código de Buen Gobierno y sus políticas misionales",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "cbg-c-001",
+          "type": "concept",
+          "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), Introducción y nums. 1–2.1 y 11",
+          "title": "El código y la misión",
+          "body": "- **Qué es:** el **instrumento gerencial** que guía el accionar de servidores y entidad hacia una gestión **eficiente y transparente**. Es un documento interno del **MIPG** (Res. DIAN 6004 de 2018).\n- **Políticas:** directrices formales de la alta dirección. **No reemplazan la norma** y son de **obligatorio cumplimiento**. Cubren misión, desarrollo organizacional, seguridad de la información, datos, comunicaciones, gestión documental, responsabilidad social, grupos de interés, riesgos, control y anticorrupción.\n- **Recaudo (1.1):** cumplir la **meta** fijada por el Gobierno Nacional.\n- **Control y fiscalización (1.2):** fiscalización integral; desincentivar **evasión, elusión, contrabando y lavado**; aumentar la **percepción del riesgo**; programas basados en un **modelo de riesgos** con segmentos y perfiles.\n- **Cultura de la contribución (1.3):** el cumplimiento voluntario como conducta **solidaria y responsable**.\n- **Gestión ética (2.1)** y **anticorrupción (11):** «**Cero Tolerancia a la Corrupción**».\n\n*Versión 15 (21-jul-2026); sus políticas se adoptaron antes del corte normativo (datos: jul-2025; comunicaciones: abr-2026).*"
+        },
+        {
+          "ref": "cbg-q-001"
+        },
+        {
+          "ref": "cbg-q-002"
+        },
+        {
+          "ref": "cbg-q-003"
+        },
+        {
+          "ref": "cbg-q-004"
+        },
+        {
+          "ref": "cbg-q-005"
+        }
+      ]
+    },
+    {
+      "id": "cbg-02",
+      "title": "Política de administración de cartera",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "cbg-c-002",
+          "type": "concept",
+          "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4",
+          "title": "Cómo se gestiona la cartera en la DIAN",
+          "body": "**Propósito:** el cobro permite cumplir las **metas anuales de recaudo** y apoyar la **sostenibilidad fiscal**.\n\n- **Planeación:** las **jefaturas de cobranzas** lideran el cobro con el **Modelo de Administración de Cartera**: desde el **acercamiento con el deudor** hasta la **extinción** de la obligación, con procesamiento, análisis, **categorización, segmentación y priorización** del inventario, **reparto**, cobro y cierre del ciclo.\n- **Difícil cobro:** **únicamente** las deudas de contribuyentes **fallecidos** o de **sociedades liquidadas** cuyo patrimonio no alcanzó.\n- **Ejecución:** sin **tiempos sin gestión**; reparto por parámetros y **cargas de trabajo**; actos conforme al **ET**, la doctrina y las orientaciones del Nivel Central; **conflictos de intereses** se analizan y declaran.\n- **Control:** mitigar los riesgos de la **matriz de riesgos**, dentro del control interno.\n- **Mejora:** ajustes por indicadores, auditorías, autoevaluaciones y cambios normativos."
+        },
+        {
+          "ref": "cbg-q-006"
+        },
+        {
+          "ref": "cbg-q-007"
+        },
+        {
+          "ref": "cbg-q-008"
+        },
+        {
+          "ref": "cbg-q-009"
+        },
+        {
+          "ref": "cbg-q-010"
+        },
+        {
+          "ref": "cbg-q-011"
+        }
+      ]
+    },
+    {
+      "id": "cbg-03",
+      "title": "Seguridad de la información, datos y riesgos",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "cbg-c-003",
+          "type": "concept",
+          "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), nums. 3, 4 y 9",
+          "title": "Herramientas informáticas con criterio",
+          "body": "**Seguridad y privacidad de la información (3):** protege la **confidencialidad, integridad, disponibilidad y privacidad**, con base en la **ISO 27001:2022** y el **MSPI de MinTIC**. Aplica a **todos** los usuarios: servidores, contratistas, pasantes, proveedores. El incumplimiento tiene consecuencias administrativas y legales.\n\n**Gobierno y gestión de datos (4):**\n\n- Roles: **dueños** (directores y jefes de oficina), **líderes de dominio** (subdirectores), **custodios** (expertos del área), con analistas de datos y calidad (modelo adoptado por la Res. DIAN 000002 de 2024).\n- **Dimensiones de calidad:** completitud, **unicidad**, consistencia, validez, precisión, integridad, oportunidad y razonabilidad.\n- **Única captura** y **linaje** documentado; tratamiento **ético** de los datos.\n\n**Riesgos (9):** la DIAN gestiona, entre otros, riesgos de **cumplimiento TAC**, operacionales, de seguridad de la información, fiscales, de integridad y LA/FT. Con los de cumplimiento busca más **cumplimiento voluntario** y menor **brecha tributaria**."
+        },
+        {
+          "ref": "cbg-q-012"
+        },
+        {
+          "ref": "cbg-q-013"
+        },
+        {
+          "ref": "cbg-q-014"
+        },
+        {
+          "ref": "cbg-q-015"
+        },
+        {
+          "ref": "cbg-q-016"
+        },
+        {
+          "ref": "cbg-q-017"
+        },
+        {
+          "ref": "cbg-q-018"
+        },
+        {
+          "ref": "cbg-q-019"
+        },
+        {
+          "ref": "cbg-q-020"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "cbg-fc-001",
+      "front": "¿Qué es el Código de Buen Gobierno de la DIAN?",
+      "back": "El instrumento gerencial que guía a servidores y entidad; documento interno del MIPG.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), Introducción"
+    },
+    {
+      "id": "cbg-fc-002",
+      "front": "¿Las políticas de buen gobierno reemplazan la norma?",
+      "back": "No; y son de obligatorio cumplimiento.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), Políticas de buen gobierno"
+    },
+    {
+      "id": "cbg-fc-003",
+      "front": "Criterio de la política anticorrupción",
+      "back": "«Cero Tolerancia a la Corrupción».",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 11"
+    },
+    {
+      "id": "cbg-fc-004",
+      "front": "Modelo de Administración de Cartera",
+      "back": "Ciclo de cobro desde el acercamiento con el deudor hasta la extinción de la obligación.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.1"
+    },
+    {
+      "id": "cbg-fc-005",
+      "front": "¿Qué deudas son de difícil cobro?",
+      "back": "Solo las de fallecidos o sociedades liquidadas cuyo patrimonio no alcanzó.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.1"
+    },
+    {
+      "id": "cbg-fc-006",
+      "front": "Conflicto de intereses en un expediente de cobro",
+      "back": "Se analiza y se declara según la normativa vigente.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.2"
+    },
+    {
+      "id": "cbg-fc-007",
+      "front": "Principios de seguridad de la información",
+      "back": "Confidencialidad, integridad, disponibilidad y privacidad (ISO 27001:2022, MSPI).",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 3"
+    },
+    {
+      "id": "cbg-fc-008",
+      "front": "Dimensiones de calidad del dato",
+      "back": "Completitud, unicidad, consistencia, validez, precisión, integridad, oportunidad, razonabilidad.",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3"
+    },
+    {
+      "id": "cbg-fc-009",
+      "front": "Roles del gobierno de datos",
+      "back": "Dueños (directores), líderes de dominio (subdirectores), custodios (expertos).",
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cbg-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), Introducción",
+      "prompt": "¿Qué es el Código de Buen Gobierno de la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El instrumento gerencial que guía a servidores y entidad"
+        },
+        {
+          "id": "b",
+          "text": "La ley que crea los tributos que administra la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "El reglamento disciplinario de todos los funcionarios"
+        },
+        {
+          "id": "d",
+          "text": "El manual de funciones de cada uno de los empleos"
+        }
+      ],
+      "answer": "a",
+      "explain": "Es el instrumento gerencial que guía el accionar de los servidores y de la entidad hacia una gestión eficiente y transparente; es un documento interno del MIPG.",
+      "optionWhy": {
+        "b": "Los tributos los crea la ley (Constitución art. 338).",
+        "c": "El régimen disciplinario es otra norma, aunque el código tiene una política al respecto.",
+        "d": "El manual de funciones es la Res. 067 de 2024."
+      }
+    },
+    {
+      "id": "cbg-q-002",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), Políticas de buen gobierno",
+      "statement": "Las políticas de buen gobierno de la DIAN no reemplazan la norma y son de obligatorio cumplimiento.",
+      "answer": true,
+      "explain": "Verdadero. El código lo dice expresamente."
+    },
+    {
+      "id": "cbg-q-003",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), nums. 1.1–1.3, 2.1 y 11",
+      "prompt": "Relaciona cada política con su orientación.",
+      "pairs": [
+        {
+          "left": "Recaudo",
+          "right": "Cumplir la meta fijada por el Gobierno Nacional"
+        },
+        {
+          "left": "Control y fiscalización",
+          "right": "Desincentivar evasión, elusión y contrabando"
+        },
+        {
+          "left": "Cultura de la contribución",
+          "right": "Cumplimiento voluntario como conducta solidaria"
+        },
+        {
+          "left": "Anticorrupción",
+          "right": "Cero tolerancia a la corrupción"
+        }
+      ],
+      "explain": "Son políticas del Código de Buen Gobierno."
+    },
+    {
+      "id": "cbg-q-004",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.2",
+      "prompt": "Según la política de control y fiscalización, ¿cómo se diseñan los programas de fiscalización?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Por sorteo entre todos los contribuyentes inscritos"
+        },
+        {
+          "id": "b",
+          "text": "Con un modelo de riesgos del cumplimiento"
+        },
+        {
+          "id": "c",
+          "text": "Según el orden de llegada de las denuncias recibidas"
+        },
+        {
+          "id": "d",
+          "text": "Solo a petición de otras entidades del Estado"
+        }
+      ],
+      "answer": "b",
+      "explain": "Se diseñan con un modelo de riesgos del cumplimiento que construye segmentos y perfiles de contribuyentes a partir de la información que recibe la DIAN.",
+      "optionWhy": {
+        "a": "No es aleatorio: se basa en riesgos.",
+        "c": "Las denuncias son un insumo, no el criterio general.",
+        "d": "La coordinación con otras entidades es otra directriz."
+      }
+    },
+    {
+      "id": "cbg-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.2",
+      "statement": "Una directriz de la política de fiscalización es incrementar la percepción del riesgo subjetivo para mejorar el cumplimiento voluntario.",
+      "answer": true,
+      "explain": "Verdadero. Es una de sus directrices."
+    },
+    {
+      "id": "cbg-q-006",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4",
+      "prompt": "¿Para qué sirve el cobro según la política de administración de cartera?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Para sancionar a los contribuyentes que pagan tarde"
+        },
+        {
+          "id": "b",
+          "text": "Para aumentar los ingresos propios de cada seccional"
+        },
+        {
+          "id": "c",
+          "text": "Para cumplir las metas anuales de recaudo"
+        },
+        {
+          "id": "d",
+          "text": "Para depurar y actualizar los registros del RUT"
+        }
+      ],
+      "answer": "c",
+      "explain": "El cobro permite cumplir las metas anuales de recaudo, para coadyuvar a la sostenibilidad fiscal del Estado.",
+      "optionWhy": {
+        "a": "El cobro no tiene fin sancionatorio.",
+        "b": "Los recursos son de la Nación, no de cada seccional.",
+        "d": "No es el propósito de la política."
+      }
+    },
+    {
+      "id": "cbg-q-007",
+      "type": "order",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.1",
+      "prompt": "Ordena el ciclo del Modelo de Administración de Cartera.",
+      "items": [
+        "Acercamiento con el deudor",
+        "Procesamiento, análisis y segmentación del inventario",
+        "Priorización y reparto",
+        "Cobro",
+        "Cierre del ciclo con la extinción de la obligación"
+      ],
+      "explain": "El modelo abarca el ciclo de cobro desde el acercamiento con el deudor hasta la extinción de la obligación."
+    },
+    {
+      "id": "cbg-q-008",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.1",
+      "case": "Un compañero propone calificar como «difícil cobro» una deuda de una empresa activa que lleva tres años sin pagar y no contesta las comunicaciones.",
+      "prompt": "¿Qué le responde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No procede: aplica solo a fallecidos o sociedades liquidadas."
+        },
+        {
+          "id": "b",
+          "text": "Procede, porque la deuda tiene más de dos años de mora."
+        },
+        {
+          "id": "c",
+          "text": "Procede si el jefe de cobranzas lo autoriza por escrito."
+        }
+      ],
+      "answer": "a",
+      "explain": "Únicamente son de difícil cobro las obligaciones de contribuyentes fallecidos o de sociedades liquidadas sin patrimonio suficiente para pagarlas.",
+      "optionWhy": {
+        "b": "La antigüedad no es el criterio de la política.",
+        "c": "La calificación no depende de una autorización discrecional."
+      }
+    },
+    {
+      "id": "cbg-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.2",
+      "case": "Le reparten un expediente de cobro contra una empresa de la que su cónyuge es socio.",
+      "prompt": "¿Qué debe hacer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tramitarlo con especial rapidez para que no se note."
+        },
+        {
+          "id": "b",
+          "text": "Analizar el caso y declarar el conflicto de intereses."
+        },
+        {
+          "id": "c",
+          "text": "Devolverlo al reparto sin dar ninguna explicación."
+        }
+      ],
+      "answer": "b",
+      "explain": "Cuando el servidor o el jefe identifican un conflicto de intereses real, potencial o aparente, lo analizan y lo declaran según la normativa vigente.",
+      "optionWhy": {
+        "a": "Actuar con el conflicto sin declararlo es contrario a la política y a la ley.",
+        "c": "Se debe declarar formalmente, no solo devolver."
+      }
+    },
+    {
+      "id": "cbg-q-010",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 1.4.2",
+      "statement": "La política de cartera exige ejecutar los procedimientos de forma que se eviten los tiempos sin gestión.",
+      "answer": true,
+      "explain": "Verdadero. Además, el reparto atiende parámetros, lineamientos y cargas de trabajo."
+    },
+    {
+      "id": "cbg-q-011",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), nums. 1.4.1–1.4.4",
+      "prompt": "Relaciona cada fase de la política de cartera con su contenido.",
+      "pairs": [
+        {
+          "left": "Planeación",
+          "right": "Modelo de Administración de Cartera"
+        },
+        {
+          "left": "Ejecución",
+          "right": "Reparto por cargas y actos conforme al ET"
+        },
+        {
+          "left": "Control",
+          "right": "Mitigar los riesgos de la matriz de riesgos"
+        },
+        {
+          "left": "Mejora",
+          "right": "Ajustes por indicadores, auditorías y cambios normativos"
+        }
+      ],
+      "explain": "La política se organiza en planeación, ejecución, control y mejora."
+    },
+    {
+      "id": "cbg-q-012",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 3",
+      "prompt": "¿Qué principios protege la política de seguridad y privacidad de la información de la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Celeridad, economía, eficacia y publicidad"
+        },
+        {
+          "id": "b",
+          "text": "Equidad, eficiencia, progresividad e irretroactividad"
+        },
+        {
+          "id": "c",
+          "text": "Legalidad, moralidad, igualdad e imparcialidad"
+        },
+        {
+          "id": "d",
+          "text": "Confidencialidad, integridad, disponibilidad y privacidad"
+        }
+      ],
+      "answer": "d",
+      "explain": "La política protege la confidencialidad, integridad, disponibilidad y privacidad de la información, con base en la ISO 27001:2022 y el MSPI de MinTIC.",
+      "optionWhy": {
+        "a": "Son principios de las actuaciones administrativas.",
+        "b": "Son principios del sistema tributario.",
+        "c": "Son principios de la función administrativa."
+      }
+    },
+    {
+      "id": "cbg-q-013",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 3.1",
+      "statement": "La política de seguridad de la información aplica también a contratistas, pasantes y proveedores que actúen a nombre de la DIAN.",
+      "answer": true,
+      "explain": "Verdadero. Aplica a todos los usuarios internos y externos, incluidos contratistas, consultores, pasantes y proveedores."
+    },
+    {
+      "id": "cbg-q-014",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 3",
+      "case": "Un compañero le pide su usuario y contraseña del sistema de cartera para adelantar unos casos mientras usted está de vacaciones.",
+      "prompt": "¿Qué debe hacer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compartirlos, porque es para avanzar el trabajo del área."
+        },
+        {
+          "id": "b",
+          "text": "Compartirlos y cambiar la contraseña apenas regrese."
+        },
+        {
+          "id": "c",
+          "text": "No compartirlos y orientarlo a pedir su propio acceso."
+        }
+      ],
+      "answer": "c",
+      "explain": "Compartir credenciales pone en riesgo la confidencialidad e integridad de la información; todos los usuarios son responsables de cumplir la política.",
+      "optionWhy": {
+        "a": "El fin no justifica romper la política de seguridad.",
+        "b": "Cambiarla después no evita el riesgo ni el incumplimiento."
+      }
+    },
+    {
+      "id": "cbg-q-015",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3",
+      "prompt": "Relaciona cada rol del gobierno de datos con quién lo ejerce.",
+      "pairs": [
+        {
+          "left": "Dueños de los datos",
+          "right": "Directores de gestión y jefes de oficina"
+        },
+        {
+          "left": "Líderes de dominio",
+          "right": "Subdirectores o delegados"
+        },
+        {
+          "left": "Custodios de datos",
+          "right": "Expertos en los temas del área"
+        }
+      ],
+      "explain": "La política fija que todos los datos tienen dueños, líderes de dominio y custodios, con analistas de datos y calidad."
+    },
+    {
+      "id": "cbg-q-016",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3",
+      "prompt": "¿Cuál de estas es una dimensión de calidad del dato en la política de la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Popularidad"
+        },
+        {
+          "id": "b",
+          "text": "Antigüedad"
+        },
+        {
+          "id": "c",
+          "text": "Volumen"
+        },
+        {
+          "id": "d",
+          "text": "Unicidad"
+        }
+      ],
+      "answer": "d",
+      "explain": "Las dimensiones básicas son completitud, unicidad, consistencia, validez, precisión, integridad, oportunidad y razonabilidad.",
+      "optionWhy": {
+        "a": "No es una dimensión de calidad.",
+        "b": "No es una dimensión de calidad.",
+        "c": "El volumen es una característica del Big Data, no de calidad."
+      }
+    },
+    {
+      "id": "cbg-q-017",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3",
+      "case": "El mismo deudor aparece tres veces en la base de cartera con NIT escritos de forma distinta, lo que infla el número de deudores.",
+      "prompt": "¿Qué dimensión de calidad se ve afectada principalmente?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oportunidad."
+        },
+        {
+          "id": "b",
+          "text": "Razonabilidad."
+        },
+        {
+          "id": "c",
+          "text": "Unicidad."
+        }
+      ],
+      "answer": "c",
+      "explain": "Los registros duplicados afectan la unicidad. La política también pide una única captura y un linaje documentado para preservar la consistencia.",
+      "optionWhy": {
+        "a": "La oportunidad se refiere a que el dato esté disponible a tiempo.",
+        "b": "La razonabilidad evalúa si el valor es lógico, no si está duplicado."
+      }
+    },
+    {
+      "id": "cbg-q-018",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 4.3",
+      "text": "La política de datos busca preservar la consistencia desde las fuentes, procurando una única {{captura}} y un {{linaje}} transparente y documentado."
+    },
+    {
+      "id": "cbg-q-019",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), num. 9",
+      "prompt": "¿Qué busca la DIAN con la gestión de los riesgos de cumplimiento tributario, aduanero y cambiario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fiscalizar por igual a todos los contribuyentes"
+        },
+        {
+          "id": "b",
+          "text": "Más cumplimiento voluntario y menor brecha tributaria"
+        },
+        {
+          "id": "c",
+          "text": "Reducir el número de funcionarios de control"
+        },
+        {
+          "id": "d",
+          "text": "Eliminar las sanciones del régimen tributario"
+        }
+      ],
+      "answer": "b",
+      "explain": "Busca incrementar el cumplimiento voluntario, enfocarse en las causas del incumplimiento, disminuir la brecha tributaria y eliminar la discrecionalidad.",
+      "optionWhy": {
+        "a": "La gestión de riesgos permite focalizar, no tratar a todos igual.",
+        "c": "No es un objetivo de la política.",
+        "d": "No es un objetivo de la política."
+      }
+    },
+    {
+      "id": "cbg-q-020",
+      "type": "open",
+      "difficulty": 3,
+      "source": "Código de Buen Gobierno DIAN (CG-PEC-0001, v. 15), nums. 1.4, 3 y 4",
+      "prompt": "Explica cómo aplicarías el Código de Buen Gobierno en tu trabajo diario de cartera.",
+      "modelAnswer": "Gestionaría el cobro con el Modelo de Administración de Cartera (desde el acercamiento hasta la extinción), sin tiempos muertos y con actos conforme al ET; solo calificaría como difícil cobro lo de fallecidos o sociedades liquidadas sin patrimonio; declararía cualquier conflicto de intereses; protegería la confidencialidad e integridad de la información sin compartir credenciales; y cuidaría la calidad de los datos (unicidad, completitud, consistencia).",
+      "keyPoints": [
+        "Modelo de Administración de Cartera",
+        "Difícil cobro restringido",
+        "Conflicto de intereses",
+        "Seguridad y calidad de datos"
+      ],
+      "keywords": [
+        "modelo",
+        "cartera",
+        "dificil cobro",
+        "conflicto",
+        "confidencialidad",
+        "calidad"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}
