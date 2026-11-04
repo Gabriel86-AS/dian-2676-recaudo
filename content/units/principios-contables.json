@@ -1,0 +1,740 @@
+{
+  "id": "principios-contables",
+  "title": "Principios financieros y contables aplicables a la gestión tributaria",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Principios de la información financiera (Ley 1314 de 2009), autoridades contables, la contabilidad del recaudo de la DIAN, la relación entre contabilidad y tributos (independencia, devengo, realización del ingreso) y la contabilidad como prueba.",
+  "sources": [
+    "Ley 1314 de 2009 arts. 1–6 y 10",
+    "ET arts. 21-1, 27, 28, 581, 772–777 y 822",
+    "Decreto 1742 de 2020 art. 15"
+  ],
+  "lessons": [
+    {
+      "id": "cont-01",
+      "title": "Ley 1314: objetivos y normas contables",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "cont-c-001",
+          "type": "concept",
+          "source": "Ley 1314 de 2009 arts. 1, 2, 3 y 5",
+          "title": "Para qué sirve la contabilidad",
+          "body": "- **Objetivo (art. 1):** un sistema **único y homogéneo**, de alta calidad, comprensible y de **forzosa observancia**, para que los estados financieros den información **comprensible, transparente, comparable, pertinente y confiable**, útil para decidir. Busca **convergencia** con estándares internacionales.\n- **Ámbito (art. 2):** obligados a llevar contabilidad, contadores y quienes preparan información financiera. El Gobierno puede autorizar contabilidad **simplificada** y, para microempresas, contabilidad de **acumulación, caja o mixta**. Quien quiera usar su información **como prueba** debe sujetarse a la ley.\n- **Normas contables (art. 3):** permiten identificar, medir, clasificar, reconocer, interpretar, analizar, evaluar e informar. **Esencia sobre forma:** los hechos se reconocen por su **realidad económica**, no solo por su forma legal.\n- **Aseguramiento (art. 5):** normas éticas, de control de calidad y de auditoría; bajo dirección de **contadores públicos**."
+        },
+        {
+          "ref": "cont-q-001"
+        },
+        {
+          "ref": "cont-q-002"
+        },
+        {
+          "ref": "cont-q-003"
+        },
+        {
+          "ref": "cont-q-004"
+        },
+        {
+          "ref": "cont-q-005"
+        },
+        {
+          "ref": "cont-q-006"
+        }
+      ]
+    },
+    {
+      "id": "cont-02",
+      "title": "Quién regula y la contabilidad del recaudo",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "cont-c-002",
+          "type": "concept",
+          "source": "Ley 1314 de 2009 arts. 6 y 10; D1742/2020 art. 15; ET art. 822",
+          "title": "Autoridades contables y la DIAN",
+          "body": "- **Regulan (art. 6):** los Ministerios de **Hacienda** y de **Comercio, Industria y Turismo**, obrando **conjuntamente**, con base en las propuestas del **Consejo Técnico de la Contaduría Pública** (normalizador técnico). La **Contaduría General de la Nación** regula la **contabilidad pública**.\n- **Supervisan (art. 10):** las autoridades de inspección, vigilancia y control verifican el cumplimiento y sancionan.\n- **Contabilidad del recaudo (D1742 art. 15):** la **Subdirección de Recaudo** consolida la contabilidad de la función recaudadora, elabora los estados financieros y los presenta ante la **Contaduría General** y la **Contraloría General**.\n- **Informes (ET art. 822):** la DIAN envía a la Contraloría informes **mensuales** de recaudo, cobro, determinación y discusión."
+        },
+        {
+          "ref": "cont-q-007"
+        },
+        {
+          "ref": "cont-q-008"
+        },
+        {
+          "ref": "cont-q-009"
+        },
+        {
+          "ref": "cont-q-010"
+        },
+        {
+          "ref": "cont-q-011"
+        }
+      ]
+    },
+    {
+      "id": "cont-03",
+      "title": "Contabilidad y tributos: independencia y devengo",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "cont-c-003",
+          "type": "concept",
+          "source": "Ley 1314 de 2009 art. 4; ET arts. 21-1, 27 y 28",
+          "title": "Dos sistemas que se hablan",
+          "body": "- **Independencia (Ley 1314 art. 4):** las normas contables tienen efecto impositivo **solo** si la ley tributaria **remite** a ellas o **no regula** la materia. Las normas tributarias solo producen **efectos fiscales**. Si son incompatibles, **para fines fiscales prevalece la tributaria**; en la contabilidad se hacen las conciliaciones.\n- **Renta (ET art. 21-1):** los obligados a llevar contabilidad aplican los **marcos técnicos contables** para medir activos, pasivos, patrimonio, ingresos, costos y gastos, salvo norma tributaria distinta. Base de **acumulación o devengo**: los efectos se reconocen cuando ocurren, aunque el cobro o pago sea en otro periodo. **Causación = devengo**.\n- **Realización del ingreso:** no obligados → cuando se **recibe efectivamente** (art. 27); obligados → cuando se **devenga** contablemente (art. 28), con excepciones (dividendos, venta de inmuebles)."
+        },
+        {
+          "ref": "cont-q-012"
+        },
+        {
+          "ref": "cont-q-013"
+        },
+        {
+          "ref": "cont-q-014"
+        },
+        {
+          "ref": "cont-q-015"
+        },
+        {
+          "ref": "cont-q-016"
+        },
+        {
+          "ref": "cont-q-023"
+        }
+      ]
+    },
+    {
+      "id": "cont-04",
+      "title": "La contabilidad como prueba",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "cont-c-004",
+          "type": "concept",
+          "source": "ET arts. 581 y 772–777",
+          "title": "Libros, comprobantes y certificaciones",
+          "body": "- **Prueba a favor (art. 772):** si los libros se llevan **en debida forma**.\n- **Requisitos (art. 774):** registrados (Cámara de Comercio o DIAN), respaldados por **comprobantes internos y externos**, que reflejen **completamente** la situación, no desvirtuados y sin las circunstancias del art. 74 del Código de Comercio.\n- **Prevalencias:** los **asientos contables** prevalecen sobre la **declaración** (art. 775); los **comprobantes externos** prevalecen sobre los asientos en costos, deducciones, exenciones y pasivos (art. 776).\n- **Certificación (art. 777):** basta la del contador o revisor fiscal, sin perjuicio de las comprobaciones de la DIAN.\n- **Firma en la declaración (art. 581):** certifica libros en debida forma y que reflejan razonablemente la situación financiera."
+        },
+        {
+          "ref": "cont-q-017"
+        },
+        {
+          "ref": "cont-q-018"
+        },
+        {
+          "ref": "cont-q-019"
+        },
+        {
+          "ref": "cont-q-020"
+        },
+        {
+          "ref": "cont-q-021"
+        },
+        {
+          "ref": "cont-q-022"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "cont-fc-001",
+      "front": "Cualidades de la información financiera (Ley 1314)",
+      "back": "Comprensible, transparente, comparable, pertinente y confiable.",
+      "source": "Ley 1314 de 2009 art. 1"
+    },
+    {
+      "id": "cont-fc-002",
+      "front": "Esencia sobre forma",
+      "back": "Los hechos económicos se reconocen por su realidad económica, no solo por su forma legal.",
+      "source": "Ley 1314 de 2009 art. 3, par."
+    },
+    {
+      "id": "cont-fc-003",
+      "front": "¿Quiénes expiden las normas contables?",
+      "back": "MinHacienda y MinComercio, conjuntamente, con propuestas del CTCP.",
+      "source": "Ley 1314 de 2009 art. 6"
+    },
+    {
+      "id": "cont-fc-004",
+      "front": "¿Quién regula la contabilidad pública?",
+      "back": "La Contaduría General de la Nación.",
+      "source": "Ley 1314 de 2009 art. 6"
+    },
+    {
+      "id": "cont-fc-005",
+      "front": "Norma contable vs. tributaria incompatibles",
+      "back": "Para fines fiscales prevalece la tributaria; en la contabilidad, la contable.",
+      "source": "Ley 1314 de 2009 art. 4"
+    },
+    {
+      "id": "cont-fc-006",
+      "front": "Causación en el ET",
+      "back": "Se asimila a devengo o acumulación.",
+      "source": "ET art. 21-1, par. 3"
+    },
+    {
+      "id": "cont-fc-007",
+      "front": "Realización del ingreso de los no obligados a llevar contabilidad",
+      "back": "Cuando se recibe efectivamente en dinero o en especie.",
+      "source": "ET art. 27"
+    },
+    {
+      "id": "cont-fc-008",
+      "front": "Realización del ingreso de los obligados a llevar contabilidad",
+      "back": "Cuando se devenga contablemente (con excepciones).",
+      "source": "ET art. 28"
+    },
+    {
+      "id": "cont-fc-009",
+      "front": "¿Libros o declaración?",
+      "back": "Prevalecen los asientos contables.",
+      "source": "ET art. 775"
+    },
+    {
+      "id": "cont-fc-010",
+      "front": "¿Asientos o comprobantes externos?",
+      "back": "Prevalecen los comprobantes (costos, deducciones, exenciones, pasivos).",
+      "source": "ET art. 776"
+    },
+    {
+      "id": "cont-fc-011",
+      "front": "Estados financieros del recaudo de la DIAN",
+      "back": "Los consolida la Subdirección de Recaudo y los presenta a la CGN y la Contraloría.",
+      "source": "D1742/2020 art. 15"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cont-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "Ley 1314 de 2009 art. 1",
+      "prompt": "Según la Ley 1314 de 2009, ¿cómo debe ser la información financiera que brindan los estados financieros?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comprensible, transparente, comparable, pertinente y confiable"
+        },
+        {
+          "id": "b",
+          "text": "Reservada, resumida, anual y aprobada por la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "Exclusivamente fiscal, con valores históricos sin ajustes"
+        },
+        {
+          "id": "d",
+          "text": "Libre en su forma, según el criterio de cada empresa"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 1 busca que los estados financieros brinden información comprensible, transparente y comparable, pertinente y confiable, útil para tomar decisiones económicas.",
+      "optionWhy": {
+        "b": "La ley no la define como reservada ni aprobada por la DIAN.",
+        "c": "La información contable no es exclusivamente fiscal (art. 4).",
+        "d": "La ley crea un sistema único y de forzosa observancia."
+      }
+    },
+    {
+      "id": "cont-q-002",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "Ley 1314 de 2009 art. 1",
+      "statement": "La Ley 1314 de 2009 orienta la acción del Estado hacia la convergencia de las normas contables con estándares internacionales de aceptación mundial.",
+      "answer": true,
+      "explain": "Verdadero. El art. 1 lo establece, con observancia de los principios de equidad, reciprocidad y conveniencia nacional."
+    },
+    {
+      "id": "cont-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 3, par.",
+      "case": "Una empresa firmó un contrato que en lo formal es un arriendo, pero en la realidad transfiere al arrendatario el uso y los riesgos del bien durante toda su vida útil.",
+      "prompt": "¿Cómo debe reconocerse según la Ley 1314?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Siempre según el nombre que las partes le dieron al contrato."
+        },
+        {
+          "id": "b",
+          "text": "Según su esencia o realidad económica, no solo por su forma legal."
+        },
+        {
+          "id": "c",
+          "text": "Como lo indique la DIAN para efectos fiscales."
+        }
+      ],
+      "answer": "b",
+      "explain": "El parágrafo del art. 3 dice que los recursos y hechos económicos se reconocen y revelan de acuerdo con su esencia o realidad económica y no únicamente con su forma legal.",
+      "optionWhy": {
+        "a": "La forma legal no basta: prima la esencia.",
+        "c": "Las normas tributarias solo producen efectos fiscales (art. 4)."
+      }
+    },
+    {
+      "id": "cont-q-004",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 2",
+      "prompt": "¿Qué puede autorizar el Gobierno a las microempresas según la Ley 1314?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No llevar ningún registro de sus operaciones"
+        },
+        {
+          "id": "b",
+          "text": "Llevar toda la contabilidad en moneda extranjera"
+        },
+        {
+          "id": "c",
+          "text": "Contabilidad de acumulación, de caja o mixta"
+        },
+        {
+          "id": "d",
+          "text": "Presentar sus estados financieros cada cinco años"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 2 permite que el Gobierno autorice a las microempresas llevar contabilidad de acumulación, de caja o métodos mixtos, según la realidad de sus operaciones.",
+      "optionWhy": {
+        "a": "La ley prevé contabilidad simplificada, no la ausencia de registros.",
+        "b": "No es lo que autoriza el art. 2.",
+        "d": "No es lo que autoriza el art. 2."
+      }
+    },
+    {
+      "id": "cont-q-005",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 2, par. 1",
+      "statement": "Quien no está obligado a llevar contabilidad pero quiere hacer valer su información como prueba debe sujetarse a la Ley 1314 y sus normas.",
+      "answer": true,
+      "explain": "Verdadero. Lo dice el parágrafo 1 del art. 2."
+    },
+    {
+      "id": "cont-q-006",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 3",
+      "text": "Las normas de contabilidad permiten identificar, medir, clasificar, {{reconocer}}, interpretar, analizar, evaluar e informar las operaciones económicas de un ente."
+    },
+    {
+      "id": "cont-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 5",
+      "prompt": "¿Bajo la dirección y responsabilidad de quién se prestan los servicios de aseguramiento de la información financiera?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De abogados especializados"
+        },
+        {
+          "id": "b",
+          "text": "De funcionarios de la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "De ingenieros de sistemas"
+        },
+        {
+          "id": "d",
+          "text": "De contadores públicos"
+        }
+      ],
+      "answer": "d",
+      "explain": "El par. 2 del art. 5 exige que esos servicios se presten bajo la dirección y responsabilidad de contadores públicos.",
+      "optionWhy": {
+        "a": "La ley no lo asigna a abogados.",
+        "b": "La DIAN no presta servicios de aseguramiento a las empresas.",
+        "c": "La ley no lo asigna a ingenieros."
+      }
+    },
+    {
+      "id": "cont-q-008",
+      "type": "match",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 arts. 6 y 10",
+      "prompt": "Relaciona cada autoridad con su papel en el sistema contable.",
+      "pairs": [
+        {
+          "left": "MinHacienda y MinComercio, conjuntamente",
+          "right": "Expiden los principios y normas"
+        },
+        {
+          "left": "Consejo Técnico de la Contaduría Pública",
+          "right": "Organismo de normalización técnica"
+        },
+        {
+          "left": "Contaduría General de la Nación",
+          "right": "Regula la contabilidad pública"
+        },
+        {
+          "left": "Autoridades de supervisión",
+          "right": "Vigilan el cumplimiento y sancionan"
+        }
+      ],
+      "explain": "Son los papeles que fija la Ley 1314 en los arts. 6 y 10."
+    },
+    {
+      "id": "cont-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 6",
+      "case": "En una capacitación, un compañero afirma que la DIAN expide las normas contables que deben seguir las empresas.",
+      "prompt": "¿Qué corrección le haría?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es correcto: la DIAN expide las normas contables de las empresas."
+        },
+        {
+          "id": "b",
+          "text": "Las expiden MinHacienda y MinComercio, con propuestas del CTCP."
+        },
+        {
+          "id": "c",
+          "text": "Las expide la Superintendencia de Sociedades por sí sola."
+        }
+      ],
+      "answer": "b",
+      "explain": "Los Ministerios de Hacienda y de Comercio, obrando conjuntamente, expiden las normas con base en las propuestas del Consejo Técnico de la Contaduría Pública (art. 6).",
+      "optionWhy": {
+        "a": "La DIAN aplica normas tributarias; no expide las contables.",
+        "c": "Las superintendencias supervisan (art. 10); no expiden solas las normas generales."
+      }
+    },
+    {
+      "id": "cont-q-010",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 15",
+      "prompt": "¿Ante quiénes presenta la Subdirección de Recaudo los estados financieros consolidados de los ingresos de la función recaudadora?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Superintendencia Financiera y Banco de la República"
+        },
+        {
+          "id": "b",
+          "text": "Congreso de la República y Procuraduría General"
+        },
+        {
+          "id": "c",
+          "text": "Contaduría General de la Nación y Contraloría General"
+        },
+        {
+          "id": "d",
+          "text": "Consejo Técnico de la Contaduría Pública y MinComercio"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 15 del D1742/2020 le asigna consolidar la contabilidad del recaudo, elaborar los estados financieros y presentarlos ante la Contaduría General de la Nación y la Contraloría General de la República.",
+      "optionWhy": {
+        "a": "No son los destinatarios que fija el art. 15.",
+        "b": "No son los destinatarios que fija el art. 15.",
+        "d": "El CTCP propone normas; no recibe esos estados."
+      }
+    },
+    {
+      "id": "cont-q-011",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 822",
+      "statement": "La DIAN envía a la Contraloría General de la República informes mensuales de su gestión en recaudo, cobro, determinación y discusión.",
+      "answer": true,
+      "explain": "Verdadero. El art. 822 lo ordena para el control de la gestión fiscal, en forma centralizada y en resúmenes globales."
+    },
+    {
+      "id": "cont-q-012",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "Ley 1314 de 2009 art. 4",
+      "case": "Para un gasto, la norma contable indica un tratamiento y el Estatuto Tributario fija otro distinto. La empresa debe preparar su declaración de renta.",
+      "prompt": "¿Qué norma prevalece en la declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La tributaria, solo para fines fiscales."
+        },
+        {
+          "id": "b",
+          "text": "La contable, porque es la más técnica."
+        },
+        {
+          "id": "c",
+          "text": "La que dé el menor impuesto a pagar."
+        }
+      ],
+      "answer": "a",
+      "explain": "Cuando hay incompatibilidad, prevalecen las normas tributarias únicamente para fines fiscales; en la contabilidad se siguen las normas contables y se hacen las conciliaciones (art. 4).",
+      "optionWhy": {
+        "b": "Para fines fiscales prevalece la norma tributaria.",
+        "c": "La ley no permite escoger la más favorable."
+      }
+    },
+    {
+      "id": "cont-q-013",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Ley 1314 de 2009 art. 4",
+      "statement": "Las normas contables expedidas con base en la Ley 1314 tienen efecto impositivo cuando las leyes tributarias remiten a ellas o cuando estas no regulan la materia.",
+      "answer": true,
+      "explain": "Verdadero. Esa es la regla de independencia y autonomía del art. 4."
+    },
+    {
+      "id": "cont-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 21-1, par. 1 y 3",
+      "prompt": "Para el ET, ¿qué significa el término «causación»?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equivale al recibo efectivo del dinero"
+        },
+        {
+          "id": "b",
+          "text": "Es la fecha en que se presenta la declaración"
+        },
+        {
+          "id": "c",
+          "text": "Es el momento del pago del impuesto"
+        },
+        {
+          "id": "d",
+          "text": "Se asimila a devengo o acumulación"
+        }
+      ],
+      "answer": "d",
+      "explain": "El par. 3 del art. 21-1 dice que causación se asimila a devengo o acumulación: los efectos se reconocen cuando ocurren, aunque el cobro o pago sea en otro periodo.",
+      "optionWhy": {
+        "a": "El recibo efectivo es el criterio de realización de los no obligados a llevar contabilidad (art. 27).",
+        "b": "No es una noción contable.",
+        "c": "El pago puede ocurrir en un periodo distinto."
+      }
+    },
+    {
+      "id": "cont-q-015",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET arts. 27 y 28",
+      "prompt": "Relaciona cada contribuyente o ingreso con el momento en que el ingreso se entiende realizado.",
+      "pairs": [
+        {
+          "left": "No obligado a llevar contabilidad",
+          "right": "Cuando lo recibe efectivamente"
+        },
+        {
+          "left": "Obligado a llevar contabilidad",
+          "right": "Cuando se devenga contablemente"
+        },
+        {
+          "left": "Venta de un inmueble",
+          "right": "Fecha de la escritura pública"
+        },
+        {
+          "left": "Dividendos",
+          "right": "Cuando se abonan en cuenta como exigibles"
+        }
+      ],
+      "explain": "El art. 27 regula a los no obligados y las excepciones; el art. 28 remite a ellas para los obligados."
+    },
+    {
+      "id": "cont-q-016",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 27",
+      "case": "Un profesional independiente, no obligado a llevar contabilidad, prestó un servicio en diciembre de 2025 y recibió el pago en enero de 2026.",
+      "prompt": "¿En qué año se realiza el ingreso?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En 2025, cuando prestó el servicio."
+        },
+        {
+          "id": "b",
+          "text": "En el año en que lo declare, a su elección."
+        },
+        {
+          "id": "c",
+          "text": "En 2026, cuando lo recibió efectivamente."
+        }
+      ],
+      "answer": "c",
+      "explain": "Para los no obligados a llevar contabilidad, los ingresos se realizan cuando se reciben efectivamente en dinero o en especie (art. 27).",
+      "optionWhy": {
+        "a": "El devengo aplica a los obligados a llevar contabilidad (art. 28).",
+        "b": "La ley fija el momento; no es opcional."
+      }
+    },
+    {
+      "id": "cont-q-017",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 772",
+      "prompt": "¿Cuándo constituyen prueba a favor del contribuyente sus libros de contabilidad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Siempre, por el solo hecho de existir"
+        },
+        {
+          "id": "b",
+          "text": "Cuando se llevan en debida forma"
+        },
+        {
+          "id": "c",
+          "text": "Solo si la DIAN los aprobó antes"
+        },
+        {
+          "id": "d",
+          "text": "Solo si están firmados por un abogado"
+        }
+      ],
+      "answer": "b",
+      "explain": "Según el art. 772, los libros de contabilidad son prueba a favor del contribuyente siempre que se lleven en debida forma.",
+      "optionWhy": {
+        "a": "No basta con que existan.",
+        "c": "No se requiere aprobación previa de la DIAN.",
+        "d": "No se exige firma de abogado."
+      }
+    },
+    {
+      "id": "cont-q-018",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 774",
+      "prompt": "¿Cuál de estos es requisito para que la contabilidad sea prueba suficiente?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estar auditada cada año por la Contraloría General"
+        },
+        {
+          "id": "b",
+          "text": "Llevarse en un software aprobado por la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "Presentarse junto con la declaración de renta anual"
+        },
+        {
+          "id": "d",
+          "text": "Estar respaldada por comprobantes internos y externos"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 774 exige, entre otros: estar registrados, estar respaldados por comprobantes internos y externos, reflejar completamente la situación y no haber sido desvirtuados.",
+      "optionWhy": {
+        "a": "No es requisito del art. 774.",
+        "b": "No es requisito del art. 774.",
+        "c": "No es requisito del art. 774."
+      }
+    },
+    {
+      "id": "cont-q-019",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 775",
+      "case": "Al revisar el estado de cuenta de un contribuyente, usted encuentra que su declaración de renta registra un patrimonio distinto del que muestran sus asientos contables.",
+      "prompt": "¿Qué prevalece?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Los asientos de contabilidad."
+        },
+        {
+          "id": "b",
+          "text": "La declaración de renta."
+        },
+        {
+          "id": "c",
+          "text": "El promedio de ambos valores."
+        }
+      ],
+      "answer": "a",
+      "explain": "Cuando hay desacuerdo entre la declaración de renta y patrimonio y los asientos de contabilidad, prevalecen estos (art. 775).",
+      "optionWhy": {
+        "b": "La ley da prevalencia a la contabilidad.",
+        "c": "No se promedian los valores."
+      }
+    },
+    {
+      "id": "cont-q-020",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 776",
+      "case": "La contabilidad de una empresa registra costos por $80 millones, pero los comprobantes externos que los respaldan suman $65 millones.",
+      "prompt": "¿Hasta qué valor se entienden comprobados los costos?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$65 millones, el valor de los comprobantes externos."
+        },
+        {
+          "id": "b",
+          "text": "$80 millones, el valor de los asientos contables."
+        },
+        {
+          "id": "c",
+          "text": "$72,5 millones, el promedio de ambos."
+        }
+      ],
+      "answer": "a",
+      "explain": "Si las cifras de los asientos sobre costos, deducciones, exenciones y pasivos exceden los comprobantes externos, se entienden comprobadas hasta el valor de dichos comprobantes (art. 776).",
+      "optionWhy": {
+        "b": "Los comprobantes prevalecen sobre los asientos.",
+        "c": "No se promedian."
+      }
+    },
+    {
+      "id": "cont-q-021",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 777",
+      "statement": "Para presentar pruebas contables ante la DIAN son suficientes las certificaciones de contadores o revisores fiscales, sin perjuicio de que la DIAN haga comprobaciones.",
+      "answer": true,
+      "explain": "Verdadero. Lo dispone el art. 777."
+    },
+    {
+      "id": "cont-q-022",
+      "type": "order",
+      "difficulty": 3,
+      "source": "ET arts. 772, 775 y 776",
+      "prompt": "Ordena de mayor a menor fuerza probatoria lo que dice el ET sobre cifras en conflicto.",
+      "items": [
+        "Comprobantes externos",
+        "Asientos de contabilidad",
+        "Declaración de renta"
+      ],
+      "explain": "Los comprobantes prevalecen sobre los asientos (art. 776) y los asientos sobre la declaración (art. 775)."
+    },
+    {
+      "id": "cont-q-023",
+      "type": "open",
+      "difficulty": 3,
+      "source": "Ley 1314 de 2009 art. 4; ET arts. 21-1 y 775",
+      "prompt": "Explica la relación entre la contabilidad y la determinación de los impuestos.",
+      "modelAnswer": "La Ley 1314 separa ambos mundos: las normas contables solo tienen efecto impositivo si la ley tributaria remite a ellas o no regula la materia, y ante incompatibilidad prevalece la norma tributaria solo para fines fiscales (art. 4). El ET toma los marcos contables y la base de devengo como punto de partida para los obligados (art. 21-1). Además, los libros llevados en debida forma son prueba y prevalecen sobre la declaración (arts. 772 y 775).",
+      "keyPoints": [
+        "Independencia (art. 4)",
+        "Devengo como punto de partida (art. 21-1)",
+        "Contabilidad como prueba"
+      ],
+      "keywords": [
+        "independencia",
+        "fiscales",
+        "prevalece",
+        "devengo",
+        "prueba",
+        "libros"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}
