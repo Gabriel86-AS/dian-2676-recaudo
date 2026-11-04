@@ -1,0 +1,805 @@
+{
+  "id": "analitica-datos",
+  "title": "Analítica de datos",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Conceptos de la política nacional de explotación de datos (CONPES 3920): datos, información y conocimiento, tipologías, gobernanza, tipos de analítica y su uso en la DIAN (gobierno de datos, gestión del riesgo, recaudo y cobranzas), con ejercicios de analítica descriptiva sobre cartera.",
+  "sources": [
+    "CONPES 3920 de 2018 (Política Nacional de Explotación de Datos)",
+    "Decreto 1742 de 2020 arts. 43 y 44",
+    "ET art. 855, par. 5"
+  ],
+  "lessons": [
+    {
+      "id": "dat-01",
+      "title": "Datos, información y conocimiento",
+      "minutes": 6,
+      "steps": [
+        {
+          "id": "dat-c-001",
+          "type": "concept",
+          "source": "CONPES 3920 de 2018, sec. 3.1",
+          "title": "De datos a conocimiento",
+          "body": "- **Datos:** representación primaria de variables cualitativas y cuantitativas, que se pueden almacenar, transferir, visualizar y entender. Pueden ser **analógicos** o **digitales**.\n- **Información:** datos **procesados** (asociados, combinados, interpretados, agrupados, visualizados) que tienen **significado** para un receptor.\n- **Conocimiento:** información **aprendida, comprendida y aplicada**.\n\n**Organización (tabla 2):** **estructurados** (siguen un modelo; tablas y bases de datos), **semiestructurados** (etiquetas sin relaciones definidas: correos, XML) y **no estructurados** (imágenes, texto, audio, video).\n\n**Tipologías (tabla 3):** por quién los genera, **públicos** o **privados**; por su contenido, **personales** (identifican a alguien) o **impersonales**. Los datos de entidades públicas **se presumen públicos**; la información tributaria y los datos personales tienen límites de acceso."
+        },
+        {
+          "ref": "dat-q-001"
+        },
+        {
+          "ref": "dat-q-002"
+        },
+        {
+          "ref": "dat-q-003"
+        },
+        {
+          "ref": "dat-q-004"
+        },
+        {
+          "ref": "dat-q-005"
+        }
+      ]
+    },
+    {
+      "id": "dat-02",
+      "title": "Explotación de datos y tipos de analítica",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "dat-c-002",
+          "type": "concept",
+          "source": "CONPES 3920 de 2018, secs. 3.2 y 3.3",
+          "title": "Cómo se genera valor con datos",
+          "body": "- **Big Data:** nació como el reto de datos con gran **volumen, velocidad y variedad**.\n- **Explotación de datos:** generar **valor social y económico** aprovechando los datos para crear o mejorar bienes, servicios y procesos.\n- **Gobernanza:** reglas sobre el **ciclo de vida** de los datos (calidad, uso, titularidad, compartición, seguridad, supresión). Enmarca las etapas: **generación y recolección → compartición y agregación** (datos abiertos, interoperabilidad) **→ explotación** (analítica) **→ innovación**.\n- **Analítica:** analiza datos con técnicas científicas y herramientas automatizadas para hallar hechos, relaciones, patrones, correlaciones y tendencias. Puede ser **descriptiva** (qué pasó), **diagnóstica** (por qué), **predictiva** (qué pasará) o **prescriptiva** (qué hacer).\n- **Habilitadores:** **capital humano** y **cultura de datos**.\n- **Naturaleza de los datos:** bien **no rival y no excluyente**, de **capital** y de **propósito general**; enlazar datos en silos da información de mayor valor."
+        },
+        {
+          "ref": "dat-q-006"
+        },
+        {
+          "ref": "dat-q-007"
+        },
+        {
+          "ref": "dat-q-008"
+        },
+        {
+          "ref": "dat-q-009"
+        },
+        {
+          "ref": "dat-q-010"
+        },
+        {
+          "ref": "dat-q-011"
+        },
+        {
+          "ref": "dat-q-012"
+        },
+        {
+          "ref": "dat-q-013"
+        },
+        {
+          "ref": "dat-q-014"
+        }
+      ]
+    },
+    {
+      "id": "dat-03",
+      "title": "La política de datos y la analítica en la DIAN",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "dat-c-003",
+          "type": "concept",
+          "source": "CONPES 3920 de 2018, secs. 5.1–5.3; D1742/2020 arts. 43 y 44; ET art. 855, par. 5",
+          "title": "De la política nacional a la DIAN",
+          "body": "**CONPES 3920:** objetivo general, **aumentar el aprovechamiento de datos** gestionándolos como **activos**. Objetivos específicos: (1) masificar datos públicos digitales de **calidad**; (2) **seguridad jurídica**; (3) **capital humano**; (4) **cultura de datos**. Principio: los **derechos de las personas** son el límite de la explotación.\n\n**En la DIAN:**\n\n- **Dirección de Gestión Estratégica y de Analítica (art. 43):** gobernanza de datos, **análisis masivo**, insumos para la **gestión del riesgo** tributario, aduanero y cambiario, selectividad aduanera, **información exógena** y economía conductual.\n- **Subdirección de Información y Analítica (art. 44):** **política de gobierno de datos** (recolección, calidad, **limpieza**, uso) y **modelos de analítica avanzada** para riesgos, fiscalización, **recaudo y cobranzas**.\n- **Ejemplo:** la **devolución automática** se basa en el **análisis de riesgo** (ET art. 855, par. 5)."
+        },
+        {
+          "ref": "dat-q-015"
+        },
+        {
+          "ref": "dat-q-016"
+        },
+        {
+          "ref": "dat-q-017"
+        },
+        {
+          "ref": "dat-q-018"
+        },
+        {
+          "ref": "dat-q-019"
+        },
+        {
+          "ref": "dat-q-020"
+        }
+      ]
+    },
+    {
+      "id": "dat-04",
+      "title": "Analítica descriptiva aplicada a la cartera",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "dat-c-004",
+          "type": "concept",
+          "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva)",
+          "title": "Leer los números de la cartera",
+          "body": "- **Participación:** parte ÷ total × 100.\n- **Variación porcentual:** (valor final − valor inicial) ÷ **valor inicial** × 100.\n- **Promedio:** suma ÷ número de datos. Se distorsiona con valores **extremos**.\n- **Mediana:** el valor del medio de los datos ordenados. Representa mejor lo **típico** cuando hay valores extremos.\n\n*Los ejercicios de esta lección usan datos hipotéticos.*",
+          "example": "Cartera de $500 millones con $125 millones de IVA: participación del IVA = 125 ÷ 500 = 25 %."
+        },
+        {
+          "ref": "dat-q-021"
+        },
+        {
+          "ref": "dat-q-022"
+        },
+        {
+          "ref": "dat-q-025"
+        },
+        {
+          "ref": "dat-q-023"
+        },
+        {
+          "ref": "dat-q-024"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "dat-fc-001",
+      "front": "Datos → información → conocimiento",
+      "back": "Datos procesados con significado = información; información aprendida y aplicada = conocimiento.",
+      "source": "CONPES 3920 de 2018, sec. 3.1"
+    },
+    {
+      "id": "dat-fc-002",
+      "front": "Datos estructurados, semiestructurados y no estructurados",
+      "back": "Tablas y bases de datos / XML y correos / imágenes, audio, video, texto libre.",
+      "source": "CONPES 3920 de 2018, sec. 3.1, tabla 2"
+    },
+    {
+      "id": "dat-fc-003",
+      "front": "Las 3 V originales del Big Data",
+      "back": "Volumen, velocidad y variedad.",
+      "source": "CONPES 3920 de 2018, sec. 3.2"
+    },
+    {
+      "id": "dat-fc-004",
+      "front": "Explotación de datos",
+      "back": "Generar valor social y económico aprovechando los datos.",
+      "source": "CONPES 3920 de 2018, sec. 3.2"
+    },
+    {
+      "id": "dat-fc-005",
+      "front": "Tipos de analítica",
+      "back": "Descriptiva, diagnóstica, predictiva y prescriptiva.",
+      "source": "CONPES 3920 de 2018, sec. 3.2.1"
+    },
+    {
+      "id": "dat-fc-006",
+      "front": "Gobernanza de datos",
+      "back": "Reglas del ciclo de vida de los datos: calidad, uso, titularidad, compartición, seguridad y supresión.",
+      "source": "CONPES 3920 de 2018, sec. 3.2.1"
+    },
+    {
+      "id": "dat-fc-007",
+      "front": "Objetivo general del CONPES 3920",
+      "back": "Aumentar el aprovechamiento de datos gestionándolos como activos.",
+      "source": "CONPES 3920 de 2018, sec. 5.1"
+    },
+    {
+      "id": "dat-fc-008",
+      "front": "Objetivos específicos del CONPES 3920",
+      "back": "Datos disponibles de calidad, seguridad jurídica, capital humano y cultura de datos.",
+      "source": "CONPES 3920 de 2018, sec. 5.2"
+    },
+    {
+      "id": "dat-fc-009",
+      "front": "Dependencia de la DIAN que define la política de gobierno de datos",
+      "back": "Subdirección de Información y Analítica.",
+      "source": "D1742/2020 art. 44"
+    },
+    {
+      "id": "dat-fc-010",
+      "front": "Mediana vs. promedio",
+      "back": "Con valores extremos, la mediana representa mejor lo típico.",
+      "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "dat-q-001",
+      "type": "order",
+      "difficulty": 1,
+      "source": "CONPES 3920 de 2018, sec. 3.1",
+      "prompt": "Ordena del más básico al más elaborado.",
+      "items": [
+        "Datos",
+        "Información",
+        "Conocimiento"
+      ],
+      "explain": "Los datos procesados y con significado para un receptor son información; cuando la información se aprende, comprende y aplica, se obtiene conocimiento."
+    },
+    {
+      "id": "dat-q-002",
+      "type": "match",
+      "difficulty": 1,
+      "source": "CONPES 3920 de 2018, sec. 3.1, tabla 2",
+      "prompt": "Relaciona cada dato con su forma de organización.",
+      "pairs": [
+        {
+          "left": "Tabla de una base de datos de declaraciones",
+          "right": "Estructurado"
+        },
+        {
+          "left": "Video de una inspección",
+          "right": "No estructurado"
+        },
+        {
+          "left": "Archivo XML de una factura electrónica",
+          "right": "Semiestructurado"
+        }
+      ],
+      "explain": "Los estructurados siguen un modelo o esquema; los semiestructurados tienen etiquetas sin relaciones definidas; los no estructurados no siguen ningún modelo."
+    },
+    {
+      "id": "dat-q-003",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.1, tabla 3",
+      "prompt": "Según el criterio cualitativo, ¿qué es un dato personal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El que permite identificar a una persona"
+        },
+        {
+          "id": "b",
+          "text": "El que produce o recolecta un particular cualquiera"
+        },
+        {
+          "id": "c",
+          "text": "El que se publica en un portal de datos abiertos"
+        },
+        {
+          "id": "d",
+          "text": "El que se guarda en un computador de uso personal"
+        }
+      ],
+      "answer": "a",
+      "explain": "El criterio cualitativo distingue datos personales (permiten identificar a una persona) de impersonales (no permiten individualizarla).",
+      "optionWhy": {
+        "b": "Eso es el criterio orgánico (dato privado).",
+        "c": "La publicación no define si es personal.",
+        "d": "El lugar de almacenamiento no define la tipología."
+      }
+    },
+    {
+      "id": "dat-q-004",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.1",
+      "statement": "Los datos en poder de una entidad pública se presumen públicos, y le corresponde a la entidad demostrar que tienen otra clasificación.",
+      "answer": true,
+      "explain": "Verdadero. El CONPES lo explica con base en la Ley 1712 de 2014; la información tributaria se cita entre los intereses públicos que pueden justificar reserva."
+    },
+    {
+      "id": "dat-q-005",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.1",
+      "case": "Un ciudadano pide a la DIAN, para un estudio, la base completa de contribuyentes de su ciudad con nombres, NIT y saldos de cartera.",
+      "prompt": "¿Cómo debe tratarse la solicitud?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entregar la base completa porque los datos públicos son de todos."
+        },
+        {
+          "id": "b",
+          "text": "Entregar solo datos agregados o anonimizados."
+        },
+        {
+          "id": "c",
+          "text": "Negar todo, porque ningún dato de la DIAN puede compartirse."
+        }
+      ],
+      "answer": "b",
+      "explain": "Los datos de la entidad se presumen públicos, pero la información tributaria y los datos personales tienen límites de acceso; la explotación se refiere a datos impersonales, anonimizados o agregados, entre otros.",
+      "optionWhy": {
+        "a": "Los datos personales y la información tributaria tienen protección.",
+        "c": "La regla es la publicidad, con las excepciones legales."
+      }
+    },
+    {
+      "id": "dat-q-006",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "CONPES 3920 de 2018, sec. 3.2",
+      "prompt": "¿Qué tres características se usaron originalmente para describir el Big Data?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Validez, vigencia y veracidad"
+        },
+        {
+          "id": "b",
+          "text": "Valor, visibilidad y volatilidad"
+        },
+        {
+          "id": "c",
+          "text": "Volumen, velocidad y variedad"
+        },
+        {
+          "id": "d",
+          "text": "Velocidad, vigilancia y verificación"
+        }
+      ],
+      "answer": "c",
+      "explain": "La primera referencia a Big Data identificó el reto de datos cuyo volumen, velocidad y variedad desafiaban los sistemas tradicionales.",
+      "optionWhy": {
+        "a": "No son las tres características originales.",
+        "b": "No son las tres características originales.",
+        "d": "No son las tres características originales."
+      }
+    },
+    {
+      "id": "dat-q-007",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2",
+      "prompt": "¿Qué es la explotación de datos según el CONPES 3920?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Almacenar todos los datos posibles en un servidor"
+        },
+        {
+          "id": "b",
+          "text": "Vender bases de datos públicas a los particulares"
+        },
+        {
+          "id": "c",
+          "text": "Eliminar los datos que la entidad ya no usa"
+        },
+        {
+          "id": "d",
+          "text": "Generar valor social y económico con los datos"
+        }
+      ],
+      "answer": "d",
+      "explain": "La explotación de datos es la generación de valor social y económico mediante su aprovechamiento para crear nuevos bienes, servicios y procesos o mejorar los existentes.",
+      "optionWhy": {
+        "a": "Almacenar no basta: el valor está en el uso.",
+        "b": "No se define como venta de bases.",
+        "c": "Suprimir datos es parte de la gobernanza, no la explotación."
+      }
+    },
+    {
+      "id": "dat-q-008",
+      "type": "match",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1",
+      "prompt": "Relaciona cada tipo de analítica con la pregunta que responde.",
+      "pairs": [
+        {
+          "left": "Descriptiva",
+          "right": "¿Qué pasó?"
+        },
+        {
+          "left": "Diagnóstica",
+          "right": "¿Por qué pasó?"
+        },
+        {
+          "left": "Predictiva",
+          "right": "¿Qué es probable que pase?"
+        },
+        {
+          "left": "Prescriptiva",
+          "right": "¿Qué conviene hacer?"
+        }
+      ],
+      "explain": "El CONPES clasifica la analítica según su objetivo en descriptiva, diagnóstica, predictiva o prescriptiva."
+    },
+    {
+      "id": "dat-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1",
+      "case": "Su grupo de cartera construye un modelo que, con el historial de pagos, estima qué deudores tienen mayor probabilidad de pagar si reciben un recordatorio.",
+      "prompt": "¿Qué tipo de analítica es?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Descriptiva."
+        },
+        {
+          "id": "b",
+          "text": "Predictiva."
+        },
+        {
+          "id": "c",
+          "text": "Diagnóstica."
+        }
+      ],
+      "answer": "b",
+      "explain": "Estimar probabilidades futuras a partir de datos históricos es analítica predictiva.",
+      "optionWhy": {
+        "a": "La descriptiva resume lo que pasó, no estima el futuro.",
+        "c": "La diagnóstica explica causas de lo ocurrido."
+      }
+    },
+    {
+      "id": "dat-q-010",
+      "type": "order",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1",
+      "prompt": "Ordena las etapas de la generación de valor con datos.",
+      "items": [
+        "Generación y recolección",
+        "Compartición y agregación",
+        "Explotación (analítica)",
+        "Innovación"
+      ],
+      "explain": "La gobernanza enmarca estas etapas; en la innovación se obtiene el mayor valor."
+    },
+    {
+      "id": "dat-q-011",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1",
+      "prompt": "¿Qué es la gobernanza de datos?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El software que almacena la información de la entidad"
+        },
+        {
+          "id": "b",
+          "text": "La oficina que atiende las peticiones de los ciudadanos"
+        },
+        {
+          "id": "c",
+          "text": "Las reglas del ciclo de vida y flujo de los datos"
+        },
+        {
+          "id": "d",
+          "text": "El contrato con el proveedor de tecnología de la entidad"
+        }
+      ],
+      "answer": "c",
+      "explain": "Es el conjunto de reglas que gobiernan el ciclo de vida y flujo de los datos para garantizar su calidad, uso, titularidad, compartición, seguridad y supresión.",
+      "optionWhy": {
+        "a": "El software es una herramienta, no la gobernanza.",
+        "b": "No es la gobernanza de datos.",
+        "d": "No es la gobernanza de datos."
+      }
+    },
+    {
+      "id": "dat-q-012",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.3, tabla 4",
+      "statement": "Los datos son bienes no rivales: pueden usarse muchas veces sin reducir su valor para otros usuarios.",
+      "answer": true,
+      "explain": "Verdadero. Por eso el CONPES los trata como bien público, de capital y de propósito general."
+    },
+    {
+      "id": "dat-q-013",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "CONPES 3920 de 2018, sec. 3.3, tabla 5",
+      "prompt": "La DIAN cruza datos de facturación electrónica con los de recaudo, que antes estaban separados, y obtiene mejor información. ¿Qué efecto ilustra?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El efecto de escala por almacenar muchos más datos"
+        },
+        {
+          "id": "b",
+          "text": "La rivalidad de los datos entre las dependencias"
+        },
+        {
+          "id": "c",
+          "text": "La exclusión de los usuarios que no pagan por los datos"
+        },
+        {
+          "id": "d",
+          "text": "El efecto de alcance de enlazar datos en silos"
+        }
+      ],
+      "answer": "d",
+      "explain": "El CONPES explica que enlazar datos que antes estaban en silos mejora la información: el valor conjunto es mayor que la suma de las partes.",
+      "optionWhy": {
+        "a": "La escala se refiere a que más uso genera más datos.",
+        "b": "Los datos no son rivales.",
+        "c": "Los datos no son excluyentes."
+      }
+    },
+    {
+      "id": "dat-q-014",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "CONPES 3920 de 2018, sec. 3.2.3",
+      "text": "La cultura de datos es el reconocimiento del valor social y económico de los datos y su comprensión como un {{activo}}."
+    },
+    {
+      "id": "dat-q-015",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 5.1",
+      "prompt": "¿Cuál es el objetivo general de la política del CONPES 3920?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aumentar el aprovechamiento de los datos como activos"
+        },
+        {
+          "id": "b",
+          "text": "Centralizar todos los datos públicos en una sola entidad"
+        },
+        {
+          "id": "c",
+          "text": "Prohibir el uso de datos personales en el sector público"
+        },
+        {
+          "id": "d",
+          "text": "Reemplazar a los funcionarios por sistemas automáticos"
+        }
+      ],
+      "answer": "a",
+      "explain": "El objetivo general es aumentar el aprovechamiento de datos en Colombia, desarrollando las condiciones para que se gestionen como activos que generan valor social y económico.",
+      "optionWhy": {
+        "b": "No es el objetivo de la política.",
+        "c": "La política protege los datos personales, no prohíbe todo uso.",
+        "d": "La política busca capital humano, no reemplazarlo."
+      }
+    },
+    {
+      "id": "dat-q-016",
+      "type": "match",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 5.2",
+      "prompt": "Relaciona cada problema del diagnóstico con el objetivo específico que lo atiende.",
+      "pairs": [
+        {
+          "left": "Pocos datos públicos digitales",
+          "right": "Masificar datos disponibles y de calidad"
+        },
+        {
+          "left": "Desconfianza e incertidumbre jurídica",
+          "right": "Generar seguridad jurídica"
+        },
+        {
+          "left": "Poco capital humano",
+          "right": "Disponer de capital humano"
+        },
+        {
+          "left": "Ausencia de cultura de datos",
+          "right": "Generar cultura de datos"
+        }
+      ],
+      "explain": "Son los cuatro objetivos específicos del CONPES 3920."
+    },
+    {
+      "id": "dat-q-017",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 44",
+      "prompt": "¿Qué dependencia de la DIAN diseña modelos de analítica avanzada para perfilamiento de riesgos, fiscalización, recaudo y cobranzas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La Subdirección de Información y Analítica"
+        },
+        {
+          "id": "b",
+          "text": "La Subdirección de Recaudo del nivel central"
+        },
+        {
+          "id": "c",
+          "text": "La Oficina de Control Interno de la entidad"
+        },
+        {
+          "id": "d",
+          "text": "La Subdirección de Gestión del Empleo Público"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 44 del D1742/2020 le asigna diseñar e implementar modelos de analítica avanzada para estadísticas, perfilamiento de riesgos, fiscalización, recaudo y cobranzas, entre otros.",
+      "optionWhy": {
+        "b": "Recaudo usa los modelos, pero no es la dependencia que los diseña.",
+        "c": "Control Interno evalúa la gestión.",
+        "d": "No tiene esa función."
+      }
+    },
+    {
+      "id": "dat-q-018",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "D1742/2020 art. 44, num. 1",
+      "case": "Usted detecta que en el sistema de cartera hay deudores duplicados con NIT mal digitados, lo que distorsiona los reportes.",
+      "prompt": "¿Qué instancia fija los lineamientos sobre la calidad y limpieza de esos datos?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cada funcionario, según su propio criterio personal."
+        },
+        {
+          "id": "b",
+          "text": "La que elabora la política de gobierno de datos."
+        },
+        {
+          "id": "c",
+          "text": "El proveedor externo que suministra el software de cartera."
+        }
+      ],
+      "answer": "b",
+      "explain": "La Subdirección de Información y Analítica elabora la política de gobierno de datos y ejerce gobernanza sobre la recolección, calidad, consistencia (limpieza de datos) y uso (art. 44, num. 1).",
+      "optionWhy": {
+        "a": "La calidad de los datos se rige por una política institucional.",
+        "c": "El proveedor no define la gobernanza de los datos de la entidad."
+      }
+    },
+    {
+      "id": "dat-q-019",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "D1742/2020 art. 43",
+      "statement": "La Dirección de Gestión Estratégica y de Analítica dirige la selección de insumos para la gestión del riesgo tributario, aduanero y cambiario y define lineamientos para la información exógena.",
+      "answer": true,
+      "explain": "Verdadero. Son funciones del art. 43 del D1742/2020, junto con la gobernanza de datos y el análisis masivo."
+    },
+    {
+      "id": "dat-q-020",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 855, par. 5",
+      "prompt": "¿Qué criterio usa la DIAN, entre otros, para la devolución automática de saldos a favor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que el contribuyente haya pedido la devolución en persona"
+        },
+        {
+          "id": "b",
+          "text": "Que el saldo a favor sea menor de 100 UVT en el periodo"
+        },
+        {
+          "id": "c",
+          "text": "Que no represente un riesgo alto según el análisis de riesgo"
+        },
+        {
+          "id": "d",
+          "text": "Que el contribuyente lleve más de diez años inscrito en el RUT"
+        }
+      ],
+      "answer": "c",
+      "explain": "La devolución automática aplica, entre otros requisitos, a quienes no representen un riesgo alto según el sistema de análisis de riesgo de la DIAN (art. 855, par. 5).",
+      "optionWhy": {
+        "a": "No es requisito de la devolución automática.",
+        "b": "El parágrafo no fija ese monto.",
+        "d": "No es requisito del parágrafo 5."
+      }
+    },
+    {
+      "id": "dat-q-021",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva); datos hipotéticos",
+      "case": "Una seccional tiene una cartera de $800 millones. De ese total, $200 millones corresponden a IVA, $480 millones a renta y $120 millones a retención en la fuente.",
+      "prompt": "¿Qué porcentaje de la cartera es de renta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "48 %"
+        },
+        {
+          "id": "b",
+          "text": "40 %"
+        },
+        {
+          "id": "c",
+          "text": "60 %"
+        }
+      ],
+      "answer": "c",
+      "explain": "$480 / $800 = 0,60, es decir, 60 %.",
+      "optionWhy": {
+        "a": "Se confundió el valor (480) con el porcentaje.",
+        "b": "Se dividió entre un total equivocado."
+      }
+    },
+    {
+      "id": "dat-q-022",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva); datos hipotéticos",
+      "case": "El recaudo de una campaña fue de $250 millones en el primer trimestre y de $300 millones en el segundo.",
+      "prompt": "¿Cuál fue la variación porcentual?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 %"
+        },
+        {
+          "id": "b",
+          "text": "50 %"
+        },
+        {
+          "id": "c",
+          "text": "16,7 %"
+        }
+      ],
+      "answer": "a",
+      "explain": "(300 − 250) / 250 = 0,20, es decir, 20 % de aumento.",
+      "optionWhy": {
+        "b": "Se tomó la diferencia (50) como porcentaje.",
+        "c": "Se dividió entre el valor final (50 / 300) en lugar del inicial."
+      }
+    },
+    {
+      "id": "dat-q-023",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva); datos hipotéticos",
+      "prompt": "Las deudas de cinco contribuyentes son $2, $3, $3, $4 y $38 millones. ¿Qué medida describe mejor la deuda típica?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El promedio, $10 millones, porque usa todos los datos"
+        },
+        {
+          "id": "b",
+          "text": "El máximo, $38 millones, porque es el caso más importante"
+        },
+        {
+          "id": "c",
+          "text": "La suma, $50 millones, porque muestra el total de la deuda"
+        },
+        {
+          "id": "d",
+          "text": "La mediana, $3 millones, que no se ve afectada por el extremo"
+        }
+      ],
+      "answer": "d",
+      "explain": "El promedio (50/5 = 10) se infla por el valor extremo de 38; la mediana (3) representa mejor la deuda típica.",
+      "optionWhy": {
+        "a": "El promedio se distorsiona por el valor atípico.",
+        "b": "El máximo es un solo caso, no lo típico.",
+        "c": "La suma no es una medida de lo típico."
+      }
+    },
+    {
+      "id": "dat-q-024",
+      "type": "open",
+      "difficulty": 3,
+      "source": "CONPES 3920 de 2018, secs. 3.2.1 y 5.2; D1742/2020 art. 44",
+      "prompt": "Propón cómo usaría la analítica de datos para mejorar la gestión de cartera en su dependencia.",
+      "modelAnswer": "Primero, asegurar la calidad de los datos (limpieza, NIT correctos, saldos unificados) según la política de gobierno de datos. Luego, analítica descriptiva para conocer la cartera por impuesto, antigüedad y monto; diagnóstica para entender por qué no se paga; predictiva para estimar qué deudores pagarán con un recordatorio; y prescriptiva para priorizar acciones (persuasivo, embargo, facilidades). Todo respetando la reserva tributaria y los datos personales.",
+      "keyPoints": [
+        "Calidad y gobernanza de datos",
+        "Tipos de analítica",
+        "Priorización de acciones",
+        "Reserva y datos personales"
+      ],
+      "keywords": [
+        "calidad",
+        "descriptiva",
+        "predictiva",
+        "priorizar",
+        "reserva",
+        "riesgo"
+      ],
+      "minKeywords": 4
+    },
+    {
+      "id": "dat-q-025",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "CONPES 3920 de 2018, sec. 3.2.1 (analítica descriptiva); datos hipotéticos",
+      "statement": "Si la cartera pasa de $400 a $300 millones, la variación es de −25 %.",
+      "answer": true,
+      "explain": "Verdadero. (300 − 400) ÷ 400 = −0,25: la cartera bajó 25 %."
+    }
+  ]
+}
