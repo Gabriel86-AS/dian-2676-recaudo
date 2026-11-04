@@ -1,7 +1,7 @@
 {
   "units": [
     { "id": "recaudo", "file": "units/recaudo.json", "title": "Proceso de recaudo", "area": "funcional", "priority": 1 },
-    { "id": "recepcion-declaraciones", "file": "units/recepcion-declaraciones.json", "title": "Generalidades de recepción de declaraciones tributarias y aduaneras", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "recepcion-declaraciones", "file": "units/recepcion-declaraciones.json", "title": "Generalidades de recepción de declaraciones tributarias y aduaneras", "area": "funcional", "priority": 1 },
     { "id": "entidades-recaudadoras", "file": "units/entidades-recaudadoras.json", "title": "Régimen sancionatorio de las entidades autorizadas a recaudar", "area": "funcional", "priority": 1, "pending": true },
     { "id": "extincion-obligaciones", "file": "units/extincion-obligaciones.json", "title": "Extinción de las obligaciones tributarias, aduaneras y cambiarias", "area": "funcional", "priority": 1, "pending": true },
     { "id": "titulos-ejecutivos", "file": "units/titulos-ejecutivos.json", "title": "Títulos ejecutivos y cobro de competencia de la DIAN", "area": "funcional", "priority": 1, "pending": true },

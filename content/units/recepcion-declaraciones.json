@@ -1,0 +1,879 @@
+{
+  "id": "recepcion-declaraciones",
+  "title": "Generalidades de recepción de declaraciones tributarias y aduaneras",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Cómo se reciben las declaraciones: clases, formularios, lugares, medios electrónicos, declaraciones no presentadas e ineficaces, corrección de inconsistencias sin sanción y presentación, aceptación y firmeza de la declaración de importación.",
+  "sources": [
+    "ET arts. 574, 578–581, 588 y 589",
+    "Ley 962 de 2005 art. 43",
+    "Decreto 1165 de 2019 arts. 176–179 y 188"
+  ],
+  "lessons": [
+    {
+      "id": "decl-01",
+      "title": "Clases de declaraciones, formularios y medios",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "decl-c-001",
+          "type": "concept",
+          "source": "ET arts. 574, 578, 579 y 579-2",
+          "title": "Qué se declara y cómo se presenta",
+          "body": "- **Clases (art. 574):** renta (**anual**), IVA (**bimestral**), retención en la fuente (**mensual**), timbre y activos en el exterior (**anual**). Los no contribuyentes presentan declaración de **ingresos y patrimonio**.\n- **Formularios (art. 578):** los que prescriba la **DIAN**; solo en casos excepcionales el Director autoriza otros.\n- **Lugares y plazos (art. 579):** los señala el **Gobierno Nacional**; la recepción puede hacerse por **bancos y entidades financieras**.\n- **Medios electrónicos (art. 579-2):** el Director señala por resolución quiénes están obligados. Si el obligado usa otro medio, la declaración **se tiene como no presentada**. No requiere firma autógrafa.\n- **Fallas técnicas o fuerza mayor:** no hay sanción por extemporaneidad si se presenta **a más tardar al día siguiente** del restablecimiento."
+        },
+        {
+          "ref": "decl-q-001"
+        },
+        {
+          "ref": "decl-q-002"
+        },
+        {
+          "ref": "decl-q-003"
+        },
+        {
+          "ref": "decl-q-004"
+        },
+        {
+          "ref": "decl-q-005"
+        },
+        {
+          "ref": "decl-q-006"
+        }
+      ]
+    },
+    {
+      "id": "decl-02",
+      "title": "No presentadas, ineficaces y firma del contador",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "decl-c-002",
+          "type": "concept",
+          "source": "ET art. 580",
+          "title": "Declaraciones que se tienen por no presentadas",
+          "body": "No se cumple el deber de declarar (art. 580) cuando:\n\n- **a.** No se presenta en los **lugares** señalados.\n- **b.** No se da la **identificación** del declarante o se da equivocada.\n- **c.** No contiene los factores para identificar las **bases gravables**.\n- **d.** No la **firma** quien debe declarar, o falta la firma del **contador o revisor fiscal** obligado.\n\n**Firma del contador (art. 581):** certifica que los libros se llevan en debida forma, reflejan razonablemente la situación financiera y, en retención, que las operaciones se sometieron a retención."
+        },
+        {
+          "id": "decl-c-003",
+          "type": "concept",
+          "source": "ET art. 580-1",
+          "title": "Retención en la fuente sin pago total",
+          "body": "- **Regla:** la declaración de retención presentada **sin pago total** no produce efecto legal alguno, **sin necesidad de acto**.\n- **Excepción 1:** el agente tiene un **saldo a favor ≥ 2 veces** la retención, generado antes, y pide la **compensación dentro de 6 meses**.\n- **Excepción 2:** presentada **antes del vencimiento**, produce efectos si el pago total se hace **dentro de los 2 meses** siguientes al vencimiento (con intereses de mora).\n- Mientras no se presente de nuevo con el pago, la declaración inicial **sirve para el cobro coactivo** como documento que reconoce una obligación clara, expresa y exigible."
+        },
+        {
+          "ref": "decl-q-007"
+        },
+        {
+          "ref": "decl-q-008"
+        },
+        {
+          "ref": "decl-q-009"
+        },
+        {
+          "ref": "decl-q-010"
+        },
+        {
+          "ref": "decl-q-011"
+        },
+        {
+          "ref": "decl-q-012"
+        },
+        {
+          "ref": "decl-q-013"
+        },
+        {
+          "ref": "decl-q-014"
+        }
+      ]
+    },
+    {
+      "id": "decl-03",
+      "title": "Corrección de errores e inconsistencias",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "decl-c-004",
+          "type": "concept",
+          "source": "Ley 962 de 2005 art. 43; ET arts. 588 y 589",
+          "title": "Verdad real sobre la formal",
+          "body": "**Corrección por la DIAN (Ley 962 art. 43):**\n\n- Inconsistencias en los formularios, como errores en el **concepto**, **año o periodo**: se corrigen **de oficio o a solicitud**, **sin sanción**, si no afectan el valor por declarar.\n- También errores de **NIT**, de **imputación** o **aritméticos**, si no son relevantes para definir de fondo el tributo.\n- **En cualquier tiempo**, ajustando los sistemas y registros, e **informando al interesado**.\n- La declaración corregida **reemplaza** a la presentada si en el **mes siguiente al aviso** no hay objeción escrita.\n\n**Corrección por el contribuyente:** para aumentar el impuesto, **3 años** (art. 588); para disminuirlo o aumentar el saldo a favor, **1 año** (art. 589)."
+        },
+        {
+          "ref": "decl-q-015"
+        },
+        {
+          "ref": "decl-q-016"
+        },
+        {
+          "ref": "decl-q-017"
+        },
+        {
+          "ref": "decl-q-018"
+        },
+        {
+          "ref": "decl-q-019"
+        },
+        {
+          "ref": "decl-q-026"
+        }
+      ]
+    },
+    {
+      "id": "decl-04",
+      "title": "La declaración de importación",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "decl-c-005",
+          "type": "concept",
+          "source": "D1165/2019 arts. 176, 178, 179 y 188",
+          "title": "Presentación, aceptación y firmeza",
+          "body": "- **Presentación (art. 176):** ante la **seccional con jurisdicción donde está la mercancía**, por los **Servicios Informáticos Electrónicos**.\n- **Validación (art. 178):** el sistema informa discrepancias. No se acepta, entre otros, si se presenta tarde, ante otra seccional, con **liquidación distinta** a la de la aduana o **sin datos esenciales** (modalidad, NIT, país de origen, subpartida, descripción, cantidad, valor, tributos).\n- **Aceptación (art. 179):** cuando la aduana asigna **número y fecha**. La no aceptación **no suspende** el término de permanencia en depósito.\n- **Firmeza (art. 188):** **3 años** desde la presentación y aceptación, salvo requerimiento especial aduanero notificado."
+        },
+        {
+          "ref": "decl-q-020"
+        },
+        {
+          "ref": "decl-q-021"
+        },
+        {
+          "ref": "decl-q-022"
+        },
+        {
+          "ref": "decl-q-023"
+        },
+        {
+          "ref": "decl-q-024"
+        },
+        {
+          "ref": "decl-q-025"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "decl-fc-001",
+      "front": "Periodicidad de las declaraciones de renta, IVA y retención",
+      "back": "Renta anual; IVA bimestral; retención en la fuente mensual.",
+      "source": "ET art. 574"
+    },
+    {
+      "id": "decl-fc-002",
+      "front": "¿Quién señala lugares y plazos para declarar?",
+      "back": "El Gobierno Nacional; puede recibir por bancos y entidades financieras.",
+      "source": "ET art. 579"
+    },
+    {
+      "id": "decl-fc-003",
+      "front": "Obligado a declarar en línea que presenta en papel",
+      "back": "La declaración se tiene como no presentada.",
+      "source": "ET art. 579-2"
+    },
+    {
+      "id": "decl-fc-004",
+      "front": "Falla de los servicios de la DIAN el día del vencimiento",
+      "back": "Sin sanción si declara a más tardar al día siguiente del restablecimiento.",
+      "source": "ET art. 579-2"
+    },
+    {
+      "id": "decl-fc-005",
+      "front": "Causales de declaración no presentada",
+      "back": "Lugar, identificación, factores de bases gravables, firma del obligado o del contador/revisor fiscal.",
+      "source": "ET art. 580"
+    },
+    {
+      "id": "decl-fc-006",
+      "front": "Retención en la fuente presentada sin pago total",
+      "back": "No produce efecto legal alguno, sin necesidad de acto (con excepciones).",
+      "source": "ET art. 580-1"
+    },
+    {
+      "id": "decl-fc-007",
+      "front": "Plazo para pagar una retención declarada sin pago antes del vencimiento",
+      "back": "Dentro de los 2 meses siguientes al vencimiento, con intereses.",
+      "source": "ET art. 580-1"
+    },
+    {
+      "id": "decl-fc-008",
+      "front": "Saldo a favor que evita la ineficacia de la retención sin pago",
+      "back": "Igual o superior a 2 veces la retención; pedir compensación en 6 meses.",
+      "source": "ET art. 580-1"
+    },
+    {
+      "id": "decl-fc-009",
+      "front": "Errores de periodo, concepto, NIT o imputación que no afectan el valor",
+      "back": "Se corrigen de oficio o a solicitud, sin sanción y en cualquier tiempo.",
+      "source": "Ley 962 de 2005 art. 43"
+    },
+    {
+      "id": "decl-fc-010",
+      "front": "Plazo para objetar una corrección de oficio",
+      "back": "Un mes siguiente al aviso; si no objeta, la corregida reemplaza a la presentada.",
+      "source": "Ley 962 de 2005 art. 43"
+    },
+    {
+      "id": "decl-fc-011",
+      "front": "¿Cuándo se acepta la declaración de importación?",
+      "back": "Cuando la aduana, previa validación electrónica, le asigna número y fecha.",
+      "source": "D1165/2019 art. 179"
+    },
+    {
+      "id": "decl-fc-012",
+      "front": "Firmeza de la declaración de importación",
+      "back": "3 años desde su presentación y aceptación, salvo requerimiento especial aduanero.",
+      "source": "D1165/2019 art. 188"
+    }
+  ],
+  "questions": [
+    {
+      "id": "decl-q-001",
+      "type": "match",
+      "difficulty": 1,
+      "source": "ET art. 574",
+      "prompt": "Relaciona cada declaración con su periodicidad.",
+      "pairs": [
+        {
+          "left": "Renta y complementarios",
+          "right": "Anual"
+        },
+        {
+          "left": "IVA (responsables)",
+          "right": "Bimestral"
+        },
+        {
+          "left": "Retención en la fuente",
+          "right": "Mensual"
+        },
+        {
+          "left": "Activos en el exterior",
+          "right": "Anual"
+        }
+      ],
+      "explain": "Son las clases de declaraciones del art. 574 del ET."
+    },
+    {
+      "id": "decl-q-002",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 578",
+      "prompt": "¿En qué formatos se presenta la declaración tributaria?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En los que prescriba la DIAN"
+        },
+        {
+          "id": "b",
+          "text": "En el formato libre que prefiera el contribuyente"
+        },
+        {
+          "id": "c",
+          "text": "En los que diseñe cada banco autorizado"
+        },
+        {
+          "id": "d",
+          "text": "En los que fije cada seccional"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 578 exige presentar la declaración en los formatos que prescriba la DIAN; solo en circunstancias excepcionales el Director puede autorizar otros.",
+      "optionWhy": {
+        "b": "No hay formato libre: rige el formulario oficial.",
+        "c": "Los bancos reciben, pero no diseñan los formularios.",
+        "d": "El art. 578 no da esa facultad a las seccionales."
+      }
+    },
+    {
+      "id": "decl-q-003",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 579",
+      "prompt": "¿Quién señala los lugares y plazos para presentar las declaraciones tributarias?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Congreso en cada ley de presupuesto"
+        },
+        {
+          "id": "b",
+          "text": "El Gobierno Nacional"
+        },
+        {
+          "id": "c",
+          "text": "Cada Dirección Seccional"
+        },
+        {
+          "id": "d",
+          "text": "La entidad recaudadora autorizada"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 579 dice que la presentación se hará en los lugares y plazos que señale el Gobierno Nacional, que también puede recibirlas a través de bancos y entidades financieras.",
+      "optionWhy": {
+        "a": "Los plazos no se fijan en la ley de presupuesto.",
+        "c": "Las seccionales no fijan los plazos generales.",
+        "d": "La entidad recaudadora recibe, no fija plazos."
+      }
+    },
+    {
+      "id": "decl-q-004",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 579-2",
+      "case": "Una empresa obligada a declarar por medios electrónicos presentó su declaración de IVA en papel, en un banco, dentro del plazo.",
+      "prompt": "¿Cómo debe tratarse esa declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Como presentada a tiempo, porque se entregó en un banco autorizado."
+        },
+        {
+          "id": "b",
+          "text": "Como presentada, pero con sanción por extemporaneidad."
+        },
+        {
+          "id": "c",
+          "text": "Como no presentada, porque usó un medio distinto al obligatorio."
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 579-2 dice que las declaraciones presentadas por un medio diferente por el obligado a usar el sistema electrónico se tienen como no presentadas.",
+      "optionWhy": {
+        "a": "El banco no sustituye el medio electrónico obligatorio.",
+        "b": "La consecuencia no es una sanción de extemporaneidad: se tiene por no presentada."
+      }
+    },
+    {
+      "id": "decl-q-005",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 579-2",
+      "case": "El último día del plazo, los servicios informáticos de la DIAN fallaron toda la tarde y un contribuyente no pudo presentar su declaración virtual. Los servicios se restablecieron al día siguiente a las 8:00 a. m.",
+      "prompt": "¿Hasta cuándo puede presentarla sin sanción por extemporaneidad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hasta el día siguiente al restablecimiento de los servicios."
+        },
+        {
+          "id": "b",
+          "text": "Hasta el último día hábil del mes siguiente al vencimiento."
+        },
+        {
+          "id": "c",
+          "text": "No hay plazo adicional: debe liquidar la sanción."
+        }
+      ],
+      "answer": "a",
+      "explain": "Si por inconvenientes técnicos no hay servicios, no se aplica la sanción del art. 641 cuando la declaración virtual se presenta a más tardar al día siguiente a aquel en que los servicios se restablecieron (art. 579-2).",
+      "optionWhy": {
+        "b": "El art. 579-2 no da un mes adicional.",
+        "c": "La norma sí prevé ese alivio por fallas técnicas o fuerza mayor."
+      }
+    },
+    {
+      "id": "decl-q-006",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 579-2",
+      "statement": "Cuando se declara por medios electrónicos, la validez de la declaración no requiere firma autógrafa.",
+      "answer": true,
+      "explain": "Verdadero. El art. 579-2 lo dice expresamente."
+    },
+    {
+      "id": "decl-q-007",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 580",
+      "prompt": "¿En cuál de estos casos la declaración se tiene por no presentada?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cuando se presenta un día después del vencimiento del plazo"
+        },
+        {
+          "id": "b",
+          "text": "Cuando trae un error aritmético en el total a pagar"
+        },
+        {
+          "id": "c",
+          "text": "Cuando el pago se hizo en un banco autorizado distinto"
+        },
+        {
+          "id": "d",
+          "text": "Cuando faltan los factores para identificar las bases gravables"
+        }
+      ],
+      "answer": "d",
+      "explain": "El lit. c del art. 580 incluye la falta de los factores necesarios para identificar las bases gravables.",
+      "optionWhy": {
+        "a": "Presentarla tarde la hace extemporánea, no inexistente.",
+        "b": "El error aritmético se corrige; no es causal del art. 580.",
+        "c": "Pagar en otro banco autorizado no es causal."
+      }
+    },
+    {
+      "id": "decl-q-008",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 580",
+      "prompt": "Relaciona cada literal del art. 580 con su causal.",
+      "pairs": [
+        {
+          "left": "Lit. a",
+          "right": "No presentarla en los lugares señalados"
+        },
+        {
+          "left": "Lit. b",
+          "right": "No suministrar la identificación o darla equivocada"
+        },
+        {
+          "left": "Lit. c",
+          "right": "Sin factores para identificar las bases gravables"
+        },
+        {
+          "left": "Lit. d",
+          "right": "Sin firma del obligado o del contador o revisor fiscal"
+        }
+      ],
+      "explain": "Causales vigentes del art. 580 (el lit. e fue derogado por la Ley 1430 de 2010)."
+    },
+    {
+      "id": "decl-q-009",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 580, lit. d",
+      "case": "Una sociedad obligada a tener revisor fiscal presenta su declaración de renta firmada solo por el representante legal.",
+      "prompt": "¿Qué efecto tiene la omisión?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es válida, pero con sanción por corrección."
+        },
+        {
+          "id": "b",
+          "text": "Es válida si el revisor firma un anexo después."
+        },
+        {
+          "id": "c",
+          "text": "Se tiene por no presentada."
+        }
+      ],
+      "answer": "c",
+      "explain": "Omitir la firma del contador público o revisor fiscal existiendo la obligación legal hace que la declaración se tenga por no presentada (art. 580, lit. d).",
+      "optionWhy": {
+        "a": "No es un tema de corrección: falta un requisito esencial.",
+        "b": "La ley no prevé subsanarla con un anexo posterior."
+      }
+    },
+    {
+      "id": "decl-q-010",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 580-1",
+      "case": "Un agente retenedor presentó a tiempo su declaración de retención en la fuente sin pagar. No tiene saldos a favor.",
+      "prompt": "¿Qué efecto tiene esa declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es válida y solo causa intereses de mora por el retardo."
+        },
+        {
+          "id": "b",
+          "text": "No produce efecto legal alguno, sin necesidad de acto."
+        },
+        {
+          "id": "c",
+          "text": "Se tiene por presentada cuando la DIAN la acepte."
+        }
+      ],
+      "answer": "b",
+      "explain": "Las declaraciones de retención en la fuente presentadas sin pago total no producen efecto legal alguno, sin necesidad de acto administrativo (art. 580-1), salvo las excepciones del mismo artículo.",
+      "optionWhy": {
+        "a": "La regla general es la ineficacia, no solo los intereses.",
+        "c": "La ineficacia opera sin acto; no hay aceptación posterior."
+      }
+    },
+    {
+      "id": "decl-q-011",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 580-1",
+      "case": "Un agente retenedor presentó su declaración de retención antes del vencimiento, sin pago total. Pagó la retención completa 40 días después del vencimiento del plazo para declarar.",
+      "prompt": "¿Qué efecto tiene la declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es ineficaz y debe presentar una nueva declaración."
+        },
+        {
+          "id": "b",
+          "text": "Produce efectos, pero debe pagar intereses moratorios."
+        },
+        {
+          "id": "c",
+          "text": "Produce efectos y no causa intereses de mora alguno."
+        }
+      ],
+      "answer": "b",
+      "explain": "La declaración presentada sin pago total antes del vencimiento produce efectos si el pago total se hace dentro de los 2 meses siguientes al vencimiento, sin perjuicio de los intereses moratorios (art. 580-1).",
+      "optionWhy": {
+        "a": "Pagó dentro de los 2 meses: la declaración produce efectos.",
+        "c": "El pago tardío sí causa intereses moratorios."
+      }
+    },
+    {
+      "id": "decl-q-012",
+      "type": "mcq",
+      "difficulty": 3,
+      "source": "ET art. 580-1",
+      "prompt": "Un agente retenedor puede presentar su declaración de retención sin pago, sin que sea ineficaz, si tiene un saldo a favor susceptible de compensar. ¿De qué valor mínimo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Igual o superior a la mitad de la retención a cargo"
+        },
+        {
+          "id": "b",
+          "text": "Cualquier valor, si se pide la compensación"
+        },
+        {
+          "id": "c",
+          "text": "Igual o superior a 100 UVT"
+        },
+        {
+          "id": "d",
+          "text": "Igual o superior a dos veces la retención a cargo"
+        }
+      ],
+      "answer": "d",
+      "explain": "El saldo a favor debe ser igual o superior a dos veces el valor de la retención a cargo, y la compensación debe pedirse dentro de los 6 meses siguientes (art. 580-1).",
+      "optionWhy": {
+        "a": "La ley exige dos veces, no la mitad.",
+        "b": "Sí hay un monto mínimo.",
+        "c": "El art. 580-1 no fija el umbral en UVT."
+      }
+    },
+    {
+      "id": "decl-q-013",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 580-1",
+      "statement": "Una declaración de retención ineficaz no sirve a la DIAN para el cobro coactivo.",
+      "answer": false,
+      "explain": "Falso. Mientras no se presente nuevamente con el pago, la declaración inicial se entiende como documento que reconoce una obligación clara, expresa y exigible, útil en el cobro coactivo (art. 580-1)."
+    },
+    {
+      "id": "decl-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 581",
+      "prompt": "¿Qué certifica la firma del contador público o revisor fiscal en la declaración?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que la DIAN aceptó la declaración y no podrá fiscalizarla"
+        },
+        {
+          "id": "b",
+          "text": "Que el impuesto fue pagado en un banco autorizado a tiempo"
+        },
+        {
+          "id": "c",
+          "text": "Que los libros se llevan en debida forma y son razonables"
+        },
+        {
+          "id": "d",
+          "text": "Que la declaración ya no podrá ser corregida en el futuro"
+        }
+      ],
+      "answer": "c",
+      "explain": "El art. 581 dice que esa firma certifica que los libros se llevan en debida forma, que reflejan razonablemente la situación financiera y, en retención, que las operaciones se sometieron a retención.",
+      "optionWhy": {
+        "a": "La firma no limita la fiscalización de la DIAN.",
+        "b": "El pago no lo certifica el contador.",
+        "d": "La firma no impide corregir."
+      }
+    },
+    {
+      "id": "decl-q-015",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "Ley 962 de 2005 art. 43",
+      "case": "Al revisar el estado de cuenta, usted encuentra un recibo de pago con el periodo equivocado: el contribuyente pagó el bimestre 3 de IVA pero marcó el bimestre 2. El valor es correcto.",
+      "prompt": "¿Qué procede?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Corregir el periodo de oficio, sin sanción, e informarle."
+        },
+        {
+          "id": "b",
+          "text": "Exigir una declaración de corrección con sanción por corrección."
+        },
+        {
+          "id": "c",
+          "text": "Devolver el pago y pedir que pague de nuevo el periodo correcto."
+        }
+      ],
+      "answer": "a",
+      "explain": "Las omisiones o errores en el concepto, año o periodo que no afecten el valor por declarar se pueden corregir de oficio o a solicitud de parte, sin sanción, para que prevalezca la verdad real sobre la formal (Ley 962 art. 43).",
+      "optionWhy": {
+        "b": "Es un error formal que no afecta el valor: se corrige sin sanción.",
+        "c": "No hay que devolver el pago; basta con corregir el periodo."
+      }
+    },
+    {
+      "id": "decl-q-016",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "Ley 962 de 2005 art. 43",
+      "statement": "La corrección de errores de NIT, de imputación o aritméticos por la DIAN solo puede hacerse dentro del año siguiente a la presentación.",
+      "answer": false,
+      "explain": "Falso. La corrección se puede hacer en cualquier tiempo, siempre que no sea relevante para definir de fondo el tributo (Ley 962 art. 43)."
+    },
+    {
+      "id": "decl-q-017",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "Ley 962 de 2005 art. 43",
+      "prompt": "La DIAN corrigió de oficio una inconsistencia en una declaración y avisó al contribuyente. ¿Cuándo reemplaza la declaración corregida a la presentada?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De inmediato, sin que el contribuyente pueda objetarla"
+        },
+        {
+          "id": "b",
+          "text": "Cuando el contribuyente firme la declaración corregida"
+        },
+        {
+          "id": "c",
+          "text": "Cuando quede en firme, tres años después del aviso"
+        },
+        {
+          "id": "d",
+          "text": "Si no la objeta por escrito en el mes siguiente al aviso"
+        }
+      ],
+      "answer": "d",
+      "explain": "La declaración corregida reemplaza a la presentada si dentro del mes siguiente al aviso el interesado no ha presentado por escrito ninguna objeción (Ley 962 art. 43).",
+      "optionWhy": {
+        "a": "El interesado tiene un mes para objetar.",
+        "b": "No se exige su firma: basta con que no objete.",
+        "c": "La firmeza no es el criterio de esta norma."
+      }
+    },
+    {
+      "id": "decl-q-018",
+      "type": "cloze",
+      "difficulty": 1,
+      "source": "Ley 962 de 2005 art. 43",
+      "text": "La corrección de inconsistencias se hace sin sanción para que prevalezca la verdad {{real}} sobre la {{formal}}."
+    },
+    {
+      "id": "decl-q-019",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET arts. 588 y 589",
+      "prompt": "Un contribuyente quiere corregir su declaración para disminuir el valor a pagar. ¿Dentro de qué término?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Un año siguiente al vencimiento del plazo para declarar"
+        },
+        {
+          "id": "b",
+          "text": "Tres años siguientes al vencimiento del plazo para declarar"
+        },
+        {
+          "id": "c",
+          "text": "En cualquier tiempo, sin límite"
+        },
+        {
+          "id": "d",
+          "text": "Un mes siguiente a la presentación"
+        }
+      ],
+      "answer": "a",
+      "explain": "Las correcciones que disminuyen el valor a pagar o aumentan el saldo a favor se presentan dentro del año siguiente al vencimiento del término para declarar (art. 589). Las que aumentan el impuesto tienen 3 años (art. 588).",
+      "optionWhy": {
+        "b": "Los 3 años son para las correcciones que aumentan el impuesto (art. 588).",
+        "c": "Sí hay término.",
+        "d": "No existe ese plazo de un mes."
+      }
+    },
+    {
+      "id": "decl-q-020",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "D1165/2019 art. 176",
+      "prompt": "¿Ante quién se presenta la declaración de importación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ante cualquier seccional del país, en el formulario de papel"
+        },
+        {
+          "id": "b",
+          "text": "Ante la seccional del lugar de la mercancía, en forma electrónica"
+        },
+        {
+          "id": "c",
+          "text": "Ante el banco autorizado donde se pagan los tributos aduaneros"
+        },
+        {
+          "id": "d",
+          "text": "Ante el Nivel Central de la DIAN en Bogotá, por correo certificado"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 176 del D1165 exige presentarla ante la Dirección Seccional con jurisdicción en el lugar donde se encuentre la mercancía, a través de los Servicios Informáticos Electrónicos.",
+      "optionWhy": {
+        "a": "Debe ser la seccional con jurisdicción y por medios electrónicos.",
+        "c": "El banco recibe el pago, no la declaración de importación.",
+        "d": "No se centraliza en el Nivel Central."
+      }
+    },
+    {
+      "id": "decl-q-021",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 178",
+      "case": "Al validar una declaración de importación, el sistema detecta que la liquidación de tributos hecha por el declarante es distinta de la que calcula la aduana con los mismos datos.",
+      "prompt": "¿Qué ocurre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Se acepta y luego se expide una liquidación oficial."
+        },
+        {
+          "id": "b",
+          "text": "Se acepta y se cobra la diferencia en el banco."
+        },
+        {
+          "id": "c",
+          "text": "No se acepta y se informa la discrepancia al declarante."
+        }
+      ],
+      "answer": "c",
+      "explain": "Es causal de no aceptación que la liquidación del declarante sea diferente de la efectuada por los servicios electrónicos con los datos suministrados (D1165 art. 178, num. 3); el sistema informa las discrepancias.",
+      "optionWhy": {
+        "a": "La validación ocurre antes de aceptar: aquí no se acepta.",
+        "b": "No se acepta una declaración con liquidación distinta."
+      }
+    },
+    {
+      "id": "decl-q-022",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 179",
+      "prompt": "¿Cuándo se entiende aceptada la declaración de importación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cuando el declarante paga todos los tributos aduaneros"
+        },
+        {
+          "id": "b",
+          "text": "Cuando la aduana autoriza el levante de la mercancía"
+        },
+        {
+          "id": "c",
+          "text": "Cuando el funcionario termina la inspección física"
+        },
+        {
+          "id": "d",
+          "text": "Cuando la aduana, tras validarla, le asigna número y fecha"
+        }
+      ],
+      "answer": "d",
+      "explain": "Se entiende aceptada cuando la autoridad aduanera, previa validación por los servicios electrónicos, asigna el número y fecha correspondiente (art. 179).",
+      "optionWhy": {
+        "a": "El pago es posterior a la aceptación (art. 17).",
+        "b": "El levante es una etapa posterior.",
+        "c": "La inspección no es requisito de aceptación."
+      }
+    },
+    {
+      "id": "decl-q-023",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 179",
+      "statement": "Si la declaración de importación no es aceptada, se suspende el término de permanencia de la mercancía en el depósito.",
+      "answer": false,
+      "explain": "Falso. La no aceptación no suspende ese término (art. 179)."
+    },
+    {
+      "id": "decl-q-024",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "D1165/2019 art. 188",
+      "prompt": "¿Cuándo queda en firme la declaración de importación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A los 3 años de su presentación y aceptación, salvo REA"
+        },
+        {
+          "id": "b",
+          "text": "A los 2 años contados desde el levante de la mercancía"
+        },
+        {
+          "id": "c",
+          "text": "A los 5 años contados desde el pago de los tributos"
+        },
+        {
+          "id": "d",
+          "text": "En el mismo momento en que la aduana la acepta"
+        }
+      ],
+      "answer": "a",
+      "explain": "Queda en firme transcurridos 3 años desde su presentación y aceptación, salvo que se haya notificado requerimiento especial aduanero (art. 188).",
+      "optionWhy": {
+        "b": "El término es de 3 años y se cuenta desde la presentación y aceptación.",
+        "c": "No es de 5 años ni se cuenta desde el pago.",
+        "d": "La aceptación inicia el término; no da firmeza."
+      }
+    },
+    {
+      "id": "decl-q-025",
+      "type": "order",
+      "difficulty": 2,
+      "source": "D1165/2019 arts. 176–179, 17 y 188",
+      "prompt": "Ordena las etapas de una declaración de importación.",
+      "items": [
+        "Presentación por los servicios electrónicos",
+        "Validación de las causales de no aceptación",
+        "Aceptación con número y fecha",
+        "Pago de los tributos aduaneros",
+        "Firmeza a los 3 años"
+      ],
+      "explain": "La aduana valida, acepta, luego se paga (art. 17) y la declaración queda en firme a los 3 años (art. 188)."
+    },
+    {
+      "id": "decl-q-026",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET arts. 580 y 580-1; Ley 962 de 2005 art. 43",
+      "prompt": "Diferencia una declaración «no presentada», una declaración «ineficaz» y una declaración con una inconsistencia corregible.",
+      "modelAnswer": "No presentada: no cumple un requisito esencial del art. 580 (lugar, identificación, bases gravables, firma). Ineficaz: la de retención en la fuente presentada sin pago total no produce efectos sin necesidad de acto (art. 580-1). Inconsistencia corregible: errores formales (periodo, concepto, NIT, imputación, aritméticos) que no afectan el valor y se corrigen sin sanción (Ley 962 art. 43).",
+      "keyPoints": [
+        "Art. 580: requisitos esenciales",
+        "Art. 580-1: retención sin pago",
+        "Ley 962 art. 43: error formal sin sanción"
+      ],
+      "keywords": [
+        "firma",
+        "identificacion",
+        "retencion",
+        "sin pago",
+        "sin sancion",
+        "formal"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}

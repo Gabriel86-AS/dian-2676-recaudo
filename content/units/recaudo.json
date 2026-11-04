@@ -486,19 +486,19 @@
         },
         {
           "id": "c",
-          "text": "Es válido y no puede devolverse por ningún concepto."
+          "text": "Se convierte en saldo a favor del siguiente periodo."
         },
         {
           "id": "d",
-          "text": "Se convierte en saldo a favor del siguiente periodo."
+          "text": "Es válido y no puede devolverse por ningún concepto."
         }
       ],
-      "answer": "c",
+      "answer": "d",
       "explain": "El parágrafo del art. 804 (DL 2106/2019) dice que esos pagos son válidos y no serán objeto de devolución por pago de lo no debido, pago en exceso ni otro concepto.",
       "optionWhy": {
         "a": "La norma dice expresamente lo contrario.",
         "b": "No se exige autorización previa.",
-        "d": "No genera saldo a favor: es un pago válido del mayor impuesto."
+        "c": "No genera saldo a favor: es un pago válido del mayor impuesto."
       }
     },
     {
@@ -523,27 +523,27 @@
       "options": [
         {
           "id": "a",
-          "text": "Por cada mes o fracción de mes de retardo"
+          "text": "Por cada día calendario de retardo en el pago"
         },
         {
           "id": "b",
-          "text": "Por cada día hábil de retardo en el pago"
+          "text": "Por cada mes o fracción de mes de retardo"
         },
         {
           "id": "c",
-          "text": "Una sola vez, al vencer el plazo"
+          "text": "Por cada día hábil de retardo en el pago"
         },
         {
           "id": "d",
-          "text": "Por cada día calendario de retardo en el pago"
+          "text": "Una sola vez, al vencer el plazo"
         }
       ],
-      "answer": "d",
+      "answer": "a",
       "explain": "El art. 634 ordena liquidar y pagar intereses moratorios por cada día calendario de retardo.",
       "optionWhy": {
-        "a": "El cálculo es diario, no mensual.",
-        "b": "Se cuentan días calendario, no hábiles.",
-        "c": "Los intereses corren mientras dure el retardo."
+        "b": "El cálculo es diario, no mensual.",
+        "c": "Se cuentan días calendario, no hábiles.",
+        "d": "Los intereses corren mientras dure el retardo."
       }
     },
     {
@@ -588,21 +588,21 @@
       "options": [
         {
           "id": "a",
-          "text": "Desde el día siguiente al vencimiento del plazo de pago de 2023."
+          "text": "Desde la fecha de notificación de la liquidación de revisión."
         },
         {
           "id": "b",
-          "text": "Desde la fecha de notificación de la liquidación de revisión."
+          "text": "Desde el día siguiente al vencimiento del plazo de pago de 2023."
         },
         {
           "id": "c",
           "text": "Desde la fecha en que quedó en firme la liquidación."
         }
       ],
-      "answer": "a",
+      "answer": "b",
       "explain": "Los mayores valores determinados en liquidaciones oficiales causan intereses desde el día siguiente al vencimiento del término en que debieron pagarse, según los plazos del periodo liquidado (art. 634).",
       "optionWhy": {
-        "b": "Los intereses no se cuentan desde la notificación, sino desde el vencimiento original.",
+        "a": "Los intereses no se cuentan desde la notificación, sino desde el vencimiento original.",
         "c": "La firmeza del acto no marca el inicio de los intereses."
       }
     },
@@ -620,18 +620,18 @@
         },
         {
           "id": "b",
-          "text": "Intereses al doble de la tasa de mora, sin trámite previo."
+          "text": "Ninguna, porque el contribuyente ya quedó al día."
         },
         {
           "id": "c",
-          "text": "Ninguna, porque el contribuyente ya quedó al día."
+          "text": "Intereses al doble de la tasa de mora, sin trámite previo."
         }
       ],
-      "answer": "b",
+      "answer": "c",
       "explain": "Si la entidad no consigna a tiempo, causa intereses a la tasa de mora sin trámite previo; si además la casilla «Pago total» informada no coincide con el valor real, se liquidan al doble de la tasa (art. 634, par. 1).",
       "optionWhy": {
         "a": "Los intereses del par. 1 se generan sin necesidad de trámite previo.",
-        "c": "El retardo en consignar es una falta propia del banco, distinta del pago del contribuyente."
+        "b": "El retardo en consignar es una falta propia del banco, distinta del pago del contribuyente."
       }
     },
     {
@@ -687,27 +687,27 @@
       "options": [
         {
           "id": "a",
-          "text": "Dentro de los cinco primeros días hábiles de cada mes"
-        },
-        {
-          "id": "b",
           "text": "Dentro de los dos meses siguientes al levante"
         },
         {
-          "id": "c",
+          "id": "b",
           "text": "El último día hábil del mes en que obtuvo el levante"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "Al momento de la aceptación de cada declaración"
+        },
+        {
+          "id": "d",
+          "text": "Dentro de los cinco primeros días hábiles de cada mes"
         }
       ],
-      "answer": "a",
+      "answer": "d",
       "explain": "El OEA paga en forma consolidada dentro de los primeros cinco días hábiles de cada mes las declaraciones con levante del mes anterior (D1165 art. 18, num. 1).",
       "optionWhy": {
-        "b": "Los dos meses son para pagar declaraciones de salida de zona franca (art. 17, par. 2).",
-        "c": "El plazo es al inicio del mes, no al final.",
-        "d": "El beneficio del pago consolidado es justamente no pagar declaración por declaración."
+        "a": "Los dos meses son para pagar declaraciones de salida de zona franca (art. 17, par. 2).",
+        "b": "El plazo es al inicio del mes, no al final.",
+        "c": "El beneficio del pago consolidado es justamente no pagar declaración por declaración."
       }
     },
     {
@@ -775,22 +775,22 @@
       "options": [
         {
           "id": "a",
-          "text": "Cobrar de nuevo el impuesto a los contribuyentes que pagaron."
+          "text": "Liquidar intereses de mora a cargo de la entidad recaudadora."
         },
         {
           "id": "b",
-          "text": "Anular los recibos de pago hasta que la entidad haga la consignación."
+          "text": "Cobrar de nuevo el impuesto a los contribuyentes que pagaron."
         },
         {
           "id": "c",
-          "text": "Liquidar intereses de mora a cargo de la entidad recaudadora."
+          "text": "Anular los recibos de pago hasta que la entidad haga la consignación."
         }
       ],
-      "answer": "c",
+      "answer": "a",
       "explain": "Los contribuyentes pagaron en la fecha en que el dinero ingresó al banco (art. 803). La entidad que no consigna a tiempo causa intereses a su cargo sin trámite previo (art. 634, par. 1).",
       "optionWhy": {
-        "a": "El pago de los contribuyentes es válido desde que ingresó al banco autorizado.",
-        "b": "La norma no prevé anular los recibos: el incumplimiento es de la entidad."
+        "b": "El pago de los contribuyentes es válido desde que ingresó al banco autorizado.",
+        "c": "La norma no prevé anular los recibos: el incumplimiento es de la entidad."
       }
     },
     {
