@@ -7,7 +7,7 @@ import path from 'node:path';
 
 const [,, SITE, PROFILE, SHOTS] = process.argv;
 const EDGE = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe';
-const port = 9333;
+const port = Number(process.env.E2E_PORT) || 9333; // E2E_PORT evita choques con otras sesiones de Edge
 const edge = spawn(EDGE, ['--headless=new', '--disable-gpu', `--user-data-dir=${PROFILE}`, `--remote-debugging-port=${port}`, '--window-size=390,844', 'about:blank'], { stdio: 'ignore' });
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let ws, seq = 0; const pending = new Map(); const logs = [];

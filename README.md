@@ -7,7 +7,7 @@ Sitio de estudio para la prueba escrita **DIAN 2676 – Gestor III, código 303 
 HTML, CSS y JavaScript sin frameworks ni paso de compilación; contenido en JSON; pensado primero para el celular.
 
 ## Qué incluye
-- **20 unidades**: una por indicador de la OPEC (recaudo, recepción de declaraciones, régimen sancionatorio de entidades recaudadoras, extinción de obligaciones, títulos ejecutivos y cobro, devoluciones, principios contables, analítica de datos, estructura, misionalidad, razonamiento, competencias comportamentales e integridad), más cobro persuasivo e insolvencia, el Código de Buen Gobierno de la DIAN (cartera, seguridad de la información y datos) y, como prioridad 3, los temas básicos de la ficha (CPACA, Constitución y PQRSF, MIPG, gestión documental, sistema tributario y contrabando). Lecciones cortas, tarjetas y banco de preguntas (selección múltiple, juicio situacional, V/F, relacionar, ordenar, completar y abiertas). Cada ítem cita su fuente legal.
+- **21 unidades**: una por indicador de la OPEC (recaudo, recepción de declaraciones, régimen sancionatorio de entidades recaudadoras, extinción de obligaciones, títulos ejecutivos y cobro, devoluciones, principios contables, analítica de datos, estructura, misionalidad, razonamiento, competencias comportamentales e integridad), más cobro persuasivo e insolvencia, el Código de Buen Gobierno de la DIAN (cartera, seguridad de la información y datos), las herramientas informáticas de la DIAN (RUT, firma electrónica, pago electrónico, factura y notificación electrónica) y, como prioridad 3, los temas básicos de la ficha (CPACA, Constitución y PQRSF, MIPG, gestión documental, sistema tributario y contrabando). Lecciones cortas, tarjetas y banco de preguntas (selección múltiple, juicio situacional, V/F, relacionar, ordenar, completar y abiertas). Cada ítem cita su fuente legal.
 - **Repaso espaciado** (Leitner, 5 cajas) y **Mis errores**.
 - **Simulacros**: 8 fijos (básico, intermedio, avanzado, uno centrado en el núcleo de recaudo y cartera, y la simulación del examen de 5 h con autoinforme Likert) y uno aleatorio. Puntaje 0–100 truncado a dos decimales, meta 70,00.
 - **Autoinforme comportamental e integridad** (Likert, sin puntaje) con pantalla de reflexión.
@@ -27,7 +27,7 @@ Herramientas de revisión (requieren el paquete de fuentes `dian_2676_recursos/`
 
 ## Pruebas
 - `node tests/progress.test.js` · `node tests/simulacro.test.js`
-- Navegador (Edge headless, Windows): sirve la raíz con `python -m http.server 8765` y ejecuta `node tests/e2e/qa-site.mjs http://localhost:8765 <perfil-temporal> <capturas>` (y `simulacro-basico.mjs` y `simulacro-examen.mjs`).
+- Navegador (Edge headless, Windows): sirve la raíz con `python -m http.server 8765` y ejecuta `node tests/e2e/qa-site.mjs http://localhost:8765 <perfil-temporal> <capturas>` (y `simulacro-basico.mjs` y `simulacro-examen.mjs`). Si otra sesión usa el mismo puerto de depuración, fija uno libre con `E2E_PORT=9461`.
 
 ## Publicación
 GitHub Pages desde la rama `main` (raíz). Basta `git push`.

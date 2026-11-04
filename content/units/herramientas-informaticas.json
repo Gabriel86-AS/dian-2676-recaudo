@@ -1,0 +1,610 @@
+{
+  "id": "herramientas-informaticas",
+  "title": "Herramientas informáticas de la DIAN: RUT, firma, pagos y factura electrónica",
+  "area": "funcional",
+  "priority": 2,
+  "summary": "Los servicios digitales que usa a diario la gestión de recaudo: RUT y NIT, cuenta de usuario y firma electrónica, recibo oficial de pago y pago electrónico a través de las entidades autorizadas para recaudar, factura electrónica y notificación electrónica.",
+  "sources": [
+    "ET arts. 555-1, 555-2, 566-1, 579-2 y 616-1",
+    "DIAN, Abecé medios de pago de impuestos (dian.gov.co, consultado 04-11-2026)",
+    "DIAN, Paso a paso: cómo habilitar su cuenta de usuario y generar su firma electrónica (2025)"
+  ],
+  "lessons": [
+    {
+      "id": "hinf-01",
+      "title": "RUT, cuenta de usuario y firma electrónica",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "hinf-c-001",
+          "type": "concept",
+          "source": "ET arts. 555-1, 555-2 y 579-2; DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025)",
+          "title": "La puerta de entrada a los servicios de la DIAN",
+          "body": "- **RUT (ET art. 555-2):** mecanismo **único** para **identificar, ubicar y clasificar** a contribuyentes, responsables, retenedores, usuarios aduaneros y demás obligados. La inscripción es **previa** al inicio de la actividad económica. El **NIT** es su código de identificación.\n- **Cuenta de usuario y firma electrónica (guía DIAN):** quien está inscrito en el RUT con correo o celular activos habilita su cuenta en el portal **Transaccional** («Usuario registrado»). Recibe un **código de seguridad** por correo o SMS, lo valida y crea su contraseña. **La contraseña de la cuenta es la misma de la firma electrónica.**\n- La firma electrónica es **obligatoria para autenticar documentos** ante la DIAN.\n- **Declaraciones electrónicas (ET art. 579-2):** no requieren firma autógrafa; el obligado que declara por otro medio se tiene como **no presentado**."
+        },
+        {
+          "ref": "hinf-q-001"
+        },
+        {
+          "ref": "hinf-q-002"
+        },
+        {
+          "ref": "hinf-q-003"
+        },
+        {
+          "ref": "hinf-q-004"
+        },
+        {
+          "ref": "hinf-q-005"
+        },
+        {
+          "ref": "hinf-q-006"
+        }
+      ]
+    },
+    {
+      "id": "hinf-02",
+      "title": "Recibo oficial de pago y pago electrónico",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "hinf-c-002",
+          "type": "concept",
+          "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+          "title": "Cómo se paga a la DIAN",
+          "body": "- **Electrónico:** **PSE** (débito a cuenta corriente o de ahorros) o **tarjeta de crédito**. Se diligencia el **recibo de pago** en los servicios de la DIAN, que queda «**pendiente de pago**», y se paga en el canal de la **EAR** (entidad autorizada para recaudar) elegida.\n- Sirve para impuestos, anticipos, retenciones, sanciones e intereses, y para tributos aduaneros de declaraciones presentadas en línea. **No** aplica a pagos con **TIDIS, bonos o títulos**.\n- **No se exige firma electrónica para pagar.**\n- **Si falla el pago en línea:** el banco tiene **30 minutos** para resolver; luego se puede pagar **presencialmente** con el recibo impreso (2 ejemplares).\n- **Intercambio de datos:** la DIAN envía a la EAR el número del recibo, el valor, la **fecha límite**, el concepto y la identificación; la EAR devuelve el número de autorización, la fecha y hora (no posterior a la fecha límite), el canal, el medio y su código.\n- **Corresponsales bancarios:** con el **formulario 490** (recibo oficial de pago).\n- **Presencial:** no se exige cédula ni RUT; **no hay que enviar soporte**: la EAR reporta el pago.\n- La DIAN publica el prevalidador del «Reporte de Recaudos y Consignaciones de las EAR»."
+        },
+        {
+          "ref": "hinf-q-007"
+        },
+        {
+          "ref": "hinf-q-008"
+        },
+        {
+          "ref": "hinf-q-009"
+        },
+        {
+          "ref": "hinf-q-010"
+        },
+        {
+          "ref": "hinf-q-011"
+        },
+        {
+          "ref": "hinf-q-012"
+        },
+        {
+          "ref": "hinf-q-013"
+        },
+        {
+          "ref": "hinf-q-014"
+        },
+        {
+          "ref": "hinf-q-015"
+        }
+      ]
+    },
+    {
+      "id": "hinf-03",
+      "title": "Factura electrónica y notificación electrónica",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "hinf-c-003",
+          "type": "concept",
+          "source": "ET arts. 566-1 y 616-1",
+          "title": "Documentos y actos electrónicos",
+          "body": "**Sistema de facturación (art. 616-1):** factura de venta, **documentos equivalentes** y los documentos electrónicos que determine la DIAN. Las facturas electrónicas deben ser **validadas por la DIAN antes de su expedición**. La de **papel** solo vale ante **inconvenientes tecnológicos**. No transmitir en debida forma, expedir sin requisitos o no expedir tiene sanción (arts. 651, 652 y 652-1).\n\n**Notificación electrónica (art. 566-1):** los actos (incluidos los del **cobro**) se notifican al correo informado. Se entiende surtida en la **fecha de envío**, pero los términos para responder o impugnar corren **5 días después de la entrega**. Si no puede abrir el acto por razones tecnológicas, el interesado avisa en **3 días** y se reenvía **una sola vez**."
+        },
+        {
+          "ref": "hinf-q-016"
+        },
+        {
+          "ref": "hinf-q-017"
+        },
+        {
+          "ref": "hinf-q-018"
+        },
+        {
+          "ref": "hinf-q-019"
+        },
+        {
+          "ref": "hinf-q-020"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "hinf-fc-001",
+      "front": "RUT",
+      "back": "Mecanismo único para identificar, ubicar y clasificar a los obligados; su código es el NIT.",
+      "source": "ET art. 555-2"
+    },
+    {
+      "id": "hinf-fc-002",
+      "front": "Contraseña de la cuenta de usuario DIAN",
+      "back": "Es la misma de la firma electrónica.",
+      "source": "DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025)"
+    },
+    {
+      "id": "hinf-fc-003",
+      "front": "¿Para qué es obligatoria la firma electrónica?",
+      "back": "Para autenticar los documentos ante la DIAN (no para pagar).",
+      "source": "DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025); DIAN, Abecé medios de pago de impuestos (dian.gov.co)"
+    },
+    {
+      "id": "hinf-fc-004",
+      "front": "Medios de pago electrónico de impuestos",
+      "back": "PSE (débito a cuenta) y tarjeta de crédito, en una EAR.",
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)"
+    },
+    {
+      "id": "hinf-fc-005",
+      "front": "Pago con TIDIS o bonos",
+      "back": "No aplica la transacción electrónica.",
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)"
+    },
+    {
+      "id": "hinf-fc-006",
+      "front": "Si falla el pago en línea",
+      "back": "Esperar 30 minutos y pagar presencialmente con el recibo impreso.",
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)"
+    },
+    {
+      "id": "hinf-fc-007",
+      "front": "Formulario para pagar en corresponsales bancarios",
+      "back": "Recibo oficial de pago, formulario 490.",
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)"
+    },
+    {
+      "id": "hinf-fc-008",
+      "front": "Validación de la factura electrónica",
+      "back": "La DIAN la valida antes de su expedición.",
+      "source": "ET art. 616-1"
+    },
+    {
+      "id": "hinf-fc-009",
+      "front": "Términos tras una notificación electrónica",
+      "back": "Corren 5 días después de la entrega del correo.",
+      "source": "ET art. 566-1"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hinf-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 555-2",
+      "prompt": "¿Qué es el RUT según el Estatuto Tributario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El mecanismo único para identificar y ubicar a los obligados"
+        },
+        {
+          "id": "b",
+          "text": "El formulario para presentar la declaración anual de renta"
+        },
+        {
+          "id": "c",
+          "text": "La base de datos de los deudores morosos del Estado"
+        },
+        {
+          "id": "d",
+          "text": "El registro de todas las facturas electrónicas expedidas"
+        }
+      ],
+      "answer": "a",
+      "explain": "El RUT es el mecanismo único para identificar, ubicar y clasificar a contribuyentes, responsables, retenedores, usuarios aduaneros y demás sujetos de obligaciones administradas por la DIAN. El NIT es su código de identificación.",
+      "optionWhy": {
+        "b": "La declaración de renta es otro formulario.",
+        "c": "Ese es el Boletín de Deudores Morosos de la Contaduría.",
+        "d": "Las facturas pertenecen al sistema de facturación (art. 616-1)."
+      }
+    },
+    {
+      "id": "hinf-q-002",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 555-2, par. 1",
+      "statement": "El NIT es el código de identificación de los inscritos en el RUT.",
+      "answer": true,
+      "explain": "Verdadero. Lo dice el parágrafo 1 del art. 555-2."
+    },
+    {
+      "id": "hinf-q-003",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025)",
+      "prompt": "Según la DIAN, ¿para qué es obligatoria la firma electrónica?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Para pagar los impuestos a través de PSE"
+        },
+        {
+          "id": "b",
+          "text": "Para autenticar documentos ante la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "Para consultar el estado de cualquier RUT"
+        },
+        {
+          "id": "d",
+          "text": "Para pagar en un corresponsal bancario"
+        }
+      ],
+      "answer": "b",
+      "explain": "La guía de la DIAN dice que la firma electrónica es obligatoria para autenticar los documentos ante la entidad; la contraseña de la cuenta de usuario es la misma de la firma.",
+      "optionWhy": {
+        "a": "Para pagar no se exige firma electrónica (Abecé de medios de pago).",
+        "c": "La consulta del estado del RUT es pública.",
+        "d": "En el corresponsal se paga con el recibo 490."
+      }
+    },
+    {
+      "id": "hinf-q-004",
+      "type": "order",
+      "difficulty": 2,
+      "source": "DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025)",
+      "prompt": "Ordena los pasos para habilitar la cuenta de usuario y generar la firma electrónica.",
+      "items": [
+        "Ingresar al portal Transaccional como usuario registrado",
+        "Diligenciar los datos y habilitar la cuenta",
+        "Recibir el código de seguridad por correo o SMS",
+        "Validar el código",
+        "Crear la contraseña, aceptar condiciones y generar la firma"
+      ],
+      "explain": "Es el paso a paso publicado por la Subdirección de Servicio al Ciudadano en Asuntos Tributarios."
+    },
+    {
+      "id": "hinf-q-005",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025)",
+      "case": "Un contribuyente inscrito en el RUT, con correo registrado, dice que no puede firmar su declaración en línea porque nunca habilitó su cuenta.",
+      "prompt": "¿Qué le indica?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Presentar la declaración en papel en cualquier banco."
+        },
+        {
+          "id": "b",
+          "text": "Pedir a un funcionario que firme la declaración por él."
+        },
+        {
+          "id": "c",
+          "text": "Habilitar su cuenta y generar la firma electrónica."
+        }
+      ],
+      "answer": "c",
+      "explain": "Si está inscrito en el RUT y tiene correo o celular activos, habilita su cuenta como usuario registrado y genera la firma con la misma contraseña.",
+      "optionWhy": {
+        "a": "Si está obligado a declarar en línea, en papel se tiene como no presentada (ET art. 579-2).",
+        "b": "Un funcionario no puede firmar por el contribuyente."
+      }
+    },
+    {
+      "id": "hinf-q-006",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 579-2",
+      "statement": "La declaración presentada por medios electrónicos no requiere firma autógrafa para su validez.",
+      "answer": true,
+      "explain": "Verdadero. Lo dispone el art. 579-2."
+    },
+    {
+      "id": "hinf-q-007",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "prompt": "¿Qué medios de pago electrónico ofrece la DIAN para las obligaciones tributarias?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo la transferencia internacional de fondos"
+        },
+        {
+          "id": "b",
+          "text": "Solo efectivo en las cajas de las seccionales"
+        },
+        {
+          "id": "c",
+          "text": "Criptomonedas y billeteras digitales privadas"
+        },
+        {
+          "id": "d",
+          "text": "PSE con débito a cuenta y tarjeta de crédito"
+        }
+      ],
+      "answer": "d",
+      "explain": "El Abecé indica PSE con débito de cuenta corriente o de ahorros, o pago con tarjeta de crédito.",
+      "optionWhy": {
+        "a": "La transferencia internacional es para pagos desde el exterior.",
+        "b": "Las seccionales no reciben pagos en efectivo; se paga en las EAR.",
+        "c": "No están previstas."
+      }
+    },
+    {
+      "id": "hinf-q-008",
+      "type": "order",
+      "difficulty": 2,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "prompt": "Ordena los pasos de un pago electrónico de impuestos.",
+      "items": [
+        "Diligenciar el recibo de pago en los servicios de la DIAN",
+        "El recibo queda «pendiente de pago»",
+        "Pagar en el canal de la EAR elegida",
+        "La EAR confirma en línea la transacción",
+        "La EAR reporta el pago a la DIAN"
+      ],
+      "explain": "El recibo se genera en los sistemas de la DIAN y la entidad autorizada para recaudar (EAR) procesa y reporta el pago."
+    },
+    {
+      "id": "hinf-q-009",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "statement": "Para pagar impuestos por medios electrónicos es requisito tener firma electrónica.",
+      "answer": false,
+      "explain": "Falso. La firma no se exige para pagar; se requiere para firmar la declaración que se paga."
+    },
+    {
+      "id": "hinf-q-010",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "prompt": "¿Con qué medio NO aplica la transacción de pago electrónico?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Títulos de devolución (TIDIS) y bonos"
+        },
+        {
+          "id": "b",
+          "text": "Débito a una cuenta de ahorros por PSE"
+        },
+        {
+          "id": "c",
+          "text": "Débito a una cuenta corriente por PSE"
+        },
+        {
+          "id": "d",
+          "text": "Tarjeta de crédito del contribuyente"
+        }
+      ],
+      "answer": "a",
+      "explain": "El pago con TIDIS, bonos, certificados y títulos similares no se hace por transacción electrónica.",
+      "optionWhy": {
+        "b": "Es un medio electrónico válido (PSE).",
+        "c": "Es un medio electrónico válido (PSE).",
+        "d": "Es un medio electrónico válido."
+      }
+    },
+    {
+      "id": "hinf-q-011",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "case": "Un contribuyente generó su recibo de pago en línea, pero la transacción por PSE falló y el plazo vence hoy.",
+      "prompt": "¿Qué le aconseja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Generar un recibo nuevo cada cinco minutos hasta que el pago funcione."
+        },
+        {
+          "id": "b",
+          "text": "Esperar al día siguiente; la DIAN no cobrará intereses por la falla."
+        },
+        {
+          "id": "c",
+          "text": "Esperar 30 minutos y, si sigue igual, pagar en una EAR con el recibo."
+        }
+      ],
+      "answer": "c",
+      "explain": "Si no puede pagar en línea, usa el recibo diligenciado y paga presencialmente en una EAR; el banco tiene 30 minutos para resolver la transacción, por eso se recomienda esperar ese tiempo.",
+      "optionWhy": {
+        "a": "Repetir recibos no resuelve la falla bancaria.",
+        "b": "Pagar tarde causa intereses (ET art. 634); la DIAN ofrece el pago presencial."
+      }
+    },
+    {
+      "id": "hinf-q-012",
+      "type": "match",
+      "difficulty": 3,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "prompt": "Relaciona cada dato con quién lo envía en el pago electrónico.",
+      "pairs": [
+        {
+          "left": "Número del recibo pendiente y fecha límite de pago",
+          "right": "La DIAN a la EAR"
+        },
+        {
+          "left": "Número de autorización de la operación financiera",
+          "right": "La EAR a la DIAN"
+        },
+        {
+          "left": "Canal y medio de pago utilizados",
+          "right": "La EAR a la DIAN"
+        }
+      ],
+      "explain": "La DIAN envía a la EAR los datos del recibo; la EAR devuelve los de la transacción, que no puede ser posterior a la fecha límite del recibo."
+    },
+    {
+      "id": "hinf-q-013",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "prompt": "¿Con qué formulario se paga en los corresponsales bancarios?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El formulario 110 de la declaración de renta"
+        },
+        {
+          "id": "b",
+          "text": "La declaración de importación de la mercancía"
+        },
+        {
+          "id": "c",
+          "text": "El formulario de inscripción en el RUT"
+        },
+        {
+          "id": "d",
+          "text": "El recibo oficial de pago, formulario 490"
+        }
+      ],
+      "answer": "d",
+      "explain": "En los corresponsales bancarios se paga presentando un ejemplar del recibo oficial de pago, formulario 490.",
+      "optionWhy": {
+        "a": "El 110 es una declaración, no un recibo de pago.",
+        "b": "No es el documento para pagar en corresponsales.",
+        "c": "El RUT no sirve para pagar."
+      }
+    },
+    {
+      "id": "hinf-q-014",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co)",
+      "statement": "Después de pagar en el banco, el contribuyente debe enviar el soporte del pago a la DIAN.",
+      "answer": false,
+      "explain": "Falso. No es necesario: la entidad recaudadora envía la información del pago a la DIAN."
+    },
+    {
+      "id": "hinf-q-015",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co); ET arts. 801 y 676",
+      "case": "Revisando el sistema, usted ve que un pago presencial del último día del plazo aún no aparece reportado por el banco tres días después.",
+      "prompt": "¿Qué es lo correcto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cobrar al contribuyente intereses por los tres días de diferencia."
+        },
+        {
+          "id": "b",
+          "text": "Tener el pago por hecho y verificar el reporte tardío de la EAR."
+        },
+        {
+          "id": "c",
+          "text": "Pedir al contribuyente que vuelva a pagar con un recibo nuevo."
+        }
+      ],
+      "answer": "b",
+      "explain": "La fecha de pago es la del ingreso al banco (ET art. 803); la EAR debe reportar y entregar la información a tiempo (art. 801), y su retraso tiene sanción (art. 676).",
+      "optionWhy": {
+        "a": "El contribuyente pagó a tiempo.",
+        "c": "El pago ya es válido; el problema es del reporte de la EAR."
+      }
+    },
+    {
+      "id": "hinf-q-016",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 616-1",
+      "prompt": "¿Qué comprende el sistema de facturación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La factura de venta, los equivalentes y otros que fije la DIAN"
+        },
+        {
+          "id": "b",
+          "text": "Solo la factura de talonario de papel de cada vendedor"
+        },
+        {
+          "id": "c",
+          "text": "Solo los recibos oficiales de pago que emite la DIAN"
+        },
+        {
+          "id": "d",
+          "text": "Las declaraciones bimestrales de IVA y de retención"
+        }
+      ],
+      "answer": "a",
+      "explain": "El art. 616-1 incluye la factura de venta, los documentos equivalentes y los documentos electrónicos que determine la DIAN para control y soporte.",
+      "optionWhy": {
+        "b": "La factura de papel solo vale ante inconvenientes tecnológicos.",
+        "c": "Los recibos de pago no son documentos del sistema de facturación.",
+        "d": "Las declaraciones son otro deber formal."
+      }
+    },
+    {
+      "id": "hinf-q-017",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 616-1",
+      "statement": "Las facturas electrónicas de venta deben ser validadas por la DIAN antes de su expedición para tener reconocimiento tributario.",
+      "answer": true,
+      "explain": "Verdadero. Así lo exige el art. 616-1."
+    },
+    {
+      "id": "hinf-q-018",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 566-1",
+      "case": "La DIAN envió por correo electrónico un mandamiento de pago el 2 de marzo; el correo se entregó ese mismo día. El deudor pregunta desde cuándo corren sus términos.",
+      "prompt": "¿Qué le responde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La notificación se surte solo cuando él abra el correo electrónico."
+        },
+        {
+          "id": "b",
+          "text": "Se notificó el 2 de marzo; sus términos corren 5 días después."
+        },
+        {
+          "id": "c",
+          "text": "Sus términos corren desde el 2 de marzo, sin ningún día adicional."
+        }
+      ],
+      "answer": "b",
+      "explain": "La notificación electrónica se entiende surtida en la fecha del envío, pero los términos para responder o impugnar comienzan a correr 5 días después de la entrega del correo (art. 566-1).",
+      "optionWhy": {
+        "a": "No depende de que abra el correo.",
+        "c": "La ley da 5 días antes de que corran los términos."
+      }
+    },
+    {
+      "id": "hinf-q-019",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "ET art. 566-1",
+      "text": "Si el contribuyente no puede abrir el acto notificado por razones tecnológicas, debe avisar a la DIAN dentro de los {{3}} días siguientes a su entrega para que se lo envíe de nuevo por una sola vez.",
+      "alternatives": {
+        "3": [
+          "tres"
+        ]
+      }
+    },
+    {
+      "id": "hinf-q-020",
+      "type": "open",
+      "difficulty": 3,
+      "source": "DIAN, Abecé medios de pago de impuestos (dian.gov.co); DIAN, Paso a paso: cuenta de usuario y firma electrónica (2025); ET arts. 555-2, 566-1 y 616-1",
+      "prompt": "Explica a un contribuyente nuevo qué herramientas digitales de la DIAN usará para cumplir y pagar.",
+      "modelAnswer": "Primero se inscribe en el RUT y obtiene su NIT. Habilita su cuenta de usuario en el portal Transaccional y genera la firma electrónica (misma contraseña), que necesita para firmar declaraciones. Para pagar, genera el recibo oficial en los servicios de la DIAN y paga por PSE o tarjeta en una entidad autorizada para recaudar, o presencialmente con el recibo impreso; no debe enviar soporte porque el banco reporta el pago. Si factura, usa la factura electrónica validada por la DIAN, y recibe los actos de la DIAN por notificación electrónica en el correo que registró.",
+      "keyPoints": [
+        "RUT y NIT",
+        "Cuenta y firma electrónica",
+        "Recibo de pago y EAR",
+        "Factura y notificación electrónica"
+      ],
+      "keywords": [
+        "rut",
+        "firma",
+        "recibo",
+        "pse",
+        "factura",
+        "notificacion"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}
