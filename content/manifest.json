@@ -4,7 +4,7 @@
     { "id": "recepcion-declaraciones", "file": "units/recepcion-declaraciones.json", "title": "Generalidades de recepción de declaraciones tributarias y aduaneras", "area": "funcional", "priority": 1 },
     { "id": "entidades-recaudadoras", "file": "units/entidades-recaudadoras.json", "title": "Régimen sancionatorio de las entidades autorizadas a recaudar", "area": "funcional", "priority": 1 },
     { "id": "extincion-obligaciones", "file": "units/extincion-obligaciones.json", "title": "Extinción de las obligaciones tributarias, aduaneras y cambiarias", "area": "funcional", "priority": 1 },
-    { "id": "titulos-ejecutivos", "file": "units/titulos-ejecutivos.json", "title": "Títulos ejecutivos y cobro de competencia de la DIAN", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "titulos-ejecutivos", "file": "units/titulos-ejecutivos.json", "title": "Títulos ejecutivos y cobro de competencia de la DIAN", "area": "funcional", "priority": 1 },
     { "id": "devoluciones", "file": "units/devoluciones.json", "title": "Devoluciones de impuestos y de tributos aduaneros", "area": "funcional", "priority": 1, "pending": true },
     { "id": "principios-contables", "file": "units/principios-contables.json", "title": "Principios financieros y contables aplicables a la gestión tributaria", "area": "funcional", "priority": 2, "pending": true },
     { "id": "analitica-datos", "file": "units/analitica-datos.json", "title": "Analítica de datos", "area": "funcional", "priority": 2, "pending": true },

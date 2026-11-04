@@ -1,0 +1,900 @@
+{
+  "id": "titulos-ejecutivos",
+  "title": "Títulos ejecutivos y cobro de competencia de la DIAN",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Qué documentos permiten a la DIAN cobrar y cómo: títulos ejecutivos y su ejecutoria, mandamiento de pago, excepciones y recursos, medidas cautelares y remate, facilidades de pago y la intervención de la DIAN en sucesiones, concordatos, liquidaciones y otros procesos concursales.",
+  "sources": [
+    "ET arts. 580-1, 814, 823–849-1"
+  ],
+  "lessons": [
+    {
+      "id": "tit-01",
+      "title": "Títulos ejecutivos y su ejecutoria",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "tit-c-001",
+          "type": "concept",
+          "source": "ET arts. 828, 828-1, 829 y 580-1",
+          "title": "Con qué cobra la DIAN",
+          "body": "**Prestan mérito ejecutivo (art. 828):**\n\n1. Las **liquidaciones privadas** y sus correcciones (declaraciones), desde el vencimiento de la fecha para pagar.\n2. Las **liquidaciones oficiales ejecutoriadas**.\n3. Los demás **actos ejecutoriados** que fijen sumas líquidas a favor del fisco.\n4. Las **garantías y cauciones**, desde la ejecutoria del acto que declara el incumplimiento.\n5. Las **sentencias** ejecutoriadas sobre impuestos.\n\nBasta la **certificación** del director o su delegado sobre la existencia y valor de las liquidaciones; para los intereses, la liquidación del funcionario.\n\n**Solidarios (art. 828-1):** el título contra el principal sirve contra ellos; se vinculan con el **mandamiento de pago**.\n\n**Ejecutoria (art. 829):** sin recurso procedente, recursos no interpuestos a tiempo, renuncia o desistimiento, o decisión definitiva.\n\n**Retención sin pago (art. 580-1):** sirve como título aunque sea ineficaz."
+        },
+        {
+          "ref": "tit-q-001"
+        },
+        {
+          "ref": "tit-q-002"
+        },
+        {
+          "ref": "tit-q-003"
+        },
+        {
+          "ref": "tit-q-004"
+        },
+        {
+          "ref": "tit-q-005"
+        },
+        {
+          "ref": "tit-q-006"
+        }
+      ]
+    },
+    {
+      "id": "tit-02",
+      "title": "Mandamiento de pago, excepciones y recursos",
+      "minutes": 10,
+      "steps": [
+        {
+          "id": "tit-c-002",
+          "type": "concept",
+          "source": "ET arts. 823–826, 829-1, 830–836",
+          "title": "El procedimiento administrativo coactivo",
+          "body": "- **Competencia (arts. 824–825):** funcionarios de **cobranzas**; territorialmente, donde se originó la obligación o donde está domiciliado el deudor. Se pueden **acumular** procesos.\n- **Mandamiento (art. 826):** ordena pagar la deuda más intereses. Notificación **personal**, previa **citación de 10 días**; si no comparece, **por correo**. Puede incluir varios títulos.\n- **Plazo (art. 830):** **15 días** para pagar o proponer **excepciones** por escrito.\n- **Excepciones (art. 831):** pago efectivo, acuerdo de pago, falta o pérdida de ejecutoria, demanda pendiente, **prescripción**, falta de título o incompetencia. Solidarios: además, no ser solidario e indebida tasación.\n- **No se reabre** lo que debió discutirse en la vía gubernativa (art. 829-1).\n- **Decisión (art. 832):** en **1 mes**. Si se rechazan: **reposición** en 1 mes (art. 834). Sin excepciones ni pago: orden de ejecución **sin recurso** (art. 836).\n- **Demanda (art. 835):** solo contra la resolución que falla excepciones; no suspende el cobro, pero el remate espera el fallo."
+        },
+        {
+          "ref": "tit-q-007"
+        },
+        {
+          "ref": "tit-q-008"
+        },
+        {
+          "ref": "tit-q-009"
+        },
+        {
+          "ref": "tit-q-010"
+        },
+        {
+          "ref": "tit-q-011"
+        },
+        {
+          "ref": "tit-q-012"
+        },
+        {
+          "ref": "tit-q-013"
+        },
+        {
+          "ref": "tit-q-014"
+        }
+      ]
+    },
+    {
+      "id": "tit-03",
+      "title": "Medidas cautelares y remate",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "tit-c-003",
+          "type": "concept",
+          "source": "ET arts. 836-1, 837–840 y 849-1",
+          "title": "Embargar, secuestrar y rematar",
+          "body": "- **Cuándo (art. 837):** **previa o simultáneamente** con el mandamiento. Los bienes se identifican con información tributaria o de entidades, que deben responder.\n- **Levantamiento:** si se admitió demanda contra el título y está pendiente de fallo, o si se presta **garantía** bancaria o de seguros tras demandar la resolución de excepciones.\n- **Inembargabilidad (art. 837-1):** personas naturales, **25 salarios mínimos** en la cuenta de ahorros **más antigua**; personas jurídicas, **sin límite**. No se embargan inmuebles con patrimonio de familia inembargable o afectación a vivienda familiar.\n- **Límite (art. 838):** el **doble de la deuda** más intereses.\n- **Remate (art. 840):** en firme el avalúo, directamente o por terceros; puede ser **virtual**.\n- **Gastos (art. 836-1):** los paga el deudor.\n- **Irregularidades (art. 849-1):** se subsanan antes de aprobar el remate."
+        },
+        {
+          "ref": "tit-q-015"
+        },
+        {
+          "ref": "tit-q-016"
+        },
+        {
+          "ref": "tit-q-017"
+        },
+        {
+          "ref": "tit-q-018"
+        },
+        {
+          "ref": "tit-q-019"
+        },
+        {
+          "ref": "tit-q-020"
+        }
+      ]
+    },
+    {
+      "id": "tit-04",
+      "title": "Facilidades de pago y procesos concursales",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "tit-c-004",
+          "type": "concept",
+          "source": "ET arts. 814 y 841",
+          "title": "Facilidades y acuerdos de pago",
+          "body": "- **Facilidades (art. 814):** por resolución, hasta **5 años**, con garantía suficiente (fideicomiso, bienes, garantías personales, reales, bancarias o de seguros). Garantías **personales** si la deuda **≤ 3.000 UVT**.\n- **Sin garantías:** plazo **≤ 1 año** y sin incumplimientos de facilidades el año anterior; se firma **acta**.\n- **Incumplimiento:** resolución que deja sin efecto la facilidad y ordena embargo y remate; **reposición en 5 días**.\n- **Plazo adicional:** el Director puede dar **2 años más** en casos especiales.\n- **En el cobro (art. 841):** el acuerdo de pago **suspende** el procedimiento y permite levantar medidas; si se incumple, se reanuda.\n- Las facilidades **interrumpen la prescripción** (art. 818)."
+        },
+        {
+          "id": "tit-c-005",
+          "type": "concept",
+          "source": "ET arts. 827 y 844–849",
+          "title": "La DIAN en procesos concursales y especiales",
+          "body": "- **Concordato (art. 827):** avisada la DIAN, se **suspende** el cobro coactivo y se interviene en el concordato.\n- **Sucesiones (art. 844):** si los bienes superan **700 UVT**, se informa a la DIAN antes de la partición; si en **20 días** no se hace parte, el trámite sigue.\n- **Concursos, quiebras, liquidaciones (art. 846):** el juez informa en **10 días** para que la DIAN haga valer las deudas, con su **prelación**.\n- **Disolución de sociedades (art. 847):** aviso del representante legal en **10 días**.\n- **Personería (art. 848):** basta el **auto comisorio**; la DIAN presenta la liquidación de la deuda en **20 días**.\n- **Independencia (art. 849):** la intervención no impide el cobro coactivo."
+        },
+        {
+          "ref": "tit-q-021"
+        },
+        {
+          "ref": "tit-q-022"
+        },
+        {
+          "ref": "tit-q-023"
+        },
+        {
+          "ref": "tit-q-024"
+        },
+        {
+          "ref": "tit-q-025"
+        },
+        {
+          "ref": "tit-q-026"
+        },
+        {
+          "ref": "tit-q-027"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "tit-fc-001",
+      "front": "Títulos ejecutivos de la DIAN",
+      "back": "Liquidaciones privadas, liquidaciones oficiales ejecutoriadas, actos ejecutoriados con sumas líquidas, garantías y sentencias.",
+      "source": "ET art. 828"
+    },
+    {
+      "id": "tit-fc-002",
+      "front": "¿Desde cuándo es título la liquidación privada?",
+      "back": "Desde el vencimiento de la fecha para su pago.",
+      "source": "ET art. 828, num. 1"
+    },
+    {
+      "id": "tit-fc-003",
+      "front": "¿Cómo se vincula al deudor solidario?",
+      "back": "Con la notificación del mandamiento de pago, que fija su monto individual.",
+      "source": "ET art. 828-1"
+    },
+    {
+      "id": "tit-fc-004",
+      "front": "Notificación del mandamiento de pago",
+      "back": "Personal, previa citación de 10 días; si no comparece, por correo.",
+      "source": "ET art. 826"
+    },
+    {
+      "id": "tit-fc-005",
+      "front": "Plazo para pagar o excepcionar",
+      "back": "15 días desde la notificación del mandamiento.",
+      "source": "ET art. 830"
+    },
+    {
+      "id": "tit-fc-006",
+      "front": "Plazo de la DIAN para decidir excepciones",
+      "back": "Un mes desde su presentación.",
+      "source": "ET art. 832"
+    },
+    {
+      "id": "tit-fc-007",
+      "front": "Recurso contra la resolución que rechaza excepciones",
+      "back": "Reposición, dentro del mes siguiente; se resuelve en un mes.",
+      "source": "ET art. 834"
+    },
+    {
+      "id": "tit-fc-008",
+      "front": "Recurso contra la orden de ejecución sin excepciones",
+      "back": "Ninguno.",
+      "source": "ET art. 836"
+    },
+    {
+      "id": "tit-fc-009",
+      "front": "¿Cuándo se decretan las medidas preventivas?",
+      "back": "Previa o simultáneamente con el mandamiento de pago.",
+      "source": "ET art. 837"
+    },
+    {
+      "id": "tit-fc-010",
+      "front": "Límite de los embargos",
+      "back": "El doble de la deuda más sus intereses.",
+      "source": "ET art. 838"
+    },
+    {
+      "id": "tit-fc-011",
+      "front": "Inembargabilidad para personas naturales",
+      "back": "25 salarios mínimos en la cuenta de ahorros más antigua.",
+      "source": "ET art. 837-1"
+    },
+    {
+      "id": "tit-fc-012",
+      "front": "Plazo general de las facilidades de pago",
+      "back": "Hasta 5 años con garantía; sin garantía si es ≤ 1 año y sin incumplimientos previos.",
+      "source": "ET art. 814"
+    },
+    {
+      "id": "tit-fc-013",
+      "front": "Efecto del acuerdo de pago en el cobro coactivo",
+      "back": "Suspende el procedimiento y permite levantar medidas.",
+      "source": "ET art. 841"
+    },
+    {
+      "id": "tit-fc-014",
+      "front": "Plazo para que la DIAN presente la liquidación en procesos concursales",
+      "back": "20 días desde el aviso; acredita personería con el auto comisorio.",
+      "source": "ET art. 848"
+    }
+  ],
+  "questions": [
+    {
+      "id": "tit-q-001",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 828",
+      "prompt": "¿Cuál de estos documentos presta mérito ejecutivo para el cobro coactivo de la DIAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La liquidación oficial ejecutoriada"
+        },
+        {
+          "id": "b",
+          "text": "El requerimiento especial notificado"
+        },
+        {
+          "id": "c",
+          "text": "El emplazamiento para declarar"
+        },
+        {
+          "id": "d",
+          "text": "El auto de inspección tributaria"
+        }
+      ],
+      "answer": "a",
+      "explain": "El num. 2 del art. 828 incluye las liquidaciones oficiales ejecutoriadas.",
+      "optionWhy": {
+        "b": "El requerimiento especial es un acto previo; no fija una suma exigible.",
+        "c": "El emplazamiento invita a declarar; no es título.",
+        "d": "El auto de inspección es de trámite."
+      }
+    },
+    {
+      "id": "tit-q-002",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 828",
+      "prompt": "Relaciona cada título ejecutivo con el momento desde el que presta mérito ejecutivo.",
+      "pairs": [
+        {
+          "left": "Liquidación privada (declaración)",
+          "right": "Desde el vencimiento de la fecha para pagar"
+        },
+        {
+          "left": "Liquidación oficial",
+          "right": "Cuando está ejecutoriada"
+        },
+        {
+          "left": "Garantía o caución",
+          "right": "Desde la ejecutoria del acto que declara el incumplimiento"
+        },
+        {
+          "left": "Intereses de la deuda",
+          "right": "Basta la liquidación del funcionario competente"
+        }
+      ],
+      "explain": "Son los numerales 1, 2 y 4 y el parágrafo del art. 828."
+    },
+    {
+      "id": "tit-q-003",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 828, par.",
+      "case": "Para iniciar el cobro de una declaración de IVA presentada y no pagada, un compañero propone pedir al contribuyente una copia autenticada de la declaración.",
+      "prompt": "¿Qué basta como soporte del título?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La copia autenticada que entregue el contribuyente ante un notario."
+        },
+        {
+          "id": "b",
+          "text": "La certificación del director o su delegado sobre la liquidación."
+        },
+        {
+          "id": "c",
+          "text": "Una sentencia judicial que declare la existencia de la deuda fiscal."
+        }
+      ],
+      "answer": "b",
+      "explain": "Para las liquidaciones privadas y oficiales basta la certificación del administrador o su delegado sobre su existencia y valor; para los intereses, la liquidación del funcionario competente (art. 828, par.).",
+      "optionWhy": {
+        "a": "No se requiere la colaboración del deudor.",
+        "c": "La DIAN cobra directamente, sin sentencia previa."
+      }
+    },
+    {
+      "id": "tit-q-004",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 828-1",
+      "statement": "Para cobrar a un deudor solidario, la DIAN debe constituir un título ejecutivo individual contra él.",
+      "answer": false,
+      "explain": "Falso. Los títulos contra el deudor principal lo son contra los solidarios y subsidiarios, sin títulos adicionales; se vinculan con la notificación del mandamiento de pago, que determina su monto individual (art. 828-1)."
+    },
+    {
+      "id": "tit-q-005",
+      "type": "match",
+      "difficulty": 2,
+      "source": "ET art. 829",
+      "prompt": "Relaciona cada situación con la causal de ejecutoria del art. 829.",
+      "pairs": [
+        {
+          "left": "Contra el acto no procede recurso",
+          "right": "Num. 1"
+        },
+        {
+          "left": "Venció el término y no se recurrió",
+          "right": "Num. 2"
+        },
+        {
+          "left": "El contribuyente desistió del recurso",
+          "right": "Num. 3"
+        },
+        {
+          "left": "Los recursos y demandas se decidieron en forma definitiva",
+          "right": "Num. 4"
+        }
+      ],
+      "explain": "El acto que sirve de título debe estar ejecutoriado (art. 829)."
+    },
+    {
+      "id": "tit-q-006",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET arts. 580-1 y 828",
+      "case": "Un agente retenedor presentó su declaración de retención sin pago y quedó marcada como ineficaz en el sistema. No ha vuelto a presentarla.",
+      "prompt": "¿Puede la DIAN usar esa declaración en el cobro coactivo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No: una declaración ineficaz no produce ningún efecto legal."
+        },
+        {
+          "id": "b",
+          "text": "Solo si antes se expide una liquidación oficial de aforo."
+        },
+        {
+          "id": "c",
+          "text": "Sí: la ley la tiene como documento que reconoce la deuda."
+        }
+      ],
+      "answer": "c",
+      "explain": "Mientras no se presente de nuevo con pago, la declaración inicial se entiende como documento que reconoce una obligación clara, expresa y exigible útil en el cobro coactivo (art. 580-1).",
+      "optionWhy": {
+        "a": "La ineficacia no impide usarla como título en el cobro.",
+        "b": "La ley no exige liquidación previa para este caso."
+      }
+    },
+    {
+      "id": "tit-q-007",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 826",
+      "case": "Usted libró un mandamiento de pago y envió citación al deudor para notificarlo personalmente. Pasaron 10 días y no compareció.",
+      "prompt": "¿Qué sigue?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notificar el mandamiento por correo."
+        },
+        {
+          "id": "b",
+          "text": "Archivar el proceso hasta que el deudor aparezca."
+        },
+        {
+          "id": "c",
+          "text": "Emplazar al deudor por edicto durante un mes."
+        }
+      ],
+      "answer": "a",
+      "explain": "Si vencido el término de 10 días el deudor no comparece, el mandamiento se notifica por correo (art. 826).",
+      "optionWhy": {
+        "b": "El proceso no se archiva: se notifica por correo.",
+        "c": "El art. 826 prevé el correo, no un edicto de un mes."
+      }
+    },
+    {
+      "id": "tit-q-008",
+      "type": "mcq",
+      "difficulty": 1,
+      "source": "ET art. 830",
+      "prompt": "¿De cuánto tiempo dispone el deudor para pagar o proponer excepciones contra el mandamiento de pago?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 días desde la citación"
+        },
+        {
+          "id": "b",
+          "text": "1 mes desde la notificación"
+        },
+        {
+          "id": "c",
+          "text": "2 meses desde la notificación"
+        },
+        {
+          "id": "d",
+          "text": "15 días desde la notificación"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 830 da 15 días siguientes a la notificación del mandamiento de pago para pagar o proponer excepciones por escrito.",
+      "optionWhy": {
+        "a": "Los 10 días son el plazo para comparecer a notificarse (art. 826).",
+        "b": "Un mes es el plazo de la DIAN para decidir las excepciones (art. 832).",
+        "c": "No es el término legal."
+      }
+    },
+    {
+      "id": "tit-q-009",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 831",
+      "prompt": "¿Cuál de estas es una excepción válida contra el mandamiento de pago?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La falta de liquidez del deudor"
+        },
+        {
+          "id": "b",
+          "text": "La prescripción de la acción de cobro"
+        },
+        {
+          "id": "c",
+          "text": "El desacuerdo con la tarifa del impuesto"
+        },
+        {
+          "id": "d",
+          "text": "La falta de notificación del emplazamiento"
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 831 incluye la prescripción de la acción de cobro, junto con el pago efectivo, el acuerdo de pago, la falta o pérdida de ejecutoria del título, la demanda pendiente y la falta de título o incompetencia.",
+      "optionWhy": {
+        "a": "La situación económica no es excepción legal.",
+        "c": "Las discusiones de fondo debieron darse en la vía gubernativa (art. 829-1).",
+        "d": "No está en la lista del art. 831."
+      }
+    },
+    {
+      "id": "tit-q-010",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 831, par.",
+      "statement": "El deudor solidario puede proponer, además de las excepciones generales, la de no tener la calidad de deudor solidario y la de indebida tasación del monto.",
+      "answer": true,
+      "explain": "Verdadero. Son las dos excepciones adicionales del parágrafo del art. 831."
+    },
+    {
+      "id": "tit-q-011",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 829-1",
+      "case": "En las excepciones contra el mandamiento, el deudor alega que la liquidación oficial le aplicó mal una deducción. No interpuso el recurso de reconsideración en su momento.",
+      "prompt": "¿Qué debe hacer el funcionario de cobro?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Revisar de nuevo la deducción y ajustar la deuda."
+        },
+        {
+          "id": "b",
+          "text": "Suspender el cobro hasta que fiscalización revise el caso."
+        },
+        {
+          "id": "c",
+          "text": "Rechazar ese argumento: debió discutirse en la vía gubernativa."
+        }
+      ],
+      "answer": "c",
+      "explain": "En el procedimiento de cobro no pueden debatirse cuestiones que debieron discutirse en la vía gubernativa (art. 829-1).",
+      "optionWhy": {
+        "a": "El cobro no reabre la determinación del impuesto.",
+        "b": "Ese argumento no suspende el cobro."
+      }
+    },
+    {
+      "id": "tit-q-012",
+      "type": "order",
+      "difficulty": 2,
+      "source": "ET arts. 826, 830, 832, 834 y 836",
+      "prompt": "Ordena las etapas del cobro coactivo cuando el deudor propone excepciones y se rechazan.",
+      "items": [
+        "Mandamiento de pago",
+        "Notificación (personal o por correo)",
+        "Excepciones dentro de 15 días",
+        "Resolución que rechaza excepciones y ordena la ejecución",
+        "Reposición dentro del mes siguiente",
+        "Remate de los bienes embargados"
+      ],
+      "explain": "La resolución que rechaza las excepciones ordena la ejecución y el remate; contra ella solo procede reposición (art. 834)."
+    },
+    {
+      "id": "tit-q-013",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 836",
+      "prompt": "Si vence el término sin que el deudor pague ni proponga excepciones, ¿qué recurso procede contra la resolución que ordena la ejecución?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reposición dentro del mes siguiente"
+        },
+        {
+          "id": "b",
+          "text": "Reconsideración dentro de dos meses"
+        },
+        {
+          "id": "c",
+          "text": "Apelación ante el Director Seccional"
+        },
+        {
+          "id": "d",
+          "text": "Ninguno"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 836 dice que contra la resolución que ordena la ejecución y el remate no procede recurso alguno.",
+      "optionWhy": {
+        "a": "La reposición procede contra la resolución que rechaza excepciones (art. 834).",
+        "b": "La reconsideración no aplica en el cobro.",
+        "c": "No procede apelación."
+      }
+    },
+    {
+      "id": "tit-q-014",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 835",
+      "prompt": "¿Qué actos del cobro coactivo pueden demandarse ante lo contencioso administrativo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Las resoluciones que fallan excepciones y ordenan la ejecución"
+        },
+        {
+          "id": "b",
+          "text": "Todos los autos de embargo y secuestro de bienes del deudor"
+        },
+        {
+          "id": "c",
+          "text": "El mandamiento de pago, en cualquier caso y en cualquier momento"
+        },
+        {
+          "id": "d",
+          "text": "Las citaciones enviadas para notificar el mandamiento de pago"
+        }
+      ],
+      "answer": "a",
+      "explain": "Solo son demandables las resoluciones que fallan las excepciones y ordenan llevar adelante la ejecución; la demanda no suspende el cobro, pero el remate espera el fallo definitivo (art. 835).",
+      "optionWhy": {
+        "b": "Las actuaciones de cobro son de trámite (art. 833-1).",
+        "c": "El mandamiento no es demandable según el art. 835.",
+        "d": "La citación es de trámite."
+      }
+    },
+    {
+      "id": "tit-q-015",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 837",
+      "case": "Usted identificó en la información tributaria que un deudor tiene un inmueble y cuentas bancarias. Aún no ha librado el mandamiento de pago.",
+      "prompt": "¿Cuándo puede decretar el embargo y secuestro preventivo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solo después de resolver las excepciones."
+        },
+        {
+          "id": "b",
+          "text": "Previa o simultáneamente con el mandamiento de pago."
+        },
+        {
+          "id": "c",
+          "text": "Solo cuando la orden de ejecución esté en firme."
+        }
+      ],
+      "answer": "b",
+      "explain": "El art. 837 permite decretar el embargo y secuestro preventivo previa o simultáneamente con el mandamiento de pago.",
+      "optionWhy": {
+        "a": "Las medidas son preventivas: no hay que esperar las excepciones.",
+        "c": "Tampoco hay que esperar la orden de ejecución."
+      }
+    },
+    {
+      "id": "tit-q-016",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 838",
+      "prompt": "¿Cuál es el límite del valor de los bienes embargados?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El valor exacto de la deuda"
+        },
+        {
+          "id": "b",
+          "text": "El triple de la deuda sin intereses"
+        },
+        {
+          "id": "c",
+          "text": "El doble de la deuda más sus intereses"
+        },
+        {
+          "id": "d",
+          "text": "No tiene límite si la deuda es grande"
+        }
+      ],
+      "answer": "c",
+      "explain": "El valor de los bienes embargados no puede exceder el doble de la deuda más sus intereses; si lo excede, se reduce el embargo (art. 838).",
+      "optionWhy": {
+        "a": "El límite es el doble, no el valor exacto.",
+        "b": "No es el triple.",
+        "d": "El art. 838 sí fija un límite."
+      }
+    },
+    {
+      "id": "tit-q-017",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET art. 837-1",
+      "case": "Una persona natural deudora tiene una sola cuenta de ahorros, su cuenta más antigua, con un saldo menor a 25 salarios mínimos mensuales.",
+      "prompt": "¿Puede la DIAN embargar ese saldo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sí: la DIAN puede embargar cualquier saldo."
+        },
+        {
+          "id": "b",
+          "text": "Sí, pero solo el 50 % del saldo."
+        },
+        {
+          "id": "c",
+          "text": "No: está dentro del límite de inembargabilidad."
+        }
+      ],
+      "answer": "c",
+      "explain": "Para personas naturales, el límite de inembargabilidad es de 25 salarios mínimos mensuales en la cuenta de ahorros más antigua (art. 837-1). Para personas jurídicas no hay límite.",
+      "optionWhy": {
+        "a": "La ley fija un límite de inembargabilidad para personas naturales.",
+        "b": "El art. 837-1 no fija un porcentaje."
+      }
+    },
+    {
+      "id": "tit-q-018",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 837, par.",
+      "statement": "Las medidas cautelares se levantan si el deudor demuestra que se admitió demanda contra el título ejecutivo y está pendiente de fallo.",
+      "answer": true,
+      "explain": "Verdadero. También pueden levantarse si, admitida la demanda contra la resolución que falla excepciones, presta garantía bancaria o de seguros por el valor adeudado."
+    },
+    {
+      "id": "tit-q-019",
+      "type": "truefalse",
+      "difficulty": 1,
+      "source": "ET art. 836-1",
+      "statement": "En el cobro coactivo, el deudor debe pagar también los gastos en que incurrió la DIAN para hacer efectivo el crédito.",
+      "answer": true,
+      "explain": "Verdadero. Lo dispone el art. 836-1."
+    },
+    {
+      "id": "tit-q-020",
+      "type": "cloze",
+      "difficulty": 2,
+      "source": "ET art. 849-1",
+      "text": "Las irregularidades del procedimiento de cobro deben subsanarse en cualquier tiempo, antes de que se apruebe el {{remate}} de los bienes."
+    },
+    {
+      "id": "tit-q-021",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 814",
+      "prompt": "¿Hasta qué plazo general pueden concederse facilidades para el pago, con garantía?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hasta 1 año"
+        },
+        {
+          "id": "b",
+          "text": "Hasta 3 años"
+        },
+        {
+          "id": "c",
+          "text": "Hasta 10 años"
+        },
+        {
+          "id": "d",
+          "text": "Hasta 5 años"
+        }
+      ],
+      "answer": "d",
+      "explain": "El art. 814 permite conceder facilidades hasta por 5 años, con garantías suficientes; en casos especiales el Director puede dar 2 años más.",
+      "optionWhy": {
+        "a": "Un año es el plazo de las facilidades sin garantías.",
+        "b": "No es el plazo del art. 814.",
+        "c": "No es el plazo del art. 814."
+      }
+    },
+    {
+      "id": "tit-q-022",
+      "type": "pjs",
+      "difficulty": 2,
+      "source": "ET art. 814",
+      "case": "Un deudor pide una facilidad de pago a 10 meses y no ofrece garantías. No incumplió facilidades durante el año anterior.",
+      "prompt": "¿Puede concederse sin garantía?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No: toda facilidad de pago exige una garantía real o bancaria."
+        },
+        {
+          "id": "b",
+          "text": "Sí: el plazo no supera un año y no tiene incumplimientos."
+        },
+        {
+          "id": "c",
+          "text": "Solo si la deuda total es inferior a 3.000 UVT."
+        }
+      ],
+      "answer": "b",
+      "explain": "Se conceden facilidades sin garantías cuando el término no supera un año y el contribuyente no incumplió facilidades el año anterior; se firma un acta con el deudor (art. 814).",
+      "optionWhy": {
+        "a": "El art. 814 prevé facilidades sin garantías en este caso.",
+        "c": "Los 3.000 UVT son el tope para aceptar garantías personales."
+      }
+    },
+    {
+      "id": "tit-q-023",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 841",
+      "prompt": "¿Qué efecto tiene un acuerdo de pago celebrado durante el cobro coactivo?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Termina el proceso y extingue la deuda con la DIAN"
+        },
+        {
+          "id": "b",
+          "text": "No afecta el proceso, que sigue hasta el remate final"
+        },
+        {
+          "id": "c",
+          "text": "Obliga a devolver al deudor los bienes ya rematados"
+        },
+        {
+          "id": "d",
+          "text": "Suspende el procedimiento y permite levantar medidas"
+        }
+      ],
+      "answer": "d",
+      "explain": "En cualquier etapa puede celebrarse un acuerdo de pago: se suspende el procedimiento y se pueden levantar las medidas preventivas; si se incumple, se reanuda (art. 841).",
+      "optionWhy": {
+        "a": "Suspende, pero no extingue la deuda.",
+        "b": "Sí suspende el procedimiento.",
+        "c": "No afecta remates ya hechos."
+      }
+    },
+    {
+      "id": "tit-q-024",
+      "type": "pjs",
+      "difficulty": 3,
+      "source": "ET arts. 846 y 848",
+      "case": "Un juez informa a la DIAN que abrió un proceso de liquidación judicial de una empresa deudora. Usted debe intervenir a nombre de la entidad.",
+      "prompt": "¿Qué debe hacer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hacerse parte con auto comisorio y presentar la liquidación en 20 días."
+        },
+        {
+          "id": "b",
+          "text": "Esperar a que el juez liquide la empresa para iniciar luego el cobro coactivo."
+        },
+        {
+          "id": "c",
+          "text": "Notificar un mandamiento de pago al juez que conoce del proceso concursal."
+        }
+      ],
+      "answer": "a",
+      "explain": "La DIAN se hace parte para hacer valer las deudas fiscales (art. 846); el funcionario acredita su personería con el auto comisorio y presenta la liquidación dentro de los 20 días siguientes al aviso (art. 848).",
+      "optionWhy": {
+        "b": "Si no interviene a tiempo, el proceso puede continuar sin la DIAN.",
+        "c": "El mandamiento de pago no se dirige al juez."
+      }
+    },
+    {
+      "id": "tit-q-025",
+      "type": "mcq",
+      "difficulty": 2,
+      "source": "ET art. 847",
+      "prompt": "Una sociedad entra en causal de disolución distinta a quiebra o concurso. ¿Qué debe hacer su representante legal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avisar a cobranzas de la DIAN dentro de los 10 días"
+        },
+        {
+          "id": "b",
+          "text": "Liquidar la sociedad sin informar nada a la DIAN"
+        },
+        {
+          "id": "c",
+          "text": "Pedir a la DIAN la remisión de sus deudas fiscales"
+        },
+        {
+          "id": "d",
+          "text": "Presentar la declaración de renta del año completo"
+        }
+      ],
+      "answer": "a",
+      "explain": "Debe avisar dentro de los 10 días siguientes al hecho que produjo la causal a la oficina de cobranzas, para que esta le informe las deudas fiscales vencidas (art. 847).",
+      "optionWhy": {
+        "b": "La ley exige avisar a la DIAN.",
+        "c": "La remisión no es la consecuencia de la disolución.",
+        "d": "No es la obligación del art. 847."
+      }
+    },
+    {
+      "id": "tit-q-026",
+      "type": "truefalse",
+      "difficulty": 2,
+      "source": "ET art. 844",
+      "statement": "En las sucesiones con bienes de más de 700 UVT, el funcionario debe informar a la DIAN antes de la partición; si en 20 días la DIAN no se hace parte, puede continuar.",
+      "answer": true,
+      "explain": "Verdadero. Así lo dispone el art. 844."
+    },
+    {
+      "id": "tit-q-027",
+      "type": "open",
+      "difficulty": 3,
+      "source": "ET arts. 826, 830, 831, 837 y 836",
+      "prompt": "Explica a un compañero nuevo cómo avanza un cobro coactivo desde el título hasta el remate.",
+      "modelAnswer": "Con un título ejecutivo ejecutoriado (art. 828) se libra mandamiento de pago y se notifica personalmente, previa citación de 10 días, o por correo (art. 826). Antes o junto con el mandamiento puede embargarse y secuestrarse preventivamente (art. 837). El deudor tiene 15 días para pagar o proponer excepciones (arts. 830 y 831). Si no excepciona ni paga, se ordena la ejecución sin recurso (art. 836); si excepciona y se rechazan, procede reposición (art. 834). Luego se avalúan y rematan los bienes (art. 840).",
+      "keyPoints": [
+        "Título y mandamiento",
+        "Notificación",
+        "Medidas cautelares",
+        "15 días para pagar o excepcionar",
+        "Orden de ejecución y remate"
+      ],
+      "keywords": [
+        "titulo",
+        "mandamiento",
+        "notific",
+        "embargo",
+        "excepciones",
+        "remate"
+      ],
+      "minKeywords": 4
+    }
+  ]
+}
