@@ -2,6 +2,8 @@
 
 Sitio de estudio para la prueba escrita **DIAN 2676 – Gestor III, código 303 grado 03 (nivel Profesional, OPEC 236842, ficha CT-CR-3006: recaudo, administración de cartera y devoluciones)**, domingo **8 de noviembre de 2026**, 8:00 a. m.–1:00 p. m.
 
+**En vivo:** https://gabriel86-as.github.io/dian-2676-recaudo/ · Repo: https://github.com/Gabriel86-AS/dian-2676-recaudo
+
 HTML, CSS y JavaScript sin frameworks ni paso de compilación; contenido en JSON; pensado primero para el celular.
 
 ## Qué incluye
@@ -28,7 +30,7 @@ Herramientas de revisión (requieren el paquete de fuentes `dian_2676_recursos/`
 - Navegador (Edge headless, Windows): sirve la raíz con `python -m http.server 8765` y ejecuta `node tests/e2e/qa-site.mjs http://localhost:8765 <perfil-temporal> <capturas>` (y `simulacro-basico.mjs` y `simulacro-examen.mjs`).
 
 ## Publicación
-GitHub Pages desde la rama `main` (raíz).
+GitHub Pages desde la rama `main` (raíz). Basta `git push`.
 
 ## Aviso
 Material de estudio no oficial. Normas vigentes y expedidas hasta el 19-jun-2026, según la Guía de Orientación al Aspirante.

@@ -16,4 +16,4 @@
 - `estructura`: lección `estr-05` (Dirección de Gestión de Impuestos: Recaudo, Devoluciones, Cobranzas; Grandes Contribuyentes).
 - Motor: las preguntas de relacionar dan por buena cualquier derecha con el mismo texto (antes, «10 UVT» repetido marcaba error).
 - E2E: se quitó la prueba del aviso post-corte (no hay ítems post-corte) y se apuntó a `recaudo` y `devoluciones`.
-- Pendiente: crear el repo en GitHub, `git push` y activar Pages.
+- Publicado: repo público `Gabriel86-AS/dian-2676-recaudo`, Pages desde `main`; https://gabriel86-as.github.io/dian-2676-recaudo/ responde con las 13 unidades.
