@@ -113,21 +113,12 @@ try {
   }
   await scheme(false);
 
-  // 3. Aviso post-corte en un ítem etiquetado
-  await go('#/leccion/auditoria/aud-04');
-  await until(`!!document.querySelector('.player .step .item')`);
-  let seenPost = false;
-  for (let i = 0; i < 40 && !seenPost; i++) {
-    seenPost = await ev(`!!document.querySelector('.step .post-corte')`);
-    if (seenPost) { await shot('qa-post-corte.png'); break; }
-    if (!(await playThrough(1)) && await ev(`!!document.querySelector('.end')`)) break;
-  }
-  check(seenPost, 'aviso «Norma posterior al corte» visible en un ítem post-corte');
+  // 3. (El sitio anterior probaba aquí el aviso «Norma posterior al corte»; esta versión no tiene ítems post-corte.)
 
   // 4. Mazo de tarjetas y Mis errores
-  await go('#/tarjetas/sanciones');
+  await go('#/tarjetas/recaudo');
   await until(`!!document.querySelector('[data-act="flip"]')`);
-  check(await playThrough(200), 'mazo de tarjetas de sanciones completo');
+  check(await playThrough(200), 'mazo de tarjetas de recaudo completo');
   await go('#/repaso');
   await sleep(500);
   const hasMistakes = await ev(`!!document.querySelector('a[href="#/repaso/errores"]')`);
@@ -161,7 +152,7 @@ try {
   await send('Network.emulateNetworkConditions', { offline: true, latency: 0, downloadThroughput: -1, uploadThroughput: -1 });
   await send('Page.reload'); await sleep(1200);
   await until(`!!document.querySelector('.unit-card')`, 10000);
-  await go('#/leccion/cambiaria/camb-02');
+  await go('#/leccion/devoluciones/dev-02');
   await until(`!!document.querySelector('.player .step .item')`, 10000);
   check(true, 'sin conexión: recarga e inicia una lección de otra unidad');
   await go('#/simulacro/test-medio-2');
